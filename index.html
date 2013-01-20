@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Humble Games</title>
+    <style>
+    body {
+        text-align: center;
+        font-family: sans-serif;
+    }
+
+    iframe {
+        border: 0;
+    }
+    </style>
+</head>
+<body>
+    <h1>All games from <a href="http://humblebundle.com">humblebundle.com</a></h1>
+    <script src="games.js"></script>
+    <script>
+    var url = 'http://www.humblebundle.com/store/product/'
+
+    games.forEach(function(game) {
+        var iframe = document.createElement('iframe')
+        iframe.src = url + game
+        iframe.width = '550'
+        iframe.height = '264'
+        document.body.appendChild(iframe)
+    })
+    </script>
+</body>
+</html>
