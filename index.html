@@ -17,11 +17,18 @@
         color: #5C7F1A;
     }
 
+    span,
+    iframe {
+        display: inline-block;
+        width: 550px;
+        height: 264px;
+    }
+
     iframe {
         border: 0;
         opacity: 0;
-        -webkit-transition: opacity .4s ease-in-out;
-                transition: opacity .4s ease-in-out;
+        -webkit-transition: opacity .3s ease-in-out;
+                transition: opacity .3s ease-in-out;
     }
 
     iframe.shown {
@@ -35,20 +42,71 @@
 
     <script src="games.js"></script>
     <script>
-    var url = 'http://www.humblebundle.com/store/product/'
+    !function() {
+        // Add spans placeholders for the lazy-load
+        games.forEach(function(game) {
+            var span = document.createElement('span')
+            span.dataset.game = game
 
-    games.forEach(function(game) {
-        var iframe = document.createElement('iframe')
-        iframe.width = '550'
-        iframe.height = '264'
-        iframe.src = url + game
-
-        iframe.addEventListener('load', function() {
-            iframe.className = 'shown'
+            document.body.appendChild(span)
         })
 
-        document.body.appendChild(iframe)
-    })
+        // The spans which will be replaced by the iframes
+        var gamesPlaceholders = document.querySelectorAll('span')
+          , url = 'http://www.humblebundle.com/store/product/'
+        /**
+         * Replace a placeholder by an iframe
+         * @param  {Node}  placeholder  The placeholder which will be replaced
+         */
+          , loadIframe = function(placeholder) {
+            var iframe = document.createElement('iframe')
+            iframe.width = '550'
+            iframe.height = '264'
+            iframe.src = url + placeholder.dataset.game;
+
+            iframe.addEventListener('load', function() {
+                iframe.className = 'shown'
+            })
+
+            // Replace the placeholder
+            placeholder.parentElement.replaceChild(iframe, placeholder)
+
+            // Rebuild the placeholders and verify if they are all transformed to iframes
+            gamesPlaceholders = document.querySelectorAll('span')
+
+            if (!gamesPlaceholders.length) {
+                window.removeEventListener('load')
+            }
+        }
+        /**
+         * Detect if an element is in the viewport
+         * @param  {Node}     el  The element which is detected
+         * @return {boolean}      True if the element is in the viewport
+         */
+          , elementInViewport = function(el) {
+            var rect = el.getBoundingClientRect()
+
+            return (
+                rect.top  >= 0 &&
+                rect.left >= 0 &&
+                rect.top  <= (window.innerHeight || document.documentElement.clientHeight)
+            )
+        }
+        /**
+         * Function called each time the user scroll, it detect if the elements are in the viewport
+         * and if so replace them with the corresponding iframe
+         */
+          ,  processScroll = function() {
+            ;[].forEach.call(gamesPlaceholders, function(placeholder) {
+                if (elementInViewport(placeholder)) {
+                    loadIframe(placeholder)
+                }
+            })
+        }
+
+        processScroll()
+        window.addEventListener('scroll', processScroll)
+    }(  )
     </script>
     <script>
         var _gaq=[['_setAccount','UA-37825336-1'],['_trackPageview']];
