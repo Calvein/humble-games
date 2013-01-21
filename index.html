@@ -19,6 +19,13 @@
 
     iframe {
         border: 0;
+        opacity: 0;
+        -webkit-transition: opacity .4s ease-in-out;
+                transition: opacity .4s ease-in-out;
+    }
+
+    iframe.shown {
+        opacity: 1;
     }
     </style>
 </head>
@@ -35,6 +42,11 @@
         iframe.width = '550'
         iframe.height = '264'
         iframe.src = url + game
+
+        iframe.addEventListener('load', function() {
+            iframe.className = 'shown'
+        })
+
         document.body.appendChild(iframe)
     })
     </script>
