@@ -68,6 +68,7 @@ var games = [
     'pidwithsoundtrack?preview=P3J6nJZnzNg9',
     'pineapplesmashcrew',
     'proteus',
+    'psychonauts_store',
     'puzzledimension',
     'qube?preview=pending',
     'receiver',
