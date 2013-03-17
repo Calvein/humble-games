@@ -13,7 +13,6 @@ var games = [
     'braid',
     'cardinalquest',
     'chivalrymedievalwarfare',
-    'chivalrymedievalwarfare-4pack',
     'chivalrymedievalwarfare_soundtrack',
     'chocolatecastle',
     'clairvoyance?preview=WmJbVXW90Ccb',
