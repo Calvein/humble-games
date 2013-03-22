@@ -51,6 +51,7 @@ var games = [
     'ftlfasterthanlight',
     'fullmojorampage?preview=6eHLT2xmErrK',
     'gateways',
+    'girlslikerobots?preview=sZA9b3TVhPxM',
     'gratuitousspacebattles',
     'gratuitousspacebattlescollectorsedition',
     'ichi',
