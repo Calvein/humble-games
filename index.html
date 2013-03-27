@@ -14,7 +14,17 @@
     }
 
     a {
-        color: #5C7F1A;
+        color: #5c7f1a;
+    }
+
+    input {
+        display: block;
+        width: 300px;
+        margin: 1em  auto;
+        padding: 7px 5px;
+        border: 2px solid #5c7f1a;
+        border-radius: 4px;
+        box-shadow: 0 0 2px 1px #5c7f1a;
     }
 
     span,
@@ -39,6 +49,7 @@
 <body>
     <h1>All games from <a href="http://humblebundle.com">humblebundle.com</a></h1>
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">humble bundle account</a>. Fell free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
+    <input autofocus placeholder="Search is based on the URL, e.g: &quot;Trine&quot;">
 
     <script src="games.js"></script>
     <script>
@@ -53,6 +64,7 @@
 
         // The spans which will be replaced by the iframes
         var gamesPlaceholders = document.querySelectorAll('span')
+          , gamesElements = document.querySelectorAll('span, iframe')
           , url = 'http://www.humblebundle.com/store/product/'
         /**
          * Replace a placeholder by an iframe
@@ -63,6 +75,8 @@
             iframe.width = '550'
             iframe.height = '264'
             iframe.src = url + placeholder.dataset.game;
+            iframe.dataset.game = placeholder.dataset.game;
+            //@TODO si span hidden iframe aussi
 
             iframe.addEventListener('load', function() {
                 iframe.className = 'shown'
@@ -73,6 +87,7 @@
 
             // Rebuild the placeholders and verify if they are all transformed to iframes
             gamesPlaceholders = document.querySelectorAll('span')
+            gamesElements = document.querySelectorAll('span, iframe')
 
             if (!gamesPlaceholders.length) {
                 window.removeEventListener('load')
@@ -98,7 +113,7 @@
          */
           ,  processScroll = function() {
             ;[].forEach.call(gamesPlaceholders, function(placeholder) {
-                if (elementInViewport(placeholder)) {
+                if (elementInViewport(placeholder) && !placeholder.hidden) {
                     loadIframe(placeholder)
                 }
             })
@@ -106,6 +121,15 @@
 
         processScroll()
         window.addEventListener('scroll', processScroll)
+
+        document.querySelector('input').addEventListener('input', function() {
+            var value = this.value
+            // @TODO iframe & span
+            ;[].forEach.call(gamesElements, function(placeholder) {
+                placeholder.hidden = !new RegExp(value).test(placeholder.dataset.game)
+            })
+            processScroll()
+        })
     }()
     </script>
     <script>
