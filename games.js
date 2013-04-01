@@ -23,6 +23,7 @@ var games = [
     'clairvoyance?preview=WmJbVXW90Ccb',
     'cogs',
     'cortexcommand',
+    'deadpixels?preview=0qeKKdGfNfvO'
     'dearesther',
     'decodacommerciallicense',
     'decodaindielicense',
