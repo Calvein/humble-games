@@ -72,9 +72,10 @@
         games.forEach(function(game) {
             var span = document.createElement('span')
             span.dataset.game = game.Game
-			span.dataset.url = game.URL
-			span.dataset.desc = game.Description
-			span.dataset.price = game.Price
+            span.dataset.url = game.URL
+            span.dataset.desc = game.Description
+            span.dataset.price = game.Price
+            span.dataset.dev = game.Developer
 
             document.body.appendChild(span)
         })
@@ -93,6 +94,7 @@
             iframe.dataset.game = placeholder.dataset.game;
             iframe.dataset.desc = placeholder.dataset.desc;
             iframe.dataset.price = placeholder.dataset.price;
+            iframe.dataset.dev = placeholder.dataset.dev;
 
             placeholder.isLoading = true
 
@@ -146,9 +148,10 @@
             var value = this.value
             ;[].forEach.call(gamesElements, function(placeholder) {
                 if( new RegExp(value,"i").test(placeholder.dataset.url) ) placeholder.hidden=false;
-				else if( new RegExp(value,"i").test(placeholder.dataset.desc) ) placeholder.hidden=false;
-				else if( new RegExp(value,"i").test(placeholder.dataset.game) ) placeholder.hidden=false;
-				else placeholder.hidden=true;
+                else if( new RegExp(value,"i").test(placeholder.dataset.desc) ) placeholder.hidden=false;
+                else if( new RegExp(value,"i").test(placeholder.dataset.game) ) placeholder.hidden=false;
+                else if( new RegExp(value,"i").test(placeholder.dataset.dev) ) placeholder.hidden=false;
+                else placeholder.hidden=true;
             })
             processScroll()
         })
