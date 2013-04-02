@@ -38,8 +38,8 @@
     /*
      I don't see anything wrong with using !important here, deal with it
      (•_•)
-     ( •_•)>⌐■-■
-     (⌐■_■)
+     ( •_•)>¬¦-¦
+     (¬¦_¦)
     */
     [hidden] {
         display: none !important;
@@ -86,7 +86,7 @@
          */
           , loadIframe = function(placeholder) {
             var iframe = document.createElement('iframe')
-            iframe.src = url + placeholder.dataset.game;
+            iframe.src = url + placeholder.dataset.game.URL;
             iframe.dataset.game = placeholder.dataset.game;
 
             placeholder.isLoading = true
@@ -140,7 +140,10 @@
         document.querySelector('input').addEventListener('input', function() {
             var value = this.value
             ;[].forEach.call(gamesElements, function(placeholder) {
-                placeholder.hidden = !new RegExp(value).test(placeholder.dataset.game)
+                if( new RegExp(value).test(placeholder.dataset.game.URL) ) placeholder.hidden=false;
+    			else if( new RegExp(value).test(placeholder.dataset.game.Description) ) placeholder.hidden=false;
+				else if( new RegExp(value).test(placeholder.dataset.game.Game) ) placeholder.hidden=false;
+				else placeholder.hidden=true;
             })
             processScroll()
         })
