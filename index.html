@@ -17,18 +17,9 @@
         color: #5c7f1a;
     }
 
-    .search {
+    input {
         display: block;
         width: 300px;
-        margin: 1em  auto;
-        padding: 7px 5px;
-        border: 2px solid #5c7f1a;
-        border-radius: 4px;
-        box-shadow: 0 0 2px 1px #5c7f1a;
-    }
-    .min, .max {
-        display: block;
-        width: 100px;
         margin: 1em  auto;
         padding: 7px 5px;
         border: 2px solid #5c7f1a;
@@ -72,8 +63,7 @@
 <body>
     <h1>All games from <a href="http://humblebundle.com">humblebundle.com</a></h1>
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">humble bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
-    <input autofocus placeholder="Search is based on the URL, e.g: &quot;Trine&quot;" id="search">
-    Min $<input placeholder="0" id="min" onkeyup="min=parseFloat(this.value);">, Max $<input placeholder="1000" id="max" onkeyup="max=parseFloat(this.value);">
+    <input autofocus placeholder="Search is based on the URL, e.g: &quot;Trine&quot;">
 
     <script src="games.js"></script>
     <script>
@@ -82,9 +72,9 @@
         games.forEach(function(game) {
             var span = document.createElement('span')
             span.dataset.game = game.Game
-            span.dataset.url = game.URL
-            span.dataset.desc = game.Description
-            span.dataset.price = parseFloat(game.Price)
+			span.dataset.url = game.URL
+			span.dataset.desc = game.Description
+			span.dataset.price = game.Price
 
             document.body.appendChild(span)
         })
@@ -152,34 +142,16 @@
         processScroll()
         window.addEventListener('scroll', processScroll)
 
-	var min=0;
-	var max=1000;
-        document.getElementById('search').addEventListener('input', function() {
+        document.querySelector('input').addEventListener('input', function() {
             var value = this.value
             ;[].forEach.call(gamesElements, function(placeholder) {
-                	if( new RegExp(value,"i").test(placeholder.dataset.url) ) placeholder.hidden=false;
-                	else if( new RegExp(value,"i").test(placeholder.dataset.desc) ) placeholder.hidden=false;
-                	else if( new RegExp(value,"i").test(placeholder.dataset.game) ) placeholder.hidden=false;
-                	else placeholder.hidden=true;
-                }
-            })
-        document.getElementById('min').addEventListener('input', function() {
-            min = parseFloat(this.value)
-            ;[].forEach.call(gamesElements, function(placeholder) {
-					if(placeholder.dataset.price<min & placeholder.dataset.price > max) placeholder.hidden=false;
-					else placeholder.hidden=true;
-                }
-            })
-        document.getElementById('max').addEventListener('input', function() {
-            max = parseFloat(this.value)
-            ;[].forEach.call(gamesElements, function(placeholder) {
-					if(placeholder.dataset.price<min & placeholder.dataset.price > max) placeholder.hidden=false;
-					else placeholder.hidden=true;
-                }
+                if( new RegExp(value,"i").test(placeholder.dataset.url) ) placeholder.hidden=false;
+				else if( new RegExp(value,"i").test(placeholder.dataset.desc) ) placeholder.hidden=false;
+				else if( new RegExp(value,"i").test(placeholder.dataset.game) ) placeholder.hidden=false;
+				else placeholder.hidden=true;
             })
             processScroll()
         })
-
     }()
     </script>
     <script>
