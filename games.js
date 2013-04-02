@@ -219,9 +219,7 @@ var games = [
 		"Game":"Don't Starve",
 		"URL":"dontstarve",
 		"Price":"11.99",
-		"Description":"Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly!
-	- Get an extra copy with your purchase
-	- Redeem it on Steam!"
+		"Description":"Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly!\r\n- Get an extra copy with your purchase\r\n- Redeem it on Steam!"
 	},
 	{
 		"Game":"Dungeons of Dredmor",
