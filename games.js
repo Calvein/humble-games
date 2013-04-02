@@ -96,6 +96,7 @@ var games = [
     'rochard',
     'samorost2',
     'sanctum',
+    '7grandsteps?preview=o7KrZd0Usmql',
     'scoregasm?preview=ivnewkdsfo',
     'shadowgrounds',
     'shadowgroundssurvivor',
