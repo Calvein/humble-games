@@ -71,8 +71,11 @@
         // Add spans placeholders for the lazy-load
         games.forEach(function(game) {
             var span = document.createElement('span')
-            span.dataset.game = game
-	
+            span.dataset.game = game.Game
+			span.dataset.url = game.URL
+			span.dataset.desc = game.Description
+			span.dataset.price = game.Price
+
             document.body.appendChild(span)
         })
 
@@ -86,9 +89,11 @@
          */
           , loadIframe = function(placeholder) {
             var iframe = document.createElement('iframe')
-            iframe.src = url + placeholder.dataset.game.url;
+            iframe.src = url + placeholder.dataset.url;
             iframe.dataset.game = placeholder.dataset.game;
-            
+            iframe.dataset.desc = placeholder.dataset.desc;
+            iframe.dataset.price = placeholder.dataset.price;
+
             placeholder.isLoading = true
 
             iframe.addEventListener('load', function() {
@@ -138,12 +143,12 @@
         window.addEventListener('scroll', processScroll)
 
         document.querySelector('input').addEventListener('input', function() {
-            var value = this.value.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&");
+            var value = this.value
             ;[].forEach.call(gamesElements, function(placeholder) {
-                if( new RegExp(value).test(placeholder.dataset.game.url) ) { placeholder.hidden=false; }
-		else if( new RegExp(value).test(placeholder.dataset.game.desc) ) { placeholder.hidden=false; }
-		else if( new RegExp(value).test(placeholder.dataset.game.game) ) { placeholder.hidden=false; }
-		else { placeholder.hidden=true; }
+                if( new RegExp(value).test(placeholder.dataset.url) ) placeholder.hidden=false;
+				else if( new RegExp(value).test(placeholder.dataset.desc) ) placeholder.hidden=false;
+				else if( new RegExp(value).test(placeholder.dataset.game) ) placeholder.hidden=false;
+				else placeholder.hidden=true;
             })
             processScroll()
         })
