@@ -1,5 +1,5 @@
 var games = [
-    {
+	{
 		"Game":"Amnesia Fortnight Bundle",
 		"URL":"amnesiafortnight_store",
 		"Price":"9.99",
@@ -275,9 +275,7 @@ var games = [
 		"Game":"Eets Munchies Early-Access Beta",
 		"URL":"eetsmunchies?preview=pending",
 		"Price":"6.99",
-		"Description":"Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly!
-	- Get an extra copy with your purchase
-	- Redeem it on Steam!"
+		"Description":"Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly!\r\n	- Get an extra copy with your purchase\r\n	- Redeem it on Steam!"
 	},
 	{
 		"Game":"English Country Tune",
