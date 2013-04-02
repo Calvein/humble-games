@@ -145,9 +145,9 @@
         document.querySelector('input').addEventListener('input', function() {
             var value = this.value
             ;[].forEach.call(gamesElements, function(placeholder) {
-                if( new RegExp(value).test(placeholder.dataset.url) ) placeholder.hidden=false;
-				else if( new RegExp(value).test(placeholder.dataset.desc) ) placeholder.hidden=false;
-				else if( new RegExp(value).test(placeholder.dataset.game) ) placeholder.hidden=false;
+                if( new RegExp(value,"i").test(placeholder.dataset.url) ) placeholder.hidden=false;
+				else if( new RegExp(value,"i").test(placeholder.dataset.desc) ) placeholder.hidden=false;
+				else if( new RegExp(value,"i").test(placeholder.dataset.game) ) placeholder.hidden=false;
 				else placeholder.hidden=true;
             })
             processScroll()
