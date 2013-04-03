@@ -38,8 +38,8 @@
     /*
      I don't see anything wrong with using !important here, deal with it
      (•_•)
-     ( •_•)>⌐■-■
-     (⌐■_■)
+     ( •_•)>¬¦-¦
+     (¬¦_¦)
     */
     [hidden] {
         display: none !important;
@@ -71,7 +71,16 @@
         // Add spans placeholders for the lazy-load
         games.forEach(function(game) {
             var span = document.createElement('span')
-            span.dataset.game = game
+            span.dataset.game = game.Game
+            span.dataset.url = game.URL
+            span.dataset.desc = game.Description
+            span.dataset.price = game.Price
+            span.dataset.dev = game.Developer
+            span.dataset.android = ( game.Android == "TRUE" ? true : false )
+            span.dataset.mac = ( game.Mac == "TRUE" ? true : false )
+            span.dataset.pc = ( game.PC == "TRUE" ? true : false )
+            span.dataset.linux = ( game.Linux == "TRUE" ? true : false )
+            span.dataset.ost = ( game.Soundtrack == "TRUE" ? true : false )
 
             document.body.appendChild(span)
         })
@@ -86,8 +95,16 @@
          */
           , loadIframe = function(placeholder) {
             var iframe = document.createElement('iframe')
-            iframe.src = url + placeholder.dataset.game;
+            iframe.src = url + placeholder.dataset.url;
             iframe.dataset.game = placeholder.dataset.game;
+            iframe.dataset.desc = placeholder.dataset.desc;
+            iframe.dataset.price = placeholder.dataset.price;
+            iframe.dataset.dev = placeholder.dataset.dev;
+            iframe.dataset.android = placeholder.dataset.android;
+            iframe.dataset.mac = placeholder.dataset.mac;
+            iframe.dataset.pc = placeholder.dataset.pc;
+            iframe.dataset.linux = placeholder.dataset.linux;
+            iframe.dataset.ost = placeholder.dataset.ost;
 
             placeholder.isLoading = true
 
@@ -140,7 +157,11 @@
         document.querySelector('input').addEventListener('input', function() {
             var value = this.value
             ;[].forEach.call(gamesElements, function(placeholder) {
-                placeholder.hidden = !new RegExp(value).test(placeholder.dataset.game)
+                if( new RegExp(value,"i").test(placeholder.dataset.url) ) placeholder.hidden=false;
+                else if( new RegExp(value,"i").test(placeholder.dataset.desc) ) placeholder.hidden=false;
+                else if( new RegExp(value,"i").test(placeholder.dataset.game) ) placeholder.hidden=false;
+                else if( new RegExp(value,"i").test(placeholder.dataset.dev) ) placeholder.hidden=false;
+                else placeholder.hidden=true;
             })
             processScroll()
         })
