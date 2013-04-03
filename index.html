@@ -76,6 +76,11 @@
             span.dataset.desc = game.Description
             span.dataset.price = game.Price
             span.dataset.dev = game.Developer
+            span.dataset.android = ( game.Android == "TRUE" ? true : false )
+            span.dataset.mac = ( game.Mac == "TRUE" ? true : false )
+            span.dataset.pc = ( game.PC == "TRUE" ? true : false )
+            span.dataset.linux = ( game.Linux == "TRUE" ? true : false )
+            span.dataset.ost = ( game.Soundtrack == "TRUE" ? true : false )
 
             document.body.appendChild(span)
         })
@@ -95,6 +100,11 @@
             iframe.dataset.desc = placeholder.dataset.desc;
             iframe.dataset.price = placeholder.dataset.price;
             iframe.dataset.dev = placeholder.dataset.dev;
+            iframe.dataset.android = placeholder.dataset.android;
+            iframe.dataset.mac = placeholder.dataset.mac;
+            iframe.dataset.pc = placeholder.dataset.pc;
+            iframe.dataset.linux = placeholder.dataset.linux;
+            iframe.dataset.ost = placeholder.dataset.ost;
 
             placeholder.isLoading = true
 
