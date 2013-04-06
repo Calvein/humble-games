@@ -38,8 +38,8 @@
     /*
      I don't see anything wrong with using !important here, deal with it
      (•_•)
-     ( •_•)>¬¦-¦
-     (¬¦_¦)
+     ( •_•)>¬■-■
+     (¬■_■)
     */
     [hidden] {
         display: none !important;
@@ -58,31 +58,40 @@
         -webkit-transition: opacity .3s ease-in-out;
                 transition: opacity .3s ease-in-out;
     }
+
+    footer {
+        margin: 30px 0;
+    }
     </style>
 </head>
 <body>
     <h1>All games from <a href="http://humblebundle.com">humblebundle.com</a></h1>
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">humble bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
-    <input autofocus placeholder="Search is based on the URL, e.g: &quot;Trine&quot;">
+    <input autofocus placeholder="e.g: &quot;Trine&quot;">
+
+    <main></main>
+
+    <footer>Thanks to <strong></strong> for their contributions.</footer>
 
     <script src="games.js"></script>
     <script>
     !function() {
         // Add spans placeholders for the lazy-load
+        var container = document.querySelector('main')
         games.forEach(function(game) {
             var span = document.createElement('span')
-            span.dataset.game = game.Game
-            span.dataset.url = game.URL
-            span.dataset.desc = game.Description
-            span.dataset.price = game.Price
-            span.dataset.dev = game.Developer
-            span.dataset.android = ( game.Android == "TRUE" ? true : false )
-            span.dataset.mac = ( game.Mac == "TRUE" ? true : false )
-            span.dataset.pc = ( game.PC == "TRUE" ? true : false )
-            span.dataset.linux = ( game.Linux == "TRUE" ? true : false )
-            span.dataset.ost = ( game.Soundtrack == "TRUE" ? true : false )
+            span.dataset.name = game.name
+            span.dataset.url = game.url
+            span.dataset.description = game.description
+            span.dataset.price = game.price
+            span.dataset.developer = game.developer
+            span.dataset.android = game.platform.android
+            span.dataset.linux = game.platform.linux
+            span.dataset.windows = game.platform.windows
+            span.dataset.mac = game.platform.mac
+            span.dataset.soundtrack = game.platform.soundtrack
 
-            document.body.appendChild(span)
+            container.appendChild(span)
         })
 
         // The spans which will be replaced by the iframes
@@ -95,16 +104,17 @@
          */
           , loadIframe = function(placeholder) {
             var iframe = document.createElement('iframe')
-            iframe.src = url + placeholder.dataset.url;
-            iframe.dataset.game = placeholder.dataset.game;
-            iframe.dataset.desc = placeholder.dataset.desc;
-            iframe.dataset.price = placeholder.dataset.price;
-            iframe.dataset.dev = placeholder.dataset.dev;
-            iframe.dataset.android = placeholder.dataset.android;
-            iframe.dataset.mac = placeholder.dataset.mac;
-            iframe.dataset.pc = placeholder.dataset.pc;
-            iframe.dataset.linux = placeholder.dataset.linux;
-            iframe.dataset.ost = placeholder.dataset.ost;
+            iframe.src = url + placeholder.dataset.url
+
+            iframe.dataset.name = placeholder.dataset.name
+            iframe.dataset.description = placeholder.dataset.description
+            iframe.dataset.price = placeholder.dataset.price
+            iframe.dataset.developer = placeholder.dataset.developer
+            iframe.dataset.android = placeholder.dataset.android
+            iframe.dataset.linux = placeholder.dataset.linux
+            iframe.dataset.windows = placeholder.dataset.windows
+            iframe.dataset.mac = placeholder.dataset.mac
+            iframe.dataset.soundtrack = placeholder.dataset.soundtrack
 
             placeholder.isLoading = true
 
@@ -127,8 +137,8 @@
         }
         /**
          * Detect if an element is in the viewport
-         * @param  {Node}     el  The element which is detected
-         * @return {boolean}      True if the element is in the viewport
+         * @param   {Node}     el  The element which is detected
+         * @return  {boolean}      True if the element is in the viewport
          */
           , elementInViewport = function(el) {
             var rect = el.getBoundingClientRect()
@@ -157,14 +167,37 @@
         document.querySelector('input').addEventListener('input', function() {
             var value = this.value
             ;[].forEach.call(gamesElements, function(placeholder) {
-                if( new RegExp(value,"i").test(placeholder.dataset.url) ) placeholder.hidden=false;
-                else if( new RegExp(value,"i").test(placeholder.dataset.desc) ) placeholder.hidden=false;
-                else if( new RegExp(value,"i").test(placeholder.dataset.game) ) placeholder.hidden=false;
-                else if( new RegExp(value,"i").test(placeholder.dataset.dev) ) placeholder.hidden=false;
-                else placeholder.hidden=true;
+                if (new RegExp(value,"i").test(placeholder.dataset.url))
+                    placeholder.hidden = false
+                else if (new RegExp(value,"i").test(placeholder.dataset.description))
+                    placeholder.hidden = false
+                else if (new RegExp(value,"i").test(placeholder.dataset.name))
+                    placeholder.hidden = false
+                else if (new RegExp(value,"i").test(placeholder.dataset.developer))
+                    placeholder.hidden = false
+                else
+                    placeholder.hidden = true;
             })
             processScroll()
         })
+
+        // Show the contributors, thanks by the way
+        var xhr = new XMLHttpRequest()
+        xhr.open('GET', 'https://api.github.com/repos/calvein/humble-games/contributors')
+        xhr.addEventListener('load', function(data) {
+            var response = JSON.parse(data.target.response)
+              , contributors = document.querySelector('footer > strong')
+            response.forEach(function(contributor) {
+                var a = document.createElement('a')
+                  , space = document.createTextNode(', ')
+                a.href = contributor.html_url
+                a.innerHTML = contributor.login
+
+                contributors.appendChild(a)
+                contributors.appendChild(space)
+            })
+        })
+        xhr.send()
     }()
     </script>
     <script>
