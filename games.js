@@ -3,14 +3,14 @@ var games = [
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
         "price": "9.99",
-        "description": "Buy Amnesia Fortnight 2012 and instantly get 8 game prototypes by Double Fine, DRM-free and on Steam! Soundtrack and production videos included!",
+        "description": "Buy Amnesia Fortnight 2012 and instantly get 8 game prototypes by Double Fine, DRM-free and on Steam! audio and production videos included!",
         "developer": "Double Fine Productions",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -24,7 +24,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -38,21 +38,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "Anodyne Premium",
-        "url": "anodyne_soundtrack_edition?preview=Sndn9sjSnlz",
+        "url": "anodyne_audio_edition?preview=Sndn9sjSnlz",
         "price": "12",
-        "description": "Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Desura and Steam! Soundtrack included in FLAC and MP3 formats!",
+        "description": "Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Desura and Steam! audio included in FLAC and MP3 formats!",
         "developer": "Sean H. and Jon K.",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -66,7 +66,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -80,12 +80,12 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "A Virus Named Tom",
-        "url": "avirusnamedtom_no_soundtrack",
+        "url": "avirusnamedtom_no_audio",
         "price": "10",
         "description": "Get A Virus Named TOM instantly! Play it on Windows, DRM-free and redeem it on Steam.",
         "developer": "Misfits Attic",
@@ -94,21 +94,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
-        "name": "A Virus Named Tom (with Soundtrack)",
+        "name": "A Virus Named Tom (with audio)",
         "url": "avirusnamedtom",
         "price": "12",
-        "description": "Get A Virus Named TOM instantly, including its soundtrack! Play it on Windows, DRM-free and redeem it on Steam.",
+        "description": "Get A Virus Named TOM instantly, including its audio! Play it on Windows, DRM-free and redeem it on Steam.",
         "developer": "Misfits Attic",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -122,7 +122,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -136,7 +136,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -150,7 +150,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -164,7 +164,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -178,7 +178,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -192,7 +192,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -206,7 +206,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -220,7 +220,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -234,7 +234,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -248,7 +248,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -262,21 +262,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
-        "name": "Chivalry: Medieval Warfare - Soundtrack",
-        "url": "chivalrymedievalwarfare_soundtrack",
+        "name": "Chivalry: Medieval Warfare - audio",
+        "url": "chivalrymedievalwarfare_audio",
         "price": "4.99",
-        "description": "Purchase the Chivalry: Medieval Warfare soundtrack!",
+        "description": "Purchase the Chivalry: Medieval Warfare audio!",
         "developer": "Torn Banner Studios Inc.",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -290,7 +290,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -304,7 +304,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -318,7 +318,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -332,7 +332,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -346,7 +346,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -360,7 +360,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -374,7 +374,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -388,7 +388,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -402,7 +402,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -416,7 +416,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -430,7 +430,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -444,7 +444,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -458,7 +458,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -472,7 +472,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -486,7 +486,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -500,7 +500,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -514,7 +514,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -528,7 +528,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -542,7 +542,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -556,7 +556,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -570,7 +570,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -584,21 +584,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
-        "name": "Dustforce (with soundtrack)",
-        "url": "dustforce_soundtrack",
+        "name": "Dustforce (with audio)",
+        "url": "dustforce_audio",
         "price": "12.99",
-        "description": "Purchase Dustforce for Windows, Mac, and Linux and instantly get it DRM-free and on Steam and Desura. Soundtrack included.",
+        "description": "Purchase Dustforce for Windows, Mac, and Linux and instantly get it DRM-free and on Steam and Desura. audio included.",
         "developer": "Hitbox Team",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -612,7 +612,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -626,7 +626,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -640,7 +640,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -654,7 +654,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -668,7 +668,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -682,7 +682,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -696,7 +696,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -710,7 +710,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -724,7 +724,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -738,7 +738,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -752,7 +752,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -766,7 +766,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -780,7 +780,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -794,7 +794,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -808,7 +808,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -822,7 +822,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -836,7 +836,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -850,7 +850,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -864,7 +864,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -878,7 +878,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -892,21 +892,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "Kentucky Route Zero Complete",
         "url": "kentuckyroutezerocomplete?preview=SjdoA63jSnz",
         "price": "25",
-        "description": "Get Act I for Windows, Mac and Linux now, and the remaining acts as they're released. Also get soundtrack mp3s & our private monthly newsletter.",
+        "description": "Get Act I for Windows, Mac and Linux now, and the remaining acts as they're released. Also get audio mp3s & our private monthly newsletter.",
         "developer": "Cardboard Computer",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -920,21 +920,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
-        "name": "Legend of Dungeon + Soundtrack",
+        "name": "Legend of Dungeon + audio",
         "url": "legendofdungeon-k2?preview=SIIUb8tPvGNT",
         "price": "15",
-        "description": "Buy now and get instant access to the latest pre-release build of Legend of Dungeon for Windows, Mac, and Linux! Soundtrack included!",
+        "description": "Buy now and get instant access to the latest pre-release build of Legend of Dungeon for Windows, Mac, and Linux! audio included!",
         "developer": "Robot Loves Kitty",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -948,7 +948,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -962,7 +962,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -976,7 +976,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -990,7 +990,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1004,7 +1004,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1018,7 +1018,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1032,21 +1032,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "Machinarium",
         "url": "machinarium",
         "price": "10",
-        "description": "Get Machinarium and its soundtrack instantly! Cross-platform and DRM free.",
+        "description": "Get Machinarium and its audio instantly! Cross-platform and DRM free.",
         "developer": "Amanita Design",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1060,7 +1060,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1074,7 +1074,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1088,7 +1088,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1102,7 +1102,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1116,7 +1116,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1130,7 +1130,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1144,7 +1144,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1158,7 +1158,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1172,21 +1172,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "Pid",
-        "url": "pidwithsoundtrack?preview=P3J6nJZnzNg9",
+        "url": "pidwithaudio?preview=P3J6nJZnzNg9",
         "price": "20",
-        "description": "Purchase Pid for Windows and Mac and get it both DRM-free and on Steam! Also comes with a soundtrack and extras!",
+        "description": "Purchase Pid for Windows and Mac and get it both DRM-free and on Steam! Also comes with a audio and extras!",
         "developer": "Might and Delight",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1200,21 +1200,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "Potatoman Seeks the Troof",
         "url": "potatomanseeksthetroofbundle?preview=S93sdhSDFbx",
         "price": "5",
-        "description": "Purchase the bundle and get Potatoman for Windows, Mac, and Linux as well as the soundtrack, all DRM-free!",
+        "description": "Purchase the bundle and get Potatoman for Windows, Mac, and Linux as well as the audio, all DRM-free!",
         "developer": "Pixeljam",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1228,7 +1228,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1242,7 +1242,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1256,7 +1256,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1270,7 +1270,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1284,7 +1284,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1298,7 +1298,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1312,7 +1312,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1326,21 +1326,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
         "name": "Samorost2",
         "url": "samorost2",
         "price": "5",
-        "description": "Get Samorost 2 and its soundtrack instantly! Cross-platform and DRM free.",
+        "description": "Get Samorost 2 and its audio instantly! Cross-platform and DRM free.",
         "developer": "Amanita Design",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1354,7 +1354,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1368,7 +1368,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1382,7 +1382,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1396,7 +1396,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1410,7 +1410,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1424,7 +1424,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1438,26 +1438,26 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
-        "name": "Snapshot + Soundtrack",
-        "url": "snapshotgamesoundtrackbundle?preview=pending",
+        "name": "Snapshot + audio",
+        "url": "snapshotgameaudiobundle?preview=pending",
         "price": "12.99",
-        "description": "Get Snapshot for Windows, Mac and, Linux as well as the Soundtrack, DRM-free and on Steam!",
+        "description": "Get Snapshot for Windows, Mac and, Linux as well as the audio, DRM-free and on Steam!",
         "developer": "Retro Affect",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
-        "name": "Snapshot Soundtrack",
-        "url": "snapshotsoundtrack?preview=pending",
+        "name": "Snapshot audio",
+        "url": "snapshotaudio?preview=pending",
         "price": "4.99",
         "description": "100+ Minutes of glorious MP3 tunes, DRM-free and on Steam!",
         "developer": "Retro Affect",
@@ -1466,7 +1466,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1480,7 +1480,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1494,7 +1494,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1508,21 +1508,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
         "name": "Sugar Cube: Bittersweet Factory",
         "url": "sugarcubebittersweetfactory",
         "price": "6.99",
-        "description": "Get it instantly, DRM-free for Windows and on Steam! Also comes with a soundtrack!",
+        "description": "Get it instantly, DRM-free for Windows and on Steam! Also comes with a audio!",
         "developer": "Turtle Cream",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1536,21 +1536,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "Superbrothers: Sword and Sworcery EP",
         "url": "swordandsworcery",
         "price": "7.99",
-        "description": "Purchase Superbrothers: Sword & Sworcery EP and get it instantly for Windows, Mac, and Linux, DRM-free! Includes soundtrack and redeemable on Steam.",
+        "description": "Purchase Superbrothers: Sword & Sworcery EP and get it instantly for Windows, Mac, and Linux, DRM-free! Includes audio and redeemable on Steam.",
         "developer": "Superbrothers + CAPY + Jim Guthrie",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1564,7 +1564,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1578,21 +1578,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "Talisman Prologue: Premium Edition",
         "url": "talismanprologuepremiumedition?preview=hTHvuxEBSNCy",
         "price": "12.99",
-        "description": "Get Talisman Prologue instantly, DRM-free. Premium Edition comes with a soundtrack and theme pack!",
+        "description": "Get Talisman Prologue instantly, DRM-free. Premium Edition comes with a audio and theme pack!",
         "developer": "Nomad Games",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1606,7 +1606,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1620,7 +1620,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1634,7 +1634,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1648,7 +1648,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1662,7 +1662,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1676,7 +1676,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1690,21 +1690,21 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
         "name": "Trine 2 Collector's Edition",
         "url": "trine2collectorsedition",
         "price": "23.99",
-        "description": "Includes digital artbook and soundtrack. Get it instantly and unlock it on Steam",
+        "description": "Includes digital artbook and audio. Get it instantly and unlock it on Steam",
         "developer": "Frozenbyte",
         "platform": {
             "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1718,7 +1718,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1732,7 +1732,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1746,7 +1746,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1760,7 +1760,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1774,7 +1774,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1788,7 +1788,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1802,7 +1802,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1816,7 +1816,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1830,7 +1830,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1844,7 +1844,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     },
     {
@@ -1858,7 +1858,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": true
+            "audio": true
         }
     },
     {
@@ -1872,7 +1872,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "soundtrack": false
+            "audio": false
         }
     }
 ]
