@@ -90,55 +90,54 @@
 
     <footer>Thanks to <strong></strong> for their contributions.</footer>
 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="games.js"></script>
     <script>
-    !function() {
+    $(function() {
         // Add spans placeholders for the lazy-load
-        var container = document.querySelector('main')
+        var $container = $('main')
         games.forEach(function(game) {
-            var span = document.createElement('span')
-            span.data = game
-
-            container.appendChild(span)
+            $container.append($('<span>').data(game))
         })
 
         // The spans which will be replaced by the iframes
-        var gamesPlaceholders = document.querySelectorAll('span')
-          , gamesElements = document.querySelectorAll('span, iframe')
+        var $gamesPlaceholders = $('span', $container)
+          , $gamesElements = $('span, iframe', $container)
           , url = 'http://www.humblebundle.com/store/product/'
         /**
          * Replace a placeholder by an iframe
-         * @param  {Node}  placeholder  The placeholder which will be replaced
+         * @param  {jQel}  $placeholder  The placeholder which will be replaced
          */
-          , loadIframe = function(placeholder) {
-            var iframe = document.createElement('iframe')
-            iframe.src = url + placeholder.data.url
-            iframe.data = placeholder.data
+          , loadIframe = function($placeholder) {
+            var $iframe = $('<iframe>')
+                .attr('src', url + $placeholder.data('url'))
+                .data($placeholder.data())
 
-            placeholder.isLoading = true
+            $placeholder.data('isLoading', true)
 
-            iframe.addEventListener('load', function() {
-                iframe.className = 'shown'
-                iframe.hidden = placeholder.hidden
+            $iframe.on('load', function() {
+                $iframe
+                    .addClass('shown')
+                    .prop('hidden', $placeholder.prop('hidden'))
 
                 // Remove the placeholder
-                placeholder.parentElement.removeChild(placeholder)
+                $placeholder.remove()
                 // Rebuild the placeholders and verify if they are all transformed to iframes
-                gamesPlaceholders = document.querySelectorAll('span')
-                gamesElements = document.querySelectorAll('span, iframe')
+                $gamesPlaceholders = $('span', $container)
+                $gamesElements = $('span, iframe', $container)
 
-                if (!gamesPlaceholders.length) {
-                    window.removeEventListener('load')
+                if (!$gamesPlaceholders.length) {
+                    window.off('scroll')
                 }
             })
 
             // Insert the iframe
-            placeholder.parentElement.insertBefore(iframe, placeholder)
+            $placeholder.before($iframe)
         }
         /**
          * Detect if an element is in the viewport
-         * @param   {Node}     el  The element which is detected
-         * @return  {boolean}      True if the element is in the viewport
+         * @param  {Node}     el  The element which is detected
+         * @return {boolean}      True if the element is in the viewport
          */
           , elementInViewport = function(el) {
             var rect = el.getBoundingClientRect()
@@ -154,76 +153,65 @@
          * and if so replace them with the corresponding iframe
          */
           ,  processScroll = function() {
-            ;[].forEach.call(gamesPlaceholders, function(placeholder) {
-                if (elementInViewport(placeholder) && !placeholder.hidden && !placeholder.isLoading) {
-                    loadIframe(placeholder)
+            $gamesPlaceholders.each(function(i, placeholder) {
+                var $placeholder = $(placeholder)
+                console.log($gamesPlaceholders.length, elementInViewport(placeholder), !placeholder.hidden, !$placeholder.data('isLoading'))
+                if (elementInViewport(placeholder) && !placeholder.hidden && !$placeholder.data('isLoading')) {
+                    loadIframe($placeholder)
                 }
             })
         }
 
         processScroll()
-        window.addEventListener('scroll', processScroll)
+        $(window).on('scroll', processScroll)
 
         // On search
-        document.querySelector('input').addEventListener('input', function() {
+        $('input').on('input', function() {
             var value = this.value
-            ;[].forEach.call(gamesElements, function(placeholder) {
-                if (new RegExp(value, 'i').test(placeholder.data.url))
-                    placeholder.hidden = false
-                else if (new RegExp(value, 'i').test(placeholder.data.description))
-                    placeholder.hidden = false
-                else if (new RegExp(value, 'i').test(placeholder.data.name))
-                    placeholder.hidden = false
-                else if (new RegExp(value, 'i').test(placeholder.data.developer))
-                    placeholder.hidden = false
-                else
-                    placeholder.hidden = true;
+            $gamesElements.each(function(i, placeholder) {
+                var $placeholder = $(placeholder)
+                  , isShown = true
+                if (new RegExp(value, 'i').test($placeholder.data('url')))
+                    isShown = false
+                else if (new RegExp(value, 'i').test($placeholder.data('description')))
+                    isShown = false
+                else if (new RegExp(value, 'i').test($placeholder.data('name')))
+                    isShown = false
+                else if (new RegExp(value, 'i').test($placeholder.data('developer')))
+                    isShown = false
+
+                $placeholder.prop('hidden', isShown)
             })
             processScroll()
         })
 
         // On filter by platform
-        ;[].forEach.call(document.querySelectorAll('.filters a'), function(el, i) {
-            el.addEventListener('click', function(e) {
-                e.preventDefault()
-                var platform = el.hash.slice(1)
+        var $filters = $('.filters a')
+        $filters.on('click', function() {
+            e.preventDefault()
+            var platform = this.hash.slice(1)
 
-                ;[].forEach.call(gamesElements, function(placeholder) {
-                    placeholder.data.platform[platform]
-
-                    if (new RegExp(value, 'i').test(placeholder.data.url))
-                        placeholder.hidden = false
-                    else if (new RegExp(value, 'i').test(placeholder.data.description))
-                        placeholder.hidden = false
-                    else if (new RegExp(value, 'i').test(placeholder.data.name))
-                        placeholder.hidden = false
-                    else if (new RegExp(value, 'i').test(placeholder.data.developer))
-                        placeholder.hidden = false
-                    else
-                        placeholder.hidden = true;
-                })
-                processScroll()
+            $gamesElements.each(function(i, $placeholder) {
+                a = $placeholder.data().platform[platform]
+                console.log(a)
             })
+            processScroll()
         })
+
 
         // Show the contributors, thanks by the way
-        var xhr = new XMLHttpRequest()
-        xhr.open('GET', 'https://api.github.com/repos/calvein/humble-games/contributors')
-        xhr.addEventListener('load', function(data) {
-            var response = JSON.parse(data.target.response)
-              , contributors = document.querySelector('footer > strong')
-            response.forEach(function(contributor) {
-                var a = document.createElement('a')
-                  , space = document.createTextNode(', ')
-                a.href = contributor.html_url
-                a.innerHTML = contributor.login
-
-                contributors.appendChild(a)
-                contributors.appendChild(space)
+        $.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
+        .done(function(response) {
+            $('footer > strong').html(function() {
+                return response.map(function(contributor) {
+                    return $('<a>')
+                        .attr('href', contributor.html_url)
+                        .text(contributor.login)
+                        .html()
+                    }).join(', ')
             })
         })
-        xhr.send()
-    }()
+    })
     </script>
     <script>
         var _gaq=[['_setAccount','UA-37825336-1'],['_trackPageview']];
