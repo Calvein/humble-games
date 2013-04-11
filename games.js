@@ -5,7 +5,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Buy Amnesia Fortnight 2012 and instantly get 8 game prototypes by Double Fine, DRM-free and on Steam! Soundtrack and production videos included!",
 		"Developer":"Double Fine Productions",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"And Yet It Moves",
@@ -13,7 +13,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get And Yet It Moves instantly! Cross-platform, DRM free, and redeemable on Steam.",
 		"Developer":"Broken Rules",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Anodyne",
@@ -21,7 +21,7 @@ var games = [
 		"Price":"9",
 		"Description":"Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Desura and Steam!",
 		"Developer":"Sean H. and Jon K.",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Anodyne Premium",
@@ -29,7 +29,7 @@ var games = [
 		"Price":"12",
 		"Description":"Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Desura and Steam! Soundtrack included in FLAC and MP3 formats!",
 		"Developer":"Sean H. and Jon K.",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Anomaly: Warzone Earth",
@@ -37,7 +37,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Anomaly Warzone Earth and instantly get it cross-platform, DRM-free, and on Steam.",
 		"Developer":"11 bit studios",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Atom Zombie Smasher",
@@ -45,7 +45,7 @@ var games = [
 		"Price":"15",
 		"Description":"Get Atom Zombie Smasher instantly! Cross-platform and DRM free.",
 		"Developer":"Blendo Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"A Virus Named Tom",
@@ -53,7 +53,7 @@ var games = [
 		"Price":"10",
 		"Description":"Get A Virus Named TOM instantly! Play it on Windows, DRM-free and redeem it on Steam.",
 		"Developer":"Misfits Attic",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"A Virus Named Tom (with Soundtrack)",
@@ -61,7 +61,7 @@ var games = [
 		"Price":"12",
 		"Description":"Get A Virus Named TOM instantly, including its soundtrack! Play it on Windows, DRM-free and redeem it on Steam.",
 		"Developer":"Misfits Attic",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Awesomenauts",
@@ -69,7 +69,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Awesomenauts and get it instantly for Windows and Mac on Steam!",
 		"Developer":"Ronimo Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Bastion",
@@ -77,7 +77,7 @@ var games = [
 		"Price":"14.99",
 		"Description":"Download Bastion now, cross-platform, DRM free, and redeem it on Steam!",
 		"Developer":"Supergiant Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Bean's Quest",
@@ -85,7 +85,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Purchase Bean's Quest for Windows, Mac, and Linux and instantly get it DRM-free.",
 		"Developer":"Kumobius",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Beat Hazard Ultra",
@@ -93,7 +93,7 @@ var games = [
 		"Price":"10",
 		"Description":"Purchase Beat Hazard Ultra for Windows and Mac and instantly get it DRM-free and on Steam.",
 		"Developer":"Cold Beam Games Ltd",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Bit.Trip Runner",
@@ -101,7 +101,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase BIT.TRIP RUNNER for Mac, Windows, and Linux and instantly get it DRM-free and on Steam.",
 		"Developer":"Gaijin Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Blocks That Matter",
@@ -109,7 +109,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Purchase Blocks That Matter and get it instantly, cross-platform and DRM-free.",
 		"Developer":"Swing Swing Submarine",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Botanicula",
@@ -117,7 +117,7 @@ var games = [
 		"Price":"10",
 		"Description":"Purchase Botanicula for Windows, Mac, and Linux and instantly get it DRM-free.",
 		"Developer":"Amanita Design",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Braid",
@@ -125,7 +125,7 @@ var games = [
 		"Price":"20",
 		"Description":"Get Braid instantly! Cross-platform and DRM free.",
 		"Developer":"Number None",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"The Bridge",
@@ -133,7 +133,7 @@ var games = [
 		"Price":"14.99",
 		"Description":"The Bridge is a logic puzzle game in the style of M. C. Escher. This download is for a Windows Steam key.",
 		"Developer":"The Quantum Astrophysicists Guild",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Cardinal Quest",
@@ -141,7 +141,7 @@ var games = [
 		"Price":"5",
 		"Description":"Purchase Cardinal Quest and instantly get it cross-platform, DRM-free, and on Desura.",
 		"Developer":"Ido Yehieli",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Chivalry: Medieval Warfare",
@@ -149,7 +149,7 @@ var games = [
 		"Price":"24.99",
 		"Description":"Purchase Chivalry: Medieval Warfare and get it on Steam for Windows!",
 		"Developer":"Torn Banner Studios Inc.",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Chivalry: Medieval Warfare - Soundtrack",
@@ -157,7 +157,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Purchase the Chivalry: Medieval Warfare soundtrack!",
 		"Developer":"Torn Banner Studios Inc.",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Chocolate Castle",
@@ -165,7 +165,7 @@ var games = [
 		"Price":"10",
 		"Description":"Get Chocolate Castle instantly! Cross-platform and DRM free.",
 		"Developer":"Lexaloffle Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Clairvoyance",
@@ -173,7 +173,7 @@ var games = [
 		"Price":"5",
 		"Description":"Get the Clairvoyance Beta instantly for Windows, Mac, and Linux. 50% off! All future versions of the game are included.",
 		"Developer":"Erik Svedang",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Cogs",
@@ -181,7 +181,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Cogs instantly! Cross-platform and DRM free.",
 		"Developer":"Lazy 8 Studios",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Cortex Command",
@@ -189,7 +189,7 @@ var games = [
 		"Price":"20",
 		"Description":"Get Cortex Command instantly! Cross-platform, DRM free, and redeemable on Steam.",
 		"Developer":"Data Realms",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dead Pixels",
@@ -197,7 +197,7 @@ var games = [
 		"Price":"2.99",
 		"Description":"Purchase Dead Pixels for Windows and instantly get it both DRM free and on Steam.",
 		"Developer":"CSR-Studios",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dear Esther",
@@ -205,7 +205,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Dear Esther for Windows and Mac OS X instantly! DRM free.",
 		"Developer":"thechineseroom",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Decoda Commercial License",
@@ -213,7 +213,7 @@ var games = [
 		"Price":"400",
 		"Description":"Purchase a Decoda commercial license for Windows.",
 		"Developer":"Unknown Worlds Entertainment",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Decoda Indie License",
@@ -221,7 +221,7 @@ var games = [
 		"Price":"50",
 		"Description":"Purchase Decoda indie license for Windows.",
 		"Developer":"Unknown Worlds Entertainment",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Defense Grid: The Awakening",
@@ -229,7 +229,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Defense Grid: The Awakening for Windows and get it instantly on Steam!",
 		"Developer":"Hidden Path",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Defense Grid: The Awakening: Full Bundle",
@@ -237,7 +237,7 @@ var games = [
 		"Price":"15.99",
 		"Description":"Purchase Defense Grid: Full Bundle for Windows and get it instantly on Steam!",
 		"Developer":"Hidden Path",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"DG2 Kickstarter Digital Bundle",
@@ -245,7 +245,7 @@ var games = [
 		"Price":"30",
 		"Description":"Everything digital Defense Grid to date for PC (Steam & Windows), plus the discounted future DG2 when it ships.",
 		"Developer":"Hidden Path",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"DG2 Kickstarter Swag Bundle (USA)",
@@ -253,7 +253,7 @@ var games = [
 		"Price":"100",
 		"Description":"The DG digital bundle above plus a DG T-shirt, poster, Gun Tower USB stick and a Fletcher audio fortune button shipped to you.",
 		"Developer":"Hidden Path",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"DG2 Kickstarter Swag Bundle (Int'l)",
@@ -261,7 +261,7 @@ var games = [
 		"Price":"120",
 		"Description":"INTERNATIONAL PURCHASERS ONLY: DG digital bundle above + a DG T-shirt, poster, Gun Tower USB stick & a Fletcher audio fortune button shipped to you!",
 		"Developer":"Hidden Path",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Delver",
@@ -277,7 +277,7 @@ var games = [
 		"Price":"7.99",
 		"Description":"Get Derrick the Deathfin instantly! Cross-platform and DRM-free! Everything in the game is made from a tree!",
 		"Developer":"Different Tuna",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dino Run SE",
@@ -285,7 +285,7 @@ var games = [
 		"Price":"3",
 		"Description":"Purchase Dino Run SE and get it instantly for Windows, Mac, and Linux, DRM-free!",
 		"Developer":"Pixeljam",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Don't Starve",
@@ -293,7 +293,7 @@ var games = [
 		"Price":"11.99",
 		"Description":"Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly! - Get an extra copy with your purchase - Redeem it on Steam!",
 		"Developer":"Klei Entertainment",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dungeons of Dredmor",
@@ -301,7 +301,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Get Dungeons of Dredmor instantly! Cross-platform and DRM free.",
 		"Developer":"Gaslamp Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dungeons of Dredmor: Realm of the Diggle Gods",
@@ -309,7 +309,7 @@ var games = [
 		"Price":"2.99",
 		"Description":"Get Dungeons of Dredmor: Realm of the Diggle Gods instantly for Windows and Linux, DRM free.",
 		"Developer":"Gaslamp Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dungeons of Dredmor: Conquest of the Wizardlands",
@@ -317,7 +317,7 @@ var games = [
 		"Price":"2.99",
 		"Description":"Get Dungeons of Dredmor: Conquest of the Wizardlands instantly for Windows and Linux, DRM free.",
 		"Developer":"Gaslamp Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dungeons of Dredmor Complete Pack",
@@ -325,7 +325,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Dungeons of Dredmor Complete instantly! Cross-platform and DRM free.",
 		"Developer":"Gaslamp Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dustforce",
@@ -333,7 +333,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Dustforce for Windows, Mac, and Linux and instantly get it DRM-free and on Steam and Desura.",
 		"Developer":"Hitbox Team",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Dustforce (with soundtrack)",
@@ -341,7 +341,7 @@ var games = [
 		"Price":"12.99",
 		"Description":"Purchase Dustforce for Windows, Mac, and Linux and instantly get it DRM-free and on Steam and Desura. Soundtrack included.",
 		"Developer":"Hitbox Team",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Dynamite Jack",
@@ -349,7 +349,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Purchase Dynamite Jack and instantly get it cross-platform DRM-free and on Steam.",
 		"Developer":"Hassey Enterprises, Inc.",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Eets",
@@ -357,7 +357,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Eets for Mac and Windows and instantly get it DRM-free and on Steam.",
 		"Developer":"Klei Entertainment",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Eets Munchies Early-Access Beta",
@@ -365,7 +365,7 @@ var games = [
 		"Price":"6.99",
 		"Description":"Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly! - Get an extra copy with your purchase - Redeem it on Steam!",
 		"Developer":"Klei Entertainment",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"English Country Tune",
@@ -373,7 +373,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Get English Country Tune instantly! Play it on Mac and Windows, DRM free.",
 		"Developer":"Increpare Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Escape Goat",
@@ -381,7 +381,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Purchase Escape Goat and get it instantly for Windows, DRM-free!",
 		"Developer":"MagicalTimeBean",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Flotilla",
@@ -389,7 +389,7 @@ var games = [
 		"Price":"10",
 		"Description":"Purchase Flotilla for Windows and instantly get it DRM-free.",
 		"Developer":"Blendo Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"FOTONICA",
@@ -397,7 +397,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Purchase FOTONICA and get it DRM-free for Windows, Mac, and Linux!",
 		"Developer":"Santa Ragione",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"FTL: Faster Than Light",
@@ -405,7 +405,7 @@ var games = [
 		"Price":"10",
 		"Description":"Download FTL: Faster Than Light now, cross-platform, DRM free, and redeemable on Steam!",
 		"Developer":"Subset Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Full Mojo Rampage",
@@ -413,7 +413,7 @@ var games = [
 		"Price":"10",
 		"Description":"Pre-Purchase now and have access to our Alpha when it's available.",
 		"Developer":"Over the Top Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Gateways",
@@ -421,7 +421,7 @@ var games = [
 		"Price":"5",
 		"Description":"Purchase Gateways for Windows and instantly get it DRM-free and on Steam and Desura.",
 		"Developer":"Smudged Cat Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Girls Like Robots",
@@ -429,7 +429,7 @@ var games = [
 		"Price":"10",
 		"Description":"Get Girls Like Robots instantly! Cross-platform and DRM-free.",
 		"Developer":"Popcannibal",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Gratuitous Space Battles",
@@ -437,7 +437,7 @@ var games = [
 		"Price":"14.95",
 		"Description":"Purchase Gratuitous Space Battles for Windows and instantly get it DRM-free.",
 		"Developer":"Positech Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Gratuitous Space Battles (Collector's Edition)",
@@ -445,7 +445,7 @@ var games = [
 		"Price":"16.95",
 		"Description":"Purchase Gratuitous Space Battles Collector's Edition for Windows and instantly get it DRM-free.",
 		"Developer":"Positech Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Ichi",
@@ -453,7 +453,7 @@ var games = [
 		"Price":"2.99",
 		"Description":"Purchase Ichi and get it instantly for Windows and Mac, DRM-free!",
 		"Developer":"Stolen Couch Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"I Get This Call Every Day",
@@ -461,7 +461,7 @@ var games = [
 		"Price":"2",
 		"Description":"A personal tale of unwinnable realities. Available instantly, cross-platform and DRM-free.",
 		"Developer":"David S Gallant",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Incredipede",
@@ -469,7 +469,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Incredipede and get it instantly, cross-platform and DRM-free, and redeemable on Steam!",
 		"Developer":"Northway Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Intrusion 2",
@@ -477,7 +477,7 @@ var games = [
 		"Price":"10",
 		"Description":"Purchase Intrusion 2 for Windows and instantly get it DRM-free and on Steam.",
 		"Developer":"vapgames",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Jasper's Journeys",
@@ -485,7 +485,7 @@ var games = [
 		"Price":"5",
 		"Description":"Get Jasper's Journeys instantly! Cross-platform and DRM free.",
 		"Developer":"Lexaloffle Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Jolly Rover",
@@ -493,7 +493,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Jolly Rover for Mac and Windows and instantly get it DRM-free and on Steam.",
 		"Developer":"Brawsome",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Jottobots",
@@ -501,7 +501,7 @@ var games = [
 		"Price":"1",
 		"Description":"Get Jottobots instantly! It's DRM-free!",
 		"Developer":"KPULV",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Kairo",
@@ -517,7 +517,7 @@ var games = [
 		"Price":"25",
 		"Description":"Get Act I for Windows, Mac and Linux now, and the remaining acts as they're released. Also get soundtrack mp3s & our private monthly newsletter.",
 		"Developer":"Cardboard Computer",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Legend of Dungeon",
@@ -525,7 +525,7 @@ var games = [
 		"Price":"10",
 		"Description":"Buy now and get instant access to the latest pre-release build of Legend of Dungeon for Windows, Mac, and Linux!",
 		"Developer":"Robot Loves Kitty",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Legend of Dungeon + Soundtrack",
@@ -533,7 +533,7 @@ var games = [
 		"Price":"15",
 		"Description":"Buy now and get instant access to the latest pre-release build of Legend of Dungeon for Windows, Mac, and Linux! Soundtrack included!",
 		"Developer":"Robot Loves Kitty",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Legend of Grimrock",
@@ -541,7 +541,7 @@ var games = [
 		"Price":"14.99",
 		"Description":"Purchase Legend of Grimrock for Windows and get it DRM-free and on Steam.",
 		"Developer":"Almost Human",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Little Inferno",
@@ -549,7 +549,7 @@ var games = [
 		"Price":"10",
 		"Description":"Buy it now and get it instantly for Windows, DRM-free and on Steam!",
 		"Developer":"Tomorrow Corporation",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Lone Survivor",
@@ -557,7 +557,7 @@ var games = [
 		"Price":"10",
 		"Description":"Purchase Lone Survivor for Windows, Mac, and Linux and instantly get it DRM-free and redeem it on Steam.",
 		"Developer":"Jasper Byrne",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Low Light Combat (benefit Camphill)",
@@ -565,7 +565,7 @@ var games = [
 		"Price":"5",
 		"Description":"Get Low Light Combat instantly plus two gift codes. 100% of the proceeds (including any 'tip') will go to support Camphill Communities California.",
 		"Developer":"Wolfire Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Low Light Combat (benefit Blender)",
@@ -573,7 +573,7 @@ var games = [
 		"Price":"5",
 		"Description":"Get Low Light Combat instantly plus two gift codes. 100% of the proceeds (including any 'tip') will go to support Blender Foundation.",
 		"Developer":"Wolfire Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Lugaru HD",
@@ -581,7 +581,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Lugaru HD instantly! Cross-platform and DRM free.",
 		"Developer":"Wolfire Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Macguffin's Curse",
@@ -589,7 +589,7 @@ var games = [
 		"Price":"6.99",
 		"Description":"Purchase MacGuffin's Curse for Mac and Windows and instantly get it DRM-free and on Steam.",
 		"Developer":"Brawsome",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Machinarium",
@@ -597,7 +597,7 @@ var games = [
 		"Price":"10",
 		"Description":"Get Machinarium and its soundtrack instantly! Cross-platform and DRM free.",
 		"Developer":"Amanita Design",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"McDROID",
@@ -605,7 +605,7 @@ var games = [
 		"Price":"14.99",
 		"Description":"Get McDROID instantly! Cross-platform and DRM-free.",
 		"Developer":"Elefantopia",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"McPixel",
@@ -613,7 +613,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Grab McPixel DRM-Free on now on Windows, Mac, and Linux and also on Steam and Desura!",
 		"Developer":"SOS",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Megabyte Punch",
@@ -621,7 +621,7 @@ var games = [
 		"Price":"7.5",
 		"Description":"Get Megabyte Punch including all the future updates! DRM-free.",
 		"Developer":"Reptile Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Monaco",
@@ -629,7 +629,7 @@ var games = [
 		"Price":"15",
 		"Description":"Pre-order Monaco: What's Yours Is Mine and receive it instantly once the game is out!",
 		"Developer":"Pocketwatch Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Monaco 4-pack",
@@ -637,7 +637,7 @@ var games = [
 		"Price":"45",
 		"Description":"Pre-order the Monaco: What's Yours Is Mine 4 pack and receive it instantly once the game is out!",
 		"Developer":"Pocketwatch Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Noitu Love 2 Devolution",
@@ -645,7 +645,7 @@ var games = [
 		"Price":"5",
 		"Description":"Purchase Noitu Love 2 Devolution for Windows and instantly get it DRM-free and on Steam.",
 		"Developer":"Joakim Sandberg",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Offspring Fling",
@@ -653,7 +653,7 @@ var games = [
 		"Price":"7.99",
 		"Description":"Purchase Offspring Fling and get it DRM-free on Windows and Mac!",
 		"Developer":"KPULV",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Organ Trail: Driector's Cut",
@@ -661,7 +661,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Get Organ Trail and the expansion instantly! Cross-platform and DRM-free. Redeemable on Steam and Desura.",
 		"Developer":"The Men Who Wear Many Hats",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Overgrowth Alpha",
@@ -669,7 +669,7 @@ var games = [
 		"Price":"29.95",
 		"Description":"Preorder Overgrowth and instantly get access to the updated alpha builds.",
 		"Developer":"Wolfire Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Pid",
@@ -677,7 +677,7 @@ var games = [
 		"Price":"20",
 		"Description":"Purchase Pid for Windows and Mac and get it both DRM-free and on Steam! Also comes with a soundtrack and extras!",
 		"Developer":"Might and Delight",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Pineapple Smash Crew",
@@ -685,7 +685,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Pineapple Smash Crew for Windows and instantly get it DRM-free.",
 		"Developer":"RichMakeGame",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Potatoman Seeks the Troof",
@@ -693,7 +693,7 @@ var games = [
 		"Price":"5",
 		"Description":"Purchase the bundle and get Potatoman for Windows, Mac, and Linux as well as the soundtrack, all DRM-free!",
 		"Developer":"Pixeljam",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Proteus",
@@ -701,7 +701,7 @@ var games = [
 		"Price":"10",
 		"Description":"Purchase Proteus for Mac and Windows and instantly get it DRM-free and on Steam!",
 		"Developer":"Ed Key & David Kanaga",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Psychonauts",
@@ -709,7 +709,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Psychonauts right now on Windows, Mac, and Linux, DRM-free!",
 		"Developer":"Double Fine Productions",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Puzzle Dimension",
@@ -717,7 +717,7 @@ var games = [
 		"Price":"2.99",
 		"Description":"Purchase Puzzle Dimension for Windows and get it instantly on Steam.",
 		"Developer":"Doctor Entertainment",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Receiver",
@@ -725,7 +725,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Purchase Receiver for Mac, Windows, and Linux and instantly get it DRM-free.",
 		"Developer":"Wolfire Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Retro City Rampage (steam)",
@@ -733,7 +733,7 @@ var games = [
 		"Price":"14.99",
 		"Description":"Purchase Retro City Rampage and get it on Windows, DRM-free and on Steam!",
 		"Developer":"Vblank Entertainment",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Retro City Rampage (GOG)",
@@ -741,7 +741,7 @@ var games = [
 		"Price":"14.99",
 		"Description":"Purchase Retro City Rampage and get it on Windows, DRM-free and on GOG!",
 		"Developer":"Vblank Entertainment",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Retrovirus",
@@ -749,7 +749,7 @@ var games = [
 		"Price":"19.99",
 		"Description":"Buy Retrovirus now and get it instantly for Windows, DRM-free!",
 		"Developer":"Cadenza Interactive",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Rochard",
@@ -757,7 +757,7 @@ var games = [
 		"Price":"19.99",
 		"Description":"Purchase Rochard for Windows and Mac and instantly get it DRM-free and on Steam.",
 		"Developer":"Recoil Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Samorost2",
@@ -765,7 +765,7 @@ var games = [
 		"Price":"5",
 		"Description":"Get Samorost 2 and its soundtrack instantly! Cross-platform and DRM free.",
 		"Developer":"Amanita Design",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Sanctum",
@@ -773,7 +773,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Sanctum and get it instantly on Steam!",
 		"Developer":"Coffee Stain Studios",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"7 Grand Steps",
@@ -781,7 +781,7 @@ var games = [
 		"Price":"11",
 		"Description":"Get '7 Grand Steps' instantly. Cross-platform and DRM-free. Make Family History!",
 		"Developer":"Mousechief Co.",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Scoregasm",
@@ -789,7 +789,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Download Scoregasm now, cross-platform and DRM free!",
 		"Developer":"Charlie's Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Shadowgrounds",
@@ -797,7 +797,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Shadowgrounds instantly! Cross-platform and DRM free.",
 		"Developer":"Frozenbyte",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Shadowgrounds: Survivor",
@@ -805,7 +805,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Shadowgrounds: Survivor instantly! Cross-platform and DRM free.",
 		"Developer":"Frozenbyte",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Shatter",
@@ -813,7 +813,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Shatter for Mac, Windows, and Linux, and instantly get it DRM-free!",
 		"Developer":"Sidhe",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Snapshot",
@@ -821,7 +821,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Snapshot instantly for Windows, Mac, and Linux, DRM-free and on Steam!",
 		"Developer":"Retro Affect",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Snapshot + Soundtrack",
@@ -829,7 +829,7 @@ var games = [
 		"Price":"12.99",
 		"Description":"Get Snapshot for Windows, Mac and, Linux as well as the Soundtrack, DRM-free and on Steam!",
 		"Developer":"Retro Affect",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Snapshot Soundtrack",
@@ -837,7 +837,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"100+ Minutes of glorious MP3 tunes, DRM-free and on Steam!",
 		"Developer":"Retro Affect",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Solar 2",
@@ -845,7 +845,7 @@ var games = [
 		"Price":"10",
 		"Description":"Purchase Solar 2 and get it DRM-free for Windows, Mac and Linux. Steam key included.",
 		"Developer":"Murudai",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Soul Caster I and II",
@@ -853,7 +853,7 @@ var games = [
 		"Price":"5",
 		"Description":"Purchase Soulcaster I & II for Windows and instantly get it DRM-free.",
 		"Developer":"MagicalTimeBean",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Spirits",
@@ -869,7 +869,7 @@ var games = [
 		"Price":"6.99",
 		"Description":"Get it instantly, DRM-free for Windows and on Steam! Also comes with a soundtrack!",
 		"Developer":"Turtle Cream",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Super Hexagon",
@@ -877,7 +877,7 @@ var games = [
 		"Price":"2.99",
 		"Description":"Get Super Hexagon instantly! Cross-platform (Mac, Windows, and Linux versions included) and DRM-free.",
 		"Developer":"Terry Cavanagh",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Superbrothers: Sword and Sworcery EP",
@@ -885,7 +885,7 @@ var games = [
 		"Price":"7.99",
 		"Description":"Purchase Superbrothers: Sword & Sworcery EP and get it instantly for Windows, Mac, and Linux, DRM-free! Includes soundtrack and redeemable on Steam.",
 		"Developer":"Superbrothers + CAPY + Jim Guthrie",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Swords & Soldiers HD",
@@ -893,7 +893,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Swords & Soldiers HD for Windows, Mac, and Linux and instantly get it DRM-free and on Steam.",
 		"Developer":"Ronimo Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Talisman Prologue: Standard Edition",
@@ -901,7 +901,7 @@ var games = [
 		"Price":"10",
 		"Description":"Get Talisman Prologue instantly, DRM-free!",
 		"Developer":"Nomad Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Talisman Prologue: Premium Edition",
@@ -909,7 +909,7 @@ var games = [
 		"Price":"12.99",
 		"Description":"Get Talisman Prologue instantly, DRM-free. Premium Edition comes with a soundtrack and theme pack!",
 		"Developer":"Nomad Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"The Adventures of Shuggy",
@@ -917,7 +917,7 @@ var games = [
 		"Price":"5",
 		"Description":"Purchase The Adventures of Shuggy for Windows and instantly get it DRM-free and on Steam and Desura.",
 		"Developer":"Smudged Cat Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"The Ship: Murder Party",
@@ -925,7 +925,7 @@ var games = [
 		"Price":"20",
 		"Description":"Purchase The Ship: Murder Party for Windows and instantly get it on Steam.",
 		"Developer":"Blazing Griffin",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Thirty Flights of Loving",
@@ -933,7 +933,7 @@ var games = [
 		"Price":"5",
 		"Description":"Download Thirty Flights of Loving now for Windows and Mac OSX, DRM free!",
 		"Developer":"Blendo Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Tiny & Big in Grandpa's Leftovers",
@@ -941,7 +941,7 @@ var games = [
 		"Price":"12.99",
 		"Description":"Purchase Tiny & Big in Grandpa's Leftovers and get it DRM-free on Windows, Mac, and Linux, and redeem it on Steam.",
 		"Developer":"Black Pants Game Studio",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Tower Wars",
@@ -949,7 +949,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Tower Wars and get it instantly for Windows on Steam!",
 		"Developer":"SuperVillain Studios",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Trine",
@@ -957,7 +957,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Get Trine instantly! Cross-platform and DRM free.",
 		"Developer":"Frozenbyte",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Trine 2",
@@ -965,7 +965,7 @@ var games = [
 		"Price":"14.99",
 		"Description":"Purchase Trine 2 instantly and unlock it on Steam.",
 		"Developer":"Frozenbyte",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Trine 2 Collector's Edition",
@@ -973,7 +973,7 @@ var games = [
 		"Price":"23.99",
 		"Description":"Includes digital artbook and soundtrack. Get it instantly and unlock it on Steam",
 		"Developer":"Frozenbyte",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Trine 2: Goblin Menace DLC",
@@ -981,7 +981,7 @@ var games = [
 		"Price":"7.99",
 		"Description":"Purchase the Trine 2: Goblin Menace DLC and unlock it on Steam.",
 		"Developer":"Frozenbyte",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Turba",
@@ -989,7 +989,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Purchase Turba for Windows and instantly get it DRM-free and on Steam.",
 		"Developer":"Binary Takeover",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Universe Sandbox",
@@ -997,7 +997,7 @@ var games = [
 		"Price":"19.95",
 		"Description":"Purchase Universe Sandbox for Windows and instantly get it DRM-free and on Steam.",
 		"Developer":"Giant Army",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Vessel",
@@ -1005,7 +1005,7 @@ var games = [
 		"Price":"14.99",
 		"Description":"Purchase Vessel and get it DRM-free on Windows, plus a key to unlock it on Steam.",
 		"Developer":"Strange Loop Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Volgar The Viking",
@@ -1013,7 +1013,7 @@ var games = [
 		"Price":"11.99",
 		"Description":"Pre-Order Volgarr the Viking and get it when it's released, DRM-free!",
 		"Developer":"Crazy Viking Studios",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Voxatron",
@@ -1021,7 +1021,7 @@ var games = [
 		"Price":"15",
 		"Description":"Get Voxatron instantly and get access to all future versions! Cross-platform and DRM free.",
 		"Developer":"Lexaloffle Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"VVVVVV",
@@ -1029,7 +1029,7 @@ var games = [
 		"Price":"4.99",
 		"Description":"Get VVVVVV instantly! Cross-platform and DRM free.",
 		"Developer":"Terry Cavanagh",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Waking Mars",
@@ -1037,7 +1037,7 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Waking Mars and get it instantly for Mac, Windows, and Linux.",
 		"Developer":"Tiger Style",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Waveform",
@@ -1045,7 +1045,7 @@ var games = [
 		"Price":"6.99",
 		"Description":"Purchase Waveform for Windows and instantly get it DRM-free and on Steam.",
 		"Developer":"Eden Industries",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Wizorb",
@@ -1053,7 +1053,7 @@ var games = [
 		"Price":"3",
 		"Description":"Purchase Wizorb for Windows, Mac, and Linux and instantly get it DRM-free.",
 		"Developer":"Tribute Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"World of Goo",
@@ -1061,7 +1061,7 @@ var games = [
 		"Price":"20",
 		"Description":"Get World of Goo instantly! Cross-platform and DRM free.",
 		"Developer":"2D Boy",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
 		"Game":"Zen Puzzle Garden",
@@ -1069,6 +1069,6 @@ var games = [
 		"Price":"10",
 		"Description":"Get Zen Puzzle Garden instantly! Cross-platform and DRM free.",
 		"Developer":"Lexaloffle Games",
-		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	}
 ]
