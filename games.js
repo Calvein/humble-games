@@ -8,7 +8,7 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
-		"Game":"And Yet It Moves",
+		"Game":"And Yet It Moves",5
 		"URL":"andyetitmoves",
 		"Price":"9.99",
 		"Description":"Get And Yet It Moves instantly! Cross-platform, DRM free, and redeemable on Steam.",
@@ -446,6 +446,38 @@ var games = [
 		"Description":"Purchase Gratuitous Space Battles Collector's Edition for Windows and instantly get it DRM-free.",
 		"Developer":"Positech Games",
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+	},
+	{
+		"Game":"Grim Dawn Digital Release",
+		"URL":"grimdawn-1?preview=J2soPnxhdSxG",
+		"Price":"20",
+		"Description":"Download the full game upon release, DRM free and on Steam!",
+		"Developer":"Crate Entertainment",
+		"Android":"FALSE", "PC":"FALSE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
+	},
+	{
+		"Game":"Grim Dawn Pioneer Edition",
+		"URL":"grimdawn-2?preview=J2soPnxhdSxG",
+		"Price":"35",
+		"Description":"Get access to the beta when it's ready, get the full game on release, plus get an original digital soundtrack and in-game items!",
+		"Developer":"Crate Entertainment",
+		"Android":"FALSE", "PC":"FALSE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
+	},
+	{
+		"Game":"Grim Dawn Patron Edition",
+		"URL":"grimdawn-3?preview=J2soPnxhdSxG",
+		"Price":"50",
+		"Description":"Get alpha/beta access, full game on release, original digital soundtrack, \"Crate Story\" downloadable PDF, and in-game items!",
+		"Developer":"Crate Entertainment",
+		"Android":"FALSE", "PC":"FALSE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
+	},
+	{
+		"Game":"Grim Dawn Loyalist Edition",
+		"URL":"grimdawn-4?preview=J2soPnxhdSxG",
+		"Price":"85",
+		"Description":"Get alpha/beta access, full game on release, 1st expansion when ready, digital soundtrack, \"Crate Story\" PDF, HD digital map, and in-game items!",
+		"Developer":"Crate Entertainment",
+		"Android":"FALSE", "PC":"FALSE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Ichi",
