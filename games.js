@@ -896,6 +896,86 @@ var games = [
 		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
+		"Game":"Starbound (Pixel Tier)",
+		"URL":"starbound_tier1?preview=4uQR712V5n",
+		"Price":"15",
+		"Description":"Starbound Beta (when available) + soundtrack",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+
+	{
+		"Game":"Starbound (Pixel Tier) 4 Pack",
+		"URL":"starbound_4pack?preview=4uQR712V5n",
+		"Price":"45",
+		"Description":"4-Pack of Starbound Beta (when available) + soundtrack",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+
+	{
+		"Game":"Starbound (Silver Tier)",
+		"URL":"starbound_tier2?preview=4uQR712V5n",
+		"Price":"20",
+		"Description":"Starbound Beta (when available) + Soundtrack + forum badge",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+
+	{
+		"Game":"Starbound (Silver Tier) 4 Pack",
+		"URL":"starbound_4pack_tier2?preview=4uQR712V5n",
+		"Price":"60",
+		"Description":"4-Pack of Starbound Beta (when available) + Soundtrack + forum badge",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+
+	{
+		"Game":"Starbound (Gold Tier)",
+		"URL":"starbound_tier3?preview=4uQR712V5n",
+		"Price":"45",
+		"Description":"Starbound Beta (when available) + Soundtrack + forum badge + name an NPC",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+
+	{
+		"Game":"Starbound (Diamond Tier)",
+		"URL":"starbound_tier4?preview=4uQR712V5n",
+		"Price":"75",
+		"Description":"Starbound Beta (when available) + Soundtrack + forum badge + name an NPC + name in credits",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+
+	{
+		"Game":"Starbound (Platinum Tier)",
+		"URL":"starbound_tier5?preview=4uQR712V5n",
+		"Price":"500",
+		"Description":"Starbound Beta (when available) + Soundtrack + forum badge + name an NPC + name in credits + design a hat",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+
+	{
+		"Game":"Starbound (Solarium Tier)",
+		"URL":"starbound_tier6?preview=4uQR712V5n",
+		"Price":"1000",
+		"Description":"Starbound Beta (when available) + Soundtrack + forum badge + name an NPC + name in credits + design a weapon",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+
+	{
+		"Game":"Starbound (Impervium Tier)",
+		"URL":"starbound_tier7?preview=4uQR712V5n",
+		"Price":"2000",
+		"Description":"Starbound Beta (when available) + Soundtrack + forum badge + name an NPC + name in credits + personalised statue",
+		"Developer":"Chucklefish",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+	{
 		"Game":"Sugar Cube: Bittersweet Factory",
 		"URL":"sugarcubebittersweetfactory",
 		"Price":"6.99",
