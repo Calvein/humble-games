@@ -8,7 +8,7 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
-		"Game":"And Yet It Moves",5
+		"Game":"And Yet It Moves",
 		"URL":"andyetitmoves",
 		"Price":"9.99",
 		"Description":"Get And Yet It Moves instantly! Cross-platform, DRM free, and redeemable on Steam.",
