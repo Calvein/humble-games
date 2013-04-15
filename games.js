@@ -784,6 +784,14 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
+		"Game":"Riot",
+		"URL":"riot?preview=mnRfbE8zGvpF",
+		"Price":"10",
+		"Description":"Pre-order RIOT and download it instantly as soon as it gets released! Cross-platform and DRM-free.",
+		"Developer":"Team RIOT",
+		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+	},
+	{
 		"Game":"Rochard",
 		"URL":"rochard",
 		"Price":"19.99",
