@@ -95,7 +95,7 @@
             
             var html = "<tr><td><a href=\""+tr.dataset.URL+"\">"+tr.dataset.game+"</a></td><td>$"+tr.dataset.price+
             "</td><td>"+os+"</td><td>"+ost+"</td><td>"+tr.dataset.desc;
-            tr.html(html);
+            tr.innerHTML = html;
             document.getElementById('gametable').appendChild(tr)
         })
 
