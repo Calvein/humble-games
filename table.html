@@ -64,8 +64,9 @@
     <h1>All games from <a href="http://humblebundle.com">humblebundle.com</a></h1>
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">humble bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
     <input autofocus placeholder="Search is based on the URL, e.g: &quot;Trine&quot;">
-    <p><a href="http://www.steamgifts.com/giveaway/1rbHu/">Free, for you</a><a href="https://www.humblebundle.com/?gift=WGFpUBTU2Anr
-">.</a></p>
+    <p><a href="http://www.steamgifts.com/giveaway/1rbHu/">Free, for you</a><a href="https://www.humblebundle.com/?gift=WGFpUBTU2Anr">.</a></p>
+    <table id="gametable"><tr><th>Game</th><th>Price</th><th>OS</th><th>OST</th><th>Description</th></tr></table>
+
     <!-- <p><a href="http://steamcommunity.com/groups/humble-games">Steam group</a></p> -->
 
     <script src="games.js"></script>
@@ -73,89 +74,30 @@
     !function() {
         // Add spans placeholders for the lazy-load
         games.forEach(function(game) {
-            var span = document.createElement('span')
-            span.dataset.game = game.Game
-            span.dataset.url = game.URL
-            span.dataset.desc = game.Description
-            span.dataset.price = game.Price
-            span.dataset.dev = game.Developer
-            span.dataset.android = ( game.Android == "TRUE" ? true : false )
-            span.dataset.mac = ( game.Mac == "TRUE" ? true : false )
-            span.dataset.pc = ( game.PC == "TRUE" ? true : false )
-            span.dataset.linux = ( game.Linux == "TRUE" ? true : false )
-            span.dataset.ost = ( game.Soundtrack == "TRUE" ? true : false )
-
-            document.body.appendChild(span)
+            var tr = document.createElement('tr')
+            tr.dataset.game = game.Game
+            tr.dataset.url = game.URL
+            tr.dataset.desc = game.Description
+            tr.dataset.price = game.Price
+            tr.dataset.dev = game.Developer
+            tr.dataset.android = ( game.Android == "TRUE" ? true : false )
+            tr.dataset.mac = ( game.Mac == "TRUE" ? true : false )
+            tr.dataset.pc = ( game.PC == "TRUE" ? true : false )
+            tr.dataset.linux = ( game.Linux == "TRUE" ? true : false )
+            tr.dataset.ost = ( game.Soundtrack == "TRUE" ? true : false )
+            
+            var ost = (game.Android == "TRUE" ? "<img src=\"ost.png\"></img>" : "")
+            var os = (game.Android == "TRUE" ? "<img src=\"android.png\"></img>" : "")
+            os += (game.Mac += "TRUE" ? "<img src=\"mac.png\"></img>" : "")
+            os += (game.PC += "TRUE" ? "<img src=\"pc.png\"></img>" : "")
+            os += (game.Linux += "TRUE" ? "<img src=\"linux.png\"></img>" : "")
+            if(os=="") os = "Unknown";
+            
+            var html = "<tr><td><a href=\""+tr.dataset.URL+"\">"+tr.dataset.game+"</a></td><td>$"+tr.dataset.price+
+            "</td><td>"+os+"</td><td>"+ost+"</td><td>"+tr.dataset.desc;
+            tr.html(html);
+            document.getElementById('gametable').appendChild(tr)
         })
-
-        // The spans which will be replaced by the iframes
-        var gamesPlaceholders = document.querySelectorAll('span')
-          , gamesElements = document.querySelectorAll('span, iframe')
-          , url = 'http://www.humblebundle.com/store/product/'
-        /**
-         * Replace a placeholder by an iframe
-         * @param  {Node}  placeholder  The placeholder which will be replaced
-         */
-          , loadIframe = function(placeholder) {
-            var iframe = document.createElement('iframe')
-            iframe.src = url + placeholder.dataset.url;
-            iframe.dataset.game = placeholder.dataset.game;
-            iframe.dataset.desc = placeholder.dataset.desc;
-            iframe.dataset.price = placeholder.dataset.price;
-            iframe.dataset.dev = placeholder.dataset.dev;
-            iframe.dataset.android = placeholder.dataset.android;
-            iframe.dataset.mac = placeholder.dataset.mac;
-            iframe.dataset.pc = placeholder.dataset.pc;
-            iframe.dataset.linux = placeholder.dataset.linux;
-            iframe.dataset.ost = placeholder.dataset.ost;
-
-            placeholder.isLoading = true
-
-            iframe.addEventListener('load', function() {
-                iframe.className = 'shown'
-                iframe.hidden = placeholder.hidden
-                // Remove the placeholder
-                placeholder.parentElement.removeChild(placeholder)
-                // Rebuild the placeholders and verify if they are all transformed to iframes
-                gamesPlaceholders = document.querySelectorAll('span')
-                gamesElements = document.querySelectorAll('span, iframe')
-
-                if (!gamesPlaceholders.length) {
-                    window.removeEventListener('load')
-                }
-            })
-
-            // Insert the iframe
-            placeholder.parentElement.insertBefore(iframe, placeholder)
-        }
-        /**
-         * Detect if an element is in the viewport
-         * @param  {Node}     el  The element which is detected
-         * @return {boolean}      True if the element is in the viewport
-         */
-          , elementInViewport = function(el) {
-            var rect = el.getBoundingClientRect()
-
-            return (
-                rect.top  >= 0 &&
-                rect.left >= 0 &&
-                rect.top  <= (window.innerHeight || document.documentElement.clientHeight)
-            )
-        }
-        /**
-         * Function called each time the user scroll, it detect if the elements are in the viewport
-         * and if so replace them with the corresponding iframe
-         */
-          ,  processScroll = function() {
-            ;[].forEach.call(gamesPlaceholders, function(placeholder) {
-                if (elementInViewport(placeholder) && !placeholder.hidden && !placeholder.isLoading) {
-                    loadIframe(placeholder)
-                }
-            })
-        }
-
-        processScroll()
-        window.addEventListener('scroll', processScroll)
 
         document.querySelector('input').addEventListener('input', function() {
             var value = this.value
