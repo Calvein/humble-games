@@ -155,7 +155,7 @@
             os += (game.Linux == "TRUE" ? '<span class="linux"></span>' : '<span class="nolinux"></span>')
             if(os=="") os = "Unknown";
             
-            var html = "<td><a href=\"http://www.humblebundle.com/store/"+tr.dataset.url+"\">"+tr.dataset.game+"</a></td><td>$"+tr.dataset.price+
+            var html = "<td sorttable_customkey='" + tr.dataset.game + "'><a href=\"http://www.humblebundle.com/store/"+tr.dataset.url+"\">"+tr.dataset.game+"</a></td><td>$"+tr.dataset.price+
             "</td><td>"+os+"</td><td>"+ost+"</td><td>"+tr.dataset.desc;
             tr.innerHTML = html;
             document.getElementById('gametablebody').appendChild(tr)
