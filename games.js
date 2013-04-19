@@ -105,6 +105,15 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
+		"Game":"Bleed",
+		"URL":"bleed?preview=kwKWcrUoVvpM",
+		"Price":"5",
+		"Description":"Get it instantly and DRM free!",
+		"Developer":"Ian Campbell",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+	}
+	{
 		"Game":"Blocks That Matter",
 		"URL":"blocksthatmatter",
 		"Price":"4.99",
@@ -433,6 +442,14 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
+		"Game":"God of Blades",
+		"URL":"godofblades?preview=Sjd92h2nXa",
+		"Price":"4.99",
+		"Description":"Purchase God of Blades and get it instantly for Mac, Windows, and Linux.",
+		"Developer":"White Whale Games",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+	},
+	{
 		"Game":"Gratuitous Space Battles",
 		"URL":"gratuitousspacebattles",
 		"Price":"14.95",
@@ -657,6 +674,14 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"FALSE", "Soundtrack":"FALSE"
 	},
 	{
+		"Game":"Mercenary Kings",
+		"URL":"mercenarykings?preview=sJs83hwnslzh",
+		"Price":"15",
+		"Description":"Pre-order Mercenary Kings now! Receive it the minute it comes out! DRM-free!",
+		"Developer":"Tribite Games",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
+	},
+	{
 		"Game":"Monaco",
 		"URL":"monaco?preview=pending",
 		"fullprice":"15 - sale ends on 23-25 or so",
@@ -762,6 +787,14 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
+		"Game":"Retro/Grade",
+		"URL":"retrograde?preview=Pb1QKoAeVXmk",
+		"Price":"9.99",
+		"Description":"Get Retro/Grade DRM-free and on Steam!",
+		"Developer":"24 Caret Games",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
+	},
+	{
 		"Game":"Retro City Rampage (steam)",
 		"URL":"retrocityrampagesteam",
 		"Price":"14.99",
@@ -855,6 +888,14 @@ var games = [
 		"Price":"9.99",
 		"Description":"Purchase Shatter for Mac, Windows, and Linux, and instantly get it DRM-free!",
 		"Developer":"Sidhe",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+	},
+	{
+		"Game":"Sir, You Are Being Hunted",
+		"URL":"siryouarebeinghunted?preview=Sjd93hwnsk",
+		"Price":"20",
+		"Description":"Pre-order Sir, You Are Being Hunted now and get the game cross-platform and DRM-free upon its release!",
+		"Developer":"Big Robot",
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
