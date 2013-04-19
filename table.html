@@ -125,7 +125,8 @@
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">humble bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
     <input autofocus placeholder="Search is based on the URL, e.g: &quot;Trine&quot;">
     <p><a href="http://www.steamgifts.com/giveaway/1rbHu/">Free, for you</a><a href="https://www.humblebundle.com/?gift=WGFpUBTU2Anr">.</a></p>
-    <table id="gametable"><tr><th>Game</th><th>Price</th><th style="min-width:100px">OS</th><th>OST</th><th>Description</th></tr></table>
+    <p><a href="/humble-games">Original view with frames</a></p>
+    <table id='gametable'><thead><tr><th>Game</th><th>Price</th><th style="min-width:100px">OS</th><th>OST</th><th>Description</th></tr></thead><tbody id="gametablebody"></tbody></table>
 
     <!-- <p><a href="http://steamcommunity.com/groups/humble-games">Steam group</a></p> -->
 </div>
@@ -156,9 +157,11 @@
             var html = "<td><a href=\"http://www.humblebundle.com/store/"+tr.dataset.url+"\">"+tr.dataset.game+"</a></td><td>$"+tr.dataset.price+
             "</td><td>"+os+"</td><td>"+ost+"</td><td>"+tr.dataset.desc;
             tr.innerHTML = html;
-            document.getElementById('gametable').appendChild(tr)
+            document.getElementById('gametablebody').appendChild(tr)
         })
-
+        
+	sorttable.makeSortable(document.getElementById('gametable'));
+	
         var gamesPlaceholders = document.querySelectorAll('tr')
           , gamesElements = document.querySelectorAll('tr')
           
