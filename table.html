@@ -163,8 +163,8 @@
         
 	sorttable.makeSortable(document.getElementById('gametable'));
 	
-        var gamesPlaceholders = document.querySelectorAll('tr')
-          , gamesElements = document.querySelectorAll('tr')
+        var gamesPlaceholders = document.querySelectorAll('tr:not(first-of-type)')
+          , gamesElements = document.querySelectorAll('tr:not(first-of-type)')
           
         document.querySelector('input').addEventListener('input', function() {
             var value = this.value
