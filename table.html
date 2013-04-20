@@ -266,7 +266,7 @@
             document.getElementById('gametablebody').appendChild(tr)
         })
         
-        document.getElementById(location.hash).scrollIntoView();
+        if(location.hash) document.getElementById(location.hash).scrollIntoView();
         
         sorttable.makeSortable(document.getElementById('gametable'));
     
