@@ -186,8 +186,13 @@
             
             var tdnum = document.createElement('td');
                 tdnum.className = 'tdnum';
+                var tdnumlink = document.createElement('a');
+                    tdnumlink.name = '#'+i;
+                    tdnumlink.href = '#'+i;
+                    tdnumlink.id = '#'+i;
+                    tdnumlink.textContent=tr.dataset.num;
                 tdnum.setAttribute('sorttable_customkey', tr.dataset.num);
-                tdnum.textContent=tr.dataset.num;
+                tdnum.appendChild(tdnumlink);
             tr.appendChild(tdnum);
             
             var tdgame = document.createElement('td');
@@ -261,7 +266,9 @@
             document.getElementById('gametablebody').appendChild(tr)
         })
         
-    sorttable.makeSortable(document.getElementById('gametable'));
+        document.getElementById(location.hash).scrollIntoView();
+        
+        sorttable.makeSortable(document.getElementById('gametable'));
     
         var gamesPlaceholders = document.getElementById('gametablebody').querySelectorAll('tr')
           , gamesElements = document.getElementById('gametablebody').querySelectorAll('tr')
