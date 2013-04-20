@@ -112,7 +112,6 @@ var games = [
 		"Developer":"Ian Campbell",
 		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
 	},
-	}
 	{
 		"Game":"Blocks That Matter",
 		"URL":"blocksthatmatter",
