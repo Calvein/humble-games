@@ -27,97 +27,119 @@
         box-shadow: 0 0 2px 1px #5c7f1a;
     }
     
-	td {
-	padding-left:7px;
-	padding-right:7px;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	vertical-align:middle
-	}
-	
+    td {
+        padding-left:5px;
+        padding-right:5px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        vertical-align:middle
+    }
+    .tddesc { text-align:left; }
+    
+    .tdnum {
+        text-align:center;
+        opacity:.25;
+        padding-left:1px;
+        padding-right:0px;
+    }
+    
+    .tdosmac, .tdospc {
+        padding-left:2px;
+        padding-right:2px;
+    }
+    .tdosandroid {
+        padding-right:2px;
+    }
+    .tdoslinux {
+        padding-left:2px;
+    }
+    
+    .ost, .noost {
+        margin-left:2px;
+        margin-right:2px;
+        width: 14px;
+        height: 18px;
+        display: inline-block;
+    }
     .ost {
-		background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAASCAYAAABrXO8xAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVR42rXSvy5EQRTH8c9c14aEKBQI0SgUovEgFJ5E4V08hkbnFXQSiYaIEDYRf8Kydu9oDrnZjC0kTnIykznzPWfOb04yxnLOq1jAIlawHPvZunB5H0vhDYYYxDqMs4+6UGgTr7hrXWx7jZkS+IJnvCOPxBpMYrIE9gL6xAfucYPb8D3kEthETwcppYeCBjVUvwhalaCwCeQSmMck/HlV/QewEdKWAsMxYB9VCRyEt8XYxlYo3UOnBH5+PydsN6CnGIwGqc45d7ATE9MvfPw6ujEU/RiAqToybrQyZnRa4CWmIzaM7zitsBbT0cVj9DBogYe4jkoJ5ziucRWHb61qZ99USukZR6NCpJzzXDQ/HxkvcJJSyv7DvgBpPGOWreAK8wAAAABJRU5ErkJggg==);
-		margin-left:2px;
-		margin-right:2px;
-		width: 14px;
-		height: 18px;
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:center; 
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAASCAYAAABrXO8xAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVR42rXSvy5EQRTH8c9c14aEKBQI0SgUovEgFJ5E4V08hkbnFXQSiYaIEDYRf8Kydu9oDrnZjC0kTnIykznzPWfOb04yxnLOq1jAIlawHPvZunB5H0vhDYYYxDqMs4+6UGgTr7hrXWx7jZkS+IJnvCOPxBpMYrIE9gL6xAfucYPb8D3kEthETwcppYeCBjVUvwhalaCwCeQSmMck/HlV/QewEdKWAsMxYB9VCRyEt8XYxlYo3UOnBH5+PydsN6CnGIwGqc45d7ATE9MvfPw6ujEU/RiAqToybrQyZnRa4CWmIzaM7zitsBbT0cVj9DBogYe4jkoJ5ziucRWHb61qZ99USukZR6NCpJzzXDQ/HxkvcJJSyv7DvgBpPGOWreAK8wAAAABJRU5ErkJggg==);
+    }
+    
+    .android, .noandroid {
+        margin-left:2px;
+        margin-right:0px;
+        width: 13px;
+        height: 18px;
         display: inline-block;
-	}
+    }
     .android {
-		background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAASCAYAAACAa1QyAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVR42q3SPW4UQRAF4K9mB7FgsHEEIiIFCRJCJOTLGETACYgdE5CQcwUO4ASEQCIk4QIgZMkLss3sD0VSg4bxkFHJ66rq1/XzmoFl5p4JG8djlLyJB9jDdXzFe7yOiKN/kZ7ibrkbNLiEDxHxor/XDAgPcQdPcIRjfMM+7lX+70qZeYAdnOIMWfkGu1hExDNoB919wk+sqrXeZriAeR9oM/M5XuE+TrCsKsNuLqLJzNt41OJKDfujKi0ntr4u8mVcbev1Vc2yrPM5qQYbPWnRldPPMybFgLjBsq1DH9hUK2NSMyCu21rvGr8Kp0izwhW6yMxrNc/jwm6CNMcsIl5m5k4bEccl7hts4xa+4wtulOCfa2YRsfjzjSLiY0Qc1voXEfEWC8wj4jAi3p37ewPbKjEVbo0vTJG60k5h53/Yb3Zgc+N3cDjFAAAAAElFTkSuQmCC);
-		margin-left:2px;
-		margin-right:2px;
-		width: 13px;
-		height: 18px;
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:center; 
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAASCAYAAACAa1QyAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVR42q3SPW4UQRAF4K9mB7FgsHEEIiIFCRJCJOTLGETACYgdE5CQcwUO4ASEQCIk4QIgZMkLss3sD0VSg4bxkFHJ66rq1/XzmoFl5p4JG8djlLyJB9jDdXzFe7yOiKN/kZ7ibrkbNLiEDxHxor/XDAgPcQdPcIRjfMM+7lX+70qZeYAdnOIMWfkGu1hExDNoB919wk+sqrXeZriAeR9oM/M5XuE+TrCsKsNuLqLJzNt41OJKDfujKi0ntr4u8mVcbev1Vc2yrPM5qQYbPWnRldPPMybFgLjBsq1DH9hUK2NSMyCu21rvGr8Kp0izwhW6yMxrNc/jwm6CNMcsIl5m5k4bEccl7hts4xa+4wtulOCfa2YRsfjzjSLiY0Qc1voXEfEWC8wj4jAi3p37ewPbKjEVbo0vTJG60k5h53/Yb3Zgc+N3cDjFAAAAAElFTkSuQmCC);
+    }
+    
+    .mac, .nomac {
+        margin-left:0px;
+        margin-right:0px;
+        width: 14px;
+        height: 18px;
         display: inline-block;
-	}
+    }
     .mac {
-		background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAASCAYAAABrXO8xAAAACXBIWXMAAAsTAAALEwEAmpwYAAABTklEQVR42qXSv2qUQRQF8N/98mlM/ANaGEFBUlimsLAVQRHyAj6Hr+Ij2KTLO2iRxlKEgCArKFhEhURds9nNXpu7MC67uODAYYY5c+acuXNZYWRml5k3271uBdED7OHpysLM3MZzTHDQcv0/DB/iDPsRMWiJmHO4jns4iohBZu7gR9G3cRgR3/8SZuYz7CIL3/AB27iEi9jAe7zoS/QEj/C1oinxHYxwWvXYqL27fWZ2eFwOPzGee0Y2hZzgZUQc9rhVxAmGOF9SqAsYRcS7WVWvleB3xcoFoqizo/Y7hvWucRNzkfAcNzJzPSJGHb6UYFLkZAnOat6FPiLGmfkZV4pYFhV+YSczr85a7g3Waj0t5xYzx2E1xHEPEfExM49wuWJPF7hO64IhXrVN/rqpXldYK8zWPQ4i4mS+V7dwH+v4hGNs1l9vYhARb/3P+ANXIoE6tehd/wAAAABJRU5ErkJggg==);
-		margin-left:2px;
-		margin-right:2px;
-		width: 14px;
-		height: 18px;
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:center; 
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAASCAYAAABrXO8xAAAACXBIWXMAAAsTAAALEwEAmpwYAAABTklEQVR42qXSv2qUQRQF8N/98mlM/ANaGEFBUlimsLAVQRHyAj6Hr+Ij2KTLO2iRxlKEgCArKFhEhURds9nNXpu7MC67uODAYYY5c+acuXNZYWRml5k3271uBdED7OHpysLM3MZzTHDQcv0/DB/iDPsRMWiJmHO4jns4iohBZu7gR9G3cRgR3/8SZuYz7CIL3/AB27iEi9jAe7zoS/QEj/C1oinxHYxwWvXYqL27fWZ2eFwOPzGee0Y2hZzgZUQc9rhVxAmGOF9SqAsYRcS7WVWvleB3xcoFoqizo/Y7hvWucRNzkfAcNzJzPSJGHb6UYFLkZAnOat6FPiLGmfkZV4pYFhV+YSczr85a7g3Waj0t5xYzx2E1xHEPEfExM49wuWJPF7hO64IhXrVN/rqpXldYK8zWPQ4i4mS+V7dwH+v4hGNs1l9vYhARb/3P+ANXIoE6tehd/wAAAABJRU5ErkJggg==);
+    }
+    
+    .pc, .nopc {
+        margin-left:0px;
+        margin-right:0px;
+        width: 18px;
+        height: 16px;
         display: inline-block;
-	}
+    }
     .pc {
-		background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlUlEQVR42rXTzWoTQBQF4O+mqZY00Cr+UNCCooiKQlcufIJuRF0KvoAv4msogms3PoHgRje6MEpqMYhu/Lc/SZo24+ZGxqDdOZth7r1zzrl3zoRqlVIWcB1XcAwbeI1HEfHGPiumgG7iBvrYy/xBbOEuvkZE/29AzanzeXzDNnYxk0DPcQ0rpZTH+IIWTuIM7jUrNW0s4UelqJn7C9xO8FU0Um0DO+jWii5hgCFGKFncz9g41U7igQN4FRHjGuhiMm7gO44n4zpOJeAoFcq2W3g5PaOneJYFBT0sp5KrCTJMssBsxjq/gUopS7iVAMOKsYeHuICF6qUj852I2KoVXc59I1km/S/iND7gCQ7jCD5jDu//8FEp5Q7a2EzpjSzsYD5tMcKnvHMo6x9ExDo0SinzybKZxtvO1xugm5aYxOfSV7sZe1cb8lw1xFINf6eywWaVb2S+FxHjGmg5W/iYrC2cxU+cSJJhAk/uzGLtn3+tcvlMvtJqttJPoMnfa+N+RAz2BaoAF7GCo6liL83ajYi3/sf6BQTtiSVI98c6AAAAAElFTkSuQmCC);
-		margin-left:2px;
-		margin-right:2px;
-		width: 18px;
-		height: 16px;
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:center; 
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlUlEQVR42rXTzWoTQBQF4O+mqZY00Cr+UNCCooiKQlcufIJuRF0KvoAv4msogms3PoHgRje6MEpqMYhu/Lc/SZo24+ZGxqDdOZth7r1zzrl3zoRqlVIWcB1XcAwbeI1HEfHGPiumgG7iBvrYy/xBbOEuvkZE/29AzanzeXzDNnYxk0DPcQ0rpZTH+IIWTuIM7jUrNW0s4UelqJn7C9xO8FU0Um0DO+jWii5hgCFGKFncz9g41U7igQN4FRHjGuhiMm7gO44n4zpOJeAoFcq2W3g5PaOneJYFBT0sp5KrCTJMssBsxjq/gUopS7iVAMOKsYeHuICF6qUj852I2KoVXc59I1km/S/iND7gCQ7jCD5jDu//8FEp5Q7a2EzpjSzsYD5tMcKnvHMo6x9ExDo0SinzybKZxtvO1xugm5aYxOfSV7sZe1cb8lw1xFINf6eywWaVb2S+FxHjGmg5W/iYrC2cxU+cSJJhAk/uzGLtn3+tcvlMvtJqttJPoMnfa+N+RAz2BaoAF7GCo6liL83ajYi3/sf6BQTtiSVI98c6AAAAAElFTkSuQmCC);
+    }
+    
+    .linux, .nolinux {
+        margin-left:0px;
+        margin-right:2px;
+        min-width: 13px;
+        height: 16px;
         display: inline-block;
-	}
+    }
     .linux {
-		background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAYAAADNo/U5AAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVR42p3Sz4vNcRTG8de57pgxErox+ZEFZaNYMEXJSpTt/S/8WfInWJudraIohUhZTLnCXFw/HpuzmPnOsHCW55znvJ/zOZ8yiCQT3MVlbOBeVc2294zsjms4jw8tnA4bxgPKCMt4geqhR5KsVNW3PUlV9Ruf8RFb+IofWPorqeMAzrRg3IK1HrablKTa1nM8xgN8x9V/kW7gF+633UWSo7iV5FVVPdpBSnIQd/CsqhZVtejS67a6nuTE0N4VzKrq5YD+Hk9wrHfdIbrZRYMXneFN7zoZilaxuccPWcMFLNqmcZKLWMcn3E5yqKoebtNN2tockyTLI1zH8f42c1xKsm+baK0PvYVzmI47uYkvfYLDmCZZacp+zPoUS3hbSVZxFqdwund72tSfnT+Jd9ioqrn/iT/dVmdi5TWL2wAAAABJRU5ErkJggg==);
-		margin-left:2px;
-		margin-right:2px;
-		width: 13px;
-		height: 16px;
-        display: inline-block;
-	}
-	.noandroid {
-		margin-left:2px;
-		margin-right:2px;
-		width: 13px;
-		height: 18px;
-        display: inline-block;
-	}
-    .nomac {
-		margin-left:2px;
-		margin-right:2px;
-		width: 14px;
-		height: 18px;
-        display: inline-block;
-	}
-    .nopc {
-		margin-left:2px;
-		margin-right:2px;
-		width: 18px;
-		height: 16px;
-        display: inline-block;
-	}
-    .nolinux {
-		margin-left:2px;
-		margin-right:2px;
-		width: 13px;
-		height: 16px;
-        display: inline-block;
-	}
-	/*
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:center; 
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAYAAADNo/U5AAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVR42p3Sz4vNcRTG8de57pgxErox+ZEFZaNYMEXJSpTt/S/8WfInWJudraIohUhZTLnCXFw/HpuzmPnOsHCW55znvJ/zOZ8yiCQT3MVlbOBeVc2294zsjms4jw8tnA4bxgPKCMt4geqhR5KsVNW3PUlV9Ruf8RFb+IofWPorqeMAzrRg3IK1HrablKTa1nM8xgN8x9V/kW7gF+633UWSo7iV5FVVPdpBSnIQd/CsqhZVtejS67a6nuTE0N4VzKrq5YD+Hk9wrHfdIbrZRYMXneFN7zoZilaxuccPWcMFLNqmcZKLWMcn3E5yqKoebtNN2tockyTLI1zH8f42c1xKsm+baK0PvYVzmI47uYkvfYLDmCZZacp+zPoUS3hbSVZxFqdwund72tSfnT+Jd9ioqrn/iT/dVmdi5TWL2wAAAABJRU5ErkJggg==);
+    }
+    
+    /*
      I don't see anything wrong with using !important here, deal with it
-     (•_•)			()=()
-     ( •_•)>¬¦-¦	(^;^)
-     (¬¦_¦)			C   C
-					()_()	Teddy will hunt you down for this. */
+     (•_•)            ()=()
+     ( •_•)>¬¦-¦    (^;^)
+     (¬¦_¦)            C   C
+                    ()_()    Teddy will hunt you down for this. */
     [hidden] {
         display: none !important;
     }
 
-	#gametable {
-	min-width: 600px;
-	max-width:95%;
-	display:block;
-	}
+    #gametable {
+    min-width: 600px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display:block;
+    }
     </style>
     <script src="sorttable.js"></script>
 </head>
@@ -127,7 +149,18 @@
     <input autofocus placeholder="Search is based on the URL, e.g: &quot;Trine&quot;">
     <p><a href="http://www.steamgifts.com/giveaway/1rbHu/">Free, for you</a><a href="https://www.humblebundle.com/?gift=WGFpUBTU2Anr">.</a></p>
     <p><a href="/humble-games">Original view with frames</a></p>
-    <table id='gametable'><thead><tr><th>Game</th><th>Price</th><th style="min-width:100px">OS</th><th>OST</th><th>Description</th></tr></thead><tbody id="gametablebody"></tbody></table>
+    <table id='gametable'><thead><tr>
+        <td class="tdnum">&num;</td>
+        <th>Game</th>
+        <th>Price</th>
+        <th><span class="android"></span></th>
+        <th><span class="mac"></span></th>
+        <th><span class="pc"></span></th>
+        <th><span class="linux"></span></th>
+        <th><span class="ost"></span></th>
+        <th>Developer</th>
+        <th>Description</th>
+    </tr></thead><tbody id="gametablebody"></tbody></table>
 
     <!-- <p><a href="http://steamcommunity.com/groups/humble-games">Steam group</a></p> -->
 </div>
@@ -135,36 +168,103 @@
     <script>
     !function() {
         // Add spans placeholders for the lazy-load
+        var i=0;
         games.forEach(function(game) {
+            i++
             var tr = document.createElement('tr')
+            tr.dataset.num = i
             tr.dataset.game = game.Game
             tr.dataset.url = game.URL
             tr.dataset.desc = game.Description
             tr.dataset.price = game.Price
             tr.dataset.dev = game.Developer
-            tr.dataset.android = ( game.Android == "TRUE" ? true : false )
-            tr.dataset.mac = ( game.Mac == "TRUE" ? true : false )
-            tr.dataset.pc = ( game.PC == "TRUE" ? true : false )
-            tr.dataset.linux = ( game.Linux == "TRUE" ? true : false )
-            tr.dataset.ost = ( game.Soundtrack == "TRUE" ? true : false )
+            tr.dataset.android = ( game.Android == "TRUE" ? "0" : "1" )
+            tr.dataset.mac = ( game.Mac == "TRUE" ? "0" : "1" )
+            tr.dataset.pc = ( game.PC == "TRUE" ? "0" : "1" )
+            tr.dataset.linux = ( game.Linux == "TRUE" ? "0" : "1" )
+            tr.dataset.ost = ( game.Soundtrack == "TRUE" ? "0" : "1" )
             
-            var ost = (game.Soundtrack == "TRUE" ? "<span class='ost'></span>": "")
-            var os = (game.Android == "TRUE" ? '<span class="android"></span>' : '<span class="noandroid"></span>')
-            os += (game.Mac == "TRUE" ? '<span class="mac"></span>' : '<span class="nomac"></span>')
-            os += (game.PC == "TRUE" ? '<span class="pc"></span>' : '<span class="nopc"></span>')
-            os += (game.Linux == "TRUE" ? '<span class="linux"></span>' : '<span class="nolinux"></span>')
-            if(os=="") os = "Unknown";
+            var tdnum = document.createElement('td');
+                tdnum.className = 'tdnum';
+                tdnum.setAttribute('sorttable_customkey', tr.dataset.num);
+                tdnum.textContent=tr.dataset.num;
+            tr.appendChild(tdnum);
             
-            var html = "<td sorttable_customkey='" + tr.dataset.game + "'><a href=\"http://www.humblebundle.com/store/"+tr.dataset.url+"\">"+tr.dataset.game+"</a></td><td>$"+tr.dataset.price+
-            "</td><td>"+os+"</td><td>"+ost+"</td><td>"+tr.dataset.desc;
-            tr.innerHTML = html;
+            var tdgame = document.createElement('td');
+                tdgame.className = 'tdgame';
+                tdgame.setAttribute('sorttable_customkey', tr.dataset.game);
+                var tdgameurl = document.createElement('a');
+                    tdgameurl.href=tr.dataset.url;
+                    tdgameurl.textContent=tr.dataset.game;
+                tdgame.appendChild(tdgameurl);
+            tr.appendChild(tdgame);
+            
+            var tdprice = document.createElement('td');
+                tdprice.className = 'tdprice';
+                tdprice.setAttribute('sorttable_customkey', tr.dataset.price);
+                tdprice.setAttribute('class','tdprice');
+                tdprice.textContent='$' + tr.dataset.price;
+            tr.appendChild(tdprice);
+            
+            var tdosandroid = document.createElement('td');
+                tdosandroid.className = 'tdosandroid';
+                tdosandroid.setAttribute('sorttable_customkey', tr.dataset.android);
+                var tdosandroidbg = document.createElement('span');
+                    tdosandroidbg.className = (game.Android == "TRUE" ? 'android' : 'noandroid');
+                tdosandroid.appendChild(tdosandroidbg);
+            tr.appendChild(tdosandroid);
+            
+            var tdosmac = document.createElement('td');
+                tdosmac.className = 'tdosmac';
+                tdosmac.setAttribute('sorttable_customkey', tr.dataset.mac);
+                var tdosmacbg = document.createElement('span');
+                    tdosmacbg.className = (game.Mac == "TRUE" ? 'mac' : 'nomac');
+                tdosmac.appendChild(tdosmacbg);
+            tr.appendChild(tdosmac);
+            
+            var tdospc = document.createElement('td');
+                tdospc.className = 'tdospc';
+                tdospc.setAttribute('sorttable_customkey', tr.dataset.pc);
+                var tdospcbg = document.createElement('span');
+                    tdospcbg.className = (game.PC == "TRUE" ? 'pc' : 'nopc');
+                tdospc.appendChild(tdospcbg);
+            tr.appendChild(tdospc);
+            
+            var tdoslinux = document.createElement('td');
+                tdoslinux.className = 'tdoslinux';
+                tdoslinux.setAttribute('sorttable_customkey', tr.dataset.linux);
+                var tdoslinuxbg = document.createElement('span');
+                    tdoslinuxbg.className = (game.Linux == "TRUE" ? 'linux' : 'nolinux');
+                tdoslinux.appendChild(tdoslinuxbg);
+            tr.appendChild(tdoslinux);
+            
+            var tdost = document.createElement('td');
+                tdost.className = 'tdost';
+                tdost.setAttribute('sorttable_customkey', tr.dataset.ost);
+                var tdostbg = document.createElement('span');
+                    tdostbg.className = (game.Soundtrack == "TRUE" ? 'ost' : 'noost');
+                tdost.appendChild(tdostbg);
+            tr.appendChild(tdost);
+            
+            var tddev = document.createElement('td');
+                tddev.className = 'tddev';
+                tddev.setAttribute('sorttable_customkey', tr.dataset.dev);    
+                tddev.textContent = tr.dataset.dev;
+            tr.appendChild(tddev);
+            
+            var tddesc = document.createElement('td');
+                tddesc.className = 'tddesc';
+                tddesc.setAttribute('sorttable_customkey', tr.dataset.desc);
+                tddesc.textContent = tr.dataset.desc;
+            tr.appendChild(tddesc);
+
             document.getElementById('gametablebody').appendChild(tr)
         })
         
-	sorttable.makeSortable(document.getElementById('gametable'));
-	
-        var gamesPlaceholders = document.querySelectorAll('tr:not(first-of-type)')
-          , gamesElements = document.querySelectorAll('tr:not(first-of-type)')
+    sorttable.makeSortable(document.getElementById('gametable'));
+    
+        var gamesPlaceholders = document.getElementById('gametablebody').querySelectorAll('tr')
+          , gamesElements = document.getElementById('gametablebody').querySelectorAll('tr')
           
         document.querySelector('input').addEventListener('input', function() {
             var value = this.value
