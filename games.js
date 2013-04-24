@@ -361,6 +361,15 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
+		"Game":"Dyad",
+		"URL":"dyad?preview=7HNqZDJtFsa9",
+		"Price":"14.99",
+		"Description":"Get Dyad 100% DRM-Free. Windows only for now. Mac and Linux coming soon!",
+		"Developer":"Klei Entertainment",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"SOON", "Linux":"SOON", "Soundtrack":"FALSE",
+		"Notes":"Link found at pcgamingwiki"
+	},
+	{
 		"Game":"Eets",
 		"URL":"eets",
 		"Price":"9.99",
@@ -391,6 +400,15 @@ var games = [
 		"Description":"Purchase Escape Goat and get it instantly for Windows, DRM-free!",
 		"Developer":"MagicalTimeBean",
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"FALSE", "Soundtrack":"TRUE"
+	},
+	{
+		"Game":"Fez",
+		"URL":"fez",
+		"Price":"9.99",
+		"Description":"Preorder Fez for Windows DRM-free!",
+		"Developer":"Polytron Corporation",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE",
+		"Notes":"Link found at pcgamingwiki"
 	},
 	{
 		"Game":"Flotilla",
