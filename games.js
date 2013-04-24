@@ -300,7 +300,7 @@ var games = [
 		"Game":"Don't Starve",
 		"URL":"dontstarve_standalone?preview=mtcdbvdg",
 		"Price":"13.49",
-		"Description":"Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly! - Get an extra copy with your purchase - Redeem it on Steam!",
+		"Description":"Get Don't Starve Instantly! Free regular updates & new content. Play on Steam, Chrome & Stand-Alone!",
 		"Developer":"Klei Entertainment",
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
