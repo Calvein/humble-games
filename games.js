@@ -561,6 +561,15 @@ var games = [
 		"Android":"TRUE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
+		"Game":"Kinetic Void",
+		"URL":"kineticvoid?preview=GTvPgrgrOIxD",
+		"Price":"19.99",
+		"Description":"Pre-order Kinetic Void Now! All pre-orders will receive a Steam activation key.",
+		"Developer":"Badland Studio",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"FALSE", "Soundtrack":"FALSE",
+		"Notes":"Was on kickstarter"
+	},
+	{
 		"Game":"Kentucky Route Zero Complete",
 		"URL":"kentuckyroutezerocomplete?preview=SjdoA63jSnz",
 		"Price":"25",
