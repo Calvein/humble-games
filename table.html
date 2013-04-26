@@ -199,7 +199,7 @@
                 tdgame.className = 'tdgame';
                 tdgame.setAttribute('sorttable_customkey', tr.dataset.game);
                 var tdgameurl = document.createElement('a');
-                    tdgameurl.href=tr.dataset.url;
+                    tdgameurl.href="http://www.humblebundle.com/store/"+tr.dataset.url;
                     tdgameurl.textContent=tr.dataset.game;
                 tdgame.appendChild(tdgameurl);
             tr.appendChild(tdgame);
