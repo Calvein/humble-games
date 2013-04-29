@@ -40,6 +40,14 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"TRUE"
 	},
 	{
+		"Game":"Anomaly 2",
+		"URL":"anomaly2?preview=sS9bbgjShdJ",
+		"Price":"13.49",
+		"Description":"Pre-order Anomaly 2 at 10% off! Get a Steam key for yourself and an extra copy for your friend + get a gaming gift on the launch day 05/15/2013.",
+		"Developer":"11 bit studios",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+	},
+	{
 		"Game":"Atom Zombie Smasher",
 		"URL":"atomzombiesmasher",
 		"Price":"15",
