@@ -718,19 +718,18 @@ var games = [
 	{
 		"Game":"Monaco",
 		"URL":"monaco?preview=pending",
-		"fullprice":"15 - sale ends on 23-25 or so",
-		"Price":"13.50",
-		"Description":"Pre-order Monaco: What's Yours Is Mine and receive it instantly once the game is out!",
+		"Price":"15",
+		"Description":"Purchase Monaco: What's Yours Is Mine and receive it instantly on Steam and DRM-free!",
 		"Developer":"Pocketwatch Games",
-		"Android":"FALSE", "PC":"FALSE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Monaco 4-pack",
-		"URL":"monaco4pack?preview=pending",
+		"URL":"monaco_4pack",
 		"Price":"45",
-		"Description":"Pre-order the Monaco: What's Yours Is Mine 4 pack and receive it instantly once the game is out!",
+		"Description":"Purchase the Monaco: What's Yours Is Mine 4 pack and receive it instantly on Steam and DRM-free!",
 		"Developer":"Pocketwatch Games",
-		"Android":"FALSE", "PC":"FALSE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
+		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"FALSE"
 	},
 	{
 		"Game":"Noitu Love 2 Devolution",
