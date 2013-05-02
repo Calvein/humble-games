@@ -1035,15 +1035,6 @@ var games = [
 	},
 
 	{
-		"Game":"Starbound (Platinum Tier)",
-		"URL":"starbound_tier5?preview=4uQR712V5n",
-		"Price":"500",
-		"Description":"Starbound Beta (when available) + Soundtrack + forum badge + name an NPC + name in credits + design a hat",
-		"Developer":"Chucklefish",
-		"Android":"FALSE", "PC":"TRUE", "Mac":"FALSE", "Linux":"FALSE", "Soundtrack":"TRUE"
-	},
-
-	{
 		"Game":"Starbound (Solarium Tier)",
 		"URL":"starbound_tier6?preview=4uQR712V5n",
 		"Price":"1000",
