@@ -1068,6 +1068,14 @@ var games = [
 		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
 	},
 	{
+		"Game":"Super Splatters",
+		"URL":"supersplatters?preview=swDZivGKrr3g",
+		"Price":"10",
+		"Description":"Pre-order Super Splatters now and receive it instantly once the game is out!",
+		"Developer":"SpikySnail",
+		"Android":"FALSE", "PC":"TRUE", "Mac":"TRUE", "Linux":"TRUE", "Soundtrack":"FALSE"
+	},
+	{
 		"Game":"Superbrothers: Sword and Sworcery EP",
 		"URL":"swordandsworcery",
 		"Price":"7.99",
