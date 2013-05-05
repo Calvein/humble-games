@@ -37,36 +37,29 @@
         background: red;
     }
 
-    span,
-    iframe.shown {
-        display: inline-block;
-        width: 550px;
-        height: 264px;
+    .hidden,
+    .shown {
+        transition: opacity .3s ease-in-out;
+    }
+
+    .shown {
         opacity: 1;
     }
 
-    /*
-     I don't see anything wrong with using !important here, deal with it
-     (•_•)
-     ( •_•)>¬■-■
-     (¬■_■)
-    */
-    [hidden] {
-        display: none !important;
-    }
-
-    span {
-        background: no-repeat center center url(img/loader.gif);
-        opacity: .3;
-    }
-
-    iframe {
+    .hidden {
         width: 0;
         height: 0;
-        border: 0;
         opacity: 0;
-        -webkit-transition: opacity .3s ease-in-out;
-                transition: opacity .3s ease-in-out;
+    }
+
+    span,
+    iframe {
+        display: inline-block;
+        width: 550px;
+        height: 264px;
+        border: 0;
+        background: no-repeat center center url(img/loader.gif);
+        opacity: .3;
     }
 
     footer {
@@ -88,11 +81,17 @@
 
     <main></main>
 
-    <footer>Thanks to <strong></strong> for their contributions.</footer>
+    <footer class="hidden">Thanks to <strong></strong> for their contributions.</footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="games.js"></script>
     <script>
+    /**
+     * @TODO
+     * check avec bonne connexion
+     * message quand rien
+     * couleur de .active
+     */
     $(function() {
         // Add spans placeholders for the lazy-load
         var $container = $('main')
@@ -110,6 +109,7 @@
          */
           , loadIframe = function($placeholder) {
             var $iframe = $('<iframe>')
+                .addClass('hidden')
                 .attr('src', url + $placeholder.data('url'))
                 .data($placeholder.data())
 
@@ -118,7 +118,7 @@
             $iframe.on('load', function() {
                 $iframe
                     .addClass('shown')
-                    .prop('hidden', $placeholder.prop('hidden'))
+                    .toggleClass('hidden', $placeholder.hasClass('hidden'))
 
                 // Remove the placeholder
                 $placeholder.remove()
@@ -127,7 +127,8 @@
                 $gamesElements = $('span, iframe', $container)
 
                 if (!$gamesPlaceholders.length) {
-                    window.off('scroll')
+                    $(window).off('scroll')
+                    processScroll = function() {}
                 }
             })
 
@@ -155,8 +156,7 @@
           ,  processScroll = function() {
             $gamesPlaceholders.each(function(i, placeholder) {
                 var $placeholder = $(placeholder)
-                console.log($gamesPlaceholders.length, elementInViewport(placeholder), !placeholder.hidden, !$placeholder.data('isLoading'))
-                if (elementInViewport(placeholder) && !placeholder.hidden && !$placeholder.data('isLoading')) {
+                if (elementInViewport(placeholder) && !$placeholder.hasClass('hidden') && !$placeholder.data('isLoading')) {
                     loadIframe($placeholder)
                 }
             })
@@ -165,51 +165,66 @@
         processScroll()
         $(window).on('scroll', processScroll)
 
-        // On search
-        $('input').on('input', function() {
-            var value = this.value
-            $gamesElements.each(function(i, placeholder) {
-                var $placeholder = $(placeholder)
-                  , isShown = true
-                if (new RegExp(value, 'i').test($placeholder.data('url')))
-                    isShown = false
-                else if (new RegExp(value, 'i').test($placeholder.data('description')))
-                    isShown = false
-                else if (new RegExp(value, 'i').test($placeholder.data('name')))
-                    isShown = false
-                else if (new RegExp(value, 'i').test($placeholder.data('developer')))
-                    isShown = false
-
-                $placeholder.prop('hidden', isShown)
-            })
-            processScroll()
-        })
-
-        // On filter by platform
-        var $filters = $('.filters a')
-        $filters.on('click', function() {
+        /**
+         * On filter with the input or the platforms buttons
+         *
+         * @param  {Event}  e  The event
+         */
+        var filter = function(e) {
             e.preventDefault()
-            var platform = this.hash.slice(1)
 
-            $gamesElements.each(function(i, $placeholder) {
-                a = $placeholder.data().platform[platform]
-                console.log(a)
+            var value = $input.val()
+
+            $(this).toggleClass('active')
+            var platforms = $filters.filter('.active').map(function() {
+                return this.hash.slice(1)
+            }).get()
+
+            $gamesElements.each(function(i, placeholder) {
+                // By input
+                var $placeholder = $(placeholder)
+                  , nameMatched = false
+                if (new RegExp(value, 'i').test($placeholder.data('url')))
+                    nameMatched = true
+                else if (new RegExp(value, 'i').test($placeholder.data('description')))
+                    nameMatched = true
+                else if (new RegExp(value, 'i').test($placeholder.data('name')))
+                    nameMatched = true
+                else if (new RegExp(value, 'i').test($placeholder.data('developer')))
+                    nameMatched = true
+
+                // By platforms
+                var supportedPlatforms = $placeholder.data('platform')
+                  , supportFilters = platforms.every(function(platform) {
+                    return supportedPlatforms[platform]
+                })
+
+                console.log(nameMatched, supportFilters)
+                $placeholder.toggleClass('hidden', !(nameMatched && supportFilters))
             })
+
             processScroll()
-        })
+        }
+
+        var $input = $('input')
+          , $filters = $('.filters a')
+        $input.on('input', filter)
+        $filters.on('click', filter)
 
 
         // Show the contributors, thanks by the way
         $.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
         .done(function(response) {
-            $('footer > strong').html(function() {
-                return response.map(function(contributor) {
-                    return $('<a>')
-                        .attr('href', contributor.html_url)
-                        .text(contributor.login)
-                        .html()
-                    }).join(', ')
-            })
+            $('footer')
+                .find('strong').html(function() {
+                    return response.map(function(contributor) {
+                        return $('<a>')
+                            .attr('href', contributor.html_url)
+                            .text(contributor.login)
+                            .html()
+                        }).join(', ')
+                }).end()
+            .toggleClass('hidden shown')
         })
     })
     </script>
