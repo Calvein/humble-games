@@ -81,7 +81,9 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
-        }
+        },
+        "sale": true,
+        "Notes": "Preorder sale ends may 15, link may change then. regular price is $14.99"
     },
     {
         "name": "Atom Zombie Smasher",
@@ -952,7 +954,9 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
-        }
+        },
+        "sale": true,
+        "Notes": "Sale ends around may 26th, regular price is $14.99"
     },
     {
         "name": "Intrusion 2",
@@ -1883,7 +1887,7 @@ var games = [
     {
         "name": "Super Splatters",
         "url": "supersplatters?preview=swDZivGKrr3g",
-        "price": "10",
+        "price": "7",
         "description": "Pre-order Super Splatters now and receive it instantly once the game is out!",
         "developer": "SpikySnail",
         "platform": {
@@ -1892,7 +1896,9 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
-        }
+        },
+        "sale": true,
+        "Notes": "Sale ends around ??? unknown, regular price is $10"
     },
     {
         "name": "Superbrothers: Sword and Sworcery EP",
@@ -1925,7 +1931,7 @@ var games = [
     {
         "name": "Talisman Prologue: Standard Edition",
         "url": "talismanprologuestandardedition?preview=hTHvuxEBSNCy",
-        "price": "10",
+        "price": "4.99",
         "description": "Get Talisman Prologue instantly, DRM-free!",
         "developer": "Nomad Games",
         "platform": {
@@ -1934,12 +1940,14 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
-        }
+        },
+        "sale": true,
+        "Notes": "Sale ends around may 26th, regular price is $10"
     },
     {
         "name": "Talisman Prologue: Premium Edition",
         "url": "talismanprologuepremiumedition?preview=hTHvuxEBSNCy",
-        "price": "12.99",
+        "price": "6.49",
         "description": "Get Talisman Prologue instantly, DRM-free. Premium Edition comes with a soundtrack and theme pack!",
         "developer": "Nomad Games",
         "platform": {
@@ -1948,7 +1956,9 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": true
-        }
+        },
+        "sale": true,
+        "Notes": "Sale ends around may 26th, regular price is $12.99"
     },
     {
         "name": "The Adventures of Shuggy",
