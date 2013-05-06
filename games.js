@@ -1628,6 +1628,34 @@ var games = [
         }
     },
     {
+        "name": "Skullgirls Backer",
+        "url": "skullgirlsbacker?preview=Sjd92hsnzc",
+        "price": "36",
+        "description": "Support Skullgirls and get a digital copy of the OST now, plus an exclusive wallpaper pack, Steam beta key, and Steam game key when they're ready!",
+        "developer": "Lab Zero Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        }
+    },
+    {
+        "name": "Skullgirls Well-wisher",
+        "url": "skullgirlswellwisher?preview=Sjd92hsnzc",
+        "price": "81",
+        "description": "Get a digital OST, digital sketchbook and Half Minute Hero Steam key now, and a Steam beta + game key and digital art compendium when they're ready!",
+        "developer": "Lab Zero Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        }
+    },
+    {
         "name": "Snapshot",
         "url": "snapshotthegame?preview=pending",
         "price": "9.99",
