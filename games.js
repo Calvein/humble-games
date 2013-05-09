@@ -651,12 +651,12 @@ var games = [
         "url": "dyad?preview=7HNqZDJtFsa9",
         "price": "14.99",
         "description": "Get Dyad 100% DRM-Free. Windows only for now. Mac and Linux coming soon!",
-        "developer": "Klei Entertainment",
+        "developer": "][ Games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": "SOON",
-            "mac": "SOON",
+            "linux": false,
+            "mac": false,
             "audio": false
         },
         "Notes": "Link found at pcgamingwiki"
@@ -967,7 +967,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": false,
             "audio": false
         }
@@ -1037,7 +1037,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -1366,7 +1366,7 @@ var games = [
         }
     },
     {
-        "name": "Potatoman Seeks the Troof",
+        "name": "Potatoman Seeks the Troof Bundle",
         "url": "potatomanseeksthetroofbundle?preview=S93sdhSDFbx",
         "price": "5",
         "description": "Purchase the bundle and get Potatoman for Windows, Mac, and Linux as well as the soundtrack, all DRM-free!",
@@ -1486,22 +1486,22 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": false
         }
     },
     {
-        "name": "Riot",
+        "name": "RIOT",
         "url": "riot?preview=mnRfbE8zGvpF",
         "price": "10",
         "description": "Pre-order RIOT and download it instantly as soon as it gets released! Cross-platform and DRM-free.",
         "developer": "Team RIOT",
         "platform": {
             "android": true,
-            "windows": false,
-            "linux": false,
-            "mac": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
             "audio": false
         }
     },
@@ -1541,9 +1541,9 @@ var games = [
         "developer": "Coffee Stain Studios",
         "platform": {
             "android": false,
-            "windows": false,
+            "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         }
     },
@@ -1753,8 +1753,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         }
     },
@@ -1767,8 +1767,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         }
     },
@@ -1781,8 +1781,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         }
     },
@@ -1795,8 +1795,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         }
     },
@@ -1809,8 +1809,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         }
     },
@@ -1823,8 +1823,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         }
     },
@@ -1837,8 +1837,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         }
     },
@@ -1851,8 +1851,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         }
     },
@@ -1983,8 +1983,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": false
         }
     },
@@ -2081,9 +2081,9 @@ var games = [
         "developer": "Frozenbyte",
         "platform": {
             "android": false,
-            "windows": false,
-            "linux": false,
-            "mac": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
             "audio": false
         }
     },
@@ -2183,7 +2183,8 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
-        }
+        },
+        "Notes": "The frame shows an Android icon, but neither the description nor the game site confirms you'll get the Android version purchasing the game at the Humble Store."
     },
     {
         "name": "Waveform",
