@@ -12,7 +12,7 @@ file and INSERT the following, where the url fragment is http://www.humblebundle
         "price": PRICE (without currency),
         "description": DESCRIPTION,
         "developer": DEVELOPER,
-        "plateform": {
+        "platform": {
             "android": true/false,
             "linux": true/false,
             "windows": true/false,
