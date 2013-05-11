@@ -283,6 +283,50 @@ var games = [
         }
     },
     {
+        "name": "Chasm - Bronze",
+        "url": "chasm_bronze?preview=wyr5mV9sPvVd",
+        "price": "15",
+        "description": "Pre-order Chasm now! Cross-platform and DRM-free. Available May 2014.",
+        "developer": "Discord Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        }
+    },
+    {
+        "name": "Chasm - Silver",
+        "url": "chasm_silver?preview=Ydh7shJsh4Nkl",
+        "price": "25",
+        "description": "Pre-order Chasm now! Cross-platform and DRM-free. Available May 2014.",
+        "developer": "Discord Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "Notes": "Comes with early alpha access, access to the developers' forum and a digital soundtrack."
+    },
+    {
+        "name": "Chasm - Gold",
+        "url": "chasm_gold?preview=ksh8DhjFie9syn",
+        "price": "45",
+        "description": "Pre-order Chasm now! Cross-platform and DRM-free. Available May 2014.",
+        "developer": "Discord Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "Notes": "Comes with early alpha access, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits."
+    },
+    {
         "name": "Chivalry: Medieval Warfare",
         "url": "chivalrymedievalwarfare",
         "price": "24.99",
