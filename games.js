@@ -1338,6 +1338,21 @@ var games = [
         }
     },
     {
+        "name": "Perfection.",
+        "url": "perfection?preview=oWCaEqcZ7L0Z",
+        "price": "0.99",
+        "description": "Get Perfection. direct from the developer for PC, Mac and Ubuntu, DRM-free and on Desura.",
+        "developer": "Dumb and Fat Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "Notes": "Says Ubuntu instead of Linux but will work on any distribution"
+    },
+    {
         "name": "Pid",
         "url": "pidwithsoundtrack?preview=P3J6nJZnzNg9",
         "price": "20",
