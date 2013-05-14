@@ -1,4 +1,4 @@
-var games = [
+[
     {
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
@@ -11,6 +11,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -25,6 +31,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -39,6 +51,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -53,6 +71,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -67,6 +91,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -81,6 +111,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         },
         "sale": true,
         "Notes": "Preorder sale ends may 15, link may change then. regular price is $14.99"
@@ -97,6 +133,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -111,6 +153,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -125,6 +173,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -140,6 +194,12 @@ var games = [
             "mac": true,
             "audio": false
         },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
         "Notes": "Awesomenauts 'shows signs of linux support' in steamdb"
     },
     {
@@ -154,6 +214,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -168,6 +234,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -182,6 +254,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -196,6 +274,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -210,6 +294,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -224,6 +314,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -238,6 +334,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -252,6 +354,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -266,6 +374,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -280,6 +394,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -294,6 +414,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -308,6 +434,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         },
         "Notes": "Comes with early alpha access, access to the developers' forum and a digital soundtrack."
     },
@@ -324,6 +456,12 @@ var games = [
             "mac": true,
             "audio": true
         },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "Notes": "Comes with early alpha access, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits."
     },
     {
@@ -338,6 +476,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -352,6 +496,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -366,6 +516,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -380,6 +536,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -394,6 +556,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -408,6 +576,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -422,6 +596,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -436,6 +616,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -450,6 +636,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -464,6 +656,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -478,6 +676,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -492,6 +696,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -506,6 +716,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -520,6 +736,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -534,6 +756,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -548,6 +776,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -562,6 +796,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -576,6 +816,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -590,6 +836,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -604,6 +856,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -618,6 +876,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -632,6 +896,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -646,6 +916,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -660,6 +936,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -674,6 +956,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -688,6 +976,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -703,6 +997,12 @@ var games = [
             "mac": false,
             "audio": false
         },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "Notes": "Link found at pcgamingwiki"
     },
     {
@@ -717,6 +1017,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -731,6 +1037,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -745,6 +1057,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -759,6 +1077,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -774,6 +1098,12 @@ var games = [
             "mac": false,
             "audio": false
         },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "Notes": "Link found at pcgamingwiki"
     },
     {
@@ -788,6 +1118,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -802,6 +1138,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -816,6 +1158,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -830,6 +1178,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -844,6 +1198,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -858,6 +1218,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -872,6 +1238,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -886,6 +1258,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -900,6 +1278,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -914,6 +1298,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -928,6 +1318,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -942,6 +1338,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -956,6 +1358,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -970,6 +1378,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -984,6 +1398,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -998,6 +1418,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         },
         "sale": true,
         "Notes": "Sale ends around may 26th, regular price is $14.99"
@@ -1014,6 +1440,12 @@ var games = [
             "linux": true,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1028,6 +1460,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1042,6 +1480,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1056,6 +1500,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1070,6 +1520,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1085,6 +1541,12 @@ var games = [
             "mac": true,
             "audio": false
         },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
         "Notes": "Was on kickstarter"
     },
     {
@@ -1099,6 +1561,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1113,6 +1581,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1127,6 +1601,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1141,6 +1621,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1155,6 +1641,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1169,6 +1661,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1183,6 +1681,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1197,6 +1701,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1211,6 +1721,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1225,6 +1741,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1239,6 +1761,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1253,6 +1781,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1267,6 +1801,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1281,6 +1821,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1295,6 +1841,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1309,6 +1861,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -1323,6 +1881,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1337,6 +1901,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1351,6 +1921,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1365,6 +1941,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1379,6 +1961,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1394,6 +1982,12 @@ var games = [
             "mac": true,
             "audio": false
         },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "Notes": "Says Ubuntu instead of Linux but will work on any distribution"
     },
     {
@@ -1408,6 +2002,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1422,6 +2022,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1436,6 +2042,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1450,6 +2062,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1464,6 +2082,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1478,6 +2102,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -1492,6 +2122,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1506,6 +2142,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1520,6 +2162,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": true,
+            "DRM-Free": true
         }
     },
     {
@@ -1534,6 +2182,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1548,6 +2202,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1562,6 +2222,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1576,6 +2242,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1590,6 +2262,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1604,6 +2282,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -1618,6 +2302,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1632,6 +2322,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1646,6 +2342,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1660,6 +2362,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1674,6 +2382,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1688,6 +2402,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1702,6 +2422,12 @@ var games = [
             "linux": true,
             "mac": false,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -1716,6 +2442,12 @@ var games = [
             "linux": true,
             "mac": false,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -1730,6 +2462,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1744,6 +2482,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1758,6 +2502,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1773,6 +2523,12 @@ var games = [
             "mac": true,
             "audio": true
         },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "Notes": "Solar 2 is available for android. No clue if this gives it to you, but it doesn't say it does, so assuming not."
     },
     {
@@ -1787,6 +2543,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1801,6 +2563,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1815,6 +2583,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1829,6 +2603,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1843,6 +2623,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1857,6 +2643,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1871,6 +2663,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1885,6 +2683,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1899,6 +2703,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1913,6 +2723,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1927,6 +2743,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1941,6 +2763,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1955,6 +2783,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         },
         "sale": true,
         "Notes": "Sale ends around ??? unknown, regular price is $10"
@@ -1971,6 +2805,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1985,6 +2825,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -1999,6 +2845,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         },
         "sale": true,
         "Notes": "Sale ends around may 26th, regular price is $10"
@@ -2016,6 +2868,12 @@ var games = [
             "mac": false,
             "audio": true
         },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "sale": true,
         "Notes": "Sale ends around may 26th, regular price is $12.99"
     },
@@ -2031,6 +2889,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2045,6 +2909,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -2059,6 +2929,12 @@ var games = [
             "linux": false,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2073,6 +2949,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2087,6 +2969,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -2101,6 +2989,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2116,6 +3010,12 @@ var games = [
             "mac": true,
             "audio": false
         },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "Notes": "Humble doesn't say it comes with linux but it does"
     },
     {
@@ -2130,6 +3030,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2144,6 +3050,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
         }
     },
     {
@@ -2158,6 +3070,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2172,6 +3090,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2186,6 +3110,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2200,6 +3130,12 @@ var games = [
             "linux": false,
             "mac": false,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2214,6 +3150,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2228,6 +3170,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2243,6 +3191,12 @@ var games = [
             "mac": true,
             "audio": false
         },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "Notes": "The frame shows an Android icon, but neither the description nor the game site confirms you'll get the Android version purchasing the game at the Humble Store."
     },
     {
@@ -2257,6 +3211,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2271,6 +3231,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2285,6 +3251,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
@@ -2299,6 +3271,12 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     }
 ]
