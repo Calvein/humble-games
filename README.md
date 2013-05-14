@@ -19,4 +19,12 @@ file and INSERT the following, where the url fragment is http://www.humblebundle
             "mac": true/false,
             "audio": true/false
         }
-    }
+        "DRM": {
+            "steam": true/false,
+            "desura": true/false,
+            "GOG": true/false,
+            "DRM-Free": true/false
+        }
+    },
+
+Follow the syntax in the games.js document in case of differences between it and the above code.
