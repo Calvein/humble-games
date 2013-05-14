@@ -1,4 +1,4 @@
-[
+var games = [
     {
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
