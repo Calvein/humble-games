@@ -2044,8 +2044,8 @@ var games = [
             "audio": false
         },
         "DRM": {
-            "steam": true,
-            "desura": false,
+            "steam": false,
+            "desura": true,
             "GOG": false,
             "DRM-Free": true
         },
