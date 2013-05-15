@@ -101,7 +101,7 @@ var games = [
     },
     {
         "name": "Anomaly 2",
-        "url": "anomaly2?preview=sS9bbgjShdJ",
+        "url": "anomaly2retail?preview=sS9bbgjShdJ",
         "price": "13.49",
         "description": "Pre-order Anomaly 2 at 10% off! Get a Steam key for yourself and an extra copy for your friend + get a gaming gift on the launch day 05/15/2013.",
         "developer": "11 bit studios",
@@ -662,6 +662,26 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
+        }
+    },
+    {
+        "name": "Defender's Quest: Valley of the Forgotten",
+        "url": "defendersquest?preview=Snd8dhrbaz",
+        "price": "9.99",
+        "description": "Get Defender's Quest instantly! Cross-platform and DRM-free. Soundtrack included!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
         }
     },
     {
