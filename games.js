@@ -1148,7 +1148,7 @@ var games = [
     },
     {
         "name": "Frogatto",
-        "url": "frogatto",
+        "url": "frogatto?preview=thsueWluErTM",
         "price": "9.99",
         "description": "Get Frogatto now! Cross-platform and DRM-free.",
         "developer": "Lost Pixel",
