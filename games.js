@@ -1164,7 +1164,7 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        }
+        },
         "Notes": "Linux will be added soon"
     },
     {
