@@ -403,6 +403,26 @@ var games = [
         }
     },
     {
+        "name": "Castle Vox",
+        "url": "castlevox?preview=pending",
+        "price": "9.99",
+        "description": "Get Castle Vox instantly! Cross-platform and no DRM. Simultaneous-turns team-based strategic conquest!",
+        "developer": "Sillysoft Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Chasm - Bronze",
         "url": "chasm_bronze?preview=wyr5mV9sPvVd",
         "price": "15",
