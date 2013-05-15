@@ -1147,6 +1147,27 @@ var games = [
         }
     },
     {
+        "name": "Frogatto",
+        "url": "frogatto",
+        "price": "9.99",
+        "description": "Get Frogatto now! Cross-platform and DRM-free.",
+        "developer": "Lost Pixel",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+        "Notes": "Linux will be added soon"
+    },
+    {
         "name": "FTL: Faster Than Light",
         "url": "ftlfasterthanlight",
         "price": "10",
