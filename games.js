@@ -2312,6 +2312,26 @@ var games = [
         }
     },
     {
+        "name": "Rogue Legacy",
+        "url": "roguelegacy?preview=EXn3mzwCJtTl",
+        "price": "10",
+        "description": "Pre-order a DRM-free copy of Rogue Legacy and get the soundtrack for free. Receive a Steam key once available on Steam.",
+        "developer": "Cellar Door Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Samorost2",
         "url": "samorost2",
         "price": "5",
