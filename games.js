@@ -1809,7 +1809,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-    	"note", "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
+		"note": "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
     },
     {
         "name": "Macguffin's Curse",
