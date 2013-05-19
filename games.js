@@ -1791,6 +1791,27 @@ var games = [
         }
     },
     {
+        "name": "Luminesca",
+        "url": "luminesca?preview=UszAaVweVeco",
+        "price": "4.99",
+        "description": "This pre-order includes alpha downloads for Windows, Mac and Linux, and they are all DRM-free!\nwebsite description: \nPre-order now to get early access to work-in-progress builds! \n1 of 5 chapters available instantly, with more added at no extra cost when they are released in the future. \nThe current version is subject to change and may contain bugs",
+        "developer": "Matt Glanville",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+    	"note", "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
+    },
+    {
         "name": "Macguffin's Curse",
         "url": "macguffinscurse",
         "price": "6.99",
@@ -3299,6 +3320,48 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
+    },
+    {
+        "name": "War For The Underworld Pre-Order",
+        "url": "warfortheoverworld?preview=ssvsVmAipVnT",
+        "price": "22",
+        "description": "Pre-Order War for the Overworld now! Steam Beta coming in May, Cross-platform support and DRM-free coming later.",
+        "developer": "Subterranean Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+		"note": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
+    },
+    {
+        "name": "WTFO War For The Underworld Underlord Edition Pre-Order",
+        "url": "warfortheoverworld-special?preview=ssvsVmAipVnT",
+        "price": "35",
+        "description": "Pre-Order War for the Overworld now! Steam Beta coming in May, Cross-platform support and DRM-free coming later.",
+        "developer": "Subterranean Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+		"note": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
     },
     {
         "name": "Wizorb",
