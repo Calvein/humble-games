@@ -3322,7 +3322,7 @@ var games = [
         }
     },
     {
-        "name": "War For The Underworld Pre-Order",
+        "name": "War For The Overworld Pre-Order",
         "url": "warfortheoverworld?preview=ssvsVmAipVnT",
         "price": "22",
         "description": "Pre-Order War for the Overworld now! Steam Beta coming in May, Cross-platform support and DRM-free coming later.",
@@ -3343,7 +3343,7 @@ var games = [
 		"note": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
     },
     {
-        "name": "WTFO War For The Underworld Underlord Edition Pre-Order",
+        "name": "War For The Overworld Underlord Edition Pre-Order",
         "url": "warfortheoverworld-special?preview=ssvsVmAipVnT",
         "price": "35",
         "description": "Pre-Order War for the Overworld now! Steam Beta coming in May, Cross-platform support and DRM-free coming later.",
