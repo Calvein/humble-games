@@ -1972,6 +1972,132 @@ var games = [
         }
     },
     {
+        "name": "Moon Intern",
+        "url": "moonintern?preview=BozUxRTLdel2",
+        "price": "9.99",
+        "description": "Pre-order Moon Intern now and instantly get it when it's released!",
+        "developer": "Cosmosaur LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+    },
+    {
+        "name": "Moon Intern (Musical Intern)",
+        "url": "moonintern_musical?preview=BozUxRTLdel2",
+        "price": "14.99",
+        "description": "Pre-order Moon Intern + soundtrack now and get them when they're released!",
+        "developer": "Cosmosaur LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+    },
+    {
+        "name": "Moon Intern (Research Intern)",
+        "url": "moonintern_research?preview=BozUxRTLdel2",
+        "price": "19.99",
+        "description": "Buy now and when ready, get the soundtrack, access to early builds, and full Moon Intern release!",
+        "developer": "Cosmosaur LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+    },
+    {
+        "name": "Moon Intern (Stylish Intern)",
+        "url": "moonintern_stylish?preview=BozUxRTLdel2",
+        "price": "24.99",
+        "description": "Buy now and when ready, get the soundtrack, access to early builds, and full release! Also comes with an awesome Intern Accessory Pack!",
+        "developer": "Cosmosaur LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+    },
+    {
+        "name": "Moon Intern (Cozy Intern)",
+        "url": "moonintern_cozy?preview=BozUxRTLdel2",
+        "price": "34.99",
+        "description": "Buy now and when ready, get the soundtrack, access to early builds, and full release! Also comes with Intern Accessory, Furniture & Pets Packs!",
+        "developer": "Cosmosaur LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+    },
+    {
+        "name": "Moon Intern (Deluxe  Intern)",
+        "url": "moonintern_deluxe?preview=BozUxRTLdel2",
+        "price": "49.99",
+        "description": "When ready, get a soundtrack, early builds access & full release! Also get Intern Accessory, Furniture, Pets, & Garden Packs + a Custom Grave Engravement!",
+        "developer": "Cosmosaur LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+    },
+    {
         "name": "Noitu Love 2 Devolution",
         "url": "noitulovedevolution",
         "price": "5",
@@ -2311,6 +2437,27 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
+    },
+    {
+        "name": "Reus",
+        "url": "riot?preview=mnRfbE8zGvpF",
+        "price": "9.99",
+        "description": "Get Reus on Steam instantly!",
+        "developer": "Abbey Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
     },
     {
         "name": "Rochard",
