@@ -2419,6 +2419,27 @@ var games = [
         }
     },
     {
+        "name": "Reus",
+        "url": "reus?preview=the9rWluEFi3",
+        "price": "9.99",
+        "description": "Get Reus on Steam instantly!",
+        "developer": "Abbey Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
+    },
+    {
         "name": "RIOT",
         "url": "riot?preview=mnRfbE8zGvpF",
         "price": "10",
@@ -2437,27 +2458,6 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
-    },
-    {
-        "name": "Reus",
-        "url": "riot?preview=mnRfbE8zGvpF",
-        "price": "9.99",
-        "description": "Get Reus on Steam instantly!",
-        "developer": "Abbey Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "DRM": {
-            "steam": true,
-            "desura": false,
-            "GOG": false,
-            "DRM-Free": false
-        },
-		"notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
     },
     {
         "name": "Rochard",
