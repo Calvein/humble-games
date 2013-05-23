@@ -283,6 +283,27 @@ var games = [
         }
     },
     {
+        "name": "Blade Symphony (Pre-Order)",
+        "url": "bladesymphony",
+        "price": "15",
+        "description": "Pre-order Blade Symphony and start playing the beta now.",
+        "developer": "Puny Human Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+		"note": "dev page: http://www.blade-symphony.com/prerelease/"
+    },
+    {
         "name": "Bleed",
         "url": "bleed?preview=kwKWcrUoVvpM",
         "price": "5",
