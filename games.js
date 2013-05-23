@@ -2139,6 +2139,27 @@ var games = [
         }
     },
     {
+        "name": "The Novelist",
+        "url": "thenovelist?preview=QKikXp8loEAg",
+        "price": "14.99",
+        "description": "Get the game DRM-free on Mac and Windows. Enjoy a 25% preorder discount (regular price $19.99) plus a copy of the soundtrack on release!",
+        "developer": "Orthogonal Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "greenlight": true,
+			"steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Offspring Fling",
         "url": "offspringfling",
         "price": "7.99",
