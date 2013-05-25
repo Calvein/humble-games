@@ -1107,6 +1107,26 @@ var games = [
         }
     },
     {
+        "name": "Element4l",
+        "url": "element4l?preview=pSE5NoNmTwWL",
+        "price": "9.99",
+        "description": "Includes a Steam key for Element4l and the complete OST by Mind Tree as high quality MP3's",
+        "developer": "I-Illusions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        }
+    },
+    {
         "name": "English Country Tune",
         "url": "englishcountrytune",
         "price": "4.99",
