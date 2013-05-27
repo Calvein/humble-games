@@ -1469,6 +1469,66 @@ var games = [
         }
     },
     {
+        "name": "Gunpoint",
+        "url": "gunpoint?preview=djS894h2nS",
+        "price": "10",
+        "description": "Pre-order now and get Gunpoint for Windows, DRM-free and a Steam key on release!",
+        "developer": "Suspicious Developments",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
+        "name": "Gunpoint: Special Edition",
+        "url": "gunpoint_specialedition?preview=djS894h2nS",
+        "price": "20",
+        "description": "Pre-order now and get Gunpoint for Windows, DRM-free and a Steam key on release + soundtrack and in-game developer commentary!",
+        "developer": "Suspicious Developments",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
+        "name": "Gunpoint: Exclusive Edition",
+        "url": "gunpoint_exclusiveedition?preview=djS894h2nS",
+        "price": "20",
+        "description": "Pre-order now and get everything in the Special Edition + Making of Gunpoint video, 9 early prototypes, exclusive music tracks, and be on the Secret Beta List!",
+        "developer": "Suspicious Developments",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Ichi",
         "url": "ichi",
         "price": "2.99",
