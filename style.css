@@ -51,7 +51,7 @@ li > .active {
 }
 
 span,
-iframe {
+main>iframe {
     display: inline-block;
     width: 550px;
     height: 264px;
