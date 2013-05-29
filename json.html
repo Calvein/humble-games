@@ -1,0 +1,228 @@
+<html>
+<head>
+<style>
+body, #form-preview {
+  background: url(http://calvein.github.io/humble-games/img/bg.png);
+  color: rgba(255, 255, 255, .8);
+  text-shadow: 0 2px 4px hsla(0, 0%, 0%, 0.4);
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  //line-height:.2em;
+  margin-bottom:0;
+}
+
+h5 {
+	text-align: center;
+	margin-top:0;
+}
+
+a {
+    color: #658B1C;
+}
+
+#form label, #form .label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+#form .label {
+  display: inline;
+  font-weight: normal;
+}
+
+#form .required {
+  font-weight: bold;
+  font-size: 11px;
+}
+
+#form input[type="text"], #form textarea, #form select {
+  background: #ffffff;
+  
+  margin: 5px 0;
+  padding: 6px 8px;
+  
+  -webkit-border-radius: 6px;  
+  -moz-border-radius: 6px;  
+  border-radius: 6px; 
+  
+  border: 1px solid #d3d3d3;
+  width: 400px;
+  
+  -webkit-box-shadow: 1px 1px 0px #ffffff;  
+  -moz-box-shadow: 1px 1px 0px #ffffff;  
+  box-shadow:  1px 1px 0px #ffffff; 
+}
+
+#form div {
+  margin-bottom: 20px; 
+}
+
+#form select {
+  width: 318px;
+}
+
+#form textarea {
+  font-family: Tahoma;
+  font-size: 12px;
+  height: 140px;
+}
+
+#form .likert-question {
+  font-style: italic;
+  margin-right: 10px;
+}
+
+#form .likert-answer {
+  text-align: center; 
+}
+
+#form .likert-option {
+  font-weight: bold;
+  text-align: center;
+  margin: 0 15px;
+}
+
+pre {
+	background: rgb(72, 72, 72);
+    background: rgba(255, 255, 255, .1);
+    margin: 10px;
+    padding: 10px;
+    overflow: auto;
+}
+</style>
+
+<script>
+function generate() {
+    var name = document.getElementById("gamename").value;
+	var url = document.getElementById("urlfrag").value;
+	var price = document.getElementById("price").value;
+	var description = document.getElementById("description").value;
+	var developer = document.getElementById("developer").value;
+	var android = document.getElementById("android").checked;
+	var linux = document.getElementById("linux").checked;
+	var windows = document.getElementById("windows").checked;
+	var mac = document.getElementById("mac").checked;
+	var audio = document.getElementById("soundtrack").checked;
+	var steam = document.getElementById("steam").checked;
+	var desura = document.getElementById("desura").checked;
+	var GOG = document.getElementById("gog").checked;
+	var drmfree = document.getElementById("drm-free").checked;
+	var notes = document.getElementById("notes").value;
+	var myJSON = generatejson(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
+	var myWiki = generatewiki(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
+	document.getElementById('json').innerText=JSON.stringify(myJSON,null,4) + ",";
+	document.getElementById('wiki').innerText=myWiki;
+    return false;
+}
+
+function generatewiki(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes) {
+	var wikiformatting="|-\n|[["+name+"]]\n|[http://www.humblebundle.com/store/"+url+" 1]\n|$"+price;
+	wikiformatting += (linux ? "{{OS|Linux}}" : "") + (windows ? "{{OS|Windows}}" : "") + (mac ? "{{OS|Mac}}" : "") + (android ? "{{OS|Android}}" : "");
+	wikiformatting += "\n|\n|"
+	wikiformatting += (steam ? "{{ID|Steam}}" : "") + (desura ? "{{ID|Desura}}" : "") + (GOG ? "{{ID|GOG}}" : "");
+	wikiformatting += (steam ? "{{ID|Steam}}" : "") + (desura ? "{{ID|Desura}}" : "") + (GOG ? "{{ID|GOG}}" : "");
+	wikiformatting += "\n|";
+	wikiformatting += (audio ? "Can come with a soundtrack. " + notes : notes);
+	return wikiformatting;
+}
+function generatejson(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes) {
+	// make an empty object
+	var myGame = {};
+	myGame['name']=jescape(name);
+	myGame['url']=jescape(url);
+	myGame['price']=jescape(price);
+	myGame['description']=jescape(description);
+	myGame['developer']=jescape(developer);
+	var myPlatform = {}
+	myPlatform['android']=android;
+	myPlatform['linux']=linux;
+	myPlatform['windows']=windows;
+	myPlatform['mac']=mac;
+	myPlatform['audio']=audio;
+	var myDRM = {};
+	myDRM["steam"]=steam;
+	myDRM["desura"]=desura;
+	myDRM["GOG"]=GOG;
+	myDRM["DRM-Free"]=drmfree;
+	myGame.platform = myPlatform;
+	myGame.DRM = myDRM;
+	myGame["notes"]=jescape(notes);
+    return myGame;
+}
+function jescape(unescapedstring) {
+	var escapedstring = unescapedstring.replace(/\\n/g, "\\n").replace(/\\'/g, "\\'").replace(/\\"/g, "\\\"").replace(/\\&/g, "\\&").replace(/\\r/g, "\\r").replace(/\\t/g, "\\t").replace(/\\b/g, "\\b").replace(/\\f/g, "\\f");
+	return escapedstring;
+}
+
+function selectText(containerid) {
+    if (document.selection) {
+        var range = document.body.createTextRange();
+        range.moveToElementText(document.getElementById(containerid));
+        range.select();
+    } else if (window.getSelection) {
+        var range = document.createRange();
+        range.selectNodeContents(document.getElementById(containerid));
+        window.getSelection().addRange(range);
+    }
+}
+</script>
+</head>
+<body onload="generate();">
+<div style="margin:auto"><div style="width:400px;margin:auto;"><div>
+<h1>Generate JSON</h1>
+<h5>(and WikiCode)</h5>
+<form method="post" action="process.php" id="form">
+  <div>
+    <label data-key="gamename">Game Name <span class="required">*</span></label>
+    <input id="gamename" type="text" name="gamename" required="required" onkeyup="generate();" placeholder="Full name of the package, from the top of the store page" />
+  </div>
+  <div>
+    <label data-key="urlfrag">URL Fragment <span class="required">*</span></label>
+    <input id="urlfrag" type="text" name="urlfrag" required="required" onkeyup="generate();" placeholder="http://humblebundle.com/store/product/urlfragment/" />
+  </div>
+  <div>
+    <label data-key="price">Price <span class="required">*</span></label>
+    <input id="price" type="text" name="price" required="required" onkeyup="generate();" placeholder="Without $"/>
+  </div>
+  <div>
+    <label data-key="description">Description <span class="required">*</span></label>
+    <input id="description" type="text" name="description" required="required" onkeyup="generate();" placeholder="From the store page at right" />
+  </div>
+  <div>
+    <label data-key="developer">Developer <span class="required">*</span></label>
+    <input id="developer" type="text" name="developer" required="required" onkeyup="generate();" placeholder="From the store page at left" />
+  </div>
+  <div style="float:right;width:50%;>
+    <label data-key="drm">DRM/Distributor</label><br>
+    <input id="steam" name="drm[]" value="steam" type="checkbox" onclick="generate();" /> <span class="label">Steam</span><br/>
+    <input id="desura" name="drm[]" value="desura" type="checkbox" onclick="generate();" /> <span class="label">Desura</span><br/>
+    <input id="gog" name="drm[]" value="gog" type="checkbox" onclick="generate();" /> <span class="label">GOG</span><br/>
+    <input id="drm-free" name="drm[]" value="drm-free" type="checkbox" onclick="generate();" /> <span class="label">DRM Free</span><br/>
+  </div>
+  <div style="width: 50%;>
+    <label data-key="platforms">Platforms</label><br>
+    <input id="android" name="platforms[]" value="android" type="checkbox" onclick="generate();" /> <span class="label">Android</span><br/>
+    <input id="linux" name="platforms[]" value="linux" type="checkbox" onclick="generate();" /> <span class="label">Linux</span><br/>
+    <input id="windows" name="platforms[]" value="windows" type="checkbox" onclick="generate();" /> <span class="label">Windows</span><br/>
+    <input id="mac" name="platforms[]" value="mac" type="checkbox" onclick="generate();" /> <span class="label">Mac</span><br/>
+  </div>
+  <div>
+    <input id="soundtrack" name="soundtrack[]" value="soundtrack" type="checkbox" onclick="generate();" /> <span class="label">Soundtrack</span><br/>
+  </div>
+  <div>
+    <label data-key="developer">Notes <span class="required"></span></label>
+    <textarea id="notes" type="text" name="notes" onkeyup="generate();" placeholder="here, tell us about any other forms of DRM or distributors available, the publisher's website, the game release date, etc. Also tell us if the game is a preorder. A couple linebreaks are ok for Calvein's, but not for PCGamingWiki. Keep this short."></textarea>
+  </div>
+  <h1>Results</h1>
+    <div>JSON for the <a href="http://calvein.github.com/humble-games">list</a><br><pre id="json" onclick="selectText('json');"></pre>Double check to make sure the formatting here matches the formatting <a href="https://github.com/Calvein/humble-games">here</a> and <a href="https://github.com/Calvein/humble-games/edit/gh-pages/games.js">edit</a> <a href="https://github.com/Calvein/humble-games/blob/gh-pages/games.js">games.js</a>.</div>
+    <a id="displaywiki" onclick="document.getElementById('wikicode').style.display='block';document.getElementById('displaywiki').style.display='none';">Display Wikicode</a>
+	  <div id="wikicode" style="display:none">Wikicode for <a href="http://pcgamingwiki.com/wiki/Humble_Store">PCGamingWiki</a><br><pre id="wiki" onclick="selectText('wiki');"></pre>PCGamingWiki uses <i>one</i> entry for all versions of a game, so you'll need to fix the title, links, and prices here. Once you've done that, <a href="http://pcgamingwiki.com/index.php?title=Humble_Store&action=edit">insert</a> the row into PCGamingWiki's <a href="http://pcgamingwiki.com/wiki/Humble_Store">table</a> source.</div>
+  </div>
+</form>
+</div></div></div>
+</body>
+</html>
