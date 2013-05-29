@@ -27,4 +27,6 @@ file and INSERT the following, where the url fragment is http://www.humblebundle
         }
     },
 
+You can generate this automatically over [here](http://calvein.github.io/humble-games/json.html).
+
 Follow the syntax in the games.js document in case of differences between it and the above code.
