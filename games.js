@@ -3543,7 +3543,7 @@ var games = [
             "audio": false
         },
         "DRM": {
-            "steam": true,
+            "steam": false,
             "desura": false,
             "GOG": false,
             "DRM-Free": true
