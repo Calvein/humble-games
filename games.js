@@ -3289,6 +3289,48 @@ var games = [
         }
     },
     {
+        "name": "The Swapper",
+        "url": "theswapper?preview=sdfSHDhe9hs",
+        "price": "11.24",
+        "description": "Get The Swapper instantly! DRM-free. Direct download and Steam key included.",
+        "developer": "Facepalm Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "Note": "On sale for release, regular price $14.99. Linux and Mac support in development."
+    },
+    {
+        "name": "The Swapper + Soundtrack",
+        "url": "theswappersoundtrackedition?preview=sdfSHDhe9hs",
+        "price": "13.49",
+        "description": "Get The Swapper + The Swapper Official soundtrack instantly! DRM-free. Direct download and Steam key included.",
+        "developer": "Facepalm Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "Note": "On sale for release, regular price $17.99. Linux and Mac support in development."
+    },
+    {
         "name": "Thirty Flights of Loving",
         "url": "thirtyflightsofloving",
         "price": "5",
