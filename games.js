@@ -3371,6 +3371,27 @@ var games = [
         }
     },
     {
+        "name": "Tiny Barbarian DX",
+        "url": "tinybarbariandx?preview=tME8HJogJF0p",
+        "price": "9.99",
+        "description": "It's Time to get Tiny! The adventures of our pixel protagonist continue in Tiny Barbarian DX for Windows PC!",
+        "developer": "StarQuail Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "Note": "Buy the first episode and get the rest for free when they are released. Mac port currently in development."
+    },
+    {
         "name": "Tower Wars",
         "url": "towerwars",
         "price": "9.99",
