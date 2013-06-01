@@ -103,7 +103,7 @@ var games = [
         "name": "Anomaly 2",
         "url": "anomaly2retail?preview=sS9bbgjShdJ",
         "price": "13.49",
-        "description": "Pre-order Anomaly 2 at 10% off! Get a Steam key for yourself and an extra copy for your friend + get a gaming gift on the launch day 05/15/2013.",
+        "description": "Buy Anomaly 2 at 10% off! Get a Steam key for Anomaly 2 + get a DRM-free copy of Anomaly Korea for Windows!",
         "developer": "11 bit studios",
         "platform": {
             "android": false,
@@ -117,9 +117,28 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
+        }
+    },
+    {
+        "name": "Apotheon",
+        "url": "apotheon?preview=JUEwMIoTCgFx",
+        "price": "15",
+        "description": "Preorder Apotheon + Soundtrack for Windows",
+        "developer": "Alientrap Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
         },
-        "sale": true,
-        "Notes": "Preorder sale ends may 15, link may change then. regular price is $14.99"
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "Notes": "Not sure about DRM since I couldn't find the webpage that contains the HS widget. Just copied PCGamingWiki's entry."
     },
     {
         "name": "Atom Zombie Smasher",
