@@ -24,7 +24,7 @@ li {
     margin-right: 15px;
 }
 
-li > a {
+li > a img {
     opacity: .7;
 }
 
