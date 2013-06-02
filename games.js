@@ -924,6 +924,27 @@ var games = [
         }
     },
     {
+        "name": "Drifter (Pre-Order)",
+        "url": "drifter",
+        "price": "10",
+        "description": "Pre-order Drifter for 33% off and receive access to the beta on PC/Mac immediately.",
+        "developer": "Celsius Game Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "Notes": "Pre-order at 33% off. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key if the game is greenlit."
+    },
+    {
         "name": "Dungeons of Dredmor",
         "url": "dungeonsofdredmor",
         "price": "4.99",
