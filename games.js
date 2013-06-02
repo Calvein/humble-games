@@ -209,7 +209,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -218,8 +218,7 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
-        },
-        "Notes": "Awesomenauts 'shows signs of linux support' in steamdb"
+        }
     },
     {
         "name": "Bastion",
@@ -1814,7 +1813,7 @@ var games = [
         "name": "Little Inferno",
         "url": "littleinferno",
         "price": "10",
-        "description": "Buy it now and get it instantly for Windows, DRM-free and on Steam!",
+        "description": "Buy it now and get it instantly for Windows, Mac, & Linux, DRM-free and on Steam",
         "developer": "Tomorrow Corporation",
         "platform": {
             "android": false,
@@ -2403,7 +2402,7 @@ var games = [
         "name": "Proteus",
         "url": "proteus",
         "price": "10",
-        "description": "Purchase Proteus for Mac and Windows and instantly get it DRM-free and on Steam!",
+        "description": "Purchase Proteus for Windows, Mac and Linux and instantly get it DRM-free and on Steam!",
         "developer": "Ed Key & David Kanaga",
         "platform": {
             "android": false,
