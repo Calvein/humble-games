@@ -1169,12 +1169,12 @@ var games = [
         "name": "English Country Tune",
         "url": "englishcountrytune",
         "price": "4.99",
-        "description": "Get English Country Tune instantly! Play it on Mac and Windows, DRM free.",
+        "description": "Get English Country Tune instantly! Play it on Mac, Windows and Linux, DRM free.",
         "developer": "Increpare Games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -1633,13 +1633,13 @@ var games = [
         "name": "Intrusion 2",
         "url": "intrusion2",
         "price": "10",
-        "description": "Purchase Intrusion 2 for Windows and instantly get it DRM-free and on Steam.",
+        "description": "Purchase Intrusion 2 for Windows, Mac, and Linux, and instantly get it DRM-free and on Steam.",
         "developer": "vapgames",
         "platform": {
             "android": false,
             "windows": true,
             "linux": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "DRM": {
