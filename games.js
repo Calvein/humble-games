@@ -2848,7 +2848,7 @@ var games = [
             "DRM-Free": true
         }
     },
-    {
+	{
         "name": "Sanctum",
         "url": "sanctum",
         "price": "9.99",
@@ -2856,8 +2856,8 @@ var games = [
         "developer": "Coffee Stain Studios",
         "platform": {
             "android": false,
-            "windows": true,
             "linux": false,
+            "windows": true,
             "mac": true,
             "audio": false
         },
@@ -2866,7 +2866,71 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
-        }
+        },
+        "notes": "Dev Store: http://coffeestainstudios.com/store"
+    },
+    {
+        "name": "Sanctum 2",
+        "url": "sanctum2?preview=SnbKp2ns7hH",
+        "price": "14.99",
+        "description": "Order Sanctum 2 and instantly get a Steam key!",
+        "developer": "Coffee Stain Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Dev Store: http://coffeestainstudios.com/store"
+    },
+    {
+        "name": "Sanctum 2 Season Pass",
+        "url": "sanctum2seasonpass?preview=SnbKp2ns7hH",
+        "price": "11.99",
+        "description": "Purchase a Sanctum 2 Season Pass and instantly get a Steam key!",
+        "developer": "Coffee Stain Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Dev Store: http://coffeestainstudios.com/store"
+    },
+    {
+        "name": "Super Sanctum TD",
+        "url": "supersanctumtd?preview=SnbKp2ns7hH",
+        "price": "3.99",
+        "description": "Purchase Super Sanctum TD and instantly get a Steam key!",
+        "developer": "Coffee Stain Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Dev Store: http://coffeestainstudios.com/store"
     },
     {
         "name": "7 Grand Steps",
