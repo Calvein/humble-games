@@ -1939,6 +1939,46 @@ var games = [
         }
     },
     {
+        "name": "Ku: Shroud of the Morrigan",
+        "url": "ku_shroudofthemorrigan",
+        "price": "4.00",
+        "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
+        "developer": "bitSmith Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
+        "name": "Ku: Shroud of the Morrigan for Android",
+        "url": "ku_shroudofthemorrigan_android",
+        "price": "2.00",
+        "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
+        "developer": "bitSmith Games",
+        "platform": {
+            "android": true,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Legend of Dungeon",
         "url": "legendofdungeon?preview=SIIUb8tPvGNT",
         "price": "10",
