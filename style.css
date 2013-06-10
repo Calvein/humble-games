@@ -24,15 +24,18 @@ li {
     margin-right: 15px;
 }
 
-li > a img {
+.platform li > a img {
     opacity: .7;
 }
 
-li > .active {
+.platform li > .active {
     opacity: 1;
     -webkit-filter: invert(1);
     filter        : invert(1);
+}
 
+.drm li > .active {
+    box-shadow: 0 0 10px #E52A17;
 }
 
 .hidden,

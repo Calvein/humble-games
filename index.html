@@ -10,191 +10,31 @@
 <body>
     <h1>All games from <a href="http://humblebundle.com">the Humble Store</a></h1>
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">Humble Bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
-    <!--<iframe style="margin:0 auto; border:none;" src="//www.humblebundle.com/_widget/html" width="410" height="150"></iframe><iframe style="margin:0 auto; border:none;" src="//www.humblebundle.com/_widget/weekly" width="410" height="150"></iframe>-->
     <input autofocus placeholder="e.g: &quot;Trine&quot;">
-    <ul class="filters">
+    <ul class="filters platform">
         <li><a href="#windows"><img src="img/windows.png" alt="windows"></a>
         <li><a href="#linux"><img src="img/linux.png" alt="linux"></a>
         <li><a href="#mac"><img src="img/mac.png" alt="mac"></a>
         <li><a href="#android"><img src="img/android.png" alt="android"></a>
         <li><a href="#audio"><img src="img/audio.png" alt="audio"></a>
     </ul>
-    <ul class="filters">
-        <li><a href="#steam">Steam</a>
-        <li><a href="#desura">Desura</a>
-        <li><a href="#GOG">GOG</a>
-        <li><a href="#DRM-Free">DRM-Free</a>
+    <ul class="filters drm">
+        <li><a href="#steam"><img src="http://g.etfv.co/http://store.steampowered.com/" alt="Steam"></a>
+        <li><a href="#desura"><img src="http://g.etfv.co/http://www.desura.com/" alt="Desura"></a>
+        <li><a href="#gog"><img src="http://g.etfv.co/http://www.gog.com/" alt="GOG"></a>
+        <li><a href="#drm-free">DRM-Free</a>
     </ul>
     <p><a href="table.html">Table view with links</a></p>
+    <iframe style="margin:0 auto; border:none;" src="//www.humblebundle.com/_widget/html" width="410" height="150"></iframe>
+    <iframe style="margin:0 auto; border:none;" src="//www.humblebundle.com/_widget/weekly" width="410" height="150"></iframe>
 
     <main></main>
 
-    <footer class="hidden">Thanks to <strong></strong> for their contributions.</footer>
+    <footer class="hidden">By <strong><a href="https://github.com/Calvein">Calvein</a></strong>, thanks to <b></b> for their contributions.</footer>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
     <script src="games.js"></script>
-    <script>
-    /**
-     * @TODO
-     * check avec bonne connexion
-     * message quand rien
-     * couleur de .active
-     */
-    $(function() {
-        // Add spans placeholders for the lazy-load
-        var $container = $('main')
-        games.forEach(function(game) {
-            $container.append($('<span>').data(game))
-        })
-
-        // The spans which will be replaced by the iframes
-        var $gamesPlaceholders = $('span', $container)
-          , $gamesElements = $('span, iframe', $container)
-          , url = 'http://www.humblebundle.com/store/product/'
-        /**
-         * Replace a placeholder by an iframe
-         * @param  {jQel}  $placeholder  The placeholder which will be replaced
-         */
-          , loadIframe = function($placeholder) {
-            var $iframe = $('<iframe>')
-                .addClass('hidden')
-                .attr('src', url + $placeholder.data('url'))
-                .data($placeholder.data())
-
-            $placeholder.data('isLoading', true)
-
-            $iframe.on('load', function() {
-                $iframe
-                    .addClass('shown')
-                    .toggleClass('hidden', $placeholder.hasClass('hidden'))
-
-                // Remove the placeholder
-                $placeholder.remove()
-                // Rebuild the placeholders and verify if they are all transformed to iframes
-                $gamesPlaceholders = $('span', $container)
-                $gamesElements = $('span, iframe', $container)
-
-                if (!$gamesPlaceholders.length) {
-                    $(window).off('scroll')
-                    processScroll = function() {}
-                }
-            })
-
-            // Insert the iframe
-            $placeholder.before($iframe)
-        }
-        /**
-         * Detect if an element is in the viewport
-         * @param  {Node}     el  The element which is detected
-         * @return {boolean}      True if the element is in the viewport
-         */
-          , elementInViewport = function(el) {
-            var rect = el.getBoundingClientRect()
-
-            return (
-                rect.top  >= 0 &&
-                rect.left >= 0 &&
-                rect.top  <= (window.innerHeight || document.documentElement.clientHeight)
-            )
-        }
-        /**
-         * Function called each time the user scroll, it detect if the elements are in the viewport
-         * and if so replace them with the corresponding iframe
-         */
-          ,  processScroll = function() {
-            $gamesPlaceholders.each(function(i, placeholder) {
-                var $placeholder = $(placeholder)
-                if (elementInViewport(placeholder) && !$placeholder.hasClass('hidden') && !$placeholder.data('isLoading')) {
-                    loadIframe($placeholder)
-                }
-            })
-        }
-
-        processScroll()
-        $(window).on('scroll', processScroll)
-
-        /**
-         * On filter with the input or the platforms buttons
-         *
-         * @param  {Event}  e  The event
-         */
-        var filter = function(e) {
-            e.preventDefault()
-
-            var value = $input.val()
-
-            $(this).toggleClass('active')
-            var platforms = $filters.filter('.active').map(function() {
-                return this.hash.slice(1)
-            }).get()
-
-            $gamesElements.each(function(i, placeholder) {
-                // By input
-                var $placeholder = $(placeholder)
-                  , nameMatched = false
-                if (new RegExp(value, 'i').test($placeholder.data('url')))
-                    nameMatched = true
-                else if (new RegExp(value, 'i').test($placeholder.data('description')))
-                    nameMatched = true
-                else if (new RegExp(value, 'i').test($placeholder.data('name')))
-                    nameMatched = true
-                else if (new RegExp(value, 'i').test($placeholder.data('developer')))
-                    nameMatched = true
-
-                // By platform/DRM
-                var supportedPlatforms = $placeholder.data('platform');
-                var supportedDRM = $placeholder.data('DRM');
-                var supportFilters = platforms.every(function(platformordrm) {
-                    return supportedPlatforms[platformordrm]||supportedDRM[platformordrm]
-                });
-
-                console.log(nameMatched, supportFilters)
-                $placeholder.toggleClass('hidden', !(nameMatched && supportFilters))
-            })
-
-            processScroll()
-        }
-
-        var $input = $('input')
-          , $filters = $('.filters a')
-        $input.on('input', filter)
-        $filters.on('click', filter)
-
-
-        // Show the contributors, thanks by the way
-        $.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
-        .done(function(response) {
-            $('footer')
-                .find('strong').html(function() {
-                    return response.map(function(contributor) {
-                        return $('<a>')
-                            .attr('href', contributor.html_url)
-                            .text(contributor.login)
-                            .html()
-                        }).join(', ')
-                }).end()
-            .toggleClass('hidden shown')
-        })
-        
-        if (getURLParameter('input') != null) { $input.val(getURLParameter('input')); $input.trigger("input"); }
-        if (getURLParameter('windows') != null) { $('.filters a[href="#windows"]').click(); }
-        if (getURLParameter('linux') != null) { $('.filters a[href="#linux"]').click(); }
-        if (getURLParameter('mac') != null) { $('.filters a[href="#mac"]').click(); }
-        if (getURLParameter('android') != null) { $('.filters a[href="#android"]').click(); }
-        if (getURLParameter('audio') != null) { $('.filters a[href="#audio"]').click(); }
-        if (getURLParameter('steam') != null) { $('.filters a[href="#steam"]').click(); }
-        if (getURLParameter('desura') != null) { $('.filters a[href="#desura"]').click(); }
-        if (getURLParameter('gog') != null) { $('.filters a[href="#GOG"]').click(); }
-        if (getURLParameter('drm-free') != null) { $('.filters a[href="#DRM-Free"]').click(); }
-    })
-    
-    /**
-     * from http://stackoverflow.com/a/8764051/992504
-     */
-    function getURLParameter(name) {
-        return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
-    }
-    </script>
+    <script src="script.js"></script>
     <script>
         var _gaq=[['_setAccount','UA-37825336-1'],['_trackPageview']];
         (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
