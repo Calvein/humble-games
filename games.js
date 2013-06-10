@@ -281,7 +281,7 @@ var games = [
         }
     },
     {
-        "name": "Bit.Trip Runner",
+        "name": "BIT.TRIP RUNNER",
         "url": "bittriprunner",
         "price": "9.99",
         "description": "Purchase BIT.TRIP RUNNER for Mac, Windows, and Linux and instantly get it DRM-free and on Steam.",
@@ -3877,7 +3877,7 @@ var games = [
             "audio": false
         },
         "DRM": {
-            "steam": true,
+            "steam": false,
             "desura": false,
             "GOG": false,
             "DRM-Free": true

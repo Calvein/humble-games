@@ -8,8 +8,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>All games from <a href="http://humblebundle.com">humblebundle.com</a></h1>
-    <p>All your games are stored on your <a href="https://www.humblebundle.com/home">humble bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
+    <h1>All games from <a href="http://humblebundle.com">the Humble Store</a></h1>
+    <p>All your games are stored on your <a href="https://www.humblebundle.com/home">Humble Bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
+    <!--<iframe style="margin:0 auto; border:none;" src="//www.humblebundle.com/_widget/html" width="410" height="150"></iframe><iframe style="margin:0 auto; border:none;" src="//www.humblebundle.com/_widget/weekly" width="410" height="150"></iframe>-->
     <input autofocus placeholder="e.g: &quot;Trine&quot;">
     <ul class="filters">
         <li><a href="#windows"><img src="img/windows.png" alt="windows"></a>
@@ -18,7 +19,13 @@
         <li><a href="#android"><img src="img/android.png" alt="android"></a>
         <li><a href="#audio"><img src="img/audio.png" alt="audio"></a>
     </ul>
-<!--    <p><del><a href="table.html">Table view with links</a></del> is currently broken.</p> -->
+    <ul class="filters">
+        <li><a href="#steam">Steam</a>
+        <li><a href="#desura">Desura</a>
+        <li><a href="#GOG">GOG</a>
+        <li><a href="#DRM-Free">DRM-Free</a>
+    </ul>
+    <p><a href="table.html">Table view with links</a></p>
 
     <main></main>
 
@@ -134,11 +141,12 @@
                 else if (new RegExp(value, 'i').test($placeholder.data('developer')))
                     nameMatched = true
 
-                // By platforms
-                var supportedPlatforms = $placeholder.data('platform')
-                  , supportFilters = platforms.every(function(platform) {
-                    return supportedPlatforms[platform]
-                })
+                // By platform/DRM
+                var supportedPlatforms = $placeholder.data('platform');
+                var supportedDRM = $placeholder.data('DRM');
+                var supportFilters = platforms.every(function(platformordrm) {
+                    return supportedPlatforms[platformordrm]||supportedDRM[platformordrm]
+                });
 
                 console.log(nameMatched, supportFilters)
                 $placeholder.toggleClass('hidden', !(nameMatched && supportFilters))
@@ -167,7 +175,25 @@
                 }).end()
             .toggleClass('hidden shown')
         })
+        
+        if (getURLParameter('input') != null) { $input.val(getURLParameter('input')); $input.trigger("input"); }
+        if (getURLParameter('windows') != null) { $('.filters a[href="#windows"]').click(); }
+        if (getURLParameter('linux') != null) { $('.filters a[href="#linux"]').click(); }
+        if (getURLParameter('mac') != null) { $('.filters a[href="#mac"]').click(); }
+        if (getURLParameter('android') != null) { $('.filters a[href="#android"]').click(); }
+        if (getURLParameter('audio') != null) { $('.filters a[href="#audio"]').click(); }
+        if (getURLParameter('steam') != null) { $('.filters a[href="#steam"]').click(); }
+        if (getURLParameter('desura') != null) { $('.filters a[href="#desura"]').click(); }
+        if (getURLParameter('gog') != null) { $('.filters a[href="#GOG"]').click(); }
+        if (getURLParameter('drm-free') != null) { $('.filters a[href="#DRM-Free"]').click(); }
     })
+    
+    /**
+     * from http://stackoverflow.com/a/8764051/992504
+     */
+    function getURLParameter(name) {
+        return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
+    }
     </script>
     <script>
         var _gaq=[['_setAccount','UA-37825336-1'],['_trackPageview']];
