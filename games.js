@@ -20,6 +20,26 @@ var games = [
         }
     },
     {
+        "name": "And Yet It Moves",
+        "url": "andyetitmoves",
+        "price": "9.99",
+        "description": "Get And Yet It Moves instantly! Cross-platform, DRM free, and redeemable on Steam.",
+        "developer": "Broken Rules",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Anodyne",
         "url": "anodyne?preview=Sndn9sjSnlz",
         "price": "9",
