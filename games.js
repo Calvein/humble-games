@@ -20,26 +20,6 @@ var games = [
         }
     },
     {
-        "name": "And Yet It Moves",
-        "url": "andyetitmoves",
-        "price": "9.99",
-        "description": "Get And Yet It Moves instantly! Cross-platform, DRM free, and redeemable on Steam.",
-        "developer": "Broken Rules",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "DRM": {
-            "steam": true,
-            "desura": false,
-            "GOG": false,
-            "DRM-Free": true
-        }
-    },
-    {
         "name": "Anodyne",
         "url": "anodyne?preview=Sndn9sjSnlz",
         "price": "9",
@@ -1933,6 +1913,46 @@ var games = [
         },
         "DRM": {
             "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
+        "name": "Ku: Shroud of the Morrigan",
+        "url": "ku_shroudofthemorrigan",
+        "price": "4.00",
+        "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
+        "developer": "bitSmith Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
+        "name": "Ku: Shroud of the Morrigan for Android",
+        "url": "ku_shroudofthemorrigan_android",
+        "price": "2.00",
+        "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
+        "developer": "bitSmith Games",
+        "platform": {
+            "android": true,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
             "desura": false,
             "GOG": false,
             "DRM-Free": true
