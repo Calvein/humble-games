@@ -118,6 +118,21 @@ $(function() {
     $filters.on('click', filter)
 
 
+    /**
+     * Default filters
+     * FILTER=whatevs if filter is input, then the value is used in the input filter
+     */
+    location.search.slice(1).split('&').forEach(function(search) {
+        var params = search.split('=')
+        if (params[0] === 'input') {
+            $input
+            .val(params[1])
+            .trigger('input')
+        } else {
+            $('.filters a[href="#' + params[0] + '"]').click()
+        }
+    })
+
     // Show the contributors, thanks by the way
     $.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
     .done(function(response) {
@@ -134,16 +149,5 @@ $(function() {
                     }).join(', ')
             }).end()
         .toggleClass('hidden shown')
-    })
-
-    location.search.slice(1).split('&').forEach(function(search) {
-        var params = search.split('=')
-        if (params[0] === 'input') {
-            $input
-            .val(params[1])
-            .trigger('input')
-        } else {
-            $('.filters a[href="#' + params[0] + '"]').click()
-        }
     })
 })
