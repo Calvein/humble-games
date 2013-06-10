@@ -2039,6 +2039,26 @@ var games = [
         }
     },
     {
+        "name": "Lost Marbles",
+        "url": "lostmarbles?preview=rDuhp41Eq93l",
+        "price": "9.99",
+        "description": "Get Lost Marbles instantly and DRM-free, for Windows and Mac!",
+        "developer": "Binary Takeover",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Low Light Combat (benefit Camphill)",
         "url": "lowlightcombatcamphillca",
         "price": "5",
