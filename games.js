@@ -1940,7 +1940,7 @@ var games = [
     },
     {
         "name": "Ku: Shroud of the Morrigan",
-        "url": "ku_shroudofthemorrigan",
+        "url": "ku_shroudofthemorrigan?preview=11LHOtGXLhXg",
         "price": "4.00",
         "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
         "developer": "bitSmith Games",
@@ -1960,7 +1960,7 @@ var games = [
     },
     {
         "name": "Ku: Shroud of the Morrigan for Android",
-        "url": "ku_shroudofthemorrigan_android",
+        "url": "ku_shroudofthemorrigan_android?preview=11LHOtGXLhXg",
         "price": "2.00",
         "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
         "developer": "bitSmith Games",
