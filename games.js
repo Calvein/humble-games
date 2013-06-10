@@ -1586,7 +1586,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "I'm assuming the game copy will be DRM-free although they don't specify it."
+        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 1)",
@@ -1607,7 +1607,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "I'm assuming the game copy will be DRM-free although they don't specify it."
+        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 2)",
@@ -1628,7 +1628,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "I'm assuming the game copy will be DRM-free although they don't specify it."
+        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 3)",
@@ -1649,7 +1649,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "I'm assuming the game copy will be DRM-free although they don't specify it."
+        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 4)",
@@ -1670,7 +1670,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "I'm assuming the game copy will be DRM-free although they don't specify it."
+        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 5)",
@@ -1691,7 +1691,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "I'm assuming the game copy will be DRM-free although they don't specify it."
+        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 6)",
@@ -1712,7 +1712,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "I'm assuming the game copy will be DRM-free although they don't specify it."
+        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 7)",
@@ -1733,7 +1733,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "I'm assuming the game copy will be DRM-free although they don't specify it."
+        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Ichi",
