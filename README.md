@@ -23,7 +23,7 @@ file and INSERT the following, where the url fragment is http://www.humblebundle
             "steam": true/false,
             "desura": true/false,
             "GOG": true/false,
-            "DRM-Free": true/false
+            "DRMFree": true/false
         }
     },
 

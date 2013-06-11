@@ -134,20 +134,20 @@ $(function() {
     })
 
     // Show the contributors, thanks by the way
-    $.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
-    .done(function(response) {
-        $('footer')
-            .find('b').html(function() {
-                return response.map(function(contributor) {
-                    if (contributor.login !== 'Calvein')
-                        return $('<a>')
-                            .attr('href', contributor.html_url)
-                            .text(contributor.login)
-                            .appendTo('<div>')
-                            .parent()
-                            .html()
-                    }).join(', ')
-            }).end()
-        .toggleClass('hidden shown')
-    })
+	$.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
+	.done(function(response) {
+		$('footer')
+			.find('b').html(function() {
+				return response.map(function(contributor) {
+					if (contributor.login !== 'Calvein')
+						return $('<a>')
+							.attr('href', contributor.html_url)
+							.text(contributor.login)
+							.appendTo('<div>')
+							.parent()
+							.html()
+					}).join(', ').replace(", , ",", ")
+			}).end()
+		.toggleClass('hidden shown')
+	})
 })
