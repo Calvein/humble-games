@@ -40,6 +40,26 @@ var games = [
         }
     },
     {
+        "name": "Angvik",
+        "url": "angvik?preview=ShDiFHvQDywg",
+        "price": "4.99",
+        "description": "Get Angvik instantly! It's DRM-free.",
+        "developer": "Alastair John Jack",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Anodyne",
         "url": "anodyne?preview=Sndn9sjSnlz",
         "price": "9",
