@@ -644,6 +644,27 @@ var games = [
         }
     },
     {
+    	"name": "Cook, Serve, Delicious!",
+    	"url": "cookservedelicious_extracrispyedition?preview=22zqPSbQVw01",
+    	"price": "8.99",
+    	"description": "Get Cook, Serve, Delicious! Extra Crispy Edition instantly! Cross-platform and DRM-free, all through the Humble Store.",
+    	"developer": "Vertigo Gaming",
+    	"platform": {
+    	    "android": false,
+    	    "linux": true,
+    	    "windows": true,
+    	    "mac": true,
+    	    "audio": false
+    	},
+    	"DRM": {
+    	    "steam": false,
+    	    "desura": false,
+    	    "GOG": false,
+    	    "DRM-Free": true
+    	},
+    	"notes": "Veritgo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
+    },
+    {
         "name": "Cortex Command",
         "url": "cortexcommand",
         "price": "20",
