@@ -3157,7 +3157,7 @@ var games = [
     {
         "name": "Shovel Knight Deluxe",
         "url": "shovelknight_deluxe?preview=AsWK4zsikgrE",
-        "price": "15",
+        "price": "25",
         "description": "Pre-order Shovel Knight now and instantly get it when it's released! Includes PDF manual + PDF Artbook.",
         "developer": "Yacht Club Games",
         "platform": {
