@@ -3134,6 +3134,48 @@ var games = [
         }
     },
     {
+        "name": "Shovel Knight",
+        "url": "shovelknight?preview=AsWK4zsikgrE",
+        "price": "15",
+        "description": "Pre-order Shovel Knight now and instantly get it when it's released!",
+        "developer": "Yacht Club Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
+    },
+    {
+        "name": "Shovel Knight Deluxe",
+        "url": "shovelknight_deluxe?preview=AsWK4zsikgrE",
+        "price": "15",
+        "description": "Pre-order Shovel Knight now and instantly get it when it's released! Includes PDF manual + PDF Artbook.",
+        "developer": "Yacht Club Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
+    },
+    {
         "name": "Sir, You Are Being Hunted",
         "url": "siryouarebeinghunted?preview=Sjd93hwnsk",
         "price": "20",
