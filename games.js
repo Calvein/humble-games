@@ -3147,10 +3147,10 @@ var games = [
             "audio": false
         },
         "DRM": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "GOG": false,
-            "DRM-Free": false
+            "DRM-Free": true
         },
         "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
     },
@@ -3168,10 +3168,10 @@ var games = [
             "audio": false
         },
         "DRM": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "GOG": false,
-            "DRM-Free": false
+            "DRM-Free": true
         },
         "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
     },
