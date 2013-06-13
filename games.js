@@ -1,5 +1,26 @@
 var games = [
     {
+        "name": "A.N.N.E.",
+        "url": "anne?preview=lmX7v6blw6VX",
+        "price": "10",
+        "description": "Pre-order A.N.N.E. now, cross platform and DRM-free! Explore a vast Metroidvania open world and retrieve pieces of your girlfriend to put her back together.",
+        "developer": "Gamesbymo",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "Notes": "Store page at http://www.gamesbymo.com/p/games.html"
+    },
+    {
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
         "price": "9.99",
