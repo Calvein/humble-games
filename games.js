@@ -1208,6 +1208,48 @@ var games = [
         }
     },
     {
+        "name": "Electronic Super Joy",
+        "url": "electronicsuperjoy?preview=7qU9dGBwFyg0",
+        "price": "4.99",
+        "description": "Get Electronic Super Joy instantly, with ZERO DRM!",
+        "developer": "Michael Todd Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Store website http://www.electronicsuperjoy.com/"
+    },
+    {
+        "name": "Electronic Super Joy Soundtrack",
+        "url": "electronicsuperjoy_soundtrack?preview=7qU9dGBwFyg0",
+        "price": "3.99",
+        "description": "Get Electronic Super Joy soundtrack instantly!",
+        "developer": "Michael Todd Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Store website http://www.electronicsuperjoy.com/"
+    },
+    {
         "name": "Element4l",
         "url": "element4l?preview=pSE5NoNmTwWL",
         "price": "9.99",
