@@ -4213,6 +4213,27 @@ var games = [
         }
     },
     {
+        "name": "Pre-Order Xenonauts",
+        "url": "xenonautsstrategicplanetarydefencesimulator?preview=nR8dyC0hW0dE",
+        "price": "19.99",
+        "description": "Pre-Order Xenonauts and instantly get the latest development build as well as a Steam key for Early Access!",
+        "developer": "Goldhawk Interactive",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "\"The Mac port should work natively, but the Linux port will function through an in-built Wine wrapper due to our engine\" Store page: http://www.xenonauts.com/pre-order/"
+    },
+    {
         "name": "Zen Puzzle Garden",
         "url": "zenpuzzlegarden",
         "price": "10",
