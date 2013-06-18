@@ -1,5 +1,26 @@
 var games = [
     {
+        "name": "A.N.N.E.",
+        "url": "anne?preview=lmX7v6blw6VX",
+        "price": "10",
+        "description": "Pre-order A.N.N.E. now, cross platform and DRM-free! Explore a vast Metroidvania open world and retrieve pieces of your girlfriend to put her back together.",
+        "developer": "Gamesbymo",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "Notes": "Store page at http://www.gamesbymo.com/p/games.html"
+    },
+    {
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
         "price": "9.99",
@@ -644,6 +665,27 @@ var games = [
         }
     },
     {
+    	"name": "Cook, Serve, Delicious!",
+    	"url": "cookservedelicious_extracrispyedition?preview=22zqPSbQVw01",
+    	"price": "8.99",
+    	"description": "Get Cook, Serve, Delicious! Extra Crispy Edition instantly! Cross-platform and DRM-free, all through the Humble Store.",
+    	"developer": "Vertigo Gaming",
+    	"platform": {
+    	    "android": false,
+    	    "linux": true,
+    	    "windows": true,
+    	    "mac": true,
+    	    "audio": false
+    	},
+    	"DRM": {
+    	    "steam": false,
+    	    "desura": false,
+    	    "GOG": false,
+    	    "DRM-Free": true
+    	},
+    	"notes": "Veritgo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
+    },
+    {
         "name": "Cortex Command",
         "url": "cortexcommand",
         "price": "20",
@@ -1164,6 +1206,48 @@ var games = [
             "GOG": false,
             "DRMFree": false
         }
+    },
+    {
+        "name": "Electronic Super Joy",
+        "url": "electronicsuperjoy?preview=7qU9dGBwFyg0",
+        "price": "4.99",
+        "description": "Get Electronic Super Joy instantly, with ZERO DRM!",
+        "developer": "Michael Todd Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Store website http://www.electronicsuperjoy.com/"
+    },
+    {
+        "name": "Electronic Super Joy Soundtrack",
+        "url": "electronicsuperjoy_soundtrack?preview=7qU9dGBwFyg0",
+        "price": "3.99",
+        "description": "Get Electronic Super Joy soundtrack instantly!",
+        "developer": "Michael Todd Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Store website http://www.electronicsuperjoy.com/"
     },
     {
         "name": "Element4l",
@@ -2587,6 +2671,26 @@ var games = [
         }
     },
     {
+        "name": "Paranautical Activity",
+        "url": "http://www.humblebundle.com/store/paranauticalactivity?preview=Ush6Rdu9Dsa",
+        "price": "5.99",
+        "description": "Get Paranautical Activity instantly! Cross-platform and DRM-free.",
+        "developer": "Code Avarice",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Perfection.",
         "url": "perfection?preview=oWCaEqcZ7L0Z",
         "price": "0.99",
@@ -3113,6 +3217,48 @@ var games = [
         }
     },
     {
+        "name": "Shovel Knight",
+        "url": "shovelknight?preview=AsWK4zsikgrE",
+        "price": "15",
+        "description": "Pre-order Shovel Knight now and instantly get it when it's released!",
+        "developer": "Yacht Club Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
+    },
+    {
+        "name": "Shovel Knight Deluxe",
+        "url": "shovelknight_deluxe?preview=AsWK4zsikgrE",
+        "price": "25",
+        "description": "Pre-order Shovel Knight now and instantly get it when it's released! Includes PDF manual + PDF Artbook.",
+        "developer": "Yacht Club Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
+    },
+    {
         "name": "Sir, You Are Being Hunted",
         "url": "siryouarebeinghunted?preview=Sjd93hwnsk",
         "price": "20",
@@ -3171,6 +3317,27 @@ var games = [
             "GOG": false,
             "DRMFree": false
         }
+    },
+        {
+        "name": "Skulls of the Shogun",
+        "url": "skullsoftheshogun?preview=H8fsaTdef7djn",
+        "price": "11.99",
+        "description": "Preorder now and receive a Steam key to access the multiplayer beta of Skulls of the Shogun: Bone-A-Fide Edition today & full version on release!",
+        "developer": "17-BIT, Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Original Website: http://skullsoftheshogun.com/buy-it-now/\nAvailable on Windows, Windows Phone, & XBOX 360"
     },
     {
         "name": "Snapshot",
@@ -4085,6 +4252,27 @@ var games = [
             "GOG": false,
             "DRMFree": true
         }
+    },
+    {
+        "name": "Pre-Order Xenonauts",
+        "url": "xenonautsstrategicplanetarydefencesimulator?preview=nR8dyC0hW0dE",
+        "price": "19.99",
+        "description": "Pre-Order Xenonauts and instantly get the latest development build as well as a Steam key for Early Access!",
+        "developer": "Goldhawk Interactive",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "\"The Mac port should work natively, but the Linux port will function through an in-built Wine wrapper due to our engine\" Store page: http://www.xenonauts.com/pre-order/"
     },
     {
         "name": "Zen Puzzle Garden",
