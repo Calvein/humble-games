@@ -55,10 +55,6 @@
         min-width: 53px;
     }
     
-    /*.tdprice:before {
-        content:'$';
-    }*/
-    
     #th_game {
         width:22%;
     }
@@ -66,40 +62,6 @@
         width:16%;
     }
 
-    /*.tdosmac, .tdospc {
-        padding-left:2px;
-        padding-right:2px;
-    }
-    .tdosandroid {
-        padding-right:2px;
-    }
-    .tdoslinux {
-        padding-left:2px;
-    }*/
-
-    .pc, .nopc {
-        margin-left:7px; /* margin to separate OS block from everything else */
-        margin-right:0px;
-        width: 18px;
-        height: 16px;
-        display: inline-block;
-    }
-    .pc {
-        background-repeat:no-repeat;
-        background-attachment:fixed;
-        background-position:center;
-        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlUlEQVR42rXTzWoTQBQF4O+mqZY00Cr+UNCCooiKQlcufIJuRF0KvoAv4msogms3PoHgRje6MEpqMYhu/Lc/SZo24+ZGxqDdOZth7r1zzrl3zoRqlVIWcB1XcAwbeI1HEfHGPiumgG7iBvrYy/xBbOEuvkZE/29AzanzeXzDNnYxk0DPcQ0rpZTH+IIWTuIM7jUrNW0s4UelqJn7C9xO8FU0Um0DO+jWii5hgCFGKFncz9g41U7igQN4FRHjGuhiMm7gO44n4zpOJeAoFcq2W3g5PaOneJYFBT0sp5KrCTJMssBsxjq/gUopS7iVAMOKsYeHuICF6qUj852I2KoVXc59I1km/S/iND7gCQ7jCD5jDu//8FEp5Q7a2EzpjSzsYD5tMcKnvHMo6x9ExDo0SinzybKZxtvO1xugm5aYxOfSV7sZe1cb8lw1xFINf6eywWaVb2S+FxHjGmg5W/iYrC2cxU+cSJJhAk/uzGLtn3+tcvlMvtJqttJPoMnfa+N+RAz2BaoAF7GCo6liL83ajYi3/sf6BQTtiSVI98c6AAAAAElFTkSuQmCC);
-    }
-
-    .mac, .nomac {
-        margin-left:0px;
-        margin-right:0px;
-        width: 14px;
-        height: 18px;
-        display: inline-block;
-        color:transparent;
-    }
-    
     .th_icon.sorttable_sorted > span:first-of-type, .th_icon.sorttable_sorted_reverse > span:first-of-type { 
         -webkit-filter: invert(1);
         filter: invert(1);
@@ -107,53 +69,79 @@
     .th_icon #sorttable_sortrevind, .th_icon #sorttable_sortfwdind {
         display:none;
     }
-    
-    .mac {
-        background-repeat:no-repeat;
+
+    .pc, .mac, .linux, .android, .steam, .desura, .gog, .drmfree, .ost {
+	    background-repeat:no-repeat;
         background-attachment:fixed;
         background-position:center;
+	}
+	
+	.pc, .mac, .linux, .android, .steam, .desura, .gog, .drmfree, .ost, .pc, .nomac, .nolinux, .noandroid, .nosteam, .nodesura, .nogog, .nodrmfree, .noost {
+		margin-left:0px;
+        margin-right:0px;
+        width: 16px;
+        height: 16px;
+        display: inline-block;
+	}
+    .pc, .nopc {
+        margin-left:7px; /* margin to separate OS block from everything else */
+        width: 18px;
+    }
+    .pc {
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlUlEQVR42rXTzWoTQBQF4O+mqZY00Cr+UNCCooiKQlcufIJuRF0KvoAv4msogms3PoHgRje6MEpqMYhu/Lc/SZo24+ZGxqDdOZth7r1zzrl3zoRqlVIWcB1XcAwbeI1HEfHGPiumgG7iBvrYy/xBbOEuvkZE/29AzanzeXzDNnYxk0DPcQ0rpZTH+IIWTuIM7jUrNW0s4UelqJn7C9xO8FU0Um0DO+jWii5hgCFGKFncz9g41U7igQN4FRHjGuhiMm7gO44n4zpOJeAoFcq2W3g5PaOneJYFBT0sp5KrCTJMssBsxjq/gUopS7iVAMOKsYeHuICF6qUj852I2KoVXc59I1km/S/iND7gCQ7jCD5jDu//8FEp5Q7a2EzpjSzsYD5tMcKnvHMo6x9ExDo0SinzybKZxtvO1xugm5aYxOfSV7sZe1cb8lw1xFINf6eywWaVb2S+FxHjGmg5W/iYrC2cxU+cSJJhAk/uzGLtn3+tcvlMvtJqttJPoMnfa+N+RAz2BaoAF7GCo6liL83ajYi3/sf6BQTtiSVI98c6AAAAAElFTkSuQmCC);
+    }
+
+    .mac, .nomac {
+        width: 14px;
+        height: 18px;
+    }
+    .mac {
         background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAASCAYAAABrXO8xAAAACXBIWXMAAAsTAAALEwEAmpwYAAABTklEQVR42qXSv2qUQRQF8N/98mlM/ANaGEFBUlimsLAVQRHyAj6Hr+Ij2KTLO2iRxlKEgCArKFhEhURds9nNXpu7MC67uODAYYY5c+acuXNZYWRml5k3271uBdED7OHpysLM3MZzTHDQcv0/DB/iDPsRMWiJmHO4jns4iohBZu7gR9G3cRgR3/8SZuYz7CIL3/AB27iEi9jAe7zoS/QEj/C1oinxHYxwWvXYqL27fWZ2eFwOPzGee0Y2hZzgZUQc9rhVxAmGOF9SqAsYRcS7WVWvleB3xcoFoqizo/Y7hvWucRNzkfAcNzJzPSJGHb6UYFLkZAnOat6FPiLGmfkZV4pYFhV+YSczr85a7g3Waj0t5xYzx2E1xHEPEfExM49wuWJPF7hO64IhXrVN/rqpXldYK8zWPQ4i4mS+V7dwH+v4hGNs1l9vYhARb/3P+ANXIoE6tehd/wAAAABJRU5ErkJggg==);
     }
 
     .linux, .nolinux {
         margin-left:2px;
-        margin-right:0px;
-        min-width: 13px;
-        height: 16px;
-        display: inline-block;
+        width: 13px;
     }
     .linux {
-        background-repeat:no-repeat;
-        background-attachment:fixed;
-        background-position:center;
         background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAYAAADNo/U5AAAACXBIWXMAAAsTAAALEwEAmpwYAAABNklEQVR42p3Sz4vNcRTG8de57pgxErox+ZEFZaNYMEXJSpTt/S/8WfInWJudraIohUhZTLnCXFw/HpuzmPnOsHCW55znvJ/zOZ8yiCQT3MVlbOBeVc2294zsjms4jw8tnA4bxgPKCMt4geqhR5KsVNW3PUlV9Ruf8RFb+IofWPorqeMAzrRg3IK1HrablKTa1nM8xgN8x9V/kW7gF+633UWSo7iV5FVVPdpBSnIQd/CsqhZVtejS67a6nuTE0N4VzKrq5YD+Hk9wrHfdIbrZRYMXneFN7zoZilaxuccPWcMFLNqmcZKLWMcn3E5yqKoebtNN2tockyTLI1zH8f42c1xKsm+baK0PvYVzmI47uYkvfYLDmCZZacp+zPoUS3hbSVZxFqdwund72tSfnT+Jd9ioqrn/iT/dVmdi5TWL2wAAAABJRU5ErkJggg==);
     }
 
     .android, .noandroid {
-        margin-left:0px;
-        margin-right:0px;
         width: 13px;
         height: 18px;
-        display: inline-block;
     }
     .android {
-        background-repeat:no-repeat;
-        background-attachment:fixed;
-        background-position:center;
         background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAASCAYAAACAa1QyAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQUlEQVR42q3SPW4UQRAF4K9mB7FgsHEEIiIFCRJCJOTLGETACYgdE5CQcwUO4ASEQCIk4QIgZMkLss3sD0VSg4bxkFHJ66rq1/XzmoFl5p4JG8djlLyJB9jDdXzFe7yOiKN/kZ7ibrkbNLiEDxHxor/XDAgPcQdPcIRjfMM+7lX+70qZeYAdnOIMWfkGu1hExDNoB919wk+sqrXeZriAeR9oM/M5XuE+TrCsKsNuLqLJzNt41OJKDfujKi0ntr4u8mVcbev1Vc2yrPM5qQYbPWnRldPPMybFgLjBsq1DH9hUK2NSMyCu21rvGr8Kp0izwhW6yMxrNc/jwm6CNMcsIl5m5k4bEccl7hts4xa+4wtulOCfa2YRsfjzjSLiY0Qc1voXEfEWC8wj4jAi3p37ewPbKjEVbo0vTJG60k5h53/Yb3Zgc+N3cDjFAAAAAElFTkSuQmCC);
     }
 
+    .steam {
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAIAAADZrBkAAAAABnRSTlMABwAGAAmh1x+XAAAACXBIWXMAAC4jAAAuIwF4pT92AAABNklEQVR42mNkZ+NkwAvEJUQhjJcvXsMFmfDrEREV/vv3n6mF8d+//1Ak2Nk4caHgsMDjp47+h4Hjp47ycPJCpHBqk5aWgejh4eSFIIhOwtogehaumf3///+Fa2ZDRAhoCw4LhGiDOxLCjo2OY2fjxBkkpfX5EMaitXMgJL8QP4Eg6enpgdiwbds2uN9y87NRHBkcFojpK6wA4kJ2Nk4GOTk5iFBJcWlJceme/Tuxapg4rV9aWgZuNEIbHEhLyyBrLikuxfQFFm0QnZBYQrYBGTG9fPEaElaYwMHG5c3rt1ilWBgYGNKi8vaEHs6uSpraNi8yOgIicfLaQTxplQVCrVq9moGBYdGShTIysgwMDGt3LVkzbythbRCd8opya9avZGBgWDNvw/IVy/FoYySY37ACJgayAACji/AS42iLggAAAABJRU5ErkJggg==);
+    }
+	
+	.desura {
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/ElEQVQ4jZWSzWpaURSFl0HQwMXjngpehyaClxAc6KjgzyzOorRRpCU+gdMG4iyG4DM0g8DtdZIHcJRXqGSQYXqCEwenRxK5YGB10toGjE037NFe62OffRawoUQkKSLJTZqtDea95XJ5t1wu70RkbxPkNYDRWlNrTREx/2s+C4KAvysIAorI2TptBACUUn4qlXofjUYxn89hrYUxBvl8HgAwmUwgIlBKIZFI4Pn5GdPp9Ku19gOUUv5oNCJJhuFi1TvZLIfDCw6HF9zJZl/MSHI0GlEp5cNxnNWamUyGvV6PANhqHa2e0GodEQB7vR4zmQxPTj6TJB3HIRzHYRgumMvt0lpDkux2j9loHK4AjcYhu91jkqS1hrncLsNwQcdxuFUsFhGLbSMej2MwOAcApNNpzGaz1aFmsxnS6TQAYDA4RzweRyy2jWKxCCilbtvtFkmyVCqxXj+gfrhnuVLm45Pl45NluVKmfrhnvX7AUqlEkmy3W1RK3UJEEiJyXSjskyT7/VNWqxV6nkffv6LvX9HzPFarFfb7pyTJQmGfInItIonIX3//BcDHN0bl0hjzaV2AOs1mk1prWmtftNaazWaTItL5Vwo7ruvaIAhojKExhkEQ0HVdu84ceQXiAbip1WpJABiPxz8AvDPGfHsT4BfExZ+bXBpjvq/T/QTwLEvq57OfYAAAAABJRU5ErkJggg==);
+    }
+	
+	.gog {
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB/klEQVR42o2Qu2tUYRDFz8x9rVnNrkIKVxTBFRsJLhisRGO6gKKNaxBUsLERJCCEYCM2YjoFQZAELdTev0HENrAkMRh8EHzuuvcmYe/97vfNWFxYF21yqhnOmWHmR/V6vVKpYHuK45i3nwZQqVR8VX3wIj1wOATwedXcnormXmZF++ubvXnOvzef1Y9GANaWzOyVEotIteZdOpE1x7JqzXPOVWtecyy7eDxDCD/Kd43wtfH06uleeQ+pqq+q7a4lImO43bUiXrvrACJCp2udo06sqpQb6sRORBhAazG99TTfsVN//Laq2lpMpxfy6YX80xeT9fj9SnZ9Lifin7EF4BPR/EwZQFjSdmyZS/MzZVVVVeaImZ/dKQMo73ad/kBzLikgfFwSZiYiVUVxFnD+bjcoAcD6mhARNRoNa62IFIkgCJi5z1FE/nF9IvI8rwgV6wfB/+/6AF49MUcOhQAmL+eP7+vB/QGAlQ9m6kb0+rnZtzcACMDmljt1wWdVrTJGx83ouFv/yiMRNSZMY8LUhsg5VyvzybPp1nd77EymiRMRX1V5S6LQs84TEW9TwgDMig0VIcRqjLrY5ZawIarqA1heNe8elQAzOYvWcvb2YQTQm1YKDGlPiQipMnuaWgB/KRU/iUifKTMXdR8xM/tJkgwPD4sIEQ2GBuH2lSTJHw90EsiMnI6CAAAAAElFTkSuQmCC);
+    }
+	
+	.drmfree, .nodrmfree {
+        margin-left:7px;
+        width: 19px;
+        height: 19px;
+    }
+    .drmfree {
+        background: url(data:image/png;base64,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);
+    }
+	
     .ost, .noost {
-        margin-left:0px;
         margin-right:7px; /* increased by 5 to form margin to separate OS block from everything else */
         width: 14px;
         height: 18px;
-        display: inline-block;
     }
     .ost {
-        background-repeat:no-repeat;
-        background-attachment:fixed;
-        background-position:center;
         background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAASCAYAAABrXO8xAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVR42rXSvy5EQRTH8c9c14aEKBQI0SgUovEgFJ5E4V08hkbnFXQSiYaIEDYRf8Kydu9oDrnZjC0kTnIykznzPWfOb04yxnLOq1jAIlawHPvZunB5H0vhDYYYxDqMs4+6UGgTr7hrXWx7jZkS+IJnvCOPxBpMYrIE9gL6xAfucYPb8D3kEthETwcppYeCBjVUvwhalaCwCeQSmMck/HlV/QewEdKWAsMxYB9VCRyEt8XYxlYo3UOnBH5+PydsN6CnGIwGqc45d7ATE9MvfPw6ujEU/RiAqToybrQyZnRa4CWmIzaM7zitsBbT0cVj9DBogYe4jkoJ5ziucRWHb61qZ99USukZR6NCpJzzXDQ/HxkvcJJSyv7DvgBpPGOWreAK8wAAAABJRU5ErkJggg==);
     }
 
@@ -172,17 +160,38 @@
         background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAATSURBVHjaYmBgYDAGAAAA//8DAAA4ADRSEg8vAAAAAElFTkSuQmCC);
         background-repeat: repeat;
     }
+
+    footer {
+        margin: 30px 0;
+    }
+    
     </style>
     <script src="sorttable.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+    <script>
+        // Show the contributors, thanks by the way
+        $.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
+        .done(function(response) {
+            $('footer')
+                .find('b').html(function() {
+                    return response.map(function(contributor) {
+                        if (contributor.login !== 'Calvein')
+                            return $('<a>')
+                                .attr('href', contributor.html_url)
+                                .text(contributor.login)
+                                .appendTo('<div>')
+                                .parent()
+                                .html()
+                        }).join(', ').replace(", , ",", ")
+                }).end()
+            .toggleClass('hidden shown')
+        })
+    </script>
+
 </head>
 <body>
     <div align="center">
-    <!--<br><br><br><br><br>
-    <h1>Table view is <i>broken</i></h1>
-    <h3>Please use the <a href="/humble-games"><i></i>original frame view</i></a> until it is fixed.</h3>
-    <h5>(The game title, developer, and price will still display correctly, but links, DRM, platform, and sorting are broken)<br></h5>
-    <br><br><br><br><br><br><br><br><br><br>-->
     <h1>All games from <a href="http://humblebundle.com">the Humble Store</a></h1>
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">Humble Bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/">edit this list</a>.</p>
     <input autofocus placeholder="e.g: &quot;Trine&quot;">
@@ -195,7 +204,12 @@
         <th id="th_mac" class="th_icon"><span class="mac"></span></th>
         <th id="th_linux" class="th_icon"><span class="linux"></span></th>
         <th id="th_android" class="th_icon"><span class="android"></span></th>
+        <th id="th_steam" class="th_icon"><span class="steam"></span></th>
+        <th id="th_desura" class="th_icon"><span class="desura"></span></th>
+        <th id="th_gog" class="th_icon"><span class="gog"></span></th>
+        <th id="th_drmfree" class="th_icon"><span class="drmfree"></span></th>
         <th id="th_ost" class="th_icon"><span class="ost"></span></th>
+        <th id="th_review" class="sorttable_alpha">Review</th>
         <th id="th_dev" class="sorttable_alpha">Developer</th>
         <th id="th_desc" class="sorttable_nosort">Description</th>
     </tr></thead><tbody id="gametablebody"></tbody></table>
@@ -204,8 +218,14 @@
 </div>
     <script src="games.js"></script>
     <script>
+	function returnIfExist(property) {
+		try {
+			return property;
+		} catch (err) {
+			return null
+		}
+	}
     !function() {
-        // Add spans placeholders for the lazy-load
         var i=0;
         games.forEach(function(game) {
             i++
@@ -221,7 +241,20 @@
             tr.dataset.linux = game.platform.linux
             tr.dataset.android = game.platform.android
             tr.dataset.ost = game.platform.audio
-
+            tr.dataset.steam = game.DRM.steam
+            tr.dataset.desura = game.DRM.desura
+            tr.dataset.gog = game.DRM.GOG
+            tr.dataset.drmfree = game.DRM.DRMFree
+            tr.dataset.extras = game.extras
+            if(returnIfExist(game.URL) != null) {
+				tr.dataset.reviewurl = returnIfExist(game.URL.review)
+				tr.dataset.devurl = returnIfExist(game.URL.developer)
+				tr.dataset.steamurl = returnIfExist(game.URL.steam)
+				tr.dataset.desuraurl = returnIfExist(game.URL.desura)
+			}
+			if(tr.dataset.steamurl==null)
+				tr.dataset.steamurl=searchurl='http://store.steampowered.com/search/?ref=os&term='+tr.dataset.game;
+				
             var tdnum = document.createElement('td');
                 tdnum.className = 'tdnum';
                 var tdnumlink = document.createElement('a');
@@ -243,9 +276,9 @@
 
             var tdprice = document.createElement('td');
                 tdprice.className = 'tdprice';
-                //tdprice.setAttribute('sorttable_customkey', tr.dataset.price);
+                tdprice.setAttribute('sorttable_customkey', tr.dataset.price);
                 tdprice.setAttribute('class','tdprice');
-                tdprice.textContent=tr.dataset.price;
+                tdprice.textContent="$"+tr.dataset.price;
             tr.appendChild(tdprice);
 
             var tdospc = document.createElement('td');
@@ -279,18 +312,75 @@
                     tdosandroidbg.className = (tr.dataset.android==="true" ? 'android' : 'noandroid');
                 tdosandroid.appendChild(tdosandroidbg);
             tr.appendChild(tdosandroid);
+            
+            var tddrmsteam = document.createElement('td');
+                tddrmsteam.className = 'tddrmsteam';
+                tddrmsteam.setAttribute('sorttable_customkey', (tr.dataset.steam==="true" ? '0' : '1'));
+                var tddrmsteambg = document.createElement('span');
+					if(tr.dataset.steam==="true") {
+						tddrmsteambg.className = 'steam';
+						tddrmsteambg.onclick = function(){window.location=tr.dataset.steamurl};
+						tddrmsteambg.style.cursor="pointer";
+					} else tddrmsteambg.className = 'nosteam';
+                tddrmsteam.appendChild(tddrmsteambg);
+            tr.appendChild(tddrmsteam);
 
+            var tddrmdesura = document.createElement('td');
+                tddrmdesura.className = 'tddrmdesura';
+                tddrmdesura.setAttribute('sorttable_customkey', (tr.dataset.desura==="true" ? '0' : '1'));
+                var tddrmdesurabg = document.createElement('span');
+					if(tr.dataset.desura==="true") {
+						tddrmdesurabg.className = 'desura';
+						if (tr.dataset.desuraurl != null) {
+							tddrmdesurabg.onclick = function(){window.location=tr.dataset.desuraurl};
+							tddrmdesurabg.style.cursor="pointer";
+						}
+					} else tddrmdesurabg.className = "nodesura";
+                tddrmdesura.appendChild(tddrmdesurabg);
+            tr.appendChild(tddrmdesura);
+            
+    		var tddrmgog = document.createElement('td');
+                tddrmgog.className = 'tddrmgog';
+                tddrmgog.setAttribute('sorttable_customkey', (tr.dataset.gog==="true" ? '0' : '1'));
+                var tddrmgogbg = document.createElement('span');
+                    tddrmgogbg.className = (tr.dataset.gog==="true" ? 'gog' : 'nogog');
+                tddrmgog.appendChild(tddrmgogbg);
+            tr.appendChild(tddrmgog);
+            
+			var tddrmfree = document.createElement('td');
+                tddrmfree.className = 'tddrmfree';
+                tddrmfree.setAttribute('sorttable_customkey', (tr.dataset.drmfree==="true" ? '0' : '1'));
+                var tddrmfreebg = document.createElement('span');
+                    tddrmfreebg.className = (tr.dataset.drmfree==="true" ? 'drmfree' : 'nodrmfree');
+                tddrmfree.appendChild(tddrmfreebg);
+            tr.appendChild(tddrmfree);
+            
             var tdost = document.createElement('td');
                 tdost.className = 'tdost';
                 tdost.setAttribute('sorttable_customkey', (tr.dataset.ost==="true" ? '0' : '1'));
-                var tdostbg = document.createElement('span');
+                var tdostbg = document.createElement('a');
                     tdostbg.className = (tr.dataset.ost==="true" ? 'ost' : 'noost');
                 tdost.appendChild(tdostbg);
             tr.appendChild(tdost);
 
+            var tdreview = document.createElement('td');
+                tdreview.className = 'tdreview';
+                if(returnIfExist(tr.dataset.reviewurl) != null) {
+					var tdreviewlink = document.createElement('a');
+						tdreviewlink.href = tr.dataset.reviewurl;
+						tdreviewlink.textContent="Review";
+					tdreview.appendChild(tdreviewlink);
+				}
+            tr.appendChild(tdreview);
+
             var tddev = document.createElement('td');
                 tddev.className = 'tddev';
-                tddev.textContent = tr.dataset.dev;
+                if(returnIfExist(tr.dataset.devurl) != null) {
+					var tddevlink = document.createElement('a');
+						tddevlink.href = tr.dataset.devurl;
+						tddevlink.textContent=tr.dataset.dev;
+					tddev.appendChild(tddevlink);
+				} else tddev.textContent = tr.dataset.dev;
             tr.appendChild(tddev);
 
             var tddesc = document.createElement('td');
@@ -332,6 +422,8 @@
         return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
     }
     </script>
+
+    <footer class="hidden">By <strong><a href="https://github.com/Calvein">Calvein</a></strong>, thanks to <b></b> for their contributions.</footer>
     <script>
          var _gaq=[['_setAccount','UA-37825336-1'],['_trackPageview']];
          (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];

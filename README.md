@@ -13,18 +13,26 @@ file and INSERT the following, where the url fragment is http://www.humblebundle
         "description": DESCRIPTION,
         "developer": DEVELOPER,
         "platform": {
-            "android": true/false,
-            "linux": true/false,
-            "windows": true/false,
-            "mac": true/false,
-            "audio": true/false
-        }
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": false
+        },
         "DRM": {
-            "steam": true/false,
-            "desura": true/false,
-            "GOG": true/false,
-            "DRM-Free": true/false
-        }
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRMFree": false
+        },
+        "URL": {
+            "review": "",
+            "steam": "",
+            "desura": "",
+            "developer": ""
+        },
+        "notes": "",
+        "extras": false
     },
 
 You can generate this automatically over [here](http://calvein.github.io/humble-games/json.html).

@@ -8,13 +8,13 @@ body, #form-preview {
   padding: 20px;
 }
 
-h1 {
+h1, h2, h3, h4 {
   text-align: center;
   //line-height:.2em;
   margin-bottom:0;
 }
 
-h5 {
+h5, h2, h3, h4 {
 	text-align: center;
 	margin-top:0;
 }
@@ -111,8 +111,13 @@ function generate() {
 	var desura = document.getElementById("desura").checked;
 	var GOG = document.getElementById("gog").checked;
 	var drmfree = document.getElementById("drm-free").checked;
+	var extras = document.getElementById("extras").checked;
 	var notes = document.getElementById("notes").value;
-	var myJSON = generatejson(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
+	var review = document.getElementById("review").value;
+	var steamid = document.getElementById("steamid").value;
+	var desura = document.getElementById("desura").value;
+	var devurl = document.getElementById("devurl").value;
+	var myJSON = generatejson(devurl,extras,review,steamid,desura,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
 	var myWiki = generatewiki(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
 	document.getElementById('json').innerText=JSON.stringify(myJSON,null,4) + ",";
 	document.getElementById('wiki').innerText=myWiki;
@@ -128,7 +133,7 @@ function generatewiki(name,url,price,description,developer,android,linux,windows
 	wikiformatting += (audio ? "Can come with a soundtrack. " + notes : notes);
 	return wikiformatting;
 }
-function generatejson(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes) {
+function generatejson(devurl,extras,review,steamid,desura,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes) {
 	// make an empty object
 	var myGame = {};
 	myGame['name']=jescape(name);
@@ -146,10 +151,17 @@ function generatejson(name,url,price,description,developer,android,linux,windows
 	myDRM["steam"]=steam;
 	myDRM["desura"]=desura;
 	myDRM["GOG"]=GOG;
-	myDRM["DRM-Free"]=drmfree;
+	myDRM["DRMFree"]=drmfree;
+	var myURLs = {};
+	myURLs["review"]=review;
+	myURLs["steam"]=steamid;
+	myURLs["desura"]=desura;
+	myURLs["developer"]=devurl;
 	myGame.platform = myPlatform;
 	myGame.DRM = myDRM;
+	myGame.URL = myURLs;
 	myGame["notes"]=jescape(notes);
+	myGame["extras"]=extras;
     return myGame;
 }
 function jescape(unescapedstring) {
@@ -177,24 +189,42 @@ function selectText(containerid) {
 <form method="post" action="process.php" id="form">
   <div>
     <label data-key="gamename">Game Name <span class="required">*</span></label>
-    <input id="gamename" type="text" name="gamename" required="required" onkeyup="generate();" placeholder="Full name of the package, from the top of the store page" />
+    <input id="gamename" type="text" name="gamename" required="required" onkeyup="generate();" placeholder="A.N.N.E" />
   </div>
   <div>
     <label data-key="urlfrag">URL Fragment <span class="required">*</span></label>
-    <input id="urlfrag" type="text" name="urlfrag" required="required" onkeyup="generate();" placeholder="http://humblebundle.com/store/product/urlfragment/" />
+    <input id="urlfrag" type="text" name="urlfrag" required="required" onkeyup="generate();" placeholder="anne?preview=lmX7v6blw6VX" />
   </div>
   <div>
     <label data-key="price">Price <span class="required">*</span></label>
-    <input id="price" type="text" name="price" required="required" onkeyup="generate();" placeholder="Without $"/>
+    <input id="price" type="text" name="price" required="required" onkeyup="generate();" placeholder="10"/>
   </div>
   <div>
     <label data-key="description">Description <span class="required">*</span></label>
-    <input id="description" type="text" name="description" required="required" onkeyup="generate();" placeholder="From the store page at right" />
+    <input id="description" type="text" name="description" required="required" onkeyup="generate();" placeholder="Pre-order A.N.N.E. now, cross platform and DRM-free! Explore a vast Metroidvania open world and retrieve pieces of your girlfriend to put her back together." />
   </div>
   <div>
     <label data-key="developer">Developer <span class="required">*</span></label>
-    <input id="developer" type="text" name="developer" required="required" onkeyup="generate();" placeholder="From the store page at left" />
+    <input id="developer" type="text" name="developer" required="required" onkeyup="generate();" placeholder="Gamesbryo" />
   </div>
+  <div><h2>URLs</h2><h3>Useful for table view. Optional.</h3><h5>The samples do not match the game above.</h5></div>
+  <div>
+    <label data-key="devurl">Developer URL</label>
+    <input id="devurl" type="text" name="devurl" onkeyup="generate();" placeholder="http://www.gamesbymo.com" />
+  </div>
+  <div>
+    <label data-key="review">Review URL</label>
+    <input id="review" type="text" name="review" onkeyup="generate();" placeholder="http://www.doublejump.co/a-n-n-e-a-beautiful-side-scrolling-shootermetroidvania-hybrid-is-now-on-kickstarter/" />
+  </div>
+  <div>
+    <label data-key="steamid">Steam URL</label>
+    <input id="steamid" type="text" name="steamid" onkeyup="generate();" placeholder="http://store.steampowered.com/app/70500/" />
+  </div>
+  <div>
+    <label data-key="desura">Desura URL</label>
+    <input id="desura" type="text" name="desura" onkeyup="generate();" placeholder="http://www.desura.com/games/running-with-rifles" />
+  </div>
+  <div><h2>Platforms, DRM, and Extras</h2></div>
   <div style="float:right;width:50%;>
     <label data-key="drm">DRM/Distributor</label><br>
     <input id="steam" name="drm[]" value="steam" type="checkbox" onclick="generate();" /> <span class="label">Steam</span><br/>
@@ -209,7 +239,10 @@ function selectText(containerid) {
     <input id="windows" name="platforms[]" value="windows" type="checkbox" onclick="generate();" /> <span class="label">Windows</span><br/>
     <input id="mac" name="platforms[]" value="mac" type="checkbox" onclick="generate();" /> <span class="label">Mac</span><br/>
   </div>
-  <div>
+  <div style="float:right;width:50%;">
+    <input id="extras" name="extras[]" value="extras" type="checkbox" onclick="generate();" /> <span class="label">Other Extras</span><br/>
+  </div>
+  <div style="width: 50%;">
     <input id="soundtrack" name="soundtrack[]" value="soundtrack" type="checkbox" onclick="generate();" /> <span class="label">Soundtrack</span><br/>
   </div>
   <div>
