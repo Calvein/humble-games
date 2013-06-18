@@ -252,7 +252,9 @@
 				tr.dataset.steamurl = returnIfExist(game.URL.steam)
 				tr.dataset.desuraurl = returnIfExist(game.URL.desura)
 			}
-
+			if(tr.dataset.steamurl==null)
+				tr.dataset.steamurl=searchurl='http://store.steampowered.com/search/?ref=os&term='+tr.dataset.game;
+				
             var tdnum = document.createElement('td');
                 tdnum.className = 'tdnum';
                 var tdnumlink = document.createElement('a');
@@ -317,10 +319,8 @@
                 var tddrmsteambg = document.createElement('span');
 					if(tr.dataset.steam==="true") {
 						tddrmsteambg.className = 'steam';
-						if (tr.dataset.steamurl != null) {
-							tddrmsteambg.onclick = function(){window.location=tr.dataset.steamurl};
-							tddrmsteambg.style.cursor="pointer";
-						}
+						tddrmsteambg.onclick = function(){window.location=tr.dataset.steamurl};
+						tddrmsteambg.style.cursor="pointer";
 					} else tddrmsteambg.className = 'nosteam';
                 tddrmsteam.appendChild(tddrmsteambg);
             tr.appendChild(tddrmsteam);
