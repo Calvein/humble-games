@@ -116,8 +116,9 @@ function generate() {
 	var review = document.getElementById("review").value;
 	var steamid = document.getElementById("steamid").value;
 	var desura = document.getElementById("desura").value;
+	var devurl = document.getElementById("devurl").value;
 	var metacritic = document.getElementById("metacritic").value;
-	var myJSON = generatejson(extras,review,steamid,desura,metacritic,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
+	var myJSON = generatejson(devurl,extras,review,steamid,desura,metacritic,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
 	var myWiki = generatewiki(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
 	document.getElementById('json').innerText=JSON.stringify(myJSON,null,4) + ",";
 	document.getElementById('wiki').innerText=myWiki;
@@ -133,7 +134,7 @@ function generatewiki(name,url,price,description,developer,android,linux,windows
 	wikiformatting += (audio ? "Can come with a soundtrack. " + notes : notes);
 	return wikiformatting;
 }
-function generatejson(extras,review,steamid,desura,metacritic,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes) {
+function generatejson(devurl,extras,review,steamid,desura,metacritic,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes) {
 	// make an empty object
 	var myGame = {};
 	myGame['name']=jescape(name);
@@ -156,6 +157,7 @@ function generatejson(extras,review,steamid,desura,metacritic,name,url,price,des
 	myURLs["review"]=review;
 	myURLs["steam"]=steamid;
 	myURLs["desura"]=desura;
+	myURLs["developer"]=devurl;
 	myGame.platform = myPlatform;
 	myGame.DRM = myDRM;
 	myGame.URL = myURL;
@@ -207,6 +209,10 @@ function selectText(containerid) {
     <input id="developer" type="text" name="developer" required="required" onkeyup="generate();" placeholder="Gamesbryo" />
   </div>
   <div><h2>URLs</h2><h3>Useful for table view. Optional.</h3><h5>The samples do not match the game above.</h5></div>
+  <div>
+    <label data-key="devurl">Developer URL</label>
+    <input id="devurl" type="text" name="devurl" onkeyup="generate();" placeholder="http://www.gamesbymo.com" />
+  </div>
   <div>
     <label data-key="review">Review URL</label>
     <input id="review" type="text" name="review" onkeyup="generate();" placeholder="http://www.doublejump.co/a-n-n-e-a-beautiful-side-scrolling-shootermetroidvania-hybrid-is-now-on-kickstarter/" />
