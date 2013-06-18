@@ -2673,7 +2673,7 @@ var games = [
     {
         "name": "Paranautical Activity",
         "url": "http://www.humblebundle.com/store/paranauticalactivity?preview=Ush6Rdu9Dsa",
-        "price": "5.99        
+        "price": "5.99
         "description": "Get Paranautical Activity instantly! Cross-platform and DRM-free.",
         "developer": "Code Avarice",
         "platform": {
