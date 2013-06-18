@@ -154,12 +154,11 @@ function generatejson(extras,review,steamid,desura,metacritic,name,url,price,des
 	myDRM["DRMFree"]=drmfree;
 	var myURLs = {};
 	myURLs["review"]=review;
-	myURLs["steamid"]=steamid;
+	myURLs["steam"]=steamid;
 	myURLs["desura"]=desura;
-	myURLs["metacritic"]=metacritic;
 	myGame.platform = myPlatform;
 	myGame.DRM = myDRM;
-	myGame.URLs = myURLs;
+	myGame.URL = myURL;
 	myGame["notes"]=jescape(notes);
 	myGame["extras"]=extras;
     return myGame;
@@ -219,10 +218,6 @@ function selectText(containerid) {
   <div>
     <label data-key="desura">Desura URL</label>
     <input id="desura" type="text" name="desura" onkeyup="generate();" placeholder="http://www.desura.com/games/running-with-rifles" />
-  </div>
-  <div>
-    <label data-key="metacritic">Metacritic URL</label>
-    <input id="metacritic" type="text" name="metacritic" onkeyup="generate();" placeholder="http://www.metacritic.com/game/pc/alice-madness-returns" />
   </div>
   <div><h2>Platforms, DRM, and Extras</h2></div>
   <div style="float:right;width:50%;>
