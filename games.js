@@ -2671,6 +2671,26 @@ var games = [
         }
     },
     {
+        name": "Paranautical Activity",
+        "url": "http://www.humblebundle.com/store/paranauticalactivity?preview=Ush6Rdu9Dsa",
+        "price": "5.99        
+        "description": "Get Paranautical Activity instantly! Cross-platform and DRM-free.",
+        "developer": "Code Avarice",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "Perfection.",
         "url": "perfection?preview=oWCaEqcZ7L0Z",
         "price": "0.99",
