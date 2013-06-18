@@ -16,7 +16,7 @@ var games = [
             "steam": false,
             "desura": false,
             "GOG": false,
-            "DRM-Free": true
+            "DRMFree": true
         },
         "Notes": "Store page at http://www.gamesbymo.com/p/games.html"
     },
@@ -681,7 +681,7 @@ var games = [
     	    "steam": false,
     	    "desura": false,
     	    "GOG": false,
-    	    "DRM-Free": true
+    	    "DRMFree": true
     	},
     	"notes": "Veritgo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
     },
@@ -1224,7 +1224,7 @@ var games = [
             "steam": false,
             "desura": false,
             "GOG": false,
-            "DRM-Free": true
+            "DRMFree": true
         },
         "notes": "Store website http://www.electronicsuperjoy.com/"
     },
@@ -1245,7 +1245,7 @@ var games = [
             "steam": false,
             "desura": false,
             "GOG": false,
-            "DRM-Free": false
+            "DRMFree": false
         },
         "notes": "Store website http://www.electronicsuperjoy.com/"
     },
@@ -2687,7 +2687,7 @@ var games = [
             "steam": false,
             "desura": false,
             "GOG": false,
-            "DRM-Free": true
+            "DRMFree": true
         }
     },
     {
@@ -3233,7 +3233,7 @@ var games = [
             "steam": true,
             "desura": false,
             "GOG": false,
-            "DRM-Free": true
+            "DRMFree": true
         },
         "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
     },
@@ -3254,7 +3254,7 @@ var games = [
             "steam": true,
             "desura": false,
             "GOG": false,
-            "DRM-Free": true
+            "DRMFree": true
         },
         "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
     },
@@ -3335,7 +3335,7 @@ var games = [
             "steam": true,
             "desura": false,
             "GOG": false,
-            "DRM-Free": false
+            "DRMFree": false
         },
         "notes": "Original Website: http://skullsoftheshogun.com/buy-it-now/\nAvailable on Windows, Windows Phone, & XBOX 360"
     },
@@ -4270,7 +4270,7 @@ var games = [
             "steam": true,
             "desura": false,
             "GOG": false,
-            "DRM-Free": true
+            "DRMFree": true
         },
         "notes": "\"The Mac port should work natively, but the Linux port will function through an in-built Wine wrapper due to our engine\" Store page: http://www.xenonauts.com/pre-order/"
     },
