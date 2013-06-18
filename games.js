@@ -3318,6 +3318,27 @@ var games = [
             "DRM-Free": false
         }
     },
+        {
+        "name": "Skulls of the Shogun",
+        "url": "skullsoftheshogun?preview=H8fsaTdef7djn",
+        "price": "11.99",
+        "description": "Preorder now and receive a Steam key to access the multiplayer beta of Skulls of the Shogun: Bone-A-Fide Edition today & full version on release!",
+        "developer": "17-BIT, Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "notes": "Original Website: http://skullsoftheshogun.com/buy-it-now/\nAvailable on Windows, Windows Phone, & XBOX 360"
+    },
     {
         "name": "Snapshot",
         "url": "snapshotthegame?preview=pending",
