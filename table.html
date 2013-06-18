@@ -214,6 +214,7 @@
         <th id="th_gog" class="th_icon"><span class="gog"></span></th>
         <th id="th_drmfree" class="th_icon"><span class="drmfree"></span></th>
         <th id="th_ost" class="th_icon"><span class="ost"></span></th>
+        <th id="th_review" class="sorttable_alpha">Review</th>
         <th id="th_dev" class="sorttable_alpha">Developer</th>
         <th id="th_desc" class="sorttable_nosort">Description</th>
     </tr></thead><tbody id="gametablebody"></tbody></table>
@@ -222,6 +223,13 @@
 </div>
     <script src="games.js"></script>
     <script>
+	function returnIfExist(property) {
+		try {
+			return property;
+		} catch (err) {
+			return null
+		}
+	}
     !function() {
         // Add spans placeholders for the lazy-load
         var i=0;
@@ -243,7 +251,14 @@
             tr.dataset.desura = game.DRM.desura
             tr.dataset.gog = game.DRM.GOG
             tr.dataset.drmfree = game.DRM.DRMFree
-            
+            tr.dataset.extras = game.extras
+            if(returnIfExist(game.URL) != null) {
+				tr.dataset.reviewurl = returnIfExist(game.URL.review)
+				tr.dataset.devurl = returnIfExist(game.URL.developer)
+				tr.dataset.steamurl = returnIfExist(game.URL.steam)
+				tr.dataset.desuraurl = returnIfExist(game.URL.desura)
+			}
+
             var tdnum = document.createElement('td');
                 tdnum.className = 'tdnum';
                 var tdnumlink = document.createElement('a');
@@ -265,9 +280,9 @@
 
             var tdprice = document.createElement('td');
                 tdprice.className = 'tdprice';
-                //tdprice.setAttribute('sorttable_customkey', tr.dataset.price);
+                tdprice.setAttribute('sorttable_customkey', tr.dataset.price);
                 tdprice.setAttribute('class','tdprice');
-                tdprice.textContent=tr.dataset.price;
+                tdprice.textContent="$"+tr.dataset.price;
             tr.appendChild(tdprice);
 
             var tdospc = document.createElement('td');
@@ -306,7 +321,13 @@
                 tddrmsteam.className = 'tddrmsteam';
                 tddrmsteam.setAttribute('sorttable_customkey', (tr.dataset.steam==="true" ? '0' : '1'));
                 var tddrmsteambg = document.createElement('span');
-                    tddrmsteambg.className = (tr.dataset.steam==="true" ? 'steam' : 'nosteam');
+					if(tr.dataset.steam==="true") {
+						tddrmsteambg.className = 'steam';
+						if (tr.dataset.steamurl != null) {
+							tddrmsteambg.onclick = function(){window.location=tr.dataset.steamurl};
+							tddrmsteambg.style.cursor="pointer";
+						}
+					} else tddrmsteambg.className = 'nosteam';
                 tddrmsteam.appendChild(tddrmsteambg);
             tr.appendChild(tddrmsteam);
 
@@ -314,7 +335,13 @@
                 tddrmdesura.className = 'tddrmdesura';
                 tddrmdesura.setAttribute('sorttable_customkey', (tr.dataset.desura==="true" ? '0' : '1'));
                 var tddrmdesurabg = document.createElement('span');
-                    tddrmdesurabg.className = (tr.dataset.desura==="true" ? 'desura' : 'nodesura');
+					if(tr.dataset.desura==="true") {
+						tddrmdesurabg.className = 'desura';
+						if (tr.dataset.desuraurl != null) {
+							tddrmdesurabg.onclick = function(){window.location=tr.dataset.desuraurl};
+							tddrmdesurabg.style.cursor="pointer";
+						}
+					} else tddrmdesurabg.className = "nodesura";
                 tddrmdesura.appendChild(tddrmdesurabg);
             tr.appendChild(tddrmdesura);
             
@@ -337,14 +364,29 @@
             var tdost = document.createElement('td');
                 tdost.className = 'tdost';
                 tdost.setAttribute('sorttable_customkey', (tr.dataset.ost==="true" ? '0' : '1'));
-                var tdostbg = document.createElement('span');
+                var tdostbg = document.createElement('a');
                     tdostbg.className = (tr.dataset.ost==="true" ? 'ost' : 'noost');
                 tdost.appendChild(tdostbg);
             tr.appendChild(tdost);
 
+            var tdreview = document.createElement('td');
+                tdreview.className = 'tdreview';
+                if(returnIfExist(tr.dataset.reviewurl) != null) {
+					var tdreviewlink = document.createElement('a');
+						tdreviewlink.href = tr.dataset.reviewurl;
+						tdreviewlink.textContent="Review";
+					tdreview.appendChild(tdreviewlink);
+				}
+            tr.appendChild(tdreview);
+
             var tddev = document.createElement('td');
                 tddev.className = 'tddev';
-                tddev.textContent = tr.dataset.dev;
+                if(returnIfExist(tr.dataset.devurl) != null) {
+					var tddevlink = document.createElement('a');
+						tddevlink.href = tr.dataset.devurl;
+						tddevlink.textContent=tr.dataset.dev;
+					tddev.appendChild(tddevlink);
+				} else tddev.textContent = tr.dataset.dev;
             tr.appendChild(tddev);
 
             var tddesc = document.createElement('td');
