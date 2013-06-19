@@ -360,7 +360,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-		"note": "dev page: http://www.blade-symphony.com/prerelease/"
+	"note": "dev page: http://www.blade-symphony.com/prerelease/"
     },
     {
         "name": "Bleed",
@@ -1888,7 +1888,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -1899,7 +1899,7 @@ var games = [
             "DRM-Free": true
         },
         "sale": true,
-        "Notes": "Sale ends around may 26th, regular price is $14.99"
+        "Notes": "Sale ends around ??? unknown, regular price is $14.99.\nLinux version available for free at http://www.incredipede.com/linux.html"
     },
     {
         "name": "Intrusion 2",
@@ -2281,7 +2281,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-		"note": "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
+	"note": "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
     },
     {
         "name": "Macguffin's Curse",
@@ -2462,7 +2462,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Musical Intern)",
@@ -2483,7 +2483,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Research Intern)",
@@ -2504,7 +2504,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Stylish Intern)",
@@ -2525,7 +2525,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Cozy Intern)",
@@ -2546,7 +2546,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Deluxe  Intern)",
@@ -2567,7 +2567,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-		"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Noitu Love 2 Devolution",
@@ -2950,7 +2950,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-		"notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
+	"notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
     },
     {
         "name": "RIOT",
@@ -3767,7 +3767,7 @@ var games = [
     {
         "name": "Talisman Prologue: Standard Edition",
         "url": "talismanprologuestandardedition?preview=hTHvuxEBSNCy",
-        "price": "4.99",
+        "price": "10",
         "description": "Get Talisman Prologue instantly, DRM-free!",
         "developer": "Nomad Games",
         "platform": {
@@ -3782,14 +3782,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        },
-        "sale": true,
-        "Notes": "Sale ends around may 26th, regular price is $10"
+        }
     },
     {
         "name": "Talisman Prologue: Premium Edition",
         "url": "talismanprologuepremiumedition?preview=hTHvuxEBSNCy",
-        "price": "6.49",
+        "price": "12.99",
         "description": "Get Talisman Prologue instantly, DRM-free. Premium Edition comes with a soundtrack and theme pack!",
         "developer": "Nomad Games",
         "platform": {
@@ -3804,9 +3802,7 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        },
-        "sale": true,
-        "Notes": "Sale ends around may 26th, regular price is $12.99"
+        }
     },
     {
         "name": "The Adventures of Shuggy",
@@ -3851,7 +3847,7 @@ var games = [
     {
         "name": "The Swapper",
         "url": "theswapper?preview=sdfSHDhe9hs",
-        "price": "11.24",
+        "price": "14.99",
         "description": "Get The Swapper instantly! DRM-free. Direct download and Steam key included.",
         "developer": "Facepalm Games",
         "platform": {
@@ -3866,13 +3862,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        },
-        "Note": "On sale for release, regular price $14.99. Linux and Mac support in development."
+        }
     },
     {
         "name": "The Swapper + Soundtrack",
         "url": "theswappersoundtrackedition?preview=sdfSHDhe9hs",
-        "price": "13.49",
+        "price": "17.99",
         "description": "Get The Swapper + The Swapper Official soundtrack instantly! DRM-free. Direct download and Steam key included.",
         "developer": "Facepalm Games",
         "platform": {
@@ -3887,8 +3882,7 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        },
-        "Note": "On sale for release, regular price $17.99. Linux and Mac support in development."
+        }
     },
     {
         "name": "Thirty Flights of Loving",
@@ -4232,7 +4226,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-		"note": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
+	"note": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
     },
     {
         "name": "War For The Overworld Underlord Edition Pre-Order",
@@ -4253,7 +4247,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-		"note": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
+	"note": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
     },
     {
         "name": "Wizorb",
