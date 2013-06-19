@@ -3621,6 +3621,48 @@ var games = [
         }
     },
     {
+        "name": "Stonehearth",
+        "url": "stonehearth?preview=bMe8PkEHJcM7",
+        "price": "15",
+        "description": "Pre-order now and get Stonehearth on release! A sandbox strategy game with town building, crafting, and epic battles!",
+        "developer": "Radiant Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "Notes": "Store page at http://stonehearth.net/store/"
+    },
+    {
+        "name": "Stonehearth + Beta Access",
+        "url": "stonehearth_beta?preview=bMe8PkEHJcM7",
+        "price": "30",
+        "description": "Pre-order now and get Stonehearth + Beta on release! A sandbox strategy game with town building, crafting, and epic battles!",
+        "developer": "Radiant Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "Notes": "Store page at http://stonehearth.net/store/"
+    },
+    {
         "name": "Sugar Cube: Bittersweet Factory",
         "url": "sugarcubebittersweetfactory",
         "price": "6.99",
