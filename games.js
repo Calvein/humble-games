@@ -4250,6 +4250,27 @@ var games = [
 	"note": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
     },
     {
+        "name": "Whispering Willows ",
+        "url": "whisperingwillows?preview=CMeeWteE43cw",
+        "price": "10",
+        "description": "Pre-order now & get full game, cross-platform & DRM-free. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father.",
+        "developer": "Night Light Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Store page http://nightlightinteractive.com/"
+    },
+    {
         "name": "Wizorb",
         "url": "wizorb",
         "price": "3",
