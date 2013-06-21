@@ -966,6 +966,27 @@ var games = [
         }
     },
     {
+        "name": "DLC Quest",
+        "url": "dlcquest?preview=huaqUZQM85oy",
+        "price": "2.99",
+        "description": "Purchase DLC Quest and instantly get it for Windows and Mac, DRM free and on Steam!",
+        "developer": "Going Loud Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Includes the original DLC Quest plus the new full-length campaign Live Freemium or Die!\nStore page http://goingloudstudios.com/games/dlc-quest/"
+    },
+    {
         "name": "Don't Starve",
         "url": "dontstarve_standalone?preview=mtcdbvdg",
         "price": "13.49",
@@ -1005,6 +1026,27 @@ var games = [
             "DRM-Free": true
         },
         "Notes": "Pre-order at 33% off. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key if the game is greenlit."
+    },
+    {
+        "name": "Dungeon Hearts",
+        "url": "dungeonhearts?preview=fvTuzN4QPa1l",
+        "price": "2.99",
+        "description": "Get Dungeon Hearts on PC, Mac, and Linux - Steam and DRM-free.",
+        "developer": "Cube Roots",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Couldn't find the store page. The developers only have a Facebook page and it isn't there."
     },
     {
         "name": "Dungeons of Dredmor",
