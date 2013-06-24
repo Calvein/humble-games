@@ -800,8 +800,8 @@ var games = [
         },
         "DRM": {
             "steam": true,
-            "desura": false,
-            "GOG": false,
+            "desura": true,
+            "GOG": true,
             "DRM-Free": true
         }
     },
