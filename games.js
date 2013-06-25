@@ -1713,7 +1713,49 @@ var games = [
             "DRM-Free": true
         }
     },
-    {
+	{
+		"name": "Hammerwatch",
+		"url": "hammerwatch?preview=Ths7GweR9csa",
+		"price": "8",
+		"description": "Pre-order now and when ready get Hammerwatch, cross-platform and DRM-free! Includes Steam key and soundtrack.",
+		"developer": "Crackshell",
+		"platform": {
+			"android": false,
+			"linux": true,
+			"windows": true,
+			"mac": true,
+			"audio": true
+		},
+		"DRM": {
+			"steam": true,
+			"desura": false,
+			"GOG": false,
+			"DRM-Free": true
+		},
+		"notes": "Original Website: http://www.hammerwatch.com"
+	},
+	{
+		"name": "Hammerwatch 4-Pack",
+		"url": "hammerwatch_4pack?preview=Ths7GweR9csa",
+		"price": "24",
+		"description": "Pre-order now and when ready get a 4-Pack of Hammerwatch! Includes a Steam key and soundtrack.",
+		"developer": "Crackshell",
+		"platform": {
+			"android": false,
+			"linux": true,
+			"windows": true,
+			"mac": true,
+			"audio": true
+		},
+		"DRM": {
+			"steam": true,
+			"desura": false,
+			"GOG": false,
+			"DRM-Free": true
+		},
+		"notes": "Original Website: http://www.hammerwatch.com"
+	},
+	{
         "name": "Highland Wars Pre-order",
         "url": "highlandwars?preview=WmTzhzOrZNtS",
         "price": "1",
