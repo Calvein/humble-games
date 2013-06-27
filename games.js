@@ -2068,7 +2068,7 @@ var games = [
     {
         "name": "Kairo",
         "url": "kairo?preview=QDVkDE58Qv8B",
-        "price": "8",
+        "price": "5",
         "description": "Get Kairo instantly! Cross-platform and DRM-free.",
         "developer": "Richard Perrin",
         "platform": {
@@ -3062,26 +3062,6 @@ var games = [
         "price": "19.99",
         "description": "Purchase Rochard for Windows and Mac and instantly get it DRM-free and on Steam.",
         "developer": "Recoil Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "DRM": {
-            "steam": true,
-            "desura": false,
-            "GOG": false,
-            "DRM-Free": true
-        }
-    },
-    {
-        "name": "Rogue Legacy",
-        "url": "roguelegacy?preview=EXn3mzwCJtTl",
-        "price": "10",
-        "description": "Pre-order a DRM-free copy of Rogue Legacy and get the soundtrack for free. Receive a Steam key once available on Steam.",
-        "developer": "Cellar Door Games",
         "platform": {
             "android": false,
             "windows": true,
