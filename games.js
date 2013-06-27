@@ -3071,11 +3071,31 @@ var games = [
         },
         "DRM": {
             "steam": true,
+            "desura": true,
+            "GOG": true,
+            "DRM-Free": true
+        }
+    },
+	{
+        "name": "Rogue Legacy",
+        "url": "roguelegacy_final?preview=EXn3mzwCJtTl",
+        "price": "15",
+        "description": "Buy now and get a DRM-free copy of Rogue Legacy for Windows as well as a free Steam key! Mac and Linux versions coming soon!",
+        "developer": "Cellar Door Games ",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
             "desura": false,
             "GOG": false,
             "DRM-Free": true
         }
-    },
+	},
     {
         "name": "Samorost2",
         "url": "samorost2",
