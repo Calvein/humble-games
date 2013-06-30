@@ -4030,6 +4030,27 @@ var games = [
         "Note": "Buy the first episode and get the rest for free when they are released. Mac port currently in development."
     },
     {
+        "name": "Tower of Guns",
+        "url": "towerofguns?preview=V3lAICo87Ku2",
+        "price": "5",
+        "description": "Pre-order and gain access to the 'Wear A Hard Hat' development version (and future versions, of course)!",
+        "developer": "Terrible Posture Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Game website: http://www.towerofguns.com/"
+    },
+    {
         "name": "Tower Wars",
         "url": "towerwars",
         "price": "9.99",
