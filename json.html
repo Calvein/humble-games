@@ -1,6 +1,7 @@
 
 <html>
 <head>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <style>
 body, #form-preview {
   background: url(http://calvein.github.io/humble-games/img/bg.png);
@@ -115,12 +116,12 @@ function generate() {
 	var extras = document.getElementById("extras").checked;
 	var notes = document.getElementById("notes").value;
 	var review = document.getElementById("review").value;
-	var steamid = document.getElementById("steamid").value;
-	var desura = document.getElementById("desura").value;
+	var steamurl = document.getElementById("steamurl").value;
+	var desuraurl = document.getElementById("desuraurl").value;
 	var devurl = document.getElementById("devurl").value;
-	var myJSON = generatejson(devurl,extras,review,steamid,desura,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
+	var myJSON = generatejson(devurl,extras,review,steamurl,desuraurl,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
 	var myWiki = generatewiki(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
-	document.getElementById('json').innerText=JSON.stringify(myJSON,null,4) + ",";
+	document.getElementById('json').textContent=JSON.stringify(myJSON,null,4) + ",";
 	document.getElementById('wiki').innerText=myWiki;
     return false;
 }
@@ -134,7 +135,7 @@ function generatewiki(name,url,price,description,developer,android,linux,windows
 	wikiformatting += (audio ? "Can come with a soundtrack. " + notes : notes);
 	return wikiformatting;
 }
-function generatejson(devurl,extras,review,steamid,desura,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes) {
+function generatejson(devurl,extras,review,steamurl,desuraurl,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes) {
 	// make an empty object
 	var myGame = {};
 	myGame['name']=jescape(name);
@@ -155,8 +156,8 @@ function generatejson(devurl,extras,review,steamid,desura,name,url,price,descrip
 	myDRM["DRM-Free"]=drmfree;
 	var myURLs = {};
 	myURLs["review"]=review;
-	myURLs["steam"]=steamid;
-	myURLs["desura"]=desura;
+	myURLs["steam"]=steamurl;
+	myURLs["desura"]=desuraurl;
 	myURLs["developer"]=devurl;
 	myGame.platform = myPlatform;
 	myGame.DRM = myDRM;
@@ -218,12 +219,12 @@ function selectText(containerid) {
     <input id="review" type="text" name="review" onkeyup="generate();" placeholder="http://www.doublejump.co/a-n-n-e-a-beautiful-side-scrolling-shootermetroidvania-hybrid-is-now-on-kickstarter/" />
   </div>
   <div>
-    <label data-key="steamid">Steam URL</label>
-    <input id="steamid" type="text" name="steamid" onkeyup="generate();" placeholder="http://store.steampowered.com/app/70500/" />
+    <label data-key="steamurl">Steam URL</label>
+    <input id="steamurl" type="text" name="steamid" onkeyup="generate();" placeholder="http://store.steampowered.com/app/70500/" />
   </div>
   <div>
-    <label data-key="desura">Desura URL</label>
-    <input id="desura" type="text" name="desura" onkeyup="generate();" placeholder="http://www.desura.com/games/running-with-rifles" />
+    <label data-key="desuraurl">Desura URL</label>
+    <input id="desuraurl" type="text" name="desura" onkeyup="generate();" placeholder="http://www.desura.com/games/running-with-rifles" />
   </div>
   <div><h2>Platforms, DRM, and Extras</h2></div>
   <div style="float:right;width:50%;>
