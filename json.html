@@ -8,13 +8,13 @@ body, #form-preview {
   padding: 20px;
 }
 
-h1 {
+h1,h2 {
   text-align: center;
   //line-height:.2em;
   margin-bottom:0;
 }
 
-h5 {
+h5,h4,h3,h6 {
 	text-align: center;
 	margin-top:0;
 }
@@ -173,7 +173,8 @@ function selectText(containerid) {
 <body onload="generate();">
 <div style="margin:auto"><div style="width:400px;margin:auto;"><div>
 <h1>Generate JSON</h1>
-<h5>(and WikiCode)</h5>
+<h6>(and WikiCode)</h6>
+<h2>Base Info</h2>
 <form method="post" action="process.php" id="form">
   <div>
     <label data-key="gamename">Game Name <span class="required">*</span></label>
@@ -195,6 +196,8 @@ function selectText(containerid) {
     <label data-key="developer">Developer <span class="required">*</span></label>
     <input id="developer" type="text" name="developer" required="required" onkeyup="generate();" placeholder="From the store page at left" />
   </div>
+<h2>DRM/Contents</h2>
+<h4>So it can be filtered</h4>
   <div style="float:right;width:50%;>
     <label data-key="drm">DRM/Distributor</label><br>
     <input id="steam" name="drm[]" value="steam" type="checkbox" onclick="generate();" /> <span class="label">Steam</span><br/>
@@ -212,8 +215,9 @@ function selectText(containerid) {
   <div>
     <input id="soundtrack" name="soundtrack[]" value="soundtrack" type="checkbox" onclick="generate();" /> <span class="label">Soundtrack</span><br/>
   </div>
-  <div>
-    <label data-key="developer">Notes <span class="required"></span></label>
+<h2>NOTES</h2>
+<br>  <div>
+    <label data-key="developer">Any extra info you feel is necessary<span class="required"></span></label>
     <textarea id="notes" type="text" name="notes" onkeyup="generate();" placeholder="here, tell us about any other forms of DRM or distributors available, the publisher's website, the game release date, etc. Also tell us if the game is a preorder. A couple linebreaks are ok for Calvein's, but not for PCGamingWiki. Keep this short."></textarea>
   </div>
   <h1>Results</h1>
