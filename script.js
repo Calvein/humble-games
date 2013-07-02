@@ -146,7 +146,7 @@ $(function() {
                             .appendTo('<div>')
                             .parent()
                             .html()
-                    }).join(', ')
+                    }).join(', ').replace(", , ",", ")
             }).end()
         .toggleClass('hidden shown')
     })
