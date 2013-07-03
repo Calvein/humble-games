@@ -3909,6 +3909,27 @@ var games = [
         }
     },
     {
+        "name": "The Journey Down: Chapter One ",
+        "url": "thejourneydownchapterone?preview=SaRQrl5NyWyo",
+        "price": "6.99",
+        "description": "Get The Journey Down: Chapter One instantly! Keys for Steam and Desura included. Pc + Mac + Linux.",
+        "developer": "SkyGoblin",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Game website: http://skygoblin.com/the-journey-down/ although there's no link to the Humble Store widget there"
+    },
+    {
         "name": "The Ship: Murder Party",
         "url": "theshipmurderparty",
         "price": "20",
