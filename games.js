@@ -987,6 +987,48 @@ var games = [
         "notes": "Includes the original DLC Quest plus the new full-length campaign Live Freemium or Die!\nStore page http://goingloudstudios.com/games/dlc-quest/"
     },
     {
+        "name": "Dog Sled Saga",
+        "url": "dogsledsaga?preview=bIcGpLSKftcv",
+        "price": "5",
+        "description": "Preorder Dog Sled Saga! Cross-platform and DRM-free!",
+        "developer": "Dan F. and Lisa B.",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Game website: http://www.dogsledsaga.com/preorder"
+    },
+    {
+        "name": "Dog Sled Saga Beta Access",
+        "url": "dogsledsaga_beta?preview=bIcGpLSKftcv",
+        "price": "15",
+        "description": "Preorder Dog Sled Saga and get beta access starting in July, plus OST and concept art! Cross-platform and DRM-free!",
+        "developer": "Dan F. and Lisa B.",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Also includes hi-res art. Game website: http://www.dogsledsaga.com/preorder"
+    },
+    {
         "name": "Don't Starve",
         "url": "dontstarve_standalone?preview=mtcdbvdg",
         "price": "13.49",
