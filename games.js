@@ -706,6 +706,27 @@ var games = [
         }
     },
     {
+        "name": "Crea Beta + More",
+        "url": "crea?preview=aECF9PQKtbeB",
+        "price": "25",
+        "description": "Preorder now and get immediate beta access to Crea for Windows, Mac, and Linux! Soundtrack and digital artbook available at release.",
+        "developer": "Siege Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Original webstore: http://siegegames.com/preorder/"
+    },
+    {
         "name": "Dead Pixels",
         "url": "deadpixels?preview=0qeKKdGfNfvO",
         "price": "2.99",
