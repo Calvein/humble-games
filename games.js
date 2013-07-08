@@ -3160,12 +3160,12 @@ var games = [
             "DRM-Free": true
         }
     },
-	{
+    {
         "name": "Rogue Legacy",
         "url": "roguelegacy_final?preview=EXn3mzwCJtTl",
         "price": "15",
         "description": "Buy now and get a DRM-free copy of Rogue Legacy for Windows as well as a free Steam key! Mac and Linux versions coming soon!",
-        "developer": "Cellar Door Games ",
+        "developer": "Cellar Door Games",
         "platform": {
             "android": false,
             "windows": true,
@@ -3179,7 +3179,28 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
-	},
+    },
+    {
+        "name": "Rooks Keep",
+        "url": "rookskeep?preview=4ygk2ZLIOgpL",
+        "price": "15",
+        "description": "Buy Rooks Keep now, and get the game for Windows-PC and authentication key for multiplayer!",
+        "developer": "RuneStorm",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Original webstore: http://www.runestorm.com/rook/buy"
+    },
     {
         "name": "Samorost2",
         "url": "samorost2",
