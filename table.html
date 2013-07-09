@@ -404,9 +404,16 @@
                 tddev.className = 'tddev';
                 var tddevlink = document.createElement('a');
                 if(returnIfExist(tr.dataset.devurl) != null) {
-                        tddevlink.href = tr.dataset.devurl;
-                } else tddevlink.href="http://google.com/search?sourceid=navclient&btnI=1&q="+tr.dataset.dev;
-                tddevlink.textContent=tr.dataset.dev;
+                    tddevlink.href = tr.dataset.devurl;
+                } else {
+					var tddevsearchicon = document.createElement('img');
+						tddevsearchicon.src="img/search2.png";
+						tddevsearchicon.className="searchicon";
+					tddevlink.href="http://google.com/search?sourceid=navclient&btnI=1&q="+tr.dataset.dev;
+					tddevlink.appendChild(tddevsearchicon);
+				}
+				var tddevlinkname = document.createTextNode(tr.dataset.dev);
+				tddevlink.appendChild(tddevlinkname);
                 tddev.appendChild(tddevlink);
             tr.appendChild(tddev);
             
