@@ -208,7 +208,7 @@ var games = [
             "desura": "http://www.desura.com/games/anomaly-2",
             "developer": "http://www.11bitstudios.com/"
         },
-        "extras": false
+        "extras": true
     },
     {
         "name": "Apotheon",
@@ -229,7 +229,8 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-        "Notes": "Not sure about DRM since I couldn't find the webpage that contains the HS widget. Just copied PCGamingWiki's entry."
+        "notes": "Not sure about DRM since I couldn't find the webpage that contains the HS widget. Just copied PCGamingWiki's entry.",
+        "extras": false
     },
     {
         "name": "Atom Zombie Smasher",
@@ -410,7 +411,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-        "note": "dev page: http://www.blade-symphony.com/prerelease/"
+        "notes": "dev page: http://www.blade-symphony.com/prerelease/"
     },
     {
         "name": "Bleed",
@@ -591,7 +592,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Comes with early alpha access, access to the developers' forum and a digital soundtrack."
+        "notes": "Comes with early alpha access, access to the developers' forum and a digital soundtrack."
     },
     {
         "name": "Chasm - Gold",
@@ -612,7 +613,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Comes with early alpha access, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits."
+        "notes": "Comes with early alpha access, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits."
     },
     {
         "name": "Chivalry: Medieval Warfare",
@@ -1178,7 +1179,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Pre-order at 33% off. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key if the game is greenlit."
+        "notes": "Pre-order at 33% off. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key if the game is greenlit."
     },
     {
         "name": "Dungeon Hearts",
@@ -1360,7 +1361,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Link found at pcgamingwiki"
+        "notes": "Link found at pcgamingwiki"
     },
     {
         "name": "Eets",
@@ -1523,7 +1524,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Link found at pcgamingwiki"
+        "notes": "Link found at pcgamingwiki"
     },
     {
         "name": "Flotilla",
@@ -1584,7 +1585,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Linux will be added soon"
+        "notes": "Linux will be added soon"
     },
     {
         "name": "FTL: Faster Than Light",
@@ -1948,7 +1949,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+        "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 1)",
@@ -1969,7 +1970,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+        "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 2)",
@@ -1990,7 +1991,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+        "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 3)",
@@ -2011,7 +2012,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+        "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 4)",
@@ -2032,7 +2033,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+        "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 5)",
@@ -2053,7 +2054,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+        "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 6)",
@@ -2074,7 +2075,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+        "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Highland Wars (Tier 7)",
@@ -2095,7 +2096,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+        "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
     },
     {
         "name": "Ichi",
@@ -2157,7 +2158,7 @@ var games = [
             "DRM-Free": true
         },
         "sale": true,
-        "Notes": "Sale ends around ??? unknown, regular price is $14.99.\nLinux version available for free at http://www.incredipede.com/linux.html"
+        "notes": "Sale ends around ??? unknown, regular price is $14.99.\nLinux version available for free at http://www.incredipede.com/linux.html"
     },
     {
         "name": "Intrusion 2",
@@ -2278,7 +2279,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-        "Notes": "Was on kickstarter"
+        "notes": "Was on kickstarter"
     },
     {
         "name": "Kentucky Route Zero Complete",
@@ -2539,7 +2540,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "note": "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
+        "notes": "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
     },
     {
         "name": "Macguffin's Curse",
@@ -2967,7 +2968,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Says Ubuntu instead of Linux but will work on any distribution"
+        "notes": "Says Ubuntu instead of Linux but will work on any distribution"
     },
     {
         "name": "Pid",
@@ -3697,7 +3698,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Solar 2 is available for android. No clue if this gives it to you, but it doesn't say it does, so assuming not."
+        "notes": "Solar 2 is available for android. No clue if this gives it to you, but it doesn't say it does, so assuming not."
     },
     {
         "name": "Soul Caster I and II",
@@ -3918,7 +3919,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Store page at http://stonehearth.net/store/"
+        "notes": "Store page at http://stonehearth.net/store/"
     },
     {
         "name": "Stonehearth + Beta Access",
@@ -3939,7 +3940,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Store page at http://stonehearth.net/store/"
+        "notes": "Store page at http://stonehearth.net/store/"
     },
     {
         "name": "Sugar Cube: Bittersweet Factory",
@@ -4001,7 +4002,7 @@ var games = [
             "DRM-Free": false
         },
         "sale": true,
-        "Notes": "Sale ends around ??? unknown, regular price is $10"
+        "notes": "Sale ends around ??? unknown, regular price is $10"
     },
     {
         "name": "Superbrothers: Sword and Sworcery EP",
@@ -4243,7 +4244,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Note": "Buy the first episode and get the rest for free when they are released. Mac port currently in development."
+        "notes": "Buy the first episode and get the rest for free when they are released. Mac port currently in development."
     },
     {
         "name": "Tower of Guns",
@@ -4325,7 +4326,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Humble doesn't say it comes with linux but it does"
+        "notes": "Humble doesn't say it comes with linux but it does"
     },
     {
         "name": "Trine 2 Collector's Edition",
@@ -4506,7 +4507,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "The frame shows an Android icon, but neither the description nor the game site confirms you'll get the Android version purchasing the game at the Humble Store."
+        "notes": "The frame shows an Android icon, but neither the description nor the game site confirms you'll get the Android version purchasing the game at the Humble Store."
     },
     {
         "name": "Waveform",
@@ -4547,7 +4548,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "note": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
+        "notes": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
     },
     {
         "name": "War For The Overworld Underlord Edition Pre-Order",
@@ -4568,7 +4569,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "note": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
+        "notes": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
     },
     {
         "name": "Whispering Willows ",
