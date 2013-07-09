@@ -229,7 +229,11 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-        "notes": "Not sure about DRM since I couldn't find the webpage that contains the HS widget. Just copied PCGamingWiki's entry.",
+        "URL": {
+            "review": "http://www.joystiq.com/2012/10/21/first-gameplay-video-of-alientraps-apotheon-is-gorgeous-coming/",
+            "developer": "http://www.alientrap.org"
+        },
+        "notes": "Not sure about DRM since I couldn't find the webpage that contains the HS widget. Just copied PCGamingWiki's entry.\nThis makes no sense, the store page is listed right there... --Efreak",
         "extras": false
     },
     {
@@ -250,6 +254,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2011/02/10/wot-i-think-atom-zombie-smasher/",
+            "steam": "http://store.steampowered.com/app/55040",
+            "desura": "http://www.desura.com/games/atom-zombie-smasher",
+            "developer": "http://blendogames.com/"
         }
     },
     {
@@ -270,6 +280,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/08/02/a-virus-named-tom-review",
+            "steam": "http://store.steampowered.com/app/207650/",
+            "desura": "http://www.desura.com/games/a-virus-named-tom",
+            "developer": "http://misfitsattic.blogspot.com/"
         }
     },
     {
@@ -290,6 +306,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/08/02/a-virus-named-tom-review",
+            "steam": "http://store.steampowered.com/app/207650/",
+            "desura": "http://www.desura.com/games/a-virus-named-tom",
+            "developer": "http://misfitsattic.blogspot.com/"
         }
     },
     {
@@ -310,6 +332,11 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/awesomenauts/reviews/awesomenauts-review-6390745/",
+            "steam": "http://store.steampowered.com/app/204300/",
+            "developer": "http://www.ronimo-games.com/"
         }
     },
     {
@@ -330,6 +357,11 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2011/08/22/bastion-review",
+            "steam": "http://store.steampowered.com/app/107100/",
+            "developer": "http://supergiantgames.com/"
         }
     },
     {
@@ -350,6 +382,11 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://toucharcade.com/2011/07/21/beans-quest-review-a-fun-five-minutes/",
+            "desura": "http://www.desura.com/games/beans-quest",
+            "developer": "http://www.kumobius.com/"
         }
     },
     {
@@ -370,6 +407,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2011/10/26/beat-hazard-ultra-review",
+            "steam": "http://store.steampowered.com/app/49604/",
+            "desura": "http://www.desura.com/games/beat-hazard-ultra",
+            "developer": "http://www.coldbeamgames.com/"
         }
     },
     {
@@ -390,6 +433,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.joystiq.com/2010/05/25/review-bit-trip-runner/",
+            "steam": "http://store.steampowered.com/app/63710",
+            "desura": "http://www.desura.com/games/bittrip-runner",
+            "developer": "http://gaijingames.com/dev/"
         }
     },
     {
@@ -411,6 +460,11 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
+        "URL": {
+            "review": "http://www.destructoid.com/blade-symphony-245988.phtml",
+            "steam": "http://store.steampowered.com/app/225600/",
+            "developer": "http://www.punyhumangames.com/"
+        },
         "notes": "dev page: http://www.blade-symphony.com/prerelease/"
     },
     {
@@ -427,10 +481,16 @@ var games = [
             "audio": true
         },
         "DRM": {
-            "steam": false,
-            "desura": false,
+            "steam": true,
+            "desura": true,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://indiegamerchick.com/2012/12/15/bleed/",
+            "steam": "http://store.steampowered.com/app/239800",
+            "desura": "http://www.desura.com/games/bleed",
+            "developer": "http://bootdiskrevolution.com/"
         }
     },
     {
@@ -451,6 +511,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2011/09/27/blocks-that-matter-review",
+            "steam": "http://store.steampowered.com/app/111800/",
+            "desura": "http://www.desura.com/games/blocks-that-matter",
+            "developer": "http://www.swingswingsubmarine.com/"
         }
     },
     {
@@ -471,6 +537,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/04/27/botanicula-review",
+            "steam": "http://store.steampowered.com/app/207690/",
+            "desura": "http://www.desura.com/games/Botanicula",
+            "developer": "http://amanita-design.net/"
         }
     },
     {
