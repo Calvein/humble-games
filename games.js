@@ -4522,6 +4522,26 @@ var games = [
         }
     },
     {
+        "name": Word Realms,
+        "url": wordrealms?preview=fhuQPfroZc9s,
+        "price": 11 (without currency),
+        "description": A single-player roleplaying video game where your weapons are words.,
+        "developer": Asymmetric,
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        }
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
         "name": "World of Goo",
         "url": "worldofgoo",
         "price": "20",
