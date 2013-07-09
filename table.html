@@ -398,6 +398,7 @@
 				tdreview.setAttribute('sorttable_customkey', "1");
                 var tdreviewsearchlink = document.createElement('a');
 					tdreviewsearchlink.href = "http://www.google.com/#q="+tr.dataset.game+"+review";
+					tdreviewsearchlink.title="Search for reviews of "+tr.dataset.game+".";
 					var tdreviewsearchlinkimg = document.createElement('img');
 						tdreviewsearchlinkimg.src="img/search2.png";
 						tdreviewsearchlinkimg.className="searchicon";
@@ -406,6 +407,7 @@
                 if(returnIfExist(tr.dataset.reviewurl) != null && tr.dataset.reviewurl != "undefined") {
 					var tdreviewlink = document.createElement('a');
                         tdreviewlink.href = tr.dataset.reviewurl;
+						tdreviewlink.title="Read " + tdreviewlink.hostname + "'s review of "+tr.dataset.game+".";
 						tdreview.setAttribute('sorttable_customkey', "0");
 						var tdreviewlinkimg = document.createElement('img');
 							tdreviewlinkimg.className="searchicon";
