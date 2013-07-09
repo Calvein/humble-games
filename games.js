@@ -186,7 +186,7 @@ var games = [
     {
         "name": "Anomaly 2",
         "url": "anomaly2retail?preview=sS9bbgjShdJ",
-        "price": "13.49",
+        "price": "14.99",
         "description": "Buy Anomaly 2 at 10% off! Get a Steam key for Anomaly 2 + get a DRM-free copy of Anomaly Korea for Windows!",
         "developer": "11 bit studios",
         "platform": {
@@ -196,6 +196,12 @@ var games = [
             "mac": true,
             "audio": false
         },
+		"DRM": {
+			"steam": true,
+			"desura": false,
+			"GOG": false,
+			"DRM-Free": true
+		},
         "URL": {
             "review": "http://www.ign.com/articles/2013/05/15/anomaly-2-review",
             "steam": "http://store.steampowered.com/app/236730/",
