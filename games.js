@@ -2889,7 +2889,7 @@ var games = [
         }
     },
     {
-        "name": "Organ Trail: Driector's Cut",
+        "name": "Organ Trail: Director's Cut",
         "url": "organtraildirectorscut?preview=d5Es5HhOLzgI",
         "price": "4.99",
         "description": "Get Organ Trail and the expansion instantly! Cross-platform and DRM-free. Redeemable on Steam and Desura.",
