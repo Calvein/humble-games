@@ -374,6 +374,7 @@
 
             var tdreview = document.createElement('td');
                 tdreview.className = 'tdreview';
+				tdreview.setAttribute('sorttable_customkey', "1");
                 var tdreviewsearchlink = document.createElement('a');
 					tdreviewsearchlink.href = "http://www.google.com/#q="+tr.dataset.game+"+review";
 					var tdreviewsearchlinkimg = document.createElement('img');
@@ -384,6 +385,7 @@
                 if(returnIfExist(tr.dataset.reviewurl) != null && tr.dataset.reviewurl != "undefined") {
 					var tdreviewlink = document.createElement('a');
                         tdreviewlink.href = tr.dataset.reviewurl;
+						tdreview.setAttribute('sorttable_customkey', "0");
 						var tdreviewlinkimg = document.createElement('img');
 							tdreviewlinkimg.className="searchicon";
 							tdreviewlinkimg.src="http://g.etfv.co/"+tr.dataset.reviewurl;
