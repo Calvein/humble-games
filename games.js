@@ -665,6 +665,46 @@ var games = [
         }
     },
     {
+        "name": "Constant C + Soundtrack",
+        "url": "constantc_soundtrack?preview=aqLfpSQ7TVzx",
+        "price": "12.99",
+        "description": "Get Constant C instantly and DRM free! Includes soundtrack and a Desura key.",
+        "developer": "International Games System Co.,LTD.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
+        "name": "Constant C",
+        "url": "constantc?preview=aqLfpSQ7TVzx",
+        "price": "9.99",
+        "description": "Get Constant C instantly and DRM free! Includes a Desura key.",
+        "developer": "International Games System Co.,LTD.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
     	"name": "Cook, Serve, Delicious!",
     	"url": "cookservedelicious_extracrispyedition?preview=22zqPSbQVw01",
     	"price": "8.99",
