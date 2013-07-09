@@ -209,19 +209,25 @@
         <td id="th_num" class="tdnum">&num;</td>
         <th id="th_game" class="sorttable_alpha">Game</th>
         <th id="th_price">Price</th>
-        <th id="th_pc" class="th_icon"><span class="pc"></span></th>
-        <th id="th_mac" class="th_icon"><span class="mac"></span></th>
-        <th id="th_linux" class="th_icon"><span class="linux"></span></th>
-        <th id="th_android" class="th_icon"><span class="android"></span></th>
-        <th id="th_steam" class="th_icon"><span class="steam"></span></th>
-        <th id="th_desura" class="th_icon"><span class="desura"></span></th>
-        <th id="th_gog" class="th_icon"><span class="gog"></span></th>
-        <th id="th_drmfree" class="th_icon"><span class="drmfree"></span></th>
+        <th id="th_pc" class="th_icon tdplatform"><span class="pc"></span></th>
+        <th id="th_mac" class="th_icon tdplatform"><span class="mac"></span></th>
+        <th id="th_linux" class="th_icon tdplatform"><span class="linux"></span></th>
+        <th id="th_android" class="th_icon tdplatform"><span class="android"></span></th>
+        <th id="th_steam" class="th_icon tddrm"><span class="steam"></span></th>
+        <th id="th_desura" class="th_icon tddrm"><span class="desura"></span></th>
+        <th id="th_gog" class="th_icon tddrm"><span class="gog"></span></th>
+        <th id="th_drmfree" class="th_icon tddrm"><span class="drmfree"></span></th>
         <th id="th_ost" class="th_icon"><span class="ost"></span></th>
-        <th id="th_review" class="sorttable_alpha">Review</th>
-        <th id="th_dev" class="sorttable_alpha">Developer</th>
-        <th id="th_desc" class="sorttable_nosort">Description</th>
+        <th id="th_review" class="sorttable_alpha tdreview">Review</th>
+        <th id="th_dev" class="sorttable_alpha tddev">Developer</th>
+        <th id="th_desc" class="sorttable_nosort tddesc">Description</th>
     </tr></thead><tbody id="gametablebody"></tbody></table>
+	<p>Toggle: <a href="#" onclick="$('.tdnum').toggle();return false;">#</a>, 
+	<a href="#" onclick="$('.tdplatform').toggle();return false;">Platforms</a>, 
+	<a href="#" onclick="$('.tddrm').toggle();return false;">DRMs</a>, 
+	<a href="#" onclick="$('.tdreview').toggle();return false;">Reviews</a>, 
+	<a href="#" onclick="$('.tddev').toggle();return false;">Developer</a>, 
+	<a href="#" onclick="$('.tddesc').toggle();return false;">Description</a>.</p>
 
     <!-- <p><a href="http://steamcommunity.com/groups/humble-games">Steam group</a></p> -->
 </div>
@@ -293,7 +299,7 @@
             tr.appendChild(tdprice);
 
             var tdospc = document.createElement('td');
-                tdospc.className = 'tdospc';
+                tdospc.className = 'tdospc tdplatform';
                 tdospc.setAttribute('sorttable_customkey', (tr.dataset.pc==="true" ? '0' : '1'));
                 var tdospcbg = document.createElement('span');
                     tdospcbg.className = (tr.dataset.pc==="true" ? 'pc' : 'nopc');
@@ -301,7 +307,7 @@
             tr.appendChild(tdospc);
 
             var tdosmac = document.createElement('td');
-                tdosmac.className = 'tdosmac';
+                tdosmac.className = 'tdosmac tdplatform';
                 tdosmac.setAttribute('sorttable_customkey', (tr.dataset.mac==="true" ? '0' : '1'));
                 var tdosmacbg = document.createElement('span');
                     tdosmacbg.className = (tr.dataset.mac==="true" ? 'mac' : 'nomac');
@@ -309,7 +315,7 @@
             tr.appendChild(tdosmac);
 
             var tdoslinux = document.createElement('td');
-                tdoslinux.className = 'tdoslinux';
+                tdoslinux.className = 'tdoslinux tdplatform';
                 tdoslinux.setAttribute('sorttable_customkey', (tr.dataset.linux==="true" ? '0' : '1'));
                 var tdoslinuxbg = document.createElement('span');
                     tdoslinuxbg.className = (tr.dataset.linux==="true" ? 'linux' : 'nolinux');
@@ -317,7 +323,7 @@
             tr.appendChild(tdoslinux);
 
             var tdosandroid = document.createElement('td');
-                tdosandroid.className = 'tdosandroid';
+                tdosandroid.className = 'tdosandroid tdplatform';
                 tdosandroid.setAttribute('sorttable_customkey', (tr.dataset.android==="true" ? '0' : '1'));
                 var tdosandroidbg = document.createElement('span');
                     tdosandroidbg.className = (tr.dataset.android==="true" ? 'android' : 'noandroid');
@@ -325,7 +331,7 @@
             tr.appendChild(tdosandroid);
             
             var tddrmsteam = document.createElement('td');
-                tddrmsteam.className = 'tddrmsteam';
+                tddrmsteam.className = 'tddrmsteam tddrm';
                 tddrmsteam.setAttribute('sorttable_customkey', (tr.dataset.steam==="true" ? '0' : '1'));
                 var tddrmsteambg = document.createElement('span');
                     if(tr.dataset.steam==="true") {
@@ -336,7 +342,7 @@
             tr.appendChild(tddrmsteam);
 
             var tddrmdesura = document.createElement('td');
-                tddrmdesura.className = 'tddrmdesura';
+                tddrmdesura.className = 'tddrmdesura tddrm';
                 tddrmdesura.setAttribute('sorttable_customkey', (tr.dataset.desura==="true" ? '0' : '1'));
                 var tddrmdesurabg = document.createElement('span');
                     if(tr.dataset.desura==="true") {
@@ -349,7 +355,7 @@
             tr.appendChild(tddrmdesura);
             
             var tddrmgog = document.createElement('td');
-                tddrmgog.className = 'tddrmgog';
+                tddrmgog.className = 'tddrmgog tddrm';
                 tddrmgog.setAttribute('sorttable_customkey', (tr.dataset.gog==="true" ? '0' : '1'));
                 var tddrmgogbg = document.createElement('span');
                     tddrmgogbg.className = (tr.dataset.gog==="true" ? 'gog' : 'nogog');
@@ -357,7 +363,7 @@
             tr.appendChild(tddrmgog);
             
             var tddrmfree = document.createElement('td');
-                tddrmfree.className = 'tddrmfree';
+                tddrmfree.className = 'tddrmfree tddrm';
                 tddrmfree.setAttribute('sorttable_customkey', (tr.dataset.drmfree==="true" ? '0' : '1'));
                 var tddrmfreebg = document.createElement('span');
                     tddrmfreebg.className = (tr.dataset.drmfree==="true" ? 'drmfree' : 'nodrmfree');
