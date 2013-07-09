@@ -17,6 +17,10 @@
         color: #7aa923;
     }
 
+	.baddevlink {
+		color: #9CBF5A;
+	}
+	
     input {
         display: block;
         width: 300px;
@@ -331,7 +335,7 @@
                 tddrmsteam.setAttribute('sorttable_customkey', (tr.dataset.steam==="true" ? '0' : '1'));
                 if(tr.dataset.steam==="true") {
 					var tddrmsteamlink = document.createElement('a');
-						if(tr.dataset.steamurl==null) {
+						if(tr.dataset.steamurl!=null) {
 							tddrmsteamlink.title="Go to "+tr.dataset.game+" on steam";
 							tddrmsteamlink.href = tr.dataset.steamurl;
 						} else {
@@ -416,12 +420,11 @@
                 var tddevlink = document.createElement('a');
                 if(returnIfExist(tr.dataset.devurl) != null) {
                     tddevlink.href = tr.dataset.devurl;
+					tddevlink.title="Go to "+tr.dataset.dev+"'s website";
                 } else {
-					var tddevsearchicon = document.createElement('img');
-						tddevsearchicon.src="img/search2.png";
-						tddevsearchicon.className="searchicon";
 					tddevlink.href="http://google.com/search?sourceid=navclient&btnI=1&q="+tr.dataset.dev;
-					tddevlink.appendChild(tddevsearchicon);
+					tddevlink.title="Search for "+tr.dataset.dev+"'s website";
+					tddevlink.className="baddevlink";
 				}
 				var tddevlinkname = document.createTextNode(tr.dataset.dev);
 				tddevlink.appendChild(tddevlinkname);
