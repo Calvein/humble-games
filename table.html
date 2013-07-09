@@ -164,6 +164,13 @@
     footer {
         margin: 30px 0;
     }
+	
+	.searchicon {
+		margin-right: 4px;
+		margin-left: 3px;
+		max-width: 18px;
+		max-height: 16px;
+	}
     </style>
     <script src="sorttable.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -324,7 +331,6 @@
                     if(tr.dataset.steam==="true") {
                         tddrmsteambg.className = 'steam';
                         tddrmsteambg.onclick = function(){window.location=tr.dataset.steamurl};
-                        tddrmsteambg.style.cursor="pointer";
                     } else tddrmsteambg.className = 'nosteam';
                 tddrmsteam.appendChild(tddrmsteambg);
             tr.appendChild(tddrmsteam);
@@ -337,7 +343,6 @@
                         tddrmdesurabg.className = 'desura';
                         if (tr.dataset.desuraurl != null) {
                             tddrmdesurabg.onclick = function(){window.location=tr.dataset.desuraurl};
-                            tddrmdesurabg.style.cursor="pointer";
                         }
                     } else tddrmdesurabg.className = "nodesura";
                 tddrmdesura.appendChild(tddrmdesurabg);
@@ -369,10 +374,20 @@
 
             var tdreview = document.createElement('td');
                 tdreview.className = 'tdreview';
-                if(returnIfExist(tr.dataset.reviewurl) != null) {
-                    var tdreviewlink = document.createElement('a');
+                var tdreviewsearchlink = document.createElement('a');
+					tdreviewsearchlink.href = "http://www.google.com/#q="+tr.dataset.game+"+review";
+					var tdreviewsearchlinkimg = document.createElement('img');
+						tdreviewsearchlinkimg.src="img/search2.png";
+						tdreviewsearchlinkimg.className="searchicon";
+						tdreviewsearchlink.appendChild(tdreviewsearchlinkimg);
+					tdreview.appendChild(tdreviewsearchlink);
+                if(returnIfExist(tr.dataset.reviewurl) != null && tr.dataset.reviewurl != "undefined") {
+					var tdreviewlink = document.createElement('a');
                         tdreviewlink.href = tr.dataset.reviewurl;
-                        tdreviewlink.textContent="Review";
+						var tdreviewlinkimg = document.createElement('img');
+							tdreviewlinkimg.className="searchicon";
+							tdreviewlinkimg.src="http://g.etfv.co/"+tr.dataset.reviewurl;
+							tdreviewlink.appendChild(tdreviewlinkimg);
                     tdreview.appendChild(tdreviewlink);
                 }
             tr.appendChild(tdreview);
