@@ -563,6 +563,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2009/04/13/braid-review-2",
+            "steam": "http://store.steampowered.com/app/26800/",
+            "desura": "http://www.desura.com/games/braid",
+            "developer": "http://number-none.com/blow/"
         }
     },
     {
@@ -583,6 +589,11 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/the-bridge/reviews/the-bridge-review-6404664/",
+            "steam": "http://store.steampowered.com/app/204240/",
+            "developer": "http://thebridgeisblackandwhite.com/"
         }
     },
     {
@@ -603,6 +614,11 @@ var games = [
             "desura": true,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://toucharcade.com/2012/06/19/cardinal-quest-review/",
+            "desura": "http://www.desura.com/games/cardinal-quest",
+            "developer": "http://blog.tametick.com/"
         }
     },
     {
@@ -623,6 +639,10 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.outofeight.info/2010/11/castle-vox-review.html",
+            "developer": "http://www.sillysoft.net"
         }
     },
     {
@@ -643,6 +663,9 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "developer": "http://discordgames.com/"
         }
     },
     {
@@ -663,6 +686,9 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "developer": "http://discordgames.com/"
         },
         "notes": "Comes with early alpha access, access to the developers' forum and a digital soundtrack."
     },
@@ -685,6 +711,9 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
+        "URL": {
+            "developer": "http://discordgames.com/"
+        },
         "notes": "Comes with early alpha access, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits."
     },
     {
@@ -705,6 +734,11 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/10/29/chivalry-medieval-warfare-review",
+            "steam": "http://store.steampowered.com/app/219640",
+            "developer": "http://www.tornbanner.com/"
         }
     },
     {
@@ -725,6 +759,11 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/10/29/chivalry-medieval-warfare-review",
+            "steam": "http://store.steampowered.com/app/219640",
+            "developer": "http://www.tornbanner.com/"
         }
     },
     {
@@ -745,6 +784,10 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://en.wikipedia.org/wiki/Chocolate_Castle",
+            "developer": "http://www.lexaloffle.com/"
         }
     },
     {
@@ -765,6 +808,10 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.pcgamer.com/2012/11/27/clairvoyance-is-an-online-board-game-about-robots-lasers-and-the-future/",
+            "developer": "http://eriksvedang.com/"
         }
     },
     {
@@ -785,6 +832,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2009/04/27/cogs-review-2",
+            "steam": "http://store.steampowered.com/app/26500/",
+            "desura": "http://www.desura.com/games/cogs",
+            "developer": "http://www.lazy8studios.com"
         }
     },
     {
@@ -805,6 +858,11 @@ var games = [
             "desura": true,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://duuro.net/constant-c-review/",
+            "desura": "http://www.desura.com/games/constant-c",
+            "developer": "http://www.igs.com.tw/www/index.html"
         }
     },
     {
@@ -825,6 +883,11 @@ var games = [
             "desura": true,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://duuro.net/constant-c-review/",
+            "desura": "http://www.desura.com/games/constant-c",
+            "developer": "http://www.igs.com.tw/www/index.html"
         }
     },
     {
@@ -846,6 +909,11 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/cook-serve-delicious/review",
+            "desura": "http://www.desura.com/games/cook-serve-delicious",
+            "developer": "http://www.vertigogaming.net/blog/"
+        },
         "notes": "Veritgo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
     },
     {
@@ -866,6 +934,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/10/09/cortex-command-review",
+            "steam": "http://store.steampowered.com/app/209670/?snr=1_7_7_151_150_1",
+            "desura": "http://www.desura.com/games/cortex-command",
+            "developer": "http://www.datarealms.com/"
         }
     },
     {
@@ -887,7 +961,10 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "notes": "Original webstore: http://siegegames.com/preorder/"
+        "URL": {
+            "review": "http://indiegamers.com/game/crea.11/",
+            "developer": "http://siegegames.com"
+        }
     },
     {
         "name": "Dead Pixels",
@@ -907,6 +984,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://dustycartridge.com/reviews/dead-pixels-review/",
+            "steam": "http://store.steampowered.com/app/222980/",
+            "desura": "http://www.desura.com/games/dead-pixels/",
+            "developer": "http://csr-studios.com/"
         }
     },
     {
@@ -927,6 +1010,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/02/13/dear-esther-review",
+            "steam": "http://store.steampowered.com/app/203810/",
+            "desura": "http://www.desura.com/games/dear-esther",
+            "developer": "http://thechineseroom.co.uk/"
         }
     },
     {
@@ -947,6 +1036,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
+        },
+        "URL": {
+            "review": "",
+            "steam": "",
+            "desura": "",
+            "developer": ""
         }
     },
     {
@@ -967,6 +1062,10 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": false
+        },
+        "URL": {
+            "review": "http://www.indiegamemag.com/unknown-worlds-release-decoda-ide-open-source/",
+            "developer": "http://unknownworlds.com/decoda/"
         }
     },
     {
@@ -987,6 +1086,12 @@ var games = [
             "desura": true,
             "GOG": true,
             "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-defender-s-quest-valley-of-the-forgotten-220503.phtml",
+            "steam": "http://store.steampowered.com/app/218410/",
+            "desura": "http://www.desura.com/games/defenders-quest-valley-of-the-forgotten",
+            "developer": "http://www.defendersquest.com/"
         }
     },
     {
