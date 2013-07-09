@@ -7,8 +7,8 @@ var games = [
         "developer": "Gamesbymo",
         "platform": {
             "android": false,
-            "windows": true,
             "linux": true,
+            "windows": true,
             "mac": true,
             "audio": false
         },
@@ -18,7 +18,11 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-        "Notes": "Store page at http://www.gamesbymo.com/p/games.html"
+        "URL": {
+            "review": "http://nerdluster.com/indie/17-kickstarter-knuggets/294-20130430-anne",
+            "developer": "http://www.gamesbymo.com"
+        },
+        "extras": false
     },
     {
         "name": "Amnesia Fortnight Bundle",
@@ -28,8 +32,8 @@ var games = [
         "developer": "Double Fine Productions",
         "platform": {
             "android": false,
-            "windows": true,
             "linux": false,
+            "windows": true,
             "mac": false,
             "audio": true
         },
@@ -38,7 +42,12 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        }
+        },
+        "URL": {
+            "steam": "http://steamdb.info/sub/18177/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "extras": false
     },
     {
         "name": "And Yet It Moves",
@@ -48,17 +57,24 @@ var games = [
         "developer": "Broken Rules",
         "platform": {
             "android": false,
-            "windows": true,
             "linux": true,
+            "windows": true,
             "mac": true,
             "audio": true
         },
         "DRM": {
             "steam": true,
-            "desura": false,
+            "desura": true,
             "GOG": false,
             "DRM-Free": true
-        }
+        },
+        "URL": {
+            "review": "http://en.wikipedia.org/wiki/And_Yet_It_Moves#Reception",
+            "steam": "http://store.steampowered.com/app/18700",
+            "desura": "http://www.desura.com/games/and-yet-it-moves",
+            "developer": "http://brokenrul.es/"
+        },
+        "extras": false
     },
     {
         "name": "Angvik",
@@ -68,8 +84,8 @@ var games = [
         "developer": "Alastair John Jack",
         "platform": {
             "android": false,
-            "windows": true,
             "linux": false,
+            "windows": true,
             "mac": false,
             "audio": false
         },
@@ -78,7 +94,13 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        }
+        },
+        "URL": {
+            "review": "http://indiegames.com/2013/06/angvik_being_cute_doesnt_mean.html",
+            "greenlight": "http://steamcommunity.com/sharedfiles/filedetails/?id=152112673",
+            "developer": "http://angvik.us/"
+        },
+        "extras": false
     },
     {
         "name": "Anodyne",
@@ -98,7 +120,14 @@ var games = [
             "desura": true,
             "GOG": false,
             "DRM-Free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.polygon.com/game/anodyne/9424",
+            "steam": "http://store.steampowered.com/app/234900/",
+            "desura": "http://www.desura.com/games/anodyne",
+            "developer": "http://www.anodynegame.com/"
+        },
+        "extras": false
     },
     {
         "name": "Anodyne Premium",
@@ -118,7 +147,14 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.polygon.com/game/anodyne/9424",
+            "steam": "http://store.steampowered.com/app/234900/",
+            "desura": "http://www.desura.com/games/anodyne",
+            "developer": "http://www.anodynegame.com/"
+        },
+        "extras": false
     },
     {
         "name": "Anomaly: Warzone Earth",
@@ -138,7 +174,14 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2011/04/08/anomaly-warzone-earth-review-2",
+            "steam": "http://store.steampowered.com/app/91200/",
+            "desura": "http://www.desura.com/games/anomaly-warzone-earth",
+            "developer": "http://www.11bitstudios.com/"
+        },
+        "extras": false
     },
     {
         "name": "Anomaly 2",
@@ -153,12 +196,13 @@ var games = [
             "mac": true,
             "audio": false
         },
-        "DRM": {
-            "steam": true,
-            "desura": false,
-            "GOG": false,
-            "DRM-Free": false
-        }
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/05/15/anomaly-2-review",
+            "steam": "http://store.steampowered.com/app/236730/",
+            "desura": "http://www.desura.com/games/anomaly-2",
+            "developer": "http://www.11bitstudios.com/"
+        },
+        "extras": false
     },
     {
         "name": "Apotheon",
@@ -360,7 +404,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-	"note": "dev page: http://www.blade-symphony.com/prerelease/"
+        "note": "dev page: http://www.blade-symphony.com/prerelease/"
     },
     {
         "name": "Bleed",
@@ -705,25 +749,25 @@ var games = [
         }
     },
     {
-    	"name": "Cook, Serve, Delicious!",
-    	"url": "cookservedelicious_extracrispyedition?preview=22zqPSbQVw01",
-    	"price": "8.99",
-    	"description": "Get Cook, Serve, Delicious! Extra Crispy Edition instantly! Cross-platform and DRM-free, all through the Humble Store.",
-    	"developer": "Vertigo Gaming",
-    	"platform": {
-    	    "android": false,
-    	    "linux": true,
-    	    "windows": true,
-    	    "mac": true,
-    	    "audio": false
-    	},
-    	"DRM": {
-    	    "steam": false,
-    	    "desura": false,
-    	    "GOG": false,
-    	    "DRM-Free": true
-    	},
-    	"notes": "Veritgo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
+        "name": "Cook, Serve, Delicious!",
+        "url": "cookservedelicious_extracrispyedition?preview=22zqPSbQVw01",
+        "price": "8.99",
+        "description": "Get Cook, Serve, Delicious! Extra Crispy Edition instantly! Cross-platform and DRM-free, all through the Humble Store.",
+        "developer": "Vertigo Gaming",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Veritgo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
     },
     {
         "name": "Cortex Command",
@@ -1837,49 +1881,49 @@ var games = [
             "DRM-Free": true
         }
     },
-	{
-		"name": "Hammerwatch",
-		"url": "hammerwatch?preview=Ths7GweR9csa",
-		"price": "8",
-		"description": "Pre-order now and when ready get Hammerwatch, cross-platform and DRM-free! Includes Steam key and soundtrack.",
-		"developer": "Crackshell",
-		"platform": {
-			"android": false,
-			"linux": true,
-			"windows": true,
-			"mac": true,
-			"audio": true
-		},
-		"DRM": {
-			"steam": true,
-			"desura": false,
-			"GOG": false,
-			"DRM-Free": true
-		},
-		"notes": "Original Website: http://www.hammerwatch.com"
-	},
-	{
-		"name": "Hammerwatch 4-Pack",
-		"url": "hammerwatch_4pack?preview=Ths7GweR9csa",
-		"price": "24",
-		"description": "Pre-order now and when ready get a 4-Pack of Hammerwatch! Includes a Steam key and soundtrack.",
-		"developer": "Crackshell",
-		"platform": {
-			"android": false,
-			"linux": true,
-			"windows": true,
-			"mac": true,
-			"audio": true
-		},
-		"DRM": {
-			"steam": true,
-			"desura": false,
-			"GOG": false,
-			"DRM-Free": true
-		},
-		"notes": "Original Website: http://www.hammerwatch.com"
-	},
-	{
+    {
+        "name": "Hammerwatch",
+        "url": "hammerwatch?preview=Ths7GweR9csa",
+        "price": "8",
+        "description": "Pre-order now and when ready get Hammerwatch, cross-platform and DRM-free! Includes Steam key and soundtrack.",
+        "developer": "Crackshell",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Original Website: http://www.hammerwatch.com"
+    },
+    {
+        "name": "Hammerwatch 4-Pack",
+        "url": "hammerwatch_4pack?preview=Ths7GweR9csa",
+        "price": "24",
+        "description": "Pre-order now and when ready get a 4-Pack of Hammerwatch! Includes a Steam key and soundtrack.",
+        "developer": "Crackshell",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Original Website: http://www.hammerwatch.com"
+    },
+    {
         "name": "Highland Wars Pre-order",
         "url": "highlandwars?preview=WmTzhzOrZNtS",
         "price": "1",
@@ -2489,7 +2533,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-	"note": "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
+        "note": "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
     },
     {
         "name": "Macguffin's Curse",
@@ -2670,7 +2714,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+        "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Musical Intern)",
@@ -2691,7 +2735,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+        "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Research Intern)",
@@ -2712,7 +2756,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+        "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Stylish Intern)",
@@ -2733,7 +2777,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+        "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Cozy Intern)",
@@ -2754,7 +2798,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+        "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Moon Intern (Deluxe  Intern)",
@@ -2775,7 +2819,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-	"notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+        "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
         "name": "Noitu Love 2 Devolution",
@@ -2812,7 +2856,7 @@ var games = [
         },
         "DRM": {
             "greenlight": true,
-			"steam": false,
+            "steam": false,
             "desura": false,
             "GOG": false,
             "DRM-Free": true
@@ -3158,7 +3202,7 @@ var games = [
             "GOG": false,
             "DRM-Free": false
         },
-	"notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
+        "notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
     },
     {
         "name": "RIOT",
@@ -3261,7 +3305,7 @@ var games = [
             "DRM-Free": true
         }
     },
-	{
+    {
         "name": "Sanctum",
         "url": "sanctum",
         "price": "9.99",
@@ -4497,7 +4541,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-	"note": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
+        "note": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
     },
     {
         "name": "War For The Overworld Underlord Edition Pre-Order",
@@ -4518,7 +4562,7 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         },
-	"note": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
+        "note": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
     },
     {
         "name": "Whispering Willows ",
