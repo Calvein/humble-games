@@ -665,6 +665,46 @@ var games = [
         }
     },
     {
+        "name": "Constant C + Soundtrack",
+        "url": "constantc_soundtrack?preview=aqLfpSQ7TVzx",
+        "price": "12.99",
+        "description": "Get Constant C instantly and DRM free! Includes soundtrack and a Desura key.",
+        "developer": "International Games System Co.,LTD.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
+        "name": "Constant C",
+        "url": "constantc?preview=aqLfpSQ7TVzx",
+        "price": "9.99",
+        "description": "Get Constant C instantly and DRM free! Includes a Desura key.",
+        "developer": "International Games System Co.,LTD.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
     	"name": "Cook, Serve, Delicious!",
     	"url": "cookservedelicious_extracrispyedition?preview=22zqPSbQVw01",
     	"price": "8.99",
@@ -704,6 +744,27 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
+    },
+    {
+        "name": "Crea Beta + More",
+        "url": "crea?preview=aECF9PQKtbeB",
+        "price": "25",
+        "description": "Preorder now and get immediate beta access to Crea for Windows, Mac, and Linux! Soundtrack and digital artbook available at release.",
+        "developer": "Siege Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Original webstore: http://siegegames.com/preorder/"
     },
     {
         "name": "Dead Pixels",
@@ -985,6 +1046,48 @@ var games = [
             "DRM-Free": true
         },
         "notes": "Includes the original DLC Quest plus the new full-length campaign Live Freemium or Die!\nStore page http://goingloudstudios.com/games/dlc-quest/"
+    },
+    {
+        "name": "Dog Sled Saga",
+        "url": "dogsledsaga?preview=bIcGpLSKftcv",
+        "price": "5",
+        "description": "Preorder Dog Sled Saga! Cross-platform and DRM-free!",
+        "developer": "Dan F. and Lisa B.",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Game website: http://www.dogsledsaga.com/preorder"
+    },
+    {
+        "name": "Dog Sled Saga Beta Access",
+        "url": "dogsledsaga_beta?preview=bIcGpLSKftcv",
+        "price": "15",
+        "description": "Preorder Dog Sled Saga and get beta access starting in July, plus OST and concept art! Cross-platform and DRM-free!",
+        "developer": "Dan F. and Lisa B.",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Also includes hi-res art. Game website: http://www.dogsledsaga.com/preorder"
     },
     {
         "name": "Don't Starve",
@@ -1452,6 +1555,27 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
+    },
+    {
+        "name": "Full Bore",
+        "url": "fullbore?preview=Fue7He8Fder",
+        "price": "8",
+        "description": "20% OFF Pre-Order Sale!",
+        "developer": "Whole Hog Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Pre-order at 20% off. Store website: http://www.wholehog-games.com/fullbore/"
     },
     {
         "name": "Full Mojo Rampage",
@@ -3076,12 +3200,12 @@ var games = [
             "DRM-Free": true
         }
     },
-	{
+    {
         "name": "Rogue Legacy",
         "url": "roguelegacy_final?preview=EXn3mzwCJtTl",
         "price": "15",
         "description": "Buy now and get a DRM-free copy of Rogue Legacy for Windows as well as a free Steam key! Mac and Linux versions coming soon!",
-        "developer": "Cellar Door Games ",
+        "developer": "Cellar Door Games",
         "platform": {
             "android": false,
             "windows": true,
@@ -3095,7 +3219,28 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
-	},
+    },
+    {
+        "name": "Rooks Keep",
+        "url": "rookskeep?preview=4ygk2ZLIOgpL",
+        "price": "15",
+        "description": "Buy Rooks Keep now, and get the game for Windows-PC and authentication key for multiplayer!",
+        "developer": "RuneStorm",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Original webstore: http://www.runestorm.com/rook/buy"
+    },
     {
         "name": "Samorost2",
         "url": "samorost2",
@@ -3909,6 +4054,27 @@ var games = [
         }
     },
     {
+        "name": "The Journey Down: Chapter One ",
+        "url": "thejourneydownchapterone?preview=SaRQrl5NyWyo",
+        "price": "6.99",
+        "description": "Get The Journey Down: Chapter One instantly! Keys for Steam and Desura included. Pc + Mac + Linux.",
+        "developer": "SkyGoblin",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": true,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Game website: http://skygoblin.com/the-journey-down/ although there's no link to the Humble Store widget there"
+    },
+    {
         "name": "The Ship: Murder Party",
         "url": "theshipmurderparty",
         "price": "20",
@@ -4385,6 +4551,26 @@ var games = [
             "android": false,
             "windows": true,
             "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        }
+    },
+    {
+        "name": "Word Realms",
+        "url": "wordrealms?preview=fhuQPfroZc9s",
+        "price": "11",
+        "description": "A single-player roleplaying video game where your weapons are words.",
+        "developer": "Asymmetric",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
             "mac": true,
             "audio": false
         },
