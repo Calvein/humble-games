@@ -1,4 +1,4 @@
-humble-games
+Humble Games
 ============
 
 All the games from http://www.humblebundle.com/
