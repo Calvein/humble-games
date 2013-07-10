@@ -1806,6 +1806,27 @@ var games = [
         "notes": "Pre-order at 20% off. Store website: http://www.wholehog-games.com/fullbore/"
     },
     {
+        "name": "Full Bore + Soundtrack",
+        "url": "fullborewithsoundtrack?preview=Fue7He8Fder",
+        "price": "16",
+        "description": "20% OFF Pre-Order Sale + Discounted Soundtrack!",
+        "developer": "Whole Hog Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "notes": "Pre-order at 20% off. Store website: http://www.wholehog-games.com/fullbore/"
+    },
+    {
         "name": "Full Mojo Rampage",
         "url": "fullmojorampage?preview=6eHLT2xmErrK",
         "price": "10",
