@@ -841,17 +841,17 @@ var games = [
         }
     },
     {
-        "name": "Constant C + Soundtrack",
-        "url": "constantc_soundtrack?preview=aqLfpSQ7TVzx",
-        "price": "12.99",
-        "description": "Get Constant C instantly and DRM free! Includes soundtrack and a Desura key.",
+        "name": "Constant C",
+        "url": "constantc?preview=aqLfpSQ7TVzx",
+        "price": "9.99",
+        "description": "Get Constant C instantly and DRM free! Includes a Desura key.",
         "developer": "International Games System Co.,LTD.",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
             "mac": false,
-            "audio": true
+            "audio": false
         },
         "DRM": {
             "steam": false,
@@ -866,17 +866,17 @@ var games = [
         }
     },
     {
-        "name": "Constant C",
-        "url": "constantc?preview=aqLfpSQ7TVzx",
-        "price": "9.99",
-        "description": "Get Constant C instantly and DRM free! Includes a Desura key.",
+        "name": "Constant C + Soundtrack",
+        "url": "constantc_soundtrack?preview=aqLfpSQ7TVzx",
+        "price": "12.99",
+        "description": "Get Constant C instantly and DRM free! Includes soundtrack and a Desura key.",
         "developer": "International Games System Co.,LTD.",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
             "mac": false,
-            "audio": false
+            "audio": true
         },
         "DRM": {
             "steam": false,
@@ -2295,6 +2295,34 @@ var games = [
             "DRM-Free": true
         },
         "notes": "The game will be DRM-free, but as a multiplayer game it will require the player to be logged in to play."
+    },
+    {
+        "name": "Hotline Miami",
+        "url": "hotlinemiami?preview=Sj3j2hsozpn",
+        "price": "9.99",
+        "description": "Do you like hurting other people? Well now you can, cross-platform, DRM-free, and also on Steam.",
+        "developer": "Dennaton Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": true,
+            "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.polygon.com/game/hotline-miami/3603",
+            "steam": "http://store.steampowered.com/app/219150/",
+            "desura": "",
+            "developer": "http://www.devolverdigital.com/games/view/hotline-miami"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Ichi",
@@ -4890,33 +4918,5 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
-    },
-    {
-        "name": "Hotline Miami",
-        "url": "hotlinemiami?preview=Sj3j2hsozpn",
-        "price": "9.99",
-        "description": "Do you like hurting other people? Well now you can, cross-platform, DRM-free, and also on Steam.",
-        "developer": "Dennaton Games",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "DRM": {
-            "steam": true,
-            "desura": false,
-            "GOG": true,
-            "DRM-Free": true
-        },
-        "URL": {
-            "review": "http://www.polygon.com/game/hotline-miami/3603",
-            "steam": "http://store.steampowered.com/app/219150/",
-            "desura": "",
-            "developer": "http://www.devolverdigital.com/games/view/hotline-miami"
-        },
-        "notes": "",
-        "extras": false
     },
 ]
