@@ -196,12 +196,12 @@ var games = [
             "mac": true,
             "audio": false
         },
-		"DRM": {
-			"steam": true,
-			"desura": false,
-			"GOG": false,
-			"DRM-Free": true
-		},
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
         "URL": {
             "review": "http://www.ign.com/articles/2013/05/15/anomaly-2-review",
             "steam": "http://store.steampowered.com/app/236730/",
@@ -4890,5 +4890,33 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
-    }
+    },
+    {
+        "name": "Hotline Miami",
+        "url": "hotlinemiami?preview=Sj3j2hsozpn",
+        "price": "9.99",
+        "description": "Do you like hurting other people? Well now you can, cross-platform, DRM-free, and also on Steam.",
+        "developer": "Dennaton Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": true,
+            "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.polygon.com/game/hotline-miami/3603",
+            "steam": "http://store.steampowered.com/app/219150/",
+            "desura": "",
+            "developer": "http://www.devolverdigital.com/games/view/hotline-miami"
+        },
+        "notes": "",
+        "extras": false
+    },
 ]
