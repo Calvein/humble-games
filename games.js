@@ -1359,6 +1359,34 @@ var games = [
         "notes": "Pre-order at 33% off. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key if the game is greenlit."
     },
     {
+        "name": "Dungeon Dashers",
+        "url": "dungeondashers?preview=Ddj8Hgwu6Gd",
+        "price": "9.99",
+        "description": "Pre-purchase Dungeon Dashers and get instant access to the latest beta build! Plus a free Steam key when the game gets Greenlit!",
+        "developer": "Jigxor",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": true,
+            "DRM-Free": true
+        },
+        "URL": {
+            "review": "",
+            "steam": "",
+            "desura": "",
+            "developer": "http://www.dungeondashers.com"
+        },
+        "notes": "",
+        "extras": false
+    },
+    {
         "name": "Dungeon Hearts",
         "url": "dungeonhearts?preview=fvTuzN4QPa1l",
         "price": "2.99",
