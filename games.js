@@ -2564,7 +2564,7 @@ var games = [
             "audio": false
         },
         "DRM": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "GOG": false,
             "DRM-Free": true
@@ -3338,6 +3338,58 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        }
+    },
+    {
+        "name": "Probability 0",
+        "url": "probability0?preview=XE0rD4fbwCkb",
+        "price": "7",
+        "description": "Probability 0 is a dark and oppressive plunge into procedurally-generated depths. Customize your abilities; discover strange foes; then die again.",
+        "developer": "Droqen",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.indiegamemag.com/probability-0-review/",
+            "steam": "",
+            "desura": "http://www.desura.com/games/probability-0",
+            "developer": "http://www.probability0.com/"
+        }
+    },
+    {
+        "name": "Probability 0 & Friends",
+        "url": "probability0friends?preview=XE0rD4fbwCkb",
+        "price": "10",
+        "description": "Probability 0, Pirattitude, Fishbane, and Starseed Pilgrim in one happy little bundle.",
+        "developer": "Droqen",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "URL": {
+            "review": "",
+            "steam": "",
+            "desura": "",
+            "developer": "http://www.probability0.com/#FRIENDS"
         }
     },
     {
@@ -4208,6 +4260,32 @@ var games = [
             "desura": false,
             "GOG": false,
             "DRM-Free": true
+        }
+    },
+    {
+        "name": "Starseed Pilgrim",
+        "url": "starseedpilgrim?preview=h0FE1AmJJTm7",
+        "price": "6",
+        "description": "A game about tending a symphonic garden, exploring space, and embracing fate. (linux build requires AIR)",
+        "developer": "Droqen",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-starseed-pilgrim-253132.phtml",
+            "steam": "http://store.steampowered.com/app/230980/",
+            "desura": "",
+            "developer": "http://www.starseedpilgrim.com/"
         }
     },
     {
