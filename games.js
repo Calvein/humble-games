@@ -3594,6 +3594,62 @@ var games = [
         }
     },
     {
+        "name": "Risk of Rain Pre-order",
+        "url": "riskofrain_game?preview=Igd1i3ZMVkTg",
+        "price": "10",
+        "description": "Buy now and get access to Risk of Rain on release!",
+        "developer": "Hopoo Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "URL": {
+            "review": "https://www.youtube.com/watch?v=f8rJtoyqX_0",
+            "steam": "",
+            "desura": "",
+            "developer": "http://riskofraingame.com/team/"
+        },
+        "notes": "pre-order",
+        "extras": false
+    },
+    {
+        "name": "Risk of Rain Pre-order",
+        "url": "riskofrain_gamebeta?preview=Igd1i3ZMVkTg",
+        "price": "25",
+        "description": "Buy Risk of Rain and get beta access immediately! Get the full game on release!",
+        "developer": "Hopoo Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": false,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": true
+        },
+        "URL": {
+            "review": "https://www.youtube.com/watch?v=f8rJtoyqX_0",
+            "steam": "",
+            "desura": "",
+            "developer": "http://riskofraingame.com/team/"
+        },
+        "notes": "beta + pre-order",
+        "extras": false
+    },
+    {
         "name": "Rochard",
         "url": "rochard",
         "price": "19.99",
@@ -4875,6 +4931,62 @@ var games = [
             "GOG": false,
             "DRM-Free": true
         }
+    },
+    {
+        "name": "Wanderlust: Rebirth",
+        "url": "wanderlustrebirth?preview=Sjd92hdnsSzc",
+        "price": "10",
+        "description": "Buy Wanderlust: Rebirth now and instantly get a Steam key!",
+        "developer": "Yeti Trunk",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "URL": {
+            "review": "http://www.rpgfan.com/reviews/Wanderlust_Rebirth/",
+            "steam": "",
+            "desura": "",
+            "developer": "http://www.yetitrunk.com/"
+        },
+        "notes": "",
+        "extras": false
+    },
+    {
+        "name": "Wanderlust: Rebirth 4-pack",
+        "url": "wanderlustrebirth4pack?preview=Sjd92hdnsSzc",
+        "price": "30",
+        "description": "Buy the Wanderlust: Rebirth 4-pack and instantly get 4 Steam keys!",
+        "developer": "Yeti Trunk",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "DRM": {
+            "steam": true,
+            "desura": false,
+            "GOG": false,
+            "DRM-Free": false
+        },
+        "URL": {
+            "review": "http://www.rpgfan.com/reviews/Wanderlust_Rebirth/",
+            "steam": "",
+            "desura": "",
+            "developer": "http://www.yetitrunk.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Waking Mars",
