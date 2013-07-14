@@ -1,5 +1,5 @@
 body {
-    background: url(img/bg.png);
+    background: url(../images/bg.png);
     text-align: center;
     color: #fff;
     text-shadow: 0 2px 4px hsla(0, 0%, 0%, 0.4);
@@ -59,7 +59,7 @@ main>iframe {
     width: 550px;
     height: 264px;
     border: 0;
-    background: no-repeat center center url(img/loader.gif);
+    background: no-repeat center center url(../images/loader.gif);
     opacity: .3;
 }
 

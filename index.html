@@ -4,19 +4,19 @@
     <meta charset="utf-8">
     <title>Humble Games</title>
 
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
     <h1>All games from <a href="http://humblebundle.com">the Humble Store</a></h1>
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">Humble Bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/#humble-games">edit this list</a>.</p>
     <input autofocus placeholder="e.g: &quot;Trine&quot;">
     <ul class="filters platform">
-        <li><a href="#windows"><img src="img/windows.png" alt="windows"></a>
-        <li><a href="#linux"><img src="img/linux.png" alt="linux"></a>
-        <li><a href="#mac"><img src="img/mac.png" alt="mac"></a>
-        <li><a href="#android"><img src="img/android.png" alt="android"></a>
-        <li><a href="#audio"><img src="img/audio.png" alt="audio"></a>
+        <li><a href="#windows"><img src="images/windows.png" alt="windows"></a>
+        <li><a href="#linux"><img src="images/linux.png" alt="linux"></a>
+        <li><a href="#mac"><img src="images/mac.png" alt="mac"></a>
+        <li><a href="#android"><img src="images/android.png" alt="android"></a>
+        <li><a href="#audio"><img src="images/audio.png" alt="audio"></a>
     </ul>
     <ul class="filters drm">
         <li><a href="#steam"><img src="http://g.etfv.co/http://store.steampowered.com/" alt="Steam"></a>
@@ -32,9 +32,10 @@
 
     <footer class="hidden">By <strong><a href="https://github.com/Calvein">Calvein</a></strong>, thanks to <b></b> for their contributions.</footer>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-    <script src="games.js"></script>
-    <script src="script.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js"></script>
+    <script src="scripts/games.js"></script>
+    <script src="scripts/script.js"></script>
     <script>
         var _gaq=[['_setAccount','UA-37825336-1'],['_trackPageview']];
         (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
