@@ -157,10 +157,10 @@ $(function() {
         var self = this
         e.preventDefault()
 
-        var value = $input.val()
+        var value = self.$input.val()
 
-        $(this).toggleClass('active')
-        var platforms = $filters.filter('.active').map(function() {
+        $(e.currentTarget).toggleClass('active')
+        var platforms = self.$filters.filter('.active').map(function() {
             return this.hash.slice(1)
         }).get()
 
@@ -168,7 +168,7 @@ $(function() {
             // By input
             var $placeholder = $(placeholder)
               , nameMatched = false
-            if (new RegExp(value, 'i').test($placeholder.data('url')))
+            if (new RegExp(value, 'i')     .test($placeholder.data('url')))
                 nameMatched = true
             else if (new RegExp(value, 'i').test($placeholder.data('description')))
                 nameMatched = true
@@ -178,11 +178,11 @@ $(function() {
                 nameMatched = true
 
             // By platform/DRM
-            var supportedPlatforms = $placeholder.data('platform');
-            var supportedDRM       = $placeholder.data('DRM');
+            var supportedPlatforms = $placeholder.data('platform')
+            var supportedDRM       = $placeholder.data('drm')
             var supportFilters     = platforms.every(function(platformordrm) {
-                return supportedPlatforms[platformordrm]||supportedDRM[platformordrm]
-            });
+                return supportedPlatforms[platformordrm] || supportedDRM[platformordrm]
+            })
 
             $placeholder.toggleClass('hidden', !(nameMatched && supportFilters))
         })
