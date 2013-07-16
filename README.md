@@ -20,11 +20,11 @@ You can generate this automatically over [here](http://calvein.github.io/humble-
             "mac": true/false,
             "audio": true/false
         },
-        "DRM": {
+        "drm": {
             "steam": true/false,
             "desura": true/false,
-            "GOG": true/false,
-            "DRM-Free": true/false
+            "gog": true/false,
+            "drm-free": true/false
         },
         "URL": {
             "review": "Link to a review of the game somewhere.",
