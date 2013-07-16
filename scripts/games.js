@@ -4893,6 +4893,26 @@ var games = [
         }
     },
     {
+        "name": "Vox",
+        "url": "vox?preview=Vdj7Hsh5Rdgy",
+        "price": "4.99",
+        "description": "Get Vox instantly! DRM free.",
+        "developer": "AlwaysGeeky Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        }
+    },
+    {
         "name": "Voxatron",
         "url": "voxatron",
         "price": "15",
