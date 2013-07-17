@@ -1038,9 +1038,6 @@ var games = [
             "drm-free": false
         },
         "URL": {
-            "review": "",
-            "steam": "",
-            "desura": "",
             "developer": ""
         }
     },
@@ -1112,8 +1109,16 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
-    },
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2008/12/22/defense-grid-the-awakening-review-2",
+            "steam": "http://store.steampowered.com/app/18500/",
+            "desura": "http://www.desura.com/games/defense-grid",
+            "developer": "http://www.hiddenpath.com/"
+        },
+        "notes": "",
+        "extras": false
+	},
     {
         "name": "Defense Grid: The Awakening: Full Bundle",
         "url": "defensegridfullbundle",
@@ -1132,7 +1137,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2008/12/22/defense-grid-the-awakening-review-2",
+            "steam": "http://store.steampowered.com/app/18500/",
+            "desura": "http://www.desura.com/games/defense-grid",
+            "developer": "http://www.hiddenpath.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "DG2 Kickstarter Digital Bundle",
@@ -1152,7 +1165,12 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
+        },
+        "URL": {
+            "developer": "http://www.hiddenpath.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "DG2 Kickstarter Swag Bundle (USA)",
@@ -1172,7 +1190,12 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
+        },
+        "URL": {
+            "developer": "http://www.hiddenpath.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "DG2 Kickstarter Swag Bundle (Int'l)",
@@ -1192,7 +1215,12 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
+        },
+        "URL": {
+            "developer": "http://www.hiddenpath.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Delver",
@@ -1212,7 +1240,12 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "developer": "http://www.hiddenpath.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Derrick The Deathfin",
@@ -1232,7 +1265,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/10/09/derrick-the-deathfin-review",
+            "desura": "http://www.desura.com/games/derrick-the-deathfin",
+            "developer": "http://derrickthedeathfin.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dino Run SE",
@@ -1252,7 +1292,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/dino-run-se/review",
+            "desura": "http://www.desura.com/games/dino-run-se",
+            "developer": "http://www.pixeljam.com/dinorunse/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "DLC Quest",
@@ -1273,7 +1320,14 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Includes the original DLC Quest plus the new full-length campaign Live Freemium or Die!\nStore page http://goingloudstudios.com/games/dlc-quest/"
+        "URL": {
+            "review": "http://www.destructoid.com/review-dlc-quest-249994.phtml",
+            "steam": "http://store.steampowered.com/app/230050/",
+            "desura": "http://www.desura.com/games/dlc-quest",
+            "developer": "http://goingloudstudios.com/games/dlc-quest/"
+        },
+        "notes": "Includes the original DLC Quest plus the new full-length campaign Live Freemium or Die!",
+        "extras": false
     },
     {
         "name": "Dog Sled Saga",
@@ -1294,7 +1348,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Game website: http://www.dogsledsaga.com/preorder"
+        "URL": {
+            "review": "http://www.penny-arcade.com/report/article/caring-for-animals-in-the-frozen-north-is-the-heart-of-dog-sled-saga",
+            "developer": "http://www.dogsledsaga.com/preorder"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dog Sled Saga Beta Access",
@@ -1315,7 +1374,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Also includes hi-res art. Game website: http://www.dogsledsaga.com/preorder"
+        "URL": {
+            "review": "http://www.penny-arcade.com/report/article/caring-for-animals-in-the-frozen-north-is-the-heart-of-dog-sled-saga",
+            "developer": "http://www.dogsledsaga.com/preorder"
+        },
+        "notes": "Also includes hi-res art. Game website: http://www.dogsledsaga.com/preorder",
+        "extras": true
     },
     {
         "name": "Don't Starve",
@@ -1335,7 +1399,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/dont-starve/reviews/dont-starve-review-6407882/",
+            "steam": "http://store.steampowered.com/app/219740/",
+            "developer": "http://www.dontstarvegame.com"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Drifter (Pre-Order)",
@@ -1356,7 +1427,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Pre-order at 33% off. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key if the game is greenlit."
+        "URL": {
+            "review": "http://www.148apps.com/tag/celsius-game-studios/",
+            "developer": "http://www.celsiusgs.com/drifter/"
+        },
+        "notes": "Pre-order at 33% off. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key if the game is greenlit.",
+        "extras": false
     },
     {
         "name": "Dungeon Dashers: Standard Edition",
@@ -1378,9 +1454,8 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
-            "steam": "",
-            "desura": "",
+            "review": "http://criticalindiegamer.com/2013/05/dungeon-dashers-first-lookpc/",
+            "desura": "http://www.desura.com/games/Dungeon-Dashers",
             "developer": "http://www.dungeondashers.com"
         },
         "notes": "",
@@ -1406,9 +1481,8 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
-            "steam": "",
-            "desura": "",
+            "review": "http://criticalindiegamer.com/2013/05/dungeon-dashers-first-lookpc/",
+            "desura": "http://www.desura.com/games/Dungeon-Dashers",
             "developer": "http://www.dungeondashers.com"
         },
         "notes": "",
@@ -1434,12 +1508,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
-            "steam": "",
-            "desura": "",
+            "review": "http://criticalindiegamer.com/2013/05/dungeon-dashers-first-lookpc/",
+            "desura": "http://www.desura.com/games/Dungeon-Dashers",
             "developer": "http://www.dungeondashers.com"
         },
-        "notes": "",
+        "notes": "full name is Dungeon Dashers. Dungeon dashers should be searchable because of this note :P",
         "extras": false
     },
     {
@@ -1461,7 +1534,14 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Couldn't find the store page. The developers only have a Facebook page and it isn't there."
+        "URL": {
+            "review": "http://toucharcade.com/2013/04/11/dungeon-hearts-ipad-review/",
+            "steam": "http://store.steampowered.com/app/229520/",
+            "desura": "http://www.desura.com/games/Dungeon-hearts",
+            "developer": "http://cube-roots.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dungeons of Dredmor",
@@ -1481,7 +1561,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "https://www.youtube.com/watch?v=7_V8vKwre_U",
+            "steam": "http://store.steampowered.com/app/98800/",
+            "desura": "http://www.desura.com/games/Dungeons-of-Dredmor",
+            "developer": "http://www.gaslampgames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dungeons of Dredmor: Realm of the Diggle Gods",
@@ -1501,7 +1589,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.indiegamereviewer.com/review-dungeons-of-dredmor-and-realm-of-the-diggle-gods-dlc/",
+            "steam": "http://store.steampowered.com/app/98820/",
+            "desura": "http://www.desura.com/games/realm-of-the-diggle-gods",
+            "developer": "http://www.gaslampgames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dungeons of Dredmor: Conquest of the Wizardlands",
@@ -1521,7 +1617,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.forbes.com/sites/games/2012/08/15/dungeons-of-dredmor-conquest-of-the-wizardlands-review/",
+            "steam": "http://store.steampowered.com/app/98822/",
+            "desura": "http://www.desura.com/games/conquest-of-the-wizardlands",
+            "developer": "http://www.gaslampgames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dungeons of Dredmor Complete Pack",
@@ -1541,7 +1645,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/sub/15933/",
+            "developer": "http://www.gaslampgames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dustforce",
@@ -1561,7 +1671,15 @@ var games = [
             "desura": true,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://arstechnica.com/gaming/2012/01/dustforce-review-a-wonderfully-maddening-focus-on-player-perfection/",
+            "steam": "http://store.steampowered.com/app/65300/",
+            "desura": "http://www.desura.com/games/Dustforce",
+            "developer": "http://hitboxteam.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dustforce (with soundtrack)",
@@ -1581,7 +1699,15 @@ var games = [
             "desura": true,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://arstechnica.com/gaming/2012/01/dustforce-review-a-wonderfully-maddening-focus-on-player-perfection/",
+            "steam": "http://store.steampowered.com/app/65300/",
+            "desura": "http://www.desura.com/games/Dustforce",
+            "developer": "http://hitboxteam.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dynamite Jack",
@@ -1601,7 +1727,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "https://www.youtube.com/watch?v=Hd0_s0QBxDk",
+            "steam": "http://store.steampowered.com/app/202730/",
+            "developer": "http://www.galcon.com/dynamitejack/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Dyad",
@@ -1622,8 +1755,14 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Link found at pcgamingwiki"
-    },
+        "URL": {
+            "review": "http://kotaku.com/5926808/dyad-the-kotaku-review",
+            "steam": "http://store.steampowered.com/app/223450",
+            "developer": "http://www.dyadgame.com/"
+        },
+        "notes": "link found at pcgamingwiki",
+        "extras": false
+	},
     {
         "name": "Eets",
         "url": "eets",
@@ -1642,7 +1781,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.outofeight.info/2006/06/eets-review.html",
+            "steam": "http://store.steampowered.com/app/6100/",
+            "desura": "http://www.desura.com/games/Eets",
+            "developer": "http://kleientertainment.com"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Eets Munchies Early-Access Beta",
@@ -1662,7 +1809,12 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
+        },
+        "URL": {
+            "developer": "http://kleientertainment.com"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Electronic Super Joy",
@@ -1683,7 +1835,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store website http://www.electronicsuperjoy.com/"
+        "URL": {
+            "review": "http://indiehaven.com/electronic-super-joy-preview-with-video/",
+            "developer": "http://www.michaeltoddgames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Electronic Super Joy Soundtrack",
@@ -1704,7 +1861,12 @@ var games = [
             "gog": false,
             "drm-free": false
         },
-        "notes": "Store website http://www.electronicsuperjoy.com/"
+        "URL": {
+            "review": "http://indiehaven.com/electronic-super-joy-preview-with-video/",
+            "developer": "http://www.michaeltoddgames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Element4l",
@@ -1724,7 +1886,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
+        },
+        "URL": {
+            "review": "http://criticalindiegamer.com/2013/06/element4l-review-pc/",
+            "steam": "http://store.steampowered.com/app/235820",
+            "developer": "http://www.i-illusions.com"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "English Country Tune",
@@ -1744,7 +1913,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.indiegamereviewer.com/english-country-tune-an-indie-game-review-of-this-igf-2012-nominee/",
+            "steam": "http://store.steampowered.com/app/207570",
+            "desura": "http://www.desura.com/games/English-Country-Tune",
+            "developer": "http://www.increpare.com"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Escape Goat",
@@ -1764,7 +1941,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://indiegamerchick.com/2011/11/09/escape-goat/",
+            "desura": "http://www.desura.com/games/Escape-Goat",
+            "developer": "http://www.magicaltimebean.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Fez",
@@ -1785,7 +1969,13 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Link found at pcgamingwiki"
+        "URL": {
+            "review": "http://www.escapistmagazine.com/articles/view/editorials/reviews/9565-Fez-Review",
+            "steam": "http://store.steampowered.com/app/224760/",
+            "developer": "http://polytroncorporation.com/"
+        },
+        "notes": "link found at pcgamingwiki",
+        "extras": false
     },
     {
         "name": "Flotilla",
@@ -1805,7 +1995,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.outofeight.info/2010/03/flotilla-review.html",
+            "steam": "http://store.steampowered.com/app/55000/",
+            "desura": "http://www.desura.com/games/Flotilla",
+            "developer": "http://blendogames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "FOTONICA",
@@ -1825,7 +2023,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://arstechnica.com/gaming/2011/07/pc-mac-game-fotonica-mixes-primordial-cgi-with-modern-style/",
+            "desura": "http://www.desura.com/games/FOTONICA",
+            "developer": "http://www.santaragione.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Frogatto",
@@ -1846,7 +2051,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Linux will be added soon"
+        "URL": {
+            "review": "http://www.gamezebo.com/games/frogatto/review",
+            "developer": "http://www.frogatto.com/"
+        },
+        "notes": "Linux will be added soon",
+        "extras": false
     },
     {
         "name": "FTL: Faster Than Light",
@@ -1866,7 +2076,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.pcgamer.com/review/ftl-faster-than-light-review/",
+            "steam": "http://store.steampowered.com/app/212680",
+            "developer": "http://www.ftlgame.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Full Bore",
@@ -1887,7 +2104,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Pre-order at 20% off. Store website: http://www.wholehog-games.com/fullbore/"
+        "URL": {
+            "review": "http://www.joystiq.com/2012/12/19/the-joystiq-indie-pitch-full-bore/",
+            "developer": "http://www.wholehog-games.com/fullbore/"
+        },
+        "notes": "Pre-order at 20% off.",
+        "extras": false
     },
     {
         "name": "Full Bore + Soundtrack",
@@ -1908,7 +2130,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Pre-order at 20% off. Store website: http://www.wholehog-games.com/fullbore/"
+        "URL": {
+            "review": "http://www.joystiq.com/2012/12/19/the-joystiq-indie-pitch-full-bore/",
+            "developer": "http://www.wholehog-games.com/fullbore/"
+        },
+        "notes": "Pre-order at 20% off.",
+        "extras": false
     },
     {
         "name": "Full Mojo Rampage",
@@ -1928,7 +2155,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
+            "developer": "http://www.overthetopgames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Gateways",
@@ -1948,7 +2181,15 @@ var games = [
             "desura": true,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://indiegamerchick.com/2012/09/15/gateways/",
+            "steam": "http://store.steampowered.com/app/216290/",
+            "desura": "http://www.desura.com/games/gateways",
+            "developer": "http://www.smudgedcat.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Girls Like Robots",
@@ -1968,7 +2209,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.macworld.com/article/2032521/review-girls-like-robots-is-a-charming-challenging-puzzler-with-a-quirky-storyline.html",
+            "desura": "http://www.desura.com/games/Girls-Like-Robots",
+            "developer": "http://www.popcannibal.com/girlslikerobots/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "God of Blades",
@@ -1988,7 +2236,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "https://www.youtube.com/watch?v=ZcbFGHNCyMM",
+            "developer": "http://www.whitewhalegames.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Gratuitous Space Battles",
@@ -2008,7 +2262,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "https://www.youtube.com/watch?v=8Z78zuVh8tA",
+            "steam": "http://store.steampowered.com/app/41800/",
+            "desura": "http://www.desura.com/games/Gratuitous-Space-Battles",
+            "developer": "http://www.positech.co.uk/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Gratuitous Space Battles (Collector's Edition)",
@@ -2028,7 +2290,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "https://www.youtube.com/watch?v=8Z78zuVh8tA",
+            "steam": "http://store.steampowered.com/app/41800/",
+            "desura": "http://www.desura.com/games/Gratuitous-Space-Battles",
+            "developer": "http://www.positech.co.uk/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Grim Dawn Digital Release",
@@ -2048,7 +2318,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
+            "developer": "http://www.crateentertainment.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Grim Dawn Pioneer Edition",
@@ -2061,14 +2337,20 @@ var games = [
             "windows": false,
             "linux": false,
             "mac": false,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
+            "developer": "http://www.crateentertainment.com/"
+        },
+        "notes": "",
+        "extras": true
     },
     {
         "name": "Grim Dawn Patron Edition",
@@ -2081,14 +2363,20 @@ var games = [
             "windows": false,
             "linux": false,
             "mac": false,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
+            "developer": "http://www.crateentertainment.com/"
+        },
+        "notes": "",
+        "extras": true
     },
     {
         "name": "Grim Dawn Loyalist Edition",
@@ -2101,14 +2389,20 @@ var games = [
             "windows": false,
             "linux": false,
             "mac": false,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
+            "developer": "http://www.crateentertainment.com/"
+        },
+        "notes": "",
+        "extras": true
     },
     {
         "name": "Gunpoint",
@@ -2128,7 +2422,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.bit-tech.net/gaming/2013/07/05/gunpoint-review/1",
+            "steam": "http://store.steampowered.com/app/206190/",
+            "developer": "http://www.suspiciousdevelopments.com/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Gunpoint: Special Edition",
@@ -2148,7 +2449,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.bit-tech.net/gaming/2013/07/05/gunpoint-review/1",
+            "steam": "http://store.steampowered.com/app/206190/",
+            "developer": "http://www.suspiciousdevelopments.com/"
+        },
+        "notes": "",
+        "extras": true
     },
     {
         "name": "Gunpoint: Exclusive Edition",
@@ -2168,7 +2476,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.bit-tech.net/gaming/2013/07/05/gunpoint-review/1",
+            "steam": "http://store.steampowered.com/app/206190/",
+            "developer": "http://www.suspiciousdevelopments.com/"
+        },
+        "notes": "",
+        "extras": true
     },
     {
         "name": "Hammerwatch",
@@ -2402,7 +2717,6 @@ var games = [
         "URL": {
             "review": "http://www.polygon.com/game/hotline-miami/3603",
             "steam": "http://store.steampowered.com/app/219150/",
-            "desura": "",
             "developer": "http://www.devolverdigital.com/games/view/hotline-miami"
         },
         "notes": "",
@@ -3361,7 +3675,6 @@ var games = [
         },
         "URL": {
             "review": "http://www.indiegamemag.com/probability-0-review/",
-            "steam": "",
             "desura": "http://www.desura.com/games/probability-0",
             "developer": "http://www.probability0.com/"
         }
@@ -3386,9 +3699,6 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
-            "steam": "",
-            "desura": "",
             "developer": "http://www.probability0.com/#FRIENDS"
         }
     },
@@ -3614,8 +3924,6 @@ var games = [
         },
         "URL": {
             "review": "https://www.youtube.com/watch?v=f8rJtoyqX_0",
-            "steam": "",
-            "desura": "",
             "developer": "http://riskofraingame.com/team/"
         },
         "notes": "pre-order",
@@ -3642,8 +3950,6 @@ var games = [
         },
         "URL": {
             "review": "https://www.youtube.com/watch?v=f8rJtoyqX_0",
-            "steam": "",
-            "desura": "",
             "developer": "http://riskofraingame.com/team/"
         },
         "notes": "beta + pre-order",
@@ -4340,7 +4646,6 @@ var games = [
         "URL": {
             "review": "http://www.destructoid.com/review-starseed-pilgrim-253132.phtml",
             "steam": "http://store.steampowered.com/app/230980/",
-            "desura": "",
             "developer": "http://www.starseedpilgrim.com/"
         }
     },
@@ -4973,8 +5278,6 @@ var games = [
         },
         "URL": {
             "review": "http://www.rpgfan.com/reviews/Wanderlust_Rebirth/",
-            "steam": "",
-            "desura": "",
             "developer": "http://www.yetitrunk.com/"
         },
         "notes": "",
@@ -5001,8 +5304,6 @@ var games = [
         },
         "URL": {
             "review": "http://www.rpgfan.com/reviews/Wanderlust_Rebirth/",
-            "steam": "",
-            "desura": "",
             "developer": "http://www.yetitrunk.com/"
         },
         "notes": "",
