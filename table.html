@@ -218,8 +218,8 @@
         <th id="th_mac" class="th_icon tdplatform"><span class="mac"></span></th>
         <th id="th_linux" class="th_icon tdplatform"><span class="linux"></span></th>
         <th id="th_android" class="th_icon tdplatform"><span class="android"></span></th>
-        <th id="th_steam" class="th_icon tddrm"><img src="img/steam.png"></img></th>
-        <th id="th_desura" class="th_icon tddrm"><img src="img/desura.png"></img></th>
+        <th id="th_steam" class="th_icon tddrm"><img src="images/steam.png"></img></th>
+        <th id="th_desura" class="th_icon tddrm"><img src="images/desura.png"></img></th>
         <th id="th_gog" class="th_icon tddrm"><span class="gog"></span></th>
         <th id="th_drmfree" class="th_icon tddrm"><span class="drmfree"></span></th>
         <th id="th_ost" class="th_icon"><span class="ost"></span></th>
@@ -349,7 +349,7 @@
 							tddrmsteamlink.href = 'http://store.steampowered.com/search/?ref=os&term='+tr.dataset.game;
 						}
 						var tddrmsteamimg = document.createElement('img');
-							tddrmsteamimg.src="img/steam.png"
+							tddrmsteamimg.src="images/steam.png"
 						tddrmsteamlink.appendChild(tddrmsteamimg);
 					tddrmsteam.appendChild(tddrmsteamlink);
                 }
@@ -360,7 +360,7 @@
                 tddrmdesura.setAttribute('sorttable_customkey', (tr.dataset.desura==="true" ? '0' : '1'));
                 if(tr.dataset.desura==="true") {
 					var tddrmdesuraimg = document.createElement('img');
-						tddrmdesuraimg.src="img/desura.png";
+						tddrmdesuraimg.src="images/desura.png";
                     if (tr.dataset.desuraurl != null) {
 						var tddrmdesuralink = document.createElement('a');
 							tddrmdesuralink.className = 'desura';
@@ -406,7 +406,7 @@
 					tdreviewsearchlink.href = "http://www.google.com/#q="+tr.dataset.game+"+review";
 					tdreviewsearchlink.title="Search for reviews of "+tr.dataset.game+".";
 					var tdreviewsearchlinkimg = document.createElement('img');
-						tdreviewsearchlinkimg.src="img/search2.png";
+						tdreviewsearchlinkimg.src="images/search2.png";
 						tdreviewsearchlinkimg.className="searchicon";
 						tdreviewsearchlink.appendChild(tdreviewsearchlinkimg);
 					tdreview.appendChild(tdreviewsearchlink);
