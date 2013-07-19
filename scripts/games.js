@@ -791,6 +791,52 @@ var games = [
         }
     },
     {
+        "name": "City Quest",
+        "url": "cityquest/Cajh7TDsg4e",
+        "price": "8",
+        "description": "Preorder some adventury goodness now, and get it for $2 off the launch price!",
+        "developer": "Stone Monkey Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://stonemonkeystudios.com/"
+        }
+    },
+    {
+        "name": "City Quest Deluxe Pack",
+        "url": "cityquest_deluxe/Cajh7TDsg4e",
+        "price": "15",
+        "description": "Preorder the Deluxe Pack and get 2 copies of City Quest, as well as the soundtrack and a PDF game manual!",
+        "developer": "Stone Monkey Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://stonemonkeystudios.com/"
+        }
+    },
+    {
         "name": "Clairvoyance",
         "url": "clairvoyance?preview=WmJbVXW90Ccb",
         "price": "5",
