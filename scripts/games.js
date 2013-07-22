@@ -1996,6 +1996,34 @@ var games = [
         "notes": "",
         "extras": false
     },
+	{
+	    "name": "Expander",
+	    "url": "product/expander/Asu4Feus23ds",
+	    "price": "2.49",
+	    "description": "Get Expander instantly! Cross-platform and DRM-free. Support our Greenlight campaign and get a Steam Key if we make it!",
+	    "developer": "All Civilized Planets",
+	    "platform": {
+	        "android": true,
+	        "linux": true,
+	        "windows": true,
+	        "mac": true,
+	        "audio": false
+	    },
+	    "drm": {
+	        "steam": false,
+	        "desura": false,
+	        "gog": false,
+	        "drm-free": false
+	    },
+	    "URL": {
+	        "review": "",
+	        "steam": "",
+	        "desura": "",
+	        "developer": "http://www.allcivilizedplanets.com"
+	    },
+	    "notes": "The game is also available on the iOS AppStore, Google Play and the Mac AppStore.",
+	    "extras": false
+	},
     {
         "name": "Fez",
         "url": "fez",
