@@ -4357,6 +4357,31 @@ var games = [
         }
     },
     {
+        "name": "Six Sided Sanctuary",
+        "url": "sixsidedsanctuary/Sdh7Tsg4Rsf",
+        "price": "9.99",
+        "description": "Get Six Sided Sanctuary DRM-free!",
+        "developer": "Devin Power",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://sixsidedsanctuary.com/"
+        },
+        "notes": "",
+        "extras": false
+    },
+    {
         "name": "Skullgirls Backer",
         "url": "skullgirlsbacker?preview=Sjd92hsnzc",
         "price": "36",
