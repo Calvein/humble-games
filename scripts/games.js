@@ -1998,7 +1998,7 @@ var games = [
     },
 	{
 	    "name": "Expander",
-	    "url": "product/expander/Asu4Feus23ds",
+	    "url": "expander/Asu4Feus23ds",
 	    "price": "2.49",
 	    "description": "Get Expander instantly! Cross-platform and DRM-free. Support our Greenlight campaign and get a Steam Key if we make it!",
 	    "developer": "All Civilized Planets",
