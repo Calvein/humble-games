@@ -597,6 +597,31 @@ var games = [
         }
     },
     {
+        "name": "Broforce",
+        "url": "broforce/Bdu7Fsgt3Eds",
+        "price": "$10",
+        "description": "Brace your loins for: Broforce offline beta (when available) + Steam key (when released) ($10) \n Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing (when available) + Steam key (when released) ($15) \n Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing (when available) + Steam key (when released) x2 ($25)",
+        "developer": "Free Lives",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.screwattack.com/shows/heavy-metal-gamer-show/heavy-metal-gamer-bro-force-review",
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=93927889,"
+            "developer": "http://www.freelives.net/"
+        }
+    },
+    {
         "name": "Cardinal Quest",
         "url": "cardinalquest",
         "price": "5",
@@ -1431,7 +1456,7 @@ var games = [
         "name": "Don't Starve",
         "url": "dontstarve_standalone?preview=mtcdbvdg",
         "price": "14.99",
-        "description": "Get Don't Starve Instantly! Free regular updates & new content. Play on Steam, Chrome & Stand-Alone!",
+        "description": "Get Don't Starve Instantly! Free regular updates & new content. Play on Steam, Chrome & Stand-Alone! ($14.99) \n Get Don't Starve and Original Soundtrack Instantly! Free regular updates, bonus tracks, & new content. Play on Steam, Chrome & Stand-Alone! ($19.98)",
         "developer": "Klei Entertainment",
         "platform": {
             "android": false,
