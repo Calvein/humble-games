@@ -1430,7 +1430,7 @@ var games = [
     {
         "name": "Don't Starve",
         "url": "dontstarve_standalone?preview=mtcdbvdg",
-        "price": "13.49",
+        "price": "14.99",
         "description": "Get Don't Starve Instantly! Free regular updates & new content. Play on Steam, Chrome & Stand-Alone!",
         "developer": "Klei Entertainment",
         "platform": {
@@ -2857,6 +2857,27 @@ var games = [
         },
         "sale": true,
         "notes": "Sale ends around ??? unknown, regular price is $14.99.\nLinux version available for free at http://www.incredipede.com/linux.html"
+    },
+    {
+        "name": "InFlux",
+        "url": "influx/Ish6Dgsr5Dts",
+        "price": "9.99",
+        "description": "Get InFlux instantly! Cross-platform and DRM-free.",
+        "developer": "Impromptu Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "notes": "Webstore: http://joewintergreen.com/influx/influxr/influx.html"
     },
     {
         "name": "Intrusion 2",
