@@ -2319,6 +2319,84 @@ var games = [
         "extras": false
     },
     {
+        "name": "Goscurry",
+        "url": "goscurry?preview=Dne9FfjeSbng",
+        "price": "4.50",
+        "description": "Get Goscurry instantly! Cross-platform, DRM-free, and powered by eco electro-beat energy!",
+        "developer": "Holoville",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=CnLB3qp8Mao",
+            "developer": "http://www.holoville.com/games/"
+        },
+        "notes": "Webstore: http://www.goscurry.com/buy.php",
+        "extras": false
+    },
+    {
+        "name": "Goscurry Soundtrack",
+        "url": "goscurry_soundtrack?preview=nSfueTbshUdyb",
+        "price": "4.99",
+        "description": "Get the Goscurry soundtrack instantly!",
+        "developer": "Holoville",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=CnLB3qp8Mao",
+            "developer": "http://www.holoville.com/games/"
+        },
+        "notes": "Webstore: http://www.goscurry.com/buy.php",
+        "extras": false
+    },
+    {
+        "name": "Goscurry + Soundtrack",
+        "url": "goscurry_complete?preview=nSr6TbhUkyb",
+        "price": "8.50",
+        "description": "Get Goscurry and its soundtrack instantly! Cross-platform, DRM-free, and powered by eco electro-beat energy!",
+        "developer": "Holoville",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=CnLB3qp8Mao",
+            "developer": "http://www.holoville.com/games/"
+        },
+        "notes": "Webstore: http://www.goscurry.com/buy.php",
+        "extras": false
+    },
+    {
         "name": "Gratuitous Space Battles",
         "url": "gratuitousspacebattles",
         "price": "14.95",
