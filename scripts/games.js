@@ -617,7 +617,7 @@ var games = [
         },
         "URL": {
             "review": "http://www.screwattack.com/shows/heavy-metal-gamer-show/heavy-metal-gamer-bro-force-review",
-            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=93927889,"
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=93927889",
             "developer": "http://www.freelives.net/"
         }
     },
