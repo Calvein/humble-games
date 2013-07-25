@@ -599,7 +599,7 @@ var games = [
     {
         "name": "Broforce",
         "url": "broforce/Bdu7Fsgt3Eds",
-        "price": "$10",
+        "price": "10",
         "description": "Brace your loins for: Broforce offline beta (when available) + Steam key (when released) ($10) \n Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing (when available) + Steam key (when released) ($15) \n Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing (when available) + Steam key (when released) x2 ($25)",
         "developer": "Free Lives",
         "platform": {
