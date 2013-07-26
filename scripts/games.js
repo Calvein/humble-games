@@ -2021,7 +2021,34 @@ var games = [
         "notes": "",
         "extras": false
     },
-	{
+    {
+        "name": "Escape Goat 2",
+        "url": "escapegoat2/Edh6Tfgy9Uh",
+        "price": "8",
+        "description": "Save 20%! Coming September 10, 2013. Includes DRM-free installer for Windows.",
+        "developer": "MagicalTimeBean",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "",
+            "desura": "",
+            "developer": "http://www.magicaltimebean.com/"
+        },
+        "notes": "Webstore: http://www.magicaltimebean.com/escape-goat-2/",
+        "extras": false
+    },
+    {
 	    "name": "Expander",
 	    "url": "expander/Asu4Feus23ds",
 	    "price": "2.49",
