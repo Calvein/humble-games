@@ -2980,7 +2980,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -5386,6 +5386,56 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Two Brothers",
+        "url": "twobrothers?preview=Twd5Fbr8Bsa",
+        "price": "15",
+        "description": "Pre-order now and get Two Brothers for Less! -Join Us On an Epic Quest for Color!-",
+        "developer": "Ackk Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://www.facebook.com/AckkStudios"
+        },
+        "notes": "Pre-order sale 33% off ($10) at http://projecty2k.com/two-brothers-pre-order.html",
+        "extras": false
+    },
+    {
+        "name": "Two Brothers Deluxe Edition",
+        "url": "twobrothers_deluxe/Twd5Fbr8Bsa",
+        "price": "20",
+        "description": "Pre-order Two Brothers Deluxe Edition now! Comes with Pre-order Comic/Full Soundtrack. (It's over 3 hours of music!)",
+        "developer": "Ackk Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://www.facebook.com/AckkStudios"
+        },
+        "notes": "Pre-order sale 25% off ($15) at http://projecty2k.com/two-brothers-pre-order.html",
+        "extras": true
     },
     {
         "name": "Universe Sandbox",
