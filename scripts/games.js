@@ -3030,6 +3030,33 @@ var games = [
         }
     },
     {
+        "name": "Ittle Dew",
+        "url": "ittledew/Ldu7Tdg8Hwy",
+        "price": "13.99",
+        "description": "Buy now and get Ittle Dew instantly! Includes a Steam key.",
+        "developer": "Ludosity",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/ittle-dew/review",
+            "steam": "http://store.steampowered.com/app/241320",
+            "developer": "http://www.ludosity.com/"
+        },
+        "notes": "Linux version will be added to all purchases when it's made available.\nWebstore: http://www.ittledew.com/purchase/",
+        "extras": false        
+    },
+    {
         "name": "Jasper's Journeys",
         "url": "jaspersjourneys",
         "price": "5",
