@@ -2967,6 +2967,32 @@ var games = [
         }
     },
     {
+    	"name": "Ilamentia",
+    	"url": "ilamentia/Hdi8Gyt5Dsf",
+    	"price": "8.99",
+    	"description": "A mind-bending first-person action puzzler.",
+    	"developer": "caiysware",
+    	"platform": {
+    		"android": false,
+    		"linux": false,
+	        "windows": true,
+	        "mac": false,
+	        "audio": false
+	        },
+		"drm": {
+			"steam": false,
+	        "desura": false,
+	        "gog": false,
+	        "drm-free": true
+	        },
+		"URL": {
+	        "review": "http://indiestatik.com/2013/05/24/ilamentia-2/",
+	        "developer": "http://caiysware.com/"
+        },
+        "notes": "On sale for $4.99\nWebstore: http://caiysware.com/ilamentia",
+        "extras": false
+    },
+    {
         "name": "Incredipede",
         "url": "incredipede",
         "price": "9.99",
@@ -3297,30 +3323,6 @@ var games = [
             "drm-free": true
         }
     },
-	{
-	    "name": "Ilamentia",
-	    "url": "ilamentia",
-	    "price": "4.99",
-	    "description": "A mind-bending first-person action puzzler.",
-	    "developer": "caiysware",
-	    "platform": {
-	        "android": false,
-	        "linux": false,
-	        "windows": true,
-	        "mac": false,
-	        "audio": false
-	    },
-	    "drm": {
-	        "steam": false,
-	        "desura": false,
-	        "gog": false,
-	        "drm-free": true
-	    },
-	    "URL": {
-	        "review": "http://indiestatik.com/2013/05/24/ilamentia-2/",
-	        "developer": "caiysware.com"
-	    },
-	},
     {
         "name": "Lone Survivor",
         "url": "lonesurvivor",
@@ -3340,6 +3342,33 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Loren The Amazon Princess",
+        "url": "lorentheamazonprincess/Ldh5Ths8Ish",
+        "price": "34",
+        "description": "Get Loren the Amazon Princess instantly! Cross-platform and DRM-free.",
+        "developer": "Winter Wolves",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.justadventure.com/index.php/2013-05-20-21-09-14/591-loren-the-amazon-princess2",
+            "desura": "http://www.desura.com/games/loren-the-amazon-princess",
+            "developer": "http://www.winterwolves.com/"
+        },
+        "notes": "Couldn't find the page containing the Humble Store widget. From the price I suppose it includes the Castle Of N'Mar expansion.",
+        "extras": false        
     },
     {
         "name": "Lost Marbles",
