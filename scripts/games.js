@@ -985,7 +985,7 @@ var games = [
             "desura": "http://www.desura.com/games/cook-serve-delicious",
             "developer": "http://www.vertigogaming.net/blog/"
         },
-        "notes": "Veritgo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
+        "notes": "Vertigo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
     },
     {
         "name": "Cortex Command",
@@ -1036,6 +1036,56 @@ var games = [
             "review": "http://indiegamers.com/game/crea.11/",
             "developer": "http://siegegames.com"
         }
+    },
+    {
+        "name": "Crypt Run",
+        "url": "cryptrun/Cdy6Dgsy3Fts",
+        "price": "12",
+        "description": "Pre-order Crypt Run at 20% off! Cross-platform and DRM free!",
+        "developer": "Lost Decade Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lostdecadegames.com/"
+        },
+        "notes": "Webstore: http://www.cryptrun.com/buy/ \n Linux version available if $10k are raised in the game's Kickstarter campaign: http://www.kickstarter.com/projects/richtaur/crypt-run-death-is-just-the-beginning",
+        "extras": false
+    },
+    {
+        "name": "Crypt Run: Early Alpha Access",
+        "url": "cryptrun_alpha/Cdy6Dgsy3Fts",
+        "price": "25",
+        "description": "Get Crypt Run early alpha access! Receive weekly alpha builds of the game during development and the original soundtrack after.",
+        "developer": "Lost Decade Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lostdecadegames.com/"
+        },
+        "notes": "Webstore: http://www.cryptrun.com/buy/ \n Linux version available if $10k are raised in the game's Kickstarter campaign: http://www.kickstarter.com/projects/richtaur/crypt-run-death-is-just-the-beginning",
+        "extras": true
     },
     {
         "name": "Dead Pixels",
