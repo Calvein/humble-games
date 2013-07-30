@@ -3297,6 +3297,30 @@ var games = [
             "drm-free": true
         }
     },
+	{
+	    "name": "Ilamentia",
+	    "url": "ilamentia",
+	    "price": "4.99",
+	    "description": "A mind-bending first-person action puzzler.",
+	    "developer": "caiysware",
+	    "platform": {
+	        "android": false,
+	        "linux": false,
+	        "windows": true,
+	        "mac": false,
+	        "audio": false
+	    },
+	    "drm": {
+	        "steam": false,
+	        "desura": false,
+	        "gog": false,
+	        "drm-free": true
+	    },
+	    "URL": {
+	        "review": "http://indiestatik.com/2013/05/24/ilamentia-2/",
+	        "developer": "caiysware.com"
+	    },
+	},
     {
         "name": "Lone Survivor",
         "url": "lonesurvivor",
