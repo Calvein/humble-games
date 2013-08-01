@@ -4347,6 +4347,26 @@ var games = [
             "drm-free": true
         }
     },
+        {
+        "name": "Sentinel",
+        "url": "sentinel?preview=xb7qKvL5ES0e",
+        "price": "10.00",
+        "description": "Get Sentinel instantly! Cross-platform and DRM-free.",
+        "developer": "Matthew Brown",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+    },
     {
         "name": "Shadowgrounds",
         "url": "shadowgrounds",
