@@ -3741,6 +3741,26 @@ var games = [
         }
     },
     {
+        "name": "Papers, Please",
+        "url": "papersplease/Psh7Hsjt5Fsuy",
+        "price": "9.99",
+        "description": "Pre-order now and when it's ready get Papers, Please instantly! DRM-free for PC/Mac and redeemable on Steam!",
+        "developer": "Lucas Pope",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+    },
+    {
         "name": "Paranautical Activity",
         "url": "paranauticalactivity?preview=Ush6Rdu9Dsa",
         "price": "5.99",
