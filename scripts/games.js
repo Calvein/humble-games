@@ -2809,6 +2809,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Humans Must Answer",
+        "url": "humansmustanswer/Hum6Dah9K",
+        "price": "10",
+        "description": "Purchase Humans Must Answer and get it DRM-free on Windows",
+        "developer": "Sumomgames",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.eurogamer.net/articles/2013-08-02-humans-must-answer-review",
+            "gog": "http://www.gog.com/gamecard/humans_must_answer",
+            "developer": "http://sumomgames.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Ichi",
         "url": "ichi",
         "price": "2.99",
