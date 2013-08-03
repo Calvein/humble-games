@@ -9,13 +9,14 @@ $(function() {
         // URL prefix
         self.url = 'http://www.humblebundle.com/store/product/'
 
-        // Initialized methods
-        self.addPlaceholders()
-        self.showContributors()
-
         // Events
         self.dispatchEvents()
         self.renderFilters()
+
+        // Initialized methods
+        self.addPlaceholders()
+        self.showContributors()
+        self.processScroll()
     }
 
     /**
@@ -39,6 +40,7 @@ $(function() {
         })
 
         // Shuffle the games
+        console.log(randomizeGames)
         if (randomizeGames) {
             games = _.shuffle(games)
         }
@@ -233,7 +235,6 @@ $(function() {
         self.$save.on(   'click',  self.saveSearch.bind(self))
 
         $(window).on(    'scroll', self.processScroll.bind(self))
-        self.processScroll()
     }
 
     // Initialize the Humble object
