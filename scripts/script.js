@@ -2,19 +2,20 @@ $(function() {
     function Humble(selector) {
         var self = this
         // Add spans placeholders for the lazy-load
-        self.$el = $(selector)
-        self.$input = $('input')
+        self.$el      = $(selector)
+        self.$input   = $('input')
         self.$filters = $('.filters a')
+        self.$save    = $('.save')
         // URL prefix
         self.url = 'http://www.humblebundle.com/store/product/'
 
         // Initialized methods
-        self.renderFilters()
         self.addPlaceholders()
         self.showContributors()
 
         // Events
         self.dispatchEvents()
+        self.renderFilters()
     }
 
     /**
@@ -194,11 +195,42 @@ $(function() {
         self.processScroll()
     }
 
+    /**
+     * Save the current search
+     *
+     * @param  {Event}  e  The event
+     */
+    Humble.prototype.save = function(e) {
+        var self = this
+        e.preventDefault()
+
+        var params = []
+          , item
+
+        var input = self.$input.val()
+        if (input) {
+            params.push('input=' + input)
+        }
+
+        self.$filters.map(function(i, el) {
+            if (el.classList.contains('active')) {
+                params.push(el.hash.slice(1) + '=true')
+            }
+        })
+
+        if (params.length) {
+            var url = location.origin + location.pathname + '?' + params.join('&')
+            history.pushState({}, '', url)
+        }
+    }
+
     Humble.prototype.dispatchEvents = function() {
         self = this
 
         self.$input.on('input',   self.filter.bind(self))
         self.$filters.on('click', self.filter.bind(self))
+
+        self.$save.on('click', self.save.bind(self))
 
         $(window).on('scroll', self.processScroll.bind(self))
         self.processScroll()
