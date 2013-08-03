@@ -3,7 +3,7 @@ $(function() {
         var self = this
         // Add spans placeholders for the lazy-load
         self.$el      = $(selector)
-        self.$input   = $('input')
+        self.$input   = $('[type=text]')
         self.$filters = $('.filters a')
         self.$save    = $('.save')
         // URL prefix
@@ -158,7 +158,7 @@ $(function() {
      *
      * @param  {Event}  e  The event
      */
-    Humble.prototype.filter = function(e) {
+    Humble.prototype.filterGames = function(e) {
         var self = this
         e.preventDefault()
 
@@ -200,7 +200,7 @@ $(function() {
      *
      * @param  {Event}  e  The event
      */
-    Humble.prototype.save = function(e) {
+    Humble.prototype.saveSearch = function(e) {
         var self = this
         e.preventDefault()
 
@@ -227,12 +227,12 @@ $(function() {
     Humble.prototype.dispatchEvents = function() {
         self = this
 
-        self.$input.on('input',   self.filter.bind(self))
-        self.$filters.on('click', self.filter.bind(self))
+        self.$input.on(  'input',  self.filterGames.bind(self))
+        self.$filters.on('click',  self.filterGames.bind(self))
 
-        self.$save.on('click', self.save.bind(self))
+        self.$save.on(   'click',  self.saveSearch.bind(self))
 
-        $(window).on('scroll', self.processScroll.bind(self))
+        $(window).on(    'scroll', self.processScroll.bind(self))
         self.processScroll()
     }
 
