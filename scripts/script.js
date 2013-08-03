@@ -8,9 +8,6 @@ $(function() {
         // URL prefix
         self.url = 'http://www.humblebundle.com/store/product/'
 
-        // Shuffle the games
-        games = _.shuffle(games)
-
         // Initialized methods
         self.renderFilters()
         self.addPlaceholders()
@@ -26,16 +23,24 @@ $(function() {
      */
     Humble.prototype.renderFilters = function() {
         var self = this
+          , randomizeGames = true
         location.search.slice(1).split('&').forEach(function(search) {
             var params = search.split('=')
             if (params[0] === 'input') {
                 self.$input
                 .val(params[1])
                 .trigger('input')
+            } else if (params[0] === 'random') {
+                randomizeGames = params[1] !== 'false'
             } else {
                 self.$filters.filter('[href="#' + params[0] + '"]').click()
             }
         })
+
+        // Shuffle the games
+        if (randomizeGames) {
+            games = _.shuffle(games)
+        }
     }
 
     Humble.prototype.addPlaceholders = function() {
@@ -48,7 +53,6 @@ $(function() {
         self.$gamesPlaceholders = $('span',         self.$el)
         self.$gamesElements     = $('span, iframe', self.$el)
     }
-
 
     /**
      * Show the contributors, thanks by the way
