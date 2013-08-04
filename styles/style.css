@@ -1,6 +1,7 @@
 body {
     background: url(../images/bg.png);
     text-align: center;
+    font-size: 18px;
     color: #fff;
     text-shadow: 0 2px 4px hsla(0, 0%, 0%, 0.4);
 }
@@ -9,7 +10,7 @@ a {
     color: #7aa923;
 }
 
-input {
+[type=text] {
     display: block;
     width: 300px;
     margin: 1em  auto;
@@ -54,13 +55,20 @@ li {
 }
 
 span,
-main>iframe {
+main > iframe {
     display: inline-block;
     width: 550px;
     height: 264px;
     border: 0;
     background: no-repeat center center url(../images/loader.gif);
     opacity: .3;
+}
+
+body > iframe {
+    width: 410px;
+    height: 150px;
+    margin: 0 auto;
+    border:none;
 }
 
 footer {

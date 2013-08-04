@@ -2,22 +2,21 @@ $(function() {
     function Humble(selector) {
         var self = this
         // Add spans placeholders for the lazy-load
-        self.$el = $(selector)
-        self.$input = $('input')
+        self.$el      = $(selector)
+        self.$input   = $('[type=text]')
         self.$filters = $('.filters a')
+        self.$save    = $('.save')
         // URL prefix
         self.url = 'http://www.humblebundle.com/store/product/'
 
-        // Shuffle the games
-        games = _.shuffle(games)
-
-        // Initialized methods
-        self.renderFilters()
-        self.addPlaceholders()
-        self.showContributors()
-
         // Events
         self.dispatchEvents()
+        self.renderFilters()
+
+        // Initialized methods
+        self.addPlaceholders()
+        self.showContributors()
+        self.processScroll()
     }
 
     /**
@@ -26,16 +25,25 @@ $(function() {
      */
     Humble.prototype.renderFilters = function() {
         var self = this
+          , randomizeGames = true
         location.search.slice(1).split('&').forEach(function(search) {
             var params = search.split('=')
             if (params[0] === 'input') {
                 self.$input
                 .val(params[1])
                 .trigger('input')
+            } else if (params[0] === 'random') {
+                randomizeGames = params[1] !== 'false'
             } else {
                 self.$filters.filter('[href="#' + params[0] + '"]').click()
             }
         })
+
+        // Shuffle the games
+        console.log(randomizeGames)
+        if (randomizeGames) {
+            games = _.shuffle(games)
+        }
     }
 
     Humble.prototype.addPlaceholders = function() {
@@ -48,7 +56,6 @@ $(function() {
         self.$gamesPlaceholders = $('span',         self.$el)
         self.$gamesElements     = $('span, iframe', self.$el)
     }
-
 
     /**
      * Show the contributors, thanks by the way
@@ -153,7 +160,7 @@ $(function() {
      *
      * @param  {Event}  e  The event
      */
-    Humble.prototype.filter = function(e) {
+    Humble.prototype.filterGames = function(e) {
         var self = this
         e.preventDefault()
 
@@ -190,14 +197,44 @@ $(function() {
         self.processScroll()
     }
 
+    /**
+     * Save the current search
+     *
+     * @param  {Event}  e  The event
+     */
+    Humble.prototype.saveSearch = function(e) {
+        var self = this
+        e.preventDefault()
+
+        var params = []
+          , item
+
+        var input = self.$input.val()
+        if (input) {
+            params.push('input=' + input)
+        }
+
+        self.$filters.map(function(i, el) {
+            if (el.classList.contains('active')) {
+                params.push(el.hash.slice(1) + '=true')
+            }
+        })
+
+        if (params.length) {
+            var url = location.origin + location.pathname + '?' + params.join('&')
+            history.pushState({}, '', url)
+        }
+    }
+
     Humble.prototype.dispatchEvents = function() {
         self = this
 
-        self.$input.on('input',   self.filter.bind(self))
-        self.$filters.on('click', self.filter.bind(self))
+        self.$input.on(  'input',  self.filterGames.bind(self))
+        self.$filters.on('click',  self.filterGames.bind(self))
 
-        $(window).on('scroll', self.processScroll.bind(self))
-        self.processScroll()
+        self.$save.on(   'click',  self.saveSearch.bind(self))
+
+        $(window).on(    'scroll', self.processScroll.bind(self))
     }
 
     // Initialize the Humble object
