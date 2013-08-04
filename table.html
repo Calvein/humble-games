@@ -209,6 +209,14 @@
     <p>All your games are stored on your <a href="https://www.humblebundle.com/home">Humble Bundle account</a>. Feel free to <a href="https://github.com/calvein/humble-games/json.html">edit this list</a>.</p>
     <input autofocus placeholder="e.g: &quot;Trine&quot;">
     <p><a href="index.html">Original view with frames</a></p>
+	<p>Toggle: <a href="#" onclick="$('.tdnum').toggle();return false;">#</a> &nbsp;
+	<a href="#" onclick="$('.tdplatform').toggle();return false;">Platforms</a> &nbsp;
+	<a href="#" onclick="$('.tddrm').toggle();return false;">DRMs</a> &nbsp;
+	<a href="#" onclick="$('.tddate').toggle();return false;">Date Added</a> &nbsp;
+	<a href="#" onclick="$('.tdreview').toggle();return false;">Reviews</a> &nbsp;
+	<a href="#" onclick="$('.tddev').toggle();return false;">Developer</a> &nbsp;
+	<a href="#" onclick="$('.tddesc').toggle();return false;">Description</a> &nbsp;
+	<a href="#" onclick="$('.tdnotes').toggle();return false;">Notes</a></p>
     <table id='gametable'><thead><tr>
         <td id="th_num" class="tdnum">&num;</td>
         <th id="th_game" class="sorttable_alpha">Game</th>
@@ -229,16 +237,7 @@
         <th id="th_desc" class="sorttable_nosort tddesc">Description</th>
         <th id="th_notes" class="sorttable_nosort tdnotes">Notes</th>
     </tr></thead><tbody id="gametablebody"></tbody></table>
-	<p>Toggle: <a href="#" onclick="$('.tdnum').toggle();return false;">#</a>, 
-	<a href="#" onclick="$('.tdplatform').toggle();return false;">Platforms</a>, 
-	<a href="#" onclick="$('.tddrm').toggle();return false;">DRMs</a>, 
-	<a href="#" onclick="$('.tddate').toggle();return false;">Date Added</a>, 
-	<a href="#" onclick="$('.tdreview').toggle();return false;">Reviews</a>, 
-	<a href="#" onclick="$('.tddev').toggle();return false;">Developer</a>, 
-	<a href="#" onclick="$('.tddesc').toggle();return false;">Description</a>, 
-	<a href="#" onclick="$('.tdnotes').toggle();return false;">Notes</a>.</p>
-
-    <!-- <p><a href="http://steamcommunity.com/groups/humble-games">Steam group</a></p> -->
+    <p><a href="http://steamcommunity.com/groups/humble-games">Steam group</a></p>
 </div>
     <script src="scripts/games.js"></script>
     <script>
