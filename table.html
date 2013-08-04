@@ -176,6 +176,10 @@
 	.tdnotes, .tddate {
 		display: none;
 	}
+	
+	.tddrmnosteam {
+		opacity: 0.4;
+	}
     </style>
     <script src="scripts/sorttable.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -348,10 +352,19 @@
 							tddrmsteamlink.href = 'http://store.steampowered.com/search/?ref=os&term='+tr.dataset.game;
 						}
 						var tddrmsteamimg = document.createElement('img');
-							tddrmsteamimg.src="images/steam.png"
+							tddrmsteamimg.src="images/steam.png";
 						tddrmsteamlink.appendChild(tddrmsteamimg);
 					tddrmsteam.appendChild(tddrmsteamlink);
-                }
+                } else if(tr.dataset.steamurl != "undefined" && tr.dataset.steamurl != null) {
+					var tddrmsteamlink = document.createElement('a');
+						tddrmsteamlink.title="So far as we know, this package doesn't provide a steam key. However, it still has a page on steam. Click here to go to "+tr.dataset.game+" on steam";
+						tddrmsteamlink.href = tr.dataset.steamurl;
+						var tddrmsteamimg = document.createElement('img');
+							tddrmsteamimg.src="images/steam.png";
+							tddrmsteamimg.className="tddrmnosteam";
+						tddrmsteamlink.appendChild(tddrmsteamimg);
+					tddrmsteam.appendChild(tddrmsteamlink);
+				}
             tr.appendChild(tddrmsteam);
 
             var tddrmdesura = document.createElement('td');
