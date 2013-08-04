@@ -39,7 +39,7 @@
         vertical-align:middle
     }
 
-    .tdnum, .tdprice, .tdplatform, .tddrm, .tdost, .tdreview {
+    .tdnum, .tdprice, .tdplatform, .tddrm, .tdost, .tdreview, .tddate {
         text-align: center;
     }
 
@@ -173,7 +173,7 @@
 		max-height: 16px;
 	}
 	
-	.tdnotes {
+	.tdnotes, .tddate {
 		display: none;
 	}
     </style>
@@ -223,6 +223,7 @@
         <th id="th_gog" class="th_icon tddrm"><span class="gog"></span></th>
         <th id="th_drmfree" class="th_icon tddrm"><span class="drmfree"></span></th>
         <th id="th_ost" class="th_icon"><span class="ost"></span></th>
+        <th id="th_date" class="tddate">Date Added</th>
         <th id="th_review" class="sorttable_alpha tdreview">Review</th>
         <th id="th_date" class="tdnotes">Notes</th>
         <th id="th_dev" class="sorttable_alpha tddev">Developer</th>
@@ -232,6 +233,7 @@
 	<p>Toggle: <a href="#" onclick="$('.tdnum').toggle();return false;">#</a>, 
 	<a href="#" onclick="$('.tdplatform').toggle();return false;">Platforms</a>, 
 	<a href="#" onclick="$('.tddrm').toggle();return false;">DRMs</a>, 
+	<a href="#" onclick="$('.tddate').toggle();return false;">Date Added</a>, 
 	<a href="#" onclick="$('.tdreview').toggle();return false;">Reviews</a>, 
 	<a href="#" onclick="$('.tddev').toggle();return false;">Developer</a>, 
 	<a href="#" onclick="$('.tddesc').toggle();return false;">Description</a>, 
@@ -271,6 +273,7 @@
             tr.dataset.gog = game.drm.GOG
             tr.dataset.drmfree = game["drm"]["drm-free"]
             tr.dataset.extras = game.extras
+            tr.dataset.timestamp = game.timestamp;
             if(returnIfExist(game.URL) != null) {
                 tr.dataset.reviewurl = returnIfExist(game.URL.review)
                 tr.dataset.devurl = returnIfExist(game.URL.developer)
@@ -400,7 +403,21 @@
                 tdost.appendChild(tdostbg);
             tr.appendChild(tdost);
 
-            var tdreview = document.createElement('td');
+            var tddate = document.createElement('td');
+				tddate.className = 'tddate';
+				if(tr.dataset.timestamp=="undefined") {
+					tddate.setAttribute('sorttable_customkey', "1200000000000");
+					var datestring = "";
+				} else {
+					tddate.setAttribute('sorttable_customkey', tr.dataset.timestamp);
+					var date = new Date(parseInt(tr.dataset.timestamp));
+					var datestring = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][date.getMonth()]+" "
+						+ date.getDate() + ", " + date.getFullYear();
+				}
+				tddate.textContent = datestring;
+			tr.appendChild(tddate);
+			
+			var tdreview = document.createElement('td');
                 tdreview.className = 'tdreview';
 				tdreview.setAttribute('sorttable_customkey', "1");
                 var tdreviewsearchlink = document.createElement('a');

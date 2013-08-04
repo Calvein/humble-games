@@ -1,10 +1,10 @@
 
 <html>
 <head>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <style>
 body, #form-preview {
-  background: url(http://calvein.github.io/humble-games/img/bg.png);
+  background: url(http://calvein.github.io/humble-games/images/bg.png);
   color: rgba(255, 255, 255, .8);
   text-shadow: 0 2px 4px hsla(0, 0%, 0%, 0.4);
   padding: 20px;
@@ -121,7 +121,7 @@ function generate() {
 	var devurl = document.getElementById("devurl").value;
 	var myJSON = generatejson(devurl,extras,review,steamurl,desuraurl,name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
 	var myWiki = generatewiki(name,url,price,description,developer,android,linux,windows,mac,audio,steam,desura,GOG,drmfree,notes);
-	document.getElementById('json').textContent=JSON.stringify(myJSON,null,4) + ",";
+	document.getElementById('json').textContent=JSON.stringify(myJSON,null,4) + ",\r\n";
 	document.getElementById('wiki').innerText=myWiki;
     return false;
 }
@@ -164,7 +164,8 @@ function generatejson(devurl,extras,review,steamurl,desuraurl,name,url,price,des
 	myGame.URL = myURLs;
 	myGame["notes"]=jescape(notes);
 	myGame["extras"]=extras;
-    return myGame;
+	myGame["timestamp"]=new Date().getTime())
+	return myGame;
 }
 function jescape(unescapedstring) {
 	var escapedstring = unescapedstring.replace(/\\n/g, "\\n").replace(/\\'/g, "\\'").replace(/\\"/g, "\\\"").replace(/\\&/g, "\\&").replace(/\\r/g, "\\r").replace(/\\t/g, "\\t").replace(/\\b/g, "\\b").replace(/\\f/g, "\\f");
@@ -249,7 +250,7 @@ function selectText(containerid) {
   </div>
   <div>
     <label data-key="developer">Notes <span class="required"></span></label>
-    <textarea id="notes" type="text" name="notes" onkeyup="generate();" placeholder="here, tell us about any other forms of DRM or distributors available, the publisher's website, the game release date, etc. Also tell us if the game is a preorder. A couple linebreaks are ok for Calvein's, but not for PCGamingWiki. Keep this short."></textarea>
+    <textarea id="notes" type="text" name="notes" onkeyup="generate();" placeholder="here, tell us about any other forms of DRM or distributors available, the publisher's website, the game release date, etc. Also tell us if the game is a preorder. A couple linebreaks are ok for Calvein's, but not for PCGamingWiki. Keep this short. A timestamp is added to the json automatically if you use this form."></textarea>
   </div>
   <h1>Results</h1>
     <div>JSON for the <a href="http://calvein.github.com/humble-games">list</a><br><pre id="json" onclick="selectText('json');">
