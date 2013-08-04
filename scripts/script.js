@@ -9,7 +9,7 @@ $(function() {
         self.url = 'http://www.humblebundle.com/store/product/'
 
         // Shuffle the games
-        if(window.location.hash != "#unrandomized") games = _.shuffle(games)
+        games = _.shuffle(games)
 
         // Initialized methods
         self.renderFilters()
