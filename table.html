@@ -224,6 +224,7 @@
         <th id="th_drmfree" class="th_icon tddrm"><span class="drmfree"></span></th>
         <th id="th_ost" class="th_icon"><span class="ost"></span></th>
         <th id="th_review" class="sorttable_alpha tdreview">Review</th>
+        <th id="th_date" class="tdnotes">Notes</th>
         <th id="th_dev" class="sorttable_alpha tddev">Developer</th>
         <th id="th_desc" class="sorttable_nosort tddesc">Description</th>
         <th id="th_notes" class="sorttable_nosort tdnotes">Notes</th>
@@ -446,7 +447,8 @@
 
             var tdnotes = document.createElement('td');
                 tdnotes.className = 'tdnotes';
-                tdnotes.textContent = tr.dataset.notes;
+                if(returnIfExist(tr.dataset.notes) != null && tr.dataset.notes != "undefined")
+					tdnotes.textContent = tr.dataset.notes;
             tr.appendChild(tdnotes);
 
             document.getElementById('gametablebody').appendChild(tr)
