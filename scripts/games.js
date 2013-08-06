@@ -3227,6 +3227,31 @@ var games = [
         }
     },
     {
+        "name": "Lacuna Passage",
+        "url": "lacunapassage/Mds7Gyt5TDf",
+        "price": "15",
+        "description": "Get Lacuna Passage as soon as it's finished! Cross-platform and DRM-free.",
+        "developer": "Random Seed Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://randomseedgames.com"
+        },
+        "notes": "Webstore: http://randomseedgames.com/pledge"
+        "extras": false
+    },
+    {
         "name": "Legend of Dungeon",
         "url": "legendofdungeon?preview=SIIUb8tPvGNT",
         "price": "10",
