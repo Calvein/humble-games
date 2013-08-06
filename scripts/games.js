@@ -816,6 +816,81 @@ var games = [
         }
     },
     {
+        "name": "Chroma Squad - Backer's Edition",
+        "url": "chromasquad_backersedition/Cdj8Ysh5Gsy",
+        "price": "15",
+        "description": "Pre-Order Chroma Squad with KS Backer's exclusive features! Cross-platform and DRM-free. Also get the Steam Key when it's released!",
+        "developer": "Behold Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.beholdstudios.com.br/"
+        },
+        "notes": "Steam key if/when greenlit.\nWebstore: http://www.chromasquad.com/",
+        "extras": false
+    },
+    {
+        "name": "Chroma Squad - Beta Tester Edition",
+        "url": "chromasquad_beta/Cdj8Ysh5Gsy",
+        "price": "25",
+        "description": "Pre-Order Chroma Squad with KS Backer's exclusive features + BETA Access! Cross-platform and DRM-free. Get the Steam Key when it's released!",
+        "developer": "Behold Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.beholdstudios.com.br/"
+        },
+        "notes": "Steam key if/when greenlit.\nWebstore: http://www.chromasquad.com/",
+        "extras": true
+    },
+    {
+        "name": "Chroma Squad - Collector's Edition",
+        "url": "chromasquad_collectors/Cdj8Ysh5Gsy",
+        "price": "50",
+        "description": "Pre-Order Chroma Squad with KS Collector's exclusive features! Cross-platform and DRM-free. Get the Steam Key when it's released!",
+        "developer": "Behold Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.beholdstudios.com.br/"
+        },
+        "notes": "Steam key if/when greenlit.\nWebstore: http://www.chromasquad.com/",
+        "extras": true
+    },
+    {
         "name": "City Quest",
         "url": "cityquest/Cajh7TDsg4e",
         "price": "8",
