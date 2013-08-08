@@ -3248,7 +3248,7 @@ var games = [
         "URL": {
             "developer": "http://randomseedgames.com"
         },
-        "notes": "Webstore: http://randomseedgames.com/pledge"
+        "notes": "Webstore: http://randomseedgames.com/pledge",
         "extras": false
     },
     {
