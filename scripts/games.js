@@ -25,6 +25,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Aces Wild: Manic Brawling Action",
+        "url": "aceswild?preview=Adh87Yahbe",
+        "price": "9.99",
+        "description": "Get Aces Wild for Windows instantly, DRM-free!",
+        "developer": "Culture Attack Studio",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.tylerdoak.com/"
+        },
+        "notes": "Webstore: http://www.tylerdoak.com/?page_id=68",
+        "extras": false
+    },
+    {
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
         "price": "9.99",
