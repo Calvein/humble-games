@@ -4502,6 +4502,32 @@ var games = [
         "notes": "Dev Store: http://coffeestainstudios.com/store"
     },
     {
+        "name": "Savant",
+        "url": "savant/Sew6Yth8Hsg",
+        "price": "1.99",
+        "description": "Buy now and get Savant for Windows (includes future Android, Mac, and Linux flavors)!",
+        "developer": "D-Pad Studio",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=QRX7Wi6pT7s",
+            "developer": "http://www.dpadstudio.com/"
+        },
+        "notes": "Webstore: http://savantgame.com"/,
+        "extras": false
+    },
+    {
         "name": "7 Grand Steps",
         "url": "7grandsteps?preview=o7KrZd0Usmql",
         "price": "11",
