@@ -1187,6 +1187,29 @@ var games = [
         "notes": "Webstore: http://www.cryptrun.com/buy/ \n Linux version available if $10k are raised in the game's Kickstarter campaign: http://www.kickstarter.com/projects/richtaur/crypt-run-death-is-just-the-beginning",
         "extras": true
     },
+       {
+        "name": "Danmaku Unlimited 2",
+        "url": "danmakuunlimited2/Ddh7Uhs9Sft",
+        "price": "4.99",
+        "description": "Order Danmaku Unlimited 2 now and get it instantly! DRM-free!",
+        "developer": "Doragon Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://doragongames.com/"
+        }
+    },
     {
         "name": "Dead Pixels",
         "url": "deadpixels?preview=0qeKKdGfNfvO",
