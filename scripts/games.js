@@ -4524,7 +4524,7 @@ var games = [
             "review": "http://www.youtube.com/watch?v=QRX7Wi6pT7s",
             "developer": "http://www.dpadstudio.com/"
         },
-        "notes": "Webstore: http://savantgame.com"/,
+        "notes": "Webstore: http://savantgame.com/",
         "extras": false
     },
     {
