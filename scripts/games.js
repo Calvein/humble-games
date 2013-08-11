@@ -4144,6 +4144,56 @@ var games = [
         }
     },
     {
+        "name": "Quest For Infamy",
+        "url": "questforinfamy_preorder/Qdh4Gsue8dj",
+        "price": "15",
+        "description": "Pre-order your copy of Quest For Infamy! Cross Platform (Mac, PC, Linux) and DRM free!",
+        "developer": "Infamous Quests",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.infamous-quests.com/home/index.php"
+        },
+        "notes": "Web store: http://www.infamous-quests.com/home/index.php?page=qfi#games",
+        "extras": false
+    },
+    {
+        "name": "Quest For Infamy Deluxe",
+        "url": "questforinfamy_preorderdeluxe/Qdh4Gsue8dj",
+        "price": "25",
+        "description": "Pre-order your copy of Quest For Infamy! Cross Platform and DRM free! Also get access to the Beta & Soundtrack!",
+        "developer": "Infamous Quests",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.infamous-quests.com/home/index.php"
+        },
+        "notes": "Web store: http://www.infamous-quests.com/home/index.php?page=qfi#games",
+        "extras": true
+    },
+    {
         "name": "Receiver",
         "url": "receiver",
         "price": "4.99",
