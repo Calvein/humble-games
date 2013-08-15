@@ -1187,7 +1187,32 @@ var games = [
         "notes": "Webstore: http://www.cryptrun.com/buy/ \n Linux version available if $10k are raised in the game's Kickstarter campaign: http://www.kickstarter.com/projects/richtaur/crypt-run-death-is-just-the-beginning",
         "extras": true
     },
-       {
+    {
+        "name": "Cryptic Sea EP",
+        "url": "crypticseaep/Cry0Pe8Usgh",
+        "price": "3",
+        "description": "Cryptic Sea EP is an album of games, featuring Skate or Don't!, Volta and Touring Car Legend Demo. Cross-platform and DRM-free!",
+        "developer": "Cryptic Sea",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.crypticsea.com/"
+        },
+        "notes": "Webstore: http://www.crypticsea.com/EP/",
+        "extras": false
+    },
+    {
         "name": "Danmaku Unlimited 2",
         "url": "danmakuunlimited2/Ddh7Uhs9Sft",
         "price": "4.99",
