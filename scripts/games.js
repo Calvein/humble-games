@@ -1678,6 +1678,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "Doorways: Chapter 1 & 2",
+        "url": "doorways/Ddh8Hsy7SD",
+        "price": "9.99",
+        "description": "Pre-order the first two chapters of the Argentinian Survival Horror \"Doorways\". And start playing the First Chapter Beta RIGHT NOW!",
+        "developer": "Saibot Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "",
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=109177197",
+            "desura": "http://www.desura.com/games/doorways",
+            "developer": "http://www.saibotstudios.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Doorways: Chapter 1 - 4",
+        "url": "doorways_allch/Ddh8Hsy7SD",
+        "price": "15.99",
+        "description": "Pre-order the four chapters of the Argentinian Survival Horror \"Doorways\". And start playing the First Chapter Beta RIGHT NOW!",
+        "developer": "Saibot Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "",
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=109177197",
+            "desura": "http://www.desura.com/games/doorways",
+            "developer": "http://www.saibotstudios.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Drifter (Pre-Order)",
         "url": "drifter",
         "price": "10",
