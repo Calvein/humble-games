@@ -2622,6 +2622,32 @@ var games = [
         "notes": "",
         "extras": false
     },
+        {
+        "name": "Gone Home",
+        "url": "gonehome?preview=OHFHXxPWMLTy",
+        "price": "19.99",
+        "description": "Get Gone Home for Windows, Mac and Linux, all DRM-free. Includes a Steam key!",
+        "developer": "The Fullbright Company",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "",
+            "developer": "http://thefullbrightcompany.com/"
+        },
+        "notes": "",
+        "extras": false
+    },
     {
         "name": "Goscurry",
         "url": "goscurry?preview=Dne9FfjeSbng",
