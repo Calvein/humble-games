@@ -2642,7 +2642,6 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
             "developer": "http://thefullbrightcompany.com/"
         },
         "notes": "",
