@@ -4870,6 +4870,33 @@ var games = [
         },
         "notes": "Original Website: http://skullsoftheshogun.com/buy-it-now/\nAvailable on Windows, Windows Phone, & XBOX 360"
     },
+	{
+		"name": "Sky Nations",
+		"url": "skynations/Sdh7Tshs64Fs",
+		"price": "5",
+		"description": "Pre-order now to get Sky Nations Alpha! Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore.",
+		"developer": "MrBenjammin Games",
+		"platform": {
+			"android": false,
+			"linux": false,
+			"windows": true,
+			"mac": false,
+			"audio": false
+		},
+		"drm": {
+			"steam": false,
+			"desura": true,
+			"gog": false,
+			"drm-free": false
+		},
+		"URL": {
+			"review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
+			"desura": "http://www.desura.com/games/sky-nations",
+			"developer": "http://skynations.net/presskit/index.php"
+		},
+		"notes": "It is unknown if this game receives a desura key, or if it is simply also being sold there. Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+		"extras": false
+	},
     {
         "name": "Snapshot",
         "url": "snapshotthegame?preview=pending",
