@@ -3338,11 +3338,18 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/legend-dungeon/review",
+            "steam": "http://store.steampowered.com/app/238280",
+            "developer": "http://www.robotloveskitty.com/LoD/"
+        },
+        "notes": "was on kickstarter. steam keys coming soon.",
+        "extras": false
     },
     {
         "name": "Legend of Dungeon + Soundtrack",
@@ -3358,11 +3365,18 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/legend-dungeon/review",
+            "steam": "http://store.steampowered.com/app/238280",
+            "developer": "http://www.robotloveskitty.com/LoD/"
+        },
+        "notes": "was on kickstarter. steam keys coming soon.",
+        "extras": false
     },
     {
         "name": "Legend of Grimrock",
