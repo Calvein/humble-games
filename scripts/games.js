@@ -50,6 +50,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Amnesia: A Machine for Pigs",
+        "url": "amnesiaamachineforpigs?preview=Skj382hsnblz",
+        "price": "20",
+        "description": "Pre-order Amnesia: A Machine For Pigs and get it for Windows, Mac, and Linux when it's released. Comes with DRM-free versions and a Steam key.",
+        "developer": "Frictional Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/239200/",
+            "developer": "http://www.frictionalgames.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
         "price": "9.99",
