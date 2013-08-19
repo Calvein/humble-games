@@ -2,8 +2,8 @@ var games = [
     {
         "name": "A.N.N.E.",
         "url": "anne?preview=lmX7v6blw6VX",
-        "price": "10",
-        "description": "Pre-order A.N.N.E. now, cross platform and DRM-free! Explore a vast Metroidvania open world and retrieve pieces of your girlfriend to put her back together.",
+        "price": "15",
+        "description": "Pre-order A.N.N.E. at a discount, cross-platform and DRM-free!",
         "developer": "Gamesbymo",
         "platform": {
             "android": false,
@@ -23,6 +23,31 @@ var games = [
             "developer": "http://www.gamesbymo.com"
         },
         "extras": false
+    },
+    {
+        "name": "A.N.N.E. Deluxe Edition",
+        "url": "annedeluxe?preview=lmX7v6blw6VX",
+        "price": "50",
+        "description": "Pre-order A.N.N.E. now, cross platform and DRM-free! Includes Beta access, soundtrack, wallpaper and PDF manual.",
+        "developer": "Gamesbymo",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://nerdluster.com/indie/17-kickstarter-knuggets/294-20130430-anne",
+            "developer": "http://www.gamesbymo.com"
+        },
+        "extras": true
     },
     {
         "name": "Aces Wild: Manic Brawling Action",
