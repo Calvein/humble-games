@@ -27,7 +27,7 @@ var games = [
     {
         "name": "A.N.N.E. Deluxe Edition",
         "url": "annedeluxe?preview=lmX7v6blw6VX",
-        "price": "50",
+        "price": "35",
         "description": "Pre-order A.N.N.E. now, cross platform and DRM-free! Includes Beta access, soundtrack, wallpaper and PDF manual.",
         "developer": "Gamesbymo",
         "platform": {
