@@ -2269,6 +2269,110 @@ var games = [
         "extras": false
     },
     {
+        "name": "Energy Hook Alpha",
+        "url": "energyhook_alpha/Edu8Ywh6Tsf",
+        "price": "35",
+        "description": "Get early access to the Alpha build of Energy Hook immediately, all future updates, the soundtrack, and the Alpha medal in-game (when that's implemented)!",
+        "developer": "Happion Laboratories",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=145451414",
+            "developer": "http://www.happionlabs.com/"
+        },
+        "notes": "Webstore: http://www.happionlabs.com/energy-hook/",
+        "extras": true
+    },
+    {
+        "name": "Energy Hook Omega",
+        "url": "energyhook_omega/Edu8Ywh6Tsf",
+        "price": "50",
+        "description": "Get Energy Hook Alpha plus special shiny in-game gear and the Omega medal in-game (when they're implemented)!",
+        "developer": "Happion Laboratories",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=145451414",
+            "developer": "http://www.happionlabs.com/"
+        },
+        "notes": "Webstore: http://www.happionlabs.com/energy-hook/",
+        "extras": true
+    },
+    {
+        "name": "Energy Hook Billboard",
+        "url": "energyhook_billboard/Edu8Ywh6Tsf",
+        "price": "120",
+        "description": "Get Energy Hook Omega plus show an image and/or message on a billboard in the game world (when that's implemented)",
+        "developer": "Happion Laboratories",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=145451414",
+            "developer": "http://www.happionlabs.com/"
+        },
+        "notes": "Webstore: http://www.happionlabs.com/energy-hook/",
+        "extras": true
+    },
+    {
+        "name": "Energy Hook President",
+        "url": "energyhook_president/Edu8Ywh6Tsf",
+        "price": "500",
+        "description": "Get Energy Hook Billboard plus be a president of the future: have your portrait hung in the Hall of Presidents in New Atlantis!",
+        "developer": "Happion Laboratories",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=145451414",
+            "developer": "http://www.happionlabs.com/"
+        },
+        "notes": "Webstore: http://www.happionlabs.com/energy-hook/",
+        "extras": true
+    },
+    {
         "name": "English Country Tune",
         "url": "englishcountrytune",
         "price": "4.99",
