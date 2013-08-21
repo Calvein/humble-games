@@ -5230,6 +5230,31 @@ var games = [
         }
     },
     {
+        "name": "Sokobond",
+        "url": "sokobond/Sdu76tsh8Gd",
+        "price": "10",
+        "description": "Preorder Sokobond now! When it's released get the game DRM-free for Win/Mac/Linux.",
+        "developer": "Alan Hazelden, Harry Lee, Ryan",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.sokobond.com/presskit/"
+        },
+        "notes": "Webstore: http://www.sokobond.com/",
+        "extras": false
+    },
+    {
         "name": "Solar 2",
         "url": "solar?preview=GlTZR9Z5E2n4",
         "price": "10",
