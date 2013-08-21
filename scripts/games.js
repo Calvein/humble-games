@@ -4466,6 +4466,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Race the Sun",
+        "url": "racethesun/Rahd5tGH9jd",
+        "price": "10",
+        "description": "Get Race The Sun instantly, cross-platform and DRM-free.",
+        "developer": "Flippfly",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://flippfly.com/"
+        },
+        "notes": "Web store: http://flippfly.com/racethesun/",
+        "extras": false
+    },
+    {
         "name": "Receiver",
         "url": "receiver",
         "price": "4.99",
