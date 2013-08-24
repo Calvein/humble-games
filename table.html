@@ -179,13 +179,15 @@
     </style>
     <script src="scripts/sorttable.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.3.1/lodash.min.js"></script>
     <script>
         // Show the contributors, thanks by the way
         $.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
-        .done(function(response) {
+        .done(function(contributors) {
             $('footer')
                 .find('b').html(function() {
-                    return response.map(function(contributor) {
+                    return _(contributors)
+                    .map(function(contributor) {
                         if (contributor.login !== 'Calvein')
                             return $('<a>')
                                 .attr('href', contributor.html_url)
@@ -193,7 +195,10 @@
                                 .appendTo('<div>')
                                 .parent()
                                 .html()
-                        }).join(', ').replace(", , ",", ")
+                    })
+                    .compact()
+                    .value()
+                    .join(', ')
                 }).end()
             .toggleClass('hidden shown')
         })
