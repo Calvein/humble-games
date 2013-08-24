@@ -185,7 +185,7 @@
         $.ajax('https://api.github.com/repos/calvein/humble-games/contributors')
         .done(function(contributors) {
             $('footer')
-                .find('b').html(function() {
+                .find('strong').html(function() {
                     return _(contributors)
                     .map(function(contributor) {
                         if (contributor.login !== 'Calvein')
