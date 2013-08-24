@@ -200,7 +200,10 @@
                     .value()
                     .join(', ')
                 }).end()
-            .toggleClass('hidden shown')
+            .toggleClass('hidden shown');
+			var contributors = function() { return $('footer').find('b').find('a');};
+			var height = function(){var div = $('<footer>').appendTo('body');div.html('hi');var height = div.height();div.remove();return height+5;}
+			for(i=0; i<contributors().length;i++) if($('footer').height() > height()) { contributors()[contributors().length-1].previousSibling.remove(); contributors()[contributors().length-1].remove();}
         })
     </script>
 </head>
