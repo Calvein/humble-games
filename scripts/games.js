@@ -4086,6 +4086,33 @@ var games = [
         "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
+        "name": "Natural Selection 2",
+        "url": "store/naturalselection2",
+        "price": "24.99",
+        "description": "· Immediate access on Steam\n· Free lifetime updates\n· Our eternal gratitude",
+        "developer": "Unknown Worlds Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/11/06/natural-selection-2-review",
+            "Steam": "http://store.steampowered.com/app/4920",
+            "developer": "http://www.unknownworlds.com/"
+        },
+        "notes": "Webstore: http://www.naturalselection2.com/",
+        "extras": false
+    },
+    {
         "name": "Noitu Love 2 Devolution",
         "url": "noitulovedevolution",
         "price": "5",
