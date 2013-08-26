@@ -4087,7 +4087,7 @@ var games = [
     },
     {
         "name": "Natural Selection 2",
-        "url": "store/naturalselection2",
+        "url": "naturalselection2",
         "price": "24.99",
         "description": "· Immediate access on Steam\n· Free lifetime updates\n· Our eternal gratitude",
         "developer": "Unknown Worlds Entertainment",
