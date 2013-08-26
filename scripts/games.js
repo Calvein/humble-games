@@ -2936,6 +2936,46 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gravity Ghost",
+        "url": "gravityghost/Gdy6sth8Ftg",
+        "price": "14.99",
+        "description": "Preorder Gravity Ghost today! Cross-platform and DRM-free",
+        "developer": "Ivy Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+    },
+    {
+        "name": "Gravity Ghost Soundtrack",
+        "url": "gravityghost_soundtrack/Gdy6sth8Ftg",
+        "price": "4.99",
+        "description": "Preorder the Gravity Ghost soundtrack today",
+        "developer": "Ivy Games LLC",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+    },
+    {
         "name": "Grim Dawn Digital Release",
         "url": "grimdawn-1?preview=J2soPnxhdSxG",
         "price": "20",
