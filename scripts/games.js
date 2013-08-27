@@ -3549,7 +3549,7 @@ var games = [
             "review": "http://www.gamezebo.com/games/jones-fire/review",
             "developer": "http://www.glassbottomgames.com/"
         },
-        "notes": "Webstore: http://www.glassbottomgames.com/projects/jones-on-fire/"
+        "notes": "Webstore: http://www.glassbottomgames.com/projects/jones-on-fire/",
         "extras": false
     },
     {
