@@ -3527,6 +3527,32 @@ var games = [
         }
     },
     {
+        "name": "Jones On Fire",
+        "url": "jonesonfire?preview=yVb9lpn5eSL2",
+        "price": "2.99",
+        "description": "Jones on Fire - a high-speed action game of kitty saving and flame evading, running and jumping, where YOU are the hero! (for Mac and PC)",
+        "developer": "Glass Bottom Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/jones-fire/review",
+            "developer": "http://www.glassbottomgames.com/"
+        },
+        "notes": "Webstore: http://www.glassbottomgames.com/projects/jones-on-fire/"
+        "extras": false
+    },
+    {
         "name": "Jottobots",
         "url": "jottobots?preview=mniSTsrmSBKE",
         "price": "1",
@@ -5096,9 +5122,6 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
-            "steam": "",
-            "desura": "",
             "developer": "http://flyingwildhog.com/"
         },
         "notes": "Pre-order, no Steam URL available yet.",
