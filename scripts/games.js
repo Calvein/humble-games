@@ -5077,6 +5077,34 @@ var games = [
         }
     },
     {
+        "name": "Shadow Warrior",
+        "url": "shadowwarrior",
+        "price": "39.99",
+        "description": "Who wants some Wang? Pre-order Shadow Warrior for PC and receive a DRM-free download of the game and a Steam key!",
+        "developer": "Flying Wild Hog",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "",
+            "steam": "",
+            "desura": "",
+            "developer": "http://flyingwildhog.com/"
+        },
+        "notes": "Pre-order, no Steam URL available yet.",
+        "extras": false
+    },
+    {
         "name": "Shadowgrounds",
         "url": "shadowgrounds",
         "price": "9.99",
