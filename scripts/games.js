@@ -3385,6 +3385,81 @@ var games = [
         }
     },
     {
+        "name": "Ironclad Tactics",
+        "url": "ironclad/Ieyh7Fsdw45",
+        "price": "14.99",
+        "description": "Pre-order Ironclad Tactics, set to be released to Steam on September 18th, 2013!",
+        "developer": "Zachtronics",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.zachtronics.com/"
+        },
+        "notes": "Currently on sale at 10% off until release on 18 September.\nWebstore: http://ironcladtactics.com/the-extra-extra-bundle/",
+        "extras": false
+    },
+    {
+        "name": "The Extra! Extra! Bundle (US)",
+        "url": "ironclad_extra_us/Ieyh7Fsdw45",
+        "price": "56.99",
+        "description": "Receive SpaceChem + DLC now, Ironclad Tactics when it's released, and the remaining extras after. Includes shipping within the US.",
+        "developer": "Zachtronics",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.zachtronics.com/"
+        },
+        "notes": "Currently on sale at 10% off until release on 18 September.\nWebstore: http://ironcladtactics.com/the-extra-extra-bundle/",
+        "extras": true
+    },
+    {
+        "name": "The Extra! Extra! Bundle (INT)",
+        "url": "ironclad_extra_int/Ieyh7Fsdw45",
+        "price": "65.99",
+        "description": "Receive SpaceChem + DLC now, Ironclad Tactics when it's released, and the remaining extras after. Includes shipping anywhere.",
+        "developer": "Zachtronics",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.zachtronics.com/"
+        },
+        "notes": "Currently on sale at 10% off until release on 18 September.\nWebstore: http://ironcladtactics.com/the-extra-extra-bundle/",
+        "extras": true
+    },
+    {
         "name": "Ittle Dew",
         "url": "ittledew/Ldu7Tdg8Hwy",
         "price": "13.99",
