@@ -3410,6 +3410,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Digital Only Bundle",
+        "url": "ironclad_digitalonly/Ieyh7Fsdw45",
+        "price": "39.99",
+        "description": "Receive SpaceChem + DLC now, Ironclad Tactics when it's released, and the remaining digital extras after. No physical extras included.",
+        "developer": "Zachtronics",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.zachtronics.com/"
+        },
+        "notes": "Currently on sale at 10% off until release on 18 September.\nWebstore: http://ironcladtactics.com/the-extra-extra-bundle/",
+        "extras": true
+    },
+    {
         "name": "The Extra! Extra! Bundle (US)",
         "url": "ironclad_extra_us/Ieyh7Fsdw45",
         "price": "56.99",
