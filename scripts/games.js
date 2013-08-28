@@ -4340,6 +4340,32 @@ var games = [
         }
     },
     {
+        "name": "Oniken",
+        "url": "oniken?preview=Odg6Tdf4RDsa",
+        "price": "5",
+        "description": "Get Oniken instantly! Cross-platform and DRM-free.",
+        "developer": "JoyMasher",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-oniken-230786.phtml",
+            "developer": "http://www.oniken.net/"
+        },
+        "notes": "Although the description says it's a crossplatform game, only the Windows icon is shown.\nWebstore: http://joymasher.com/oniken/",
+        "extras": false
+    },
+    {
         "name": "Organ Trail: Director's Cut",
         "url": "organtraildirectorscut?preview=d5Es5HhOLzgI",
         "price": "4.99",
