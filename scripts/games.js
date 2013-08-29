@@ -4452,6 +4452,32 @@ var games = [
         }
     },
     {
+        "name": "Pandora: Purge of Pride",
+        "url": "pandorapurgeofpride?preview=rsBHii6ZeZJa",
+        "price": "10",
+        "description": "Get Pandora: Purge of Pride instantly! PC, Mac and the soundtrack, all DRM-free!",
+        "developer": "High Class Kitsch",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/pandora-purge-of-pride",
+            "developer": "http://www.highclasskitsch.com/index.html"
+        },
+        "notes": "Webstore: http://www.highclasskitsch.com/games.html#Pandora",
+        "extras": false
+    },
+    {
         "name": "Papers, Please",
         "url": "papersplease/Psh7Hsjt5Fsuy",
         "price": "9.99",
