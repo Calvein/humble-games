@@ -332,8 +332,7 @@ var games = [
         },
         "URL": {
             "developer": "http://www.witchbeamgames.com/"
-        },
-        "extras": false
+        }
     },
     {
         "name": "Assault Android Cactus Deluxe",
@@ -356,9 +355,7 @@ var games = [
         },
         "URL": {
             "developer": "http://www.witchbeamgames.com/"
-        },
-        "notes": "Not sure about DRM since I couldn't find the webpage that contains the HS widget. Just copied PCGamingWiki's entry.\nThis makes no sense, the store page is listed right there... --Efreak",
-        "extras": false
+        }
     },
     {
         "name": "Atom Zombie Smasher",
