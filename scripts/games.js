@@ -4448,7 +4448,7 @@ var games = [
     {
         "name": "Perfection.",
         "url": "perfection?preview=oWCaEqcZ7L0Z",
-        "price": "0.99",
+        "price": "2.99",
         "description": "Get Perfection. direct from the developer for PC, Mac and Ubuntu, DRM-free and on Desura.",
         "developer": "Dumb and Fat Games",
         "platform": {
@@ -4468,9 +4468,9 @@ var games = [
     },
     {
         "name": "Pid",
-        "url": "pidwithsoundtrack?preview=P3J6nJZnzNg9",
-        "price": "20",
-        "description": "Purchase Pid for Windows and Mac and get it both DRM-free and on Steam! Also comes with a soundtrack and extras!",
+        "url": "pid?preview=P0W6nZJkdNg8",
+        "price": "10",
+        "description": "Purchase Pid and instantly get it for Windows and Mac, DRM-free and on Steam!",
         "developer": "Might and Delight",
         "platform": {
             "android": false,
@@ -4485,6 +4485,67 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+        "URL": {
+            "review": "http://www.destructoid.com/review-pid-238841.phtml",
+            "steam": "http://store.steampowered.com/app/218740/",
+            "desura": "http://www.desura.com/games/pid",
+            "developer": "http://mightanddelight.com/"
+        },
+        "notes": "Webstore: http://www.pidgame.com/index.php?page=buy",
+        "extras": false
+    },
+    {
+        "name": "Pid (with extras)",
+        "url": "pidwithsoundtrack?preview=P3J6nJZnzNg9",
+        "price": "20",
+        "description": "Purchase Pid for Windows and Mac and get it both DRM-free and on Steam! Also comes with a soundtrack and extras!",
+        "developer": "Might and Delight",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+        "URL": {
+            "review": "http://www.destructoid.com/review-pid-238841.phtml",
+            "steam": "http://store.steampowered.com/app/218740/",
+            "desura": "http://www.desura.com/games/pid",
+            "developer": "http://mightanddelight.com/"
+        },
+        "notes": "Webstore: http://www.pidgame.com/index.php?page=buy",
+        "extras": true
+    },
+    {
+        "name": "Pid + Shelter",
+        "url": "pidandshelter/Ssh8Tdu9Ysh",
+        "price": "15",
+        "description": "Buy now and get Shelter + Pid, cross-platform, DRM free and on Steam!",
+        "developer": "Might and Delight",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://mightanddelight.com/"
+        },
+        "notes": "Webstore: http://www.shelterthegame.com/index.php?page=buy",
+        "extras": false
     },
     {
         "name": "Pineapple Smash Crew",
@@ -5239,6 +5300,33 @@ var games = [
         }
     },
     {
+        "name": "Shelter",
+        "url": "shelter/Ssh8Tdu9Ysh",
+        "price": "9.99",
+        "description": "Buy Shelter now and get it instantly for Windows and Mac! DRM-free and on Steam!",
+        "developer": "Might and Delight",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.joystiq.com/2013/08/28/shelter-review/",
+            "steam": "http://store.steampowered.com/app/244710/",
+            "developer": "http://mightanddelight.com/"
+        },
+        "notes": "Webstore: http://www.shelterthegame.com/index.php?page=buy",
+        "extras": false
+    },
+    {
         "name": "Shovel Knight",
         "url": "shovelknight?preview=AsWK4zsikgrE",
         "price": "15",
@@ -5365,7 +5453,7 @@ var games = [
             "drm-free": false
         }
     },
-        {
+    {
         "name": "Skulls of the Shogun",
         "url": "skullsoftheshogun?preview=H8fsaTdef7djn",
         "price": "11.99",
@@ -5386,33 +5474,33 @@ var games = [
         },
         "notes": "Original Website: http://skullsoftheshogun.com/buy-it-now/\nAvailable on Windows, Windows Phone, & XBOX 360"
     },
-	{
-		"name": "Sky Nations",
-		"url": "skynations/Sdh7Tshs64Fs",
-		"price": "5",
-		"description": "Pre-order now to get Sky Nations Alpha! Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore.",
-		"developer": "MrBenjammin Games",
-		"platform": {
-			"android": false,
-			"linux": false,
-			"windows": true,
-			"mac": false,
-			"audio": false
-		},
-		"drm": {
-			"steam": false,
-			"desura": true,
-			"gog": false,
-			"drm-free": false
-		},
-		"URL": {
-			"review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
-			"desura": "http://www.desura.com/games/sky-nations",
-			"developer": "http://skynations.net/presskit/index.php"
-		},
-		"notes": "It is unknown if this game receives a desura key, or if it is simply also being sold there. Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
-		"extras": false
+    {
+	"name": "Sky Nations",
+	"url": "skynations/Sdh7Tshs64Fs",
+	"price": "5",
+	"description": "Pre-order now to get Sky Nations Alpha! Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore.",
+	"developer": "MrBenjammin Games",
+	"platform": {
+		"android": false,
+		"linux": false,
+		"windows": true,
+		"mac": false,
+		"audio": false
 	},
+	"drm": {
+		"steam": false,
+		"desura": true,
+		"gog": false,
+		"drm-free": false
+	},
+	"URL": {
+		"review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
+		"desura": "http://www.desura.com/games/sky-nations",
+		"developer": "http://skynations.net/presskit/index.php"
+	},
+	"notes": "It is unknown if this game receives a desura key, or if it is simply also being sold there. Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+	"extras": false
+    },
     {
         "name": "Snapshot",
         "url": "snapshotthegame?preview=pending",
@@ -6093,7 +6181,7 @@ var games = [
     {
         "name": "Tower of Guns",
         "url": "towerofguns?preview=V3lAICo87Ku2",
-        "price": "5",
+        "price": "7.5",
         "description": "Pre-order and gain access to the 'Wear A Hard Hat' development version (and future versions, of course)!",
         "developer": "Terrible Posture Games",
         "platform": {
