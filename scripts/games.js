@@ -312,6 +312,55 @@ var games = [
         "extras": false
     },
     {
+        "name": "Assault Android Cactus",
+        "url": "assaultandroidcactus/Adu7Tsg4Rfs",
+        "price": "15",
+        "description": "Pre-order Assault Android Cactus! Cross-platform and DRM-free alpha available, full release November 2013.",
+        "developer": "Witch Beam Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.witchbeamgames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Assault Android Cactus Deluxe",
+        "url": "assaultandroidcactus_deluxe/Adu7Tsg4Rfs",
+        "price": "25",
+        "description": "Pre-order Assault Android Cactus +OST +Digital Art Book! Cross-platform and DRM-free Alpha available. Full release November 2013.",
+        "developer": "Witch Beam Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.witchbeamgames.com/"
+        },
+        "notes": "Not sure about DRM since I couldn't find the webpage that contains the HS widget. Just copied PCGamingWiki's entry.\nThis makes no sense, the store page is listed right there... --Efreak",
+        "extras": false
+    },
+    {
         "name": "Atom Zombie Smasher",
         "url": "atomzombiesmasher",
         "price": "15",
