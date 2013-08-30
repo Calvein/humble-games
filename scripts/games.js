@@ -4498,6 +4498,32 @@ var games = [
         }
     },
     {
+        "name": "Paradise Perfect Boat Rescue",
+        "url": "paradiseperfectboatrescue?preview=F38ahs5Fgfh",
+        "price": "3.95",
+        "description": "Get Paradise Perfect Boat Rescue instantly! Cross-platform and DRM-free.",
+        "developer": "Kitty Lambda Games Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://pixelsordeath.com/the-short/not-capsized-a-paradise-perfect-boat-rescue-review",
+            "developer": "http://kittylambda.com/"
+        },
+        "notes": "Linux version should be coming soon: https://indiegamestand.com/?saleId=87\nWebstore: http://paradiseperfectboatrescue.com/#buynow",
+        "extras": false
+    },
+    {
         "name": "Paranautical Activity",
         "url": "paranauticalactivity?preview=Ush6Rdu9Dsa",
         "price": "5.99",
@@ -6128,6 +6154,33 @@ var games = [
             "drm-free": true
         },
         "notes": "Game website: http://skygoblin.com/the-journey-down/ although there's no link to the Humble Store widget there"
+    },
+    {
+        "name": "The Real Texas",
+        "url": "therealtexas?preview=H8ahfyT6st",
+        "price": "14.95",
+        "description": "Get The Real Texas instantly! Cross-platform and DRM-free.",
+        "developer": "Kitty Lambda Games Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-the-real-texas-230375.phtml",
+            "desura": "http://www.desura.com/games/the-real-texas",
+            "developer": "http://kittylambda.com/"
+        },
+        "notes": "Webstore: http://therealtexasgame.com/#buynow",
+        "extras": false
     },
     {
         "name": "The Ship: Murder Party",
