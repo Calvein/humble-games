@@ -4582,7 +4582,7 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
         "URL": {
             "review": "http://www.destructoid.com/review-pid-238841.phtml",
             "steam": "http://store.steampowered.com/app/218740/",
@@ -4610,7 +4610,7 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
         "URL": {
             "review": "http://www.destructoid.com/review-pid-238841.phtml",
             "steam": "http://store.steampowered.com/app/218740/",
