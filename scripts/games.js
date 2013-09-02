@@ -1667,6 +1667,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Distance Beta",
+        "url": "distance/Dek8Hsu4Ts",
+        "price": "15",
+        "description": "When it's ready get the beta DRM-free cross-platform + Steam key, and instant access to the private forum.",
+        "developer": "Refract Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=103111305",
+            "developer": "http://www.refractstudios.com/press/index.php"
+        },
+        "notes": "Pre-order.\nWebstore: http://survivethedistance.com/",
+        "extras": true
+    },
+    {
+        "name": "Distance Beta Deluxe",
+        "url": "distance_deluxe/Dek8Hsu4Ts",
+        "price": "25",
+        "description": " When it's ready get the beta DRM-free cross-platform + Steam key, instant access to the private forum, digital artbook, and the soundtrack!",
+        "developer": "Refract Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=103111305",
+            "developer": "http://www.refractstudios.com/press/index.php"
+        },
+        "notes": "Pre-order.\nWebstore: http://survivethedistance.com/",
+        "extras": true
+    },
+    {
         "name": "DLC Quest",
         "url": "dlcquest?preview=huaqUZQM85oy",
         "price": "2.99",
