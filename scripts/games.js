@@ -3757,6 +3757,33 @@ var games = [
         }
     },
     {
+        "name": "KRUNCH",
+        "url": "krunch/Keus87Sgue",
+        "price": "9.99",
+        "description": "Get KRUNCH instantly! Cross-platform and DRM-free.",
+        "developer": "LeGrudge & Rugged",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-krunch-242608.phtml",
+            "desura": "http://www.desura.com/games/krunch",
+            "developer": "http://legrudgerugged.com/"
+        },
+        "notes": "You can also get the game with its soundtrack for $13.99 on the same widget.\nWebstore: http://krunchgame.com/",
+        "extras": false
+    },
+    {
         "name": "Ku: Shroud of the Morrigan",
         "url": "ku_shroudofthemorrigan?preview=11LHOtGXLhXg",
         "price": "4.00",
