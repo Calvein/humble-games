@@ -4404,6 +4404,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Neocolonialism",
+        "url": "neocolonialism/Ndy7Rdg6Drdf",
+        "price": "10",
+        "description": "Buy votes, make free trade agreements, manipulate the IMF, extract wealth, ruin everything. The map is upside-down. Pre-order now.",
+        "developer": "Subaltern Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://subalterngames.com/"
+        },
+        "notes": "The game will be released on 4 November.",
+        "extras": false
+    },
+    {
         "name": "Noitu Love 2 Devolution",
         "url": "noitulovedevolution",
         "price": "5",
