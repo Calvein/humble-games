@@ -4211,6 +4211,32 @@ var games = [
         }
     },
     {
+        "name": "MirrorMoon EP",
+        "url": "mirrormoonep_beta/Mdh6Tfsr3Rtd",
+        "price": "9.99",
+        "description": "Buy MirrorMoon EP and get it cross-platform and DRM-free! Also includes a Steam key.",
+        "developer": "Santa Ragione",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/231310/",
+            "developer": "http://www.santaragione.com/"
+        },
+        "notes": "Currently on sale at 10% off.\nWebstore: http://www.mirrormoongame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "Monaco",
         "url": "monaco?preview=pending",
         "price": "15",
