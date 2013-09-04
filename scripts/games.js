@@ -6165,6 +6165,32 @@ var games = [
         "notes": "Sale ends around ??? unknown, regular price is $10"
     },
     {
+        "name": "Super Ubi Land",
+        "url": "superubieland/Sdu7Hdg8Tfd",
+        "price": "15",
+        "description": "Buy Super Ubie Land now and get it INSTANTLY! Cross-platform and DRM-free.",
+        "developer": "Notion Games LLC",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/super-ubi-land",
+            "developer": "http://notiongames.com"
+        },
+        "notes": "Webstore: http://notiongames.com/?page_id=1800",
+        "extras": false
+    },
+    {
         "name": "Superbrothers: Sword and Sworcery EP",
         "url": "swordandsworcery",
         "price": "7.99",
