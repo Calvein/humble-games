@@ -6165,7 +6165,7 @@ var games = [
         "notes": "Sale ends around ??? unknown, regular price is $10"
     },
     {
-        "name": "Super Ubi Land",
+        "name": "Super Ubie Land",
         "url": "superubieland/Sdu7Hdg8Tfd",
         "price": "15",
         "description": "Buy Super Ubie Land now and get it INSTANTLY! Cross-platform and DRM-free.",
