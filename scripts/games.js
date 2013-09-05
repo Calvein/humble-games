@@ -6320,6 +6320,32 @@ var games = [
         }
     },
     {
+        "name": "The Inner World",
+        "url": "theinnerworld?preview=g5siGE0pP7sW",
+        "price": "31.99",
+        "description": "Buy now and get The Inner World digital download, an early prototype, soundtrack as mp3 + PDF Art book 'Encyclopaedia Asposia'!",
+        "developer": "Studio Fizbin",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://ilovegamereviews.blogspot.com.es/2013/07/the-inner-world-review-best-daedalic.html",
+            "developer": "http://www.studio-fizbin.de/"
+        },
+        "notes": "Only German version available as of yet.\nWebstore: http://www.theinnerworld.de/buy.html",
+        "extras": true
+    },
+    {
         "name": "The Journey Down: Chapter One ",
         "url": "thejourneydownchapterone?preview=SaRQrl5NyWyo",
         "price": "6.99",
