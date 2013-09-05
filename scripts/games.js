@@ -312,6 +312,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Aquaria",
+        "url": "aquaria/Adu7Fstg8Rwe",
+        "price": "9.99",
+        "description": "Get Aquaria instantly! Cross-platform and DRM free.",
+        "developer": "Bit Blot",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2008/01/10/aquaria-au-review",
+            "steam": "http://store.steampowered.com/app/24420/",
+            "developer": "http://www.bit-blot.com/"
+        },
+        "notes": "Webstore: http://bit-blot.com/aquaria/buy.html",
+        "extras": false
+    },
+    {
         "name": "Assault Android Cactus",
         "url": "assaultandroidcactus/Adu7Tsg4Rfs",
         "price": "15",
