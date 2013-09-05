@@ -372,7 +372,7 @@ var games = [
             "windows": true,
             "linux": true,
             "mac": true,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": false,
@@ -381,8 +381,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/250110/",
             "developer": "http://www.witchbeamgames.com/"
-        }
+        },
+        "extras": true
     },
     {
         "name": "Atom Zombie Smasher",
