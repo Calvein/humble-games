@@ -1619,7 +1619,7 @@ var games = [
     {
         "name": "Delver",
         "url": "delver?preview=UeHXpidPbEAn",
-        "price": "5",
+        "price": "7.99",
         "description": "Support Delver! Pre-purchase now to get early access and to help with development.",
         "developer": "Priority Interrupt",
         "platform": {
@@ -2263,6 +2263,59 @@ var games = [
         "notes": "link found at pcgamingwiki",
         "extras": false
 	},
+    {
+        "name": "Eador: Genesis",
+        "url": "eadorgenesis?preview=CB0AAFo30PPv",
+        "price": "5.99",
+        "description": "Get Eador: Genesis! Old school DRM-free TBS/RPG pleasure.",
+        "developer": "Snowbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.tacticularcancer.com/content.php?id=3904",
+            "developer": "http://snowbirdgames.com/"
+        },
+        "notes": "Webstore: http://www.snowbirdgames.com/eador/preorder/?lang=en",
+        "extras": false
+    },
+    {
+        "name": "Eador: Masters of the Broken World",
+        "url": "mastersofthebrokenworld?preview=Hgu8Fstd6Sre",
+        "price": "19.99",
+        "description": "Get DRM-free Eador: Masters of the Broken World instantly!",
+        "developer": "Snowbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/04/30/masters-of-a-broken-world-review/",
+            "steam": "http://store.steampowered.com/app/232050/",
+            "developer": "http://snowbirdgames.com/"
+        },
+        "notes": "Webstore: http://www.snowbirdgames.com/eador/preorder/?lang=en",
+        "extras": false
+    },
     {
         "name": "Eets",
         "url": "eets",
