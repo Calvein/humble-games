@@ -2398,6 +2398,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Eldritch",
+        "url": "eldritch/Edh7Tdy4Tdf5",
+        "price": "15",
+        "description": "eldritch/Edh7Tdy4Tdf5",
+        "developer": "Minor Key Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.minorkeygames.com/"
+        },
+        "notes": "Webstore: http://eldritchgame.com/#buy",
+        "extras": true
+    },
+    {
         "name": "Electronic Super Joy",
         "url": "electronicsuperjoy?preview=7qU9dGBwFyg0",
         "price": "4.99",
