@@ -1260,7 +1260,8 @@ var games = [
         "URL": {
             "review": "http://indiegamers.com/game/crea.11/",
             "developer": "http://siegegames.com"
-        }
+        },
+        "extras": true
     },
     {
         "name": "Crypt Run",
@@ -1430,9 +1431,6 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        },
-        "URL": {
-            "developer": ""
         }
     },
     {
@@ -1510,9 +1508,8 @@ var games = [
             "desura": "http://www.desura.com/games/defense-grid",
             "developer": "http://www.hiddenpath.com/"
         },
-        "notes": "",
         "extras": false
-	},
+    },
     {
         "name": "Defense Grid: The Awakening: Full Bundle",
         "url": "defensegridfullbundle",
@@ -1538,7 +1535,6 @@ var games = [
             "desura": "http://www.desura.com/games/defense-grid",
             "developer": "http://www.hiddenpath.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1563,7 +1559,6 @@ var games = [
         "URL": {
             "developer": "http://www.hiddenpath.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1588,7 +1583,6 @@ var games = [
         "URL": {
             "developer": "http://www.hiddenpath.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1613,7 +1607,6 @@ var games = [
         "URL": {
             "developer": "http://www.hiddenpath.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1638,7 +1631,60 @@ var games = [
         "URL": {
             "developer": "http://www.hiddenpath.com/"
         },
-        "notes": "",
+        "extras": false
+    },
+    {
+        "name": "Delver's Drop",
+        "url": "delversdrop?preview=P4fpKfKrQ6hl",
+        "price": "15",
+        "description": "Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access.",
+        "developer": "Pixelscopic",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://kotaku.com/5940805/this-indie-action+rpg-channels-zelda-and-wild-arms",
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=124366711",
+            "developer": "http://pixelscopic.com/"
+        },
+        "notes": "Has been greenlit.",
+        "extras": false
+    },
+    {
+        "name": "Delver's Drop + Soundtrack",
+        "url": "delversdrop?preview=P4fpKfKrQ6hl",
+        "price": "20",
+        "description": "Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access and soundtrack.",
+        "developer": "Pixelscopic",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://kotaku.com/5940805/this-indie-action+rpg-channels-zelda-and-wild-arms",
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=124366711",
+            "developer": "http://pixelscopic.com/"
+        },
+        "notes": "Click the drop-down to add the soundtrack.",
         "extras": false
     },
     {
@@ -1665,7 +1711,6 @@ var games = [
             "desura": "http://www.desura.com/games/derrick-the-deathfin",
             "developer": "http://derrickthedeathfin.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1692,7 +1737,6 @@ var games = [
             "desura": "http://www.desura.com/games/dino-run-se",
             "developer": "http://www.pixeljam.com/dinorunse/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1798,7 +1842,6 @@ var games = [
             "review": "http://www.penny-arcade.com/report/article/caring-for-animals-in-the-frozen-north-is-the-heart-of-dog-sled-saga",
             "developer": "http://www.dogsledsaga.com/preorder"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1851,7 +1894,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/219740/",
             "developer": "http://www.dontstarvegame.com"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1874,7 +1916,6 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
             "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=109177197",
             "desura": "http://www.desura.com/games/doorways",
             "developer": "http://www.saibotstudios.com/"
@@ -1901,7 +1942,6 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
             "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=109177197",
             "desura": "http://www.desura.com/games/doorways",
             "developer": "http://www.saibotstudios.com/"
@@ -1958,7 +1998,6 @@ var games = [
             "desura": "http://www.desura.com/games/Dungeon-Dashers",
             "developer": "http://www.dungeondashers.com"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -1985,7 +2024,6 @@ var games = [
             "desura": "http://www.desura.com/games/Dungeon-Dashers",
             "developer": "http://www.dungeondashers.com"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2040,7 +2078,6 @@ var games = [
             "desura": "http://www.desura.com/games/Dungeon-hearts",
             "developer": "http://cube-roots.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2068,7 +2105,6 @@ var games = [
             "desura": "http://www.desura.com/games/Dungeons-of-Dredmor",
             "developer": "http://www.gaslampgames.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2096,7 +2132,6 @@ var games = [
             "desura": "http://www.desura.com/games/realm-of-the-diggle-gods",
             "developer": "http://www.gaslampgames.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2124,7 +2159,6 @@ var games = [
             "desura": "http://www.desura.com/games/conquest-of-the-wizardlands",
             "developer": "http://www.gaslampgames.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2150,7 +2184,6 @@ var games = [
             "steam": "http://store.steampowered.com/sub/15933/",
             "developer": "http://www.gaslampgames.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2178,7 +2211,6 @@ var games = [
             "desura": "http://www.desura.com/games/Dustforce",
             "developer": "http://hitboxteam.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2206,7 +2238,6 @@ var games = [
             "desura": "http://www.desura.com/games/Dustforce",
             "developer": "http://hitboxteam.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2233,7 +2264,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/202730/",
             "developer": "http://www.galcon.com/dynamitejack/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2262,7 +2292,7 @@ var games = [
         },
         "notes": "link found at pcgamingwiki",
         "extras": false
-	},
+    },
     {
         "name": "Eador: Genesis",
         "url": "eadorgenesis?preview=CB0AAFo30PPv",
@@ -2341,7 +2371,6 @@ var games = [
             "desura": "http://www.desura.com/games/Eets",
             "developer": "http://kleientertainment.com"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2366,7 +2395,6 @@ var games = [
         "URL": {
             "developer": "http://kleientertainment.com"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2392,7 +2420,6 @@ var games = [
             "review": "http://indiehaven.com/electronic-super-joy-preview-with-video/",
             "developer": "http://www.michaeltoddgames.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2418,7 +2445,6 @@ var games = [
             "review": "http://indiehaven.com/electronic-super-joy-preview-with-video/",
             "developer": "http://www.michaeltoddgames.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2445,7 +2471,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/235820",
             "developer": "http://www.i-illusions.com"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2577,7 +2602,6 @@ var games = [
             "desura": "http://www.desura.com/games/English-Country-Tune",
             "developer": "http://www.increpare.com"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2604,7 +2628,6 @@ var games = [
             "desura": "http://www.desura.com/games/Escape-Goat",
             "developer": "http://www.magicaltimebean.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2627,41 +2650,36 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
-            "desura": "",
             "developer": "http://www.magicaltimebean.com/"
         },
         "notes": "Webstore: http://www.magicaltimebean.com/escape-goat-2/",
         "extras": false
     },
     {
-	    "name": "Expander",
-	    "url": "expander/Asu4Feus23ds",
-	    "price": "2.49",
-	    "description": "Get Expander instantly! Cross-platform and DRM-free. Support our Greenlight campaign and get a Steam Key if we make it!",
-	    "developer": "All Civilized Planets",
-	    "platform": {
-	        "android": true,
-	        "linux": true,
-	        "windows": true,
-	        "mac": true,
-	        "audio": false
-	    },
-	    "drm": {
-	        "steam": false,
-	        "desura": false,
-	        "gog": false,
-	        "drm-free": false
-	    },
-	    "URL": {
-	        "review": "",
-	        "steam": "",
-	        "desura": "",
-	        "developer": "http://www.allcivilizedplanets.com"
-	    },
-	    "notes": "The game is also available on the iOS AppStore, Google Play and the Mac AppStore.",
-	    "extras": false
-	},
+        "name": "Expander",
+        "url": "expander/Asu4Feus23ds",
+        "price": "2.49",
+        "description": "Get Expander instantly! Cross-platform and DRM-free. Support our Greenlight campaign and get a Steam Key if we make it!",
+        "developer": "All Civilized Planets",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.allcivilizedplanets.com"
+        },
+        "notes": "The game is also available on the iOS AppStore, Google Play and the Mac AppStore.",
+        "extras": false
+    },
     {
         "name": "Fez",
         "url": "fez",
@@ -2714,7 +2732,6 @@ var games = [
             "desura": "http://www.desura.com/games/Flotilla",
             "developer": "http://blendogames.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2741,7 +2758,6 @@ var games = [
             "desura": "http://www.desura.com/games/FOTONICA",
             "developer": "http://www.santaragione.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2794,7 +2810,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/212680",
             "developer": "http://www.ftlgame.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2872,7 +2887,6 @@ var games = [
             "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
             "developer": "http://www.overthetopgames.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2900,7 +2914,6 @@ var games = [
             "desura": "http://www.desura.com/games/gateways",
             "developer": "http://www.smudgedcat.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2927,7 +2940,6 @@ var games = [
             "desura": "http://www.desura.com/games/Girls-Like-Robots",
             "developer": "http://www.popcannibal.com/girlslikerobots/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -2953,7 +2965,6 @@ var games = [
             "review": "https://www.youtube.com/watch?v=ZcbFGHNCyMM",
             "developer": "http://www.whitewhalegames.com/"
         },
-        "notes": "",
         "extras": false
     },
         {
@@ -2978,7 +2989,6 @@ var games = [
         "URL": {
             "developer": "http://thefullbrightcompany.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -3084,7 +3094,6 @@ var games = [
             "desura": "http://www.desura.com/games/Gratuitous-Space-Battles",
             "developer": "http://www.positech.co.uk/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -3112,7 +3121,6 @@ var games = [
             "desura": "http://www.desura.com/games/Gratuitous-Space-Battles",
             "developer": "http://www.positech.co.uk/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -3178,7 +3186,6 @@ var games = [
             "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
             "developer": "http://www.crateentertainment.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -3204,7 +3211,6 @@ var games = [
             "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
             "developer": "http://www.crateentertainment.com/"
         },
-        "notes": "",
         "extras": true
     },
     {
@@ -3230,7 +3236,6 @@ var games = [
             "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
             "developer": "http://www.crateentertainment.com/"
         },
-        "notes": "",
         "extras": true
     },
     {
@@ -3256,7 +3261,6 @@ var games = [
             "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
             "developer": "http://www.crateentertainment.com/"
         },
-        "notes": "",
         "extras": true
     },
     {
@@ -3283,7 +3287,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/206190/",
             "developer": "http://www.suspiciousdevelopments.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -3310,7 +3313,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/206190/",
             "developer": "http://www.suspiciousdevelopments.com/"
         },
-        "notes": "",
         "extras": true
     },
     {
@@ -3337,7 +3339,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/206190/",
             "developer": "http://www.suspiciousdevelopments.com/"
         },
-        "notes": "",
         "extras": true
     },
     {
@@ -3406,7 +3407,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/219150/",
             "developer": "http://www.devolverdigital.com/games/view/hotline-miami"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -3476,27 +3476,27 @@ var games = [
         }
     },
     {
-    	"name": "Ilamentia",
-    	"url": "ilamentia/Hdi8Gyt5Dsf",
-    	"price": "8.99",
-    	"description": "A mind-bending first-person action puzzler.",
-    	"developer": "caiysware",
-    	"platform": {
-    		"android": false,
-    		"linux": false,
-	        "windows": true,
-	        "mac": false,
-	        "audio": false
-	        },
-		"drm": {
-			"steam": false,
-	        "desura": false,
-	        "gog": false,
-	        "drm-free": true
-	        },
-		"URL": {
-	        "review": "http://indiestatik.com/2013/05/24/ilamentia-2/",
-	        "developer": "http://caiysware.com/"
+        "name": "Ilamentia",
+        "url": "ilamentia/Hdi8Gyt5Dsf",
+        "price": "8.99",
+        "description": "A mind-bending first-person action puzzler.",
+        "developer": "caiysware",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+            },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+            },
+        "URL": {
+            "review": "http://indiestatik.com/2013/05/24/ilamentia-2/",
+            "developer": "http://caiysware.com/"
         },
         "notes": "On sale for $4.99\nWebstore: http://caiysware.com/ilamentia",
         "extras": false
@@ -3665,6 +3665,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Isomer",
+        "url": "isomer/Ifh8Gsjy6sf",
+        "price": "9.99",
+        "description": "Get Isomer instantly and support further development!",
+        "developer": "Ionising Software",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://indiegamehq.com/indie-game-hq-indie-look-isomer/",
+            "developer": "http://www.ionisingsoftware.co.uk"
+        },
+        "extras": false
+    },
+    {
         "name": "Ittle Dew",
         "url": "ittledew/Ldu7Tdg8Hwy",
         "price": "13.99",
@@ -3756,6 +3781,156 @@ var games = [
         },
         "notes": "Webstore: http://www.glassbottomgames.com/projects/jones-on-fire/",
         "extras": false
+    },
+    {
+        "name": "Jon Shafer's At the Gates (Tier 1)",
+        "url": "jonshafersatthegates?preview=azfqF2CgFxgJ",
+        "price": "30",
+        "description": "At the Gates for Windows, Mac and Linux.",
+        "developer": "Conifer Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/02/06/at-the-gates-a-new-game-from-the-designer-of-civilization-v",
+            "developer": "http://www.conifergames.com"
+        },
+        "extras": false
+    },
+    {
+        "name": "Jon Shafer's At the Gates (Tier 2)",
+        "url": "jonshafersatthegates_tier2?preview=azfqF2CgFxgJ",
+        "price": "35",
+        "description": "At the Gates for Windows, Mac and Linux, plus a digital copy of the strategy guide and designer notes.",
+        "developer": "Conifer Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/02/06/at-the-gates-a-new-game-from-the-designer-of-civilization-v",
+            "developer": "http://www.conifergames.com"
+        },
+        "extras": true
+    },
+    {
+        "name": "Jon Shafer's At the Gates (Tier 3)",
+        "url": "jonshafersatthegates_tier3?preview=azfqF2CgFxgJ",
+        "price": "50",
+        "description": "At the Gates for Windows, Mac and Linux, plus strategy guide, designer notes, and beta testing invite in Q1 2014.",
+        "developer": "Conifer Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/02/06/at-the-gates-a-new-game-from-the-designer-of-civilization-v",
+            "developer": "http://www.conifergames.com"
+        },
+        "extras": true
+    },
+    {
+        "name": "Jon Shafer's At the Gates (Tier 4)",
+        "url": "jonshafersatthegates_tier4?preview=azfqF2CgFxgJ",
+        "price": "80",
+        "description": "At the Gates for Windows, Mac and Linux, plus strategy guide, designer notes, and alpha testing invite in Q3 2013.",
+        "developer": "Conifer Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/02/06/at-the-gates-a-new-game-from-the-designer-of-civilization-v",
+            "developer": "http://www.conifergames.com"
+        },
+        "extras": true
+    },
+    {
+        "name": "Jon Shafer's At the Gates (Tier 5)",
+        "url": "jonshafersatthegates_tier5?preview=azfqF2CgFxgJ",
+        "price": "125",
+        "description": "At the Gates for Windows, Mac and Linux, plus strategy guide, designer notes, alpha testing invite in Q3 2013, and access to the game's design docs.",
+        "developer": "Conifer Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/02/06/at-the-gates-a-new-game-from-the-designer-of-civilization-v",
+            "developer": "http://www.conifergames.com"
+        },
+        "extras": true
+    },
+    {
+        "name": "Jon Shafer's At the Gates (Tier 6)",
+        "url": "jonshafersatthegates_tier6?preview=azfqF2CgFxgJ",
+        "price": "200",
+        "description": "An autographed boxed copy of At the Gates, plus strategy guide, designer notes, alpha testing invite in Q3 2013, and access to the game's design docs.",
+        "developer": "Conifer Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/02/06/at-the-gates-a-new-game-from-the-designer-of-civilization-v",
+            "developer": "http://www.conifergames.com"
+        },
+        "extras": true
     },
     {
         "name": "Jottobots",
@@ -5720,7 +5895,6 @@ var games = [
         "URL": {
             "developer": "http://sixsidedsanctuary.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -5785,31 +5959,31 @@ var games = [
         "notes": "Original Website: http://skullsoftheshogun.com/buy-it-now/\nAvailable on Windows, Windows Phone, & XBOX 360"
     },
     {
-	"name": "Sky Nations",
-	"url": "skynations/Sdh7Tshs64Fs",
-	"price": "5",
-	"description": "Pre-order now to get Sky Nations Alpha! Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore.",
-	"developer": "MrBenjammin Games",
-	"platform": {
-		"android": false,
-		"linux": false,
-		"windows": true,
-		"mac": false,
-		"audio": false
-	},
-	"drm": {
-		"steam": false,
-		"desura": true,
-		"gog": false,
-		"drm-free": false
-	},
-	"URL": {
-		"review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
-		"desura": "http://www.desura.com/games/sky-nations",
-		"developer": "http://skynations.net/presskit/index.php"
-	},
-	"notes": "It is unknown if this game receives a desura key, or if it is simply also being sold there. Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
-	"extras": false
+    "name": "Sky Nations",
+    "url": "skynations/Sdh7Tshs64Fs",
+    "price": "5",
+    "description": "Pre-order now to get Sky Nations Alpha! Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore.",
+    "developer": "MrBenjammin Games",
+    "platform": {
+        "android": false,
+        "linux": false,
+        "windows": true,
+        "mac": false,
+        "audio": false
+    },
+    "drm": {
+        "steam": false,
+        "desura": true,
+        "gog": false,
+        "drm-free": false
+    },
+    "URL": {
+        "review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
+        "desura": "http://www.desura.com/games/sky-nations",
+        "developer": "http://skynations.net/presskit/index.php"
+    },
+    "notes": "It is unknown if this game receives a desura key, or if it is simply also being sold there. Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+    "extras": false
     },
     {
         "name": "Snapshot",
@@ -6141,6 +6315,32 @@ var games = [
             "steam": "http://store.steampowered.com/app/230980/",
             "developer": "http://www.starseedpilgrim.com/"
         }
+    },
+    {
+        "name": "Steam Marines",
+        "url": "steammarines/Sdg6Reg5Fs",
+        "price": "4.99",
+        "description": "Get Steam Marines now for PC/Mac and DRM-free!",
+        "developer": "Worthless Bums",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indie-love.com/2013/02/06/steam-marines-alpha/",
+            "desura": "http://www.desura.com/games/steammarines",
+            "developer": "http://www.worthlessbums.com/"
+        },
+        "extras": false
     },
     {
         "name": "Stonehearth",
@@ -6902,7 +7102,6 @@ var games = [
             "review": "http://www.rpgfan.com/reviews/Wanderlust_Rebirth/",
             "developer": "http://www.yetitrunk.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -6928,7 +7127,6 @@ var games = [
             "review": "http://www.rpgfan.com/reviews/Wanderlust_Rebirth/",
             "developer": "http://www.yetitrunk.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
