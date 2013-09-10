@@ -3527,6 +3527,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Incognita",
+        "url": "incognita?preview=Ieu7Gsyhe5Df",
+        "price": "19.99",
+        "description": "Get the Full Game + Soundtrack at launch. Play the Early-Access Alpha immediately! Also includes an extra copy to give to a friend!",
+        "developer": "Klei Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+            },
+        "URL": {
+            "developer": "http://kleientertainment.com/"
+        },
+        "sale": true,
+        "notes": "Soundtrack-free edition also available through widget for $16.99\nCurrent prices are early access discounts and will increase in future."
+    },
+    {
         "name": "Incredipede",
         "url": "incredipede",
         "price": "9.99",
