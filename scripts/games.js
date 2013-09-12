@@ -7049,6 +7049,30 @@ var games = [
             "drm-free": true
         }
     },
+        {
+        "name": "Viscera Cleanup Detail",
+        "url": "visceracleanupdetail/Vsu7Ysgd3Dg",
+        "price": "5.00",
+        "description": "Pre-order now and when it's ready, get Viscera Cleanup Detail, DRM-free! Includes early access builds and will include a Steam key if it is greenlit!",
+        "developer": "Runestorm",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+        "developer": "http://www.runestorm.com/"
+        },
+        "notes": "$5.00 represents early access price and may increase in future.\nHas already been Greenlit and all purchases will be retroactively awarded a Steam key."
+    },
     {
         "name": "Volgar The Viking",
         "url": "volgarrtheviking?preview=Hl5o25SJrwbh",
