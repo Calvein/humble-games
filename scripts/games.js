@@ -966,10 +966,10 @@ var games = [
         }
     },
     {
-        "name": "Chroma Squad - Backer's Edition",
-        "url": "chromasquad_backersedition/Cdj8Ysh5Gsy",
+        "name": "Chroma Squad",
+        "url": "chromasquad/Cdu8tehu5HDy",
         "price": "15",
-        "description": "Pre-Order Chroma Squad with KS Backer's exclusive features! Cross-platform and DRM-free. Also get the Steam Key when it's released!",
+        "description": "Pre-Order Chroma Squad! Cross platform: Steam Key + DRM-Free.",
         "developer": "Behold Studios",
         "platform": {
             "android": false,
@@ -992,9 +992,9 @@ var games = [
     },
     {
         "name": "Chroma Squad - Beta Tester Edition",
-        "url": "chromasquad_beta/Cdj8Ysh5Gsy",
+        "url": "chromasquad_newbeta/Cdu8tehu5HDy",
         "price": "25",
-        "description": "Pre-Order Chroma Squad with KS Backer's exclusive features + BETA Access! Cross-platform and DRM-free. Get the Steam Key when it's released!",
+        "description": "Pre-Order Chroma Squad + Early BETA access (Oct/13). Cross platform: Steam Key + DRM-Free.",
         "developer": "Behold Studios",
         "platform": {
             "android": false,
@@ -1017,9 +1017,9 @@ var games = [
     },
     {
         "name": "Chroma Squad - Collector's Edition",
-        "url": "chromasquad_collectors/Cdj8Ysh5Gsy",
+        "url": "chromasquad_newcollectors/Cdu8tehu5HDy",
         "price": "50",
-        "description": "Pre-Order Chroma Squad with KS Collector's exclusive features! Cross-platform and DRM-free. Get the Steam Key when it's released!",
+        "description": "Pre-Order Chroma Squad + Early BETA access + Collector's Edition Features. Cross platform: Steam Key + DRM-Free.",
         "developer": "Behold Studios",
         "platform": {
             "android": false,
