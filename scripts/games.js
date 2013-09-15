@@ -966,10 +966,10 @@ var games = [
         }
     },
     {
-        "name": "Chroma Squad - Backer's Edition",
-        "url": "chromasquad_backersedition/Cdj8Ysh5Gsy",
+        "name": "Chroma Squad",
+        "url": "chromasquad/Cdu8tehu5HDy",
         "price": "15",
-        "description": "Pre-Order Chroma Squad with KS Backer's exclusive features! Cross-platform and DRM-free. Also get the Steam Key when it's released!",
+        "description": "Pre-Order Chroma Squad! Cross platform: Steam Key + DRM-Free.",
         "developer": "Behold Studios",
         "platform": {
             "android": false,
@@ -992,9 +992,9 @@ var games = [
     },
     {
         "name": "Chroma Squad - Beta Tester Edition",
-        "url": "chromasquad_beta/Cdj8Ysh5Gsy",
+        "url": "chromasquad_newbeta/Cdu8tehu5HDy",
         "price": "25",
-        "description": "Pre-Order Chroma Squad with KS Backer's exclusive features + BETA Access! Cross-platform and DRM-free. Get the Steam Key when it's released!",
+        "description": "Pre-Order Chroma Squad + Early BETA access (Oct/13). Cross platform: Steam Key + DRM-Free.",
         "developer": "Behold Studios",
         "platform": {
             "android": false,
@@ -1017,9 +1017,9 @@ var games = [
     },
     {
         "name": "Chroma Squad - Collector's Edition",
-        "url": "chromasquad_collectors/Cdj8Ysh5Gsy",
+        "url": "chromasquad_newcollectors/Cdu8tehu5HDy",
         "price": "50",
-        "description": "Pre-Order Chroma Squad with KS Collector's exclusive features! Cross-platform and DRM-free. Get the Steam Key when it's released!",
+        "description": "Pre-Order Chroma Squad + Early BETA access + Collector's Edition Features. Cross platform: Steam Key + DRM-Free.",
         "developer": "Behold Studios",
         "platform": {
             "android": false,
@@ -2890,10 +2890,135 @@ var games = [
         "extras": false
     },
     {
-        "name": "Full Mojo Rampage",
-        "url": "fullmojorampage?preview=6eHLT2xmErrK",
-        "price": "10",
-        "description": "Pre-Purchase now and have access to our Alpha when it's available.",
+        "name": "Full Mojo Rampage: Voodoo Follower",
+        "url": "fullmojorampage_follower/6eHLT2xmErrK",
+        "price": "20",
+        "description": "Buy now and get access to the Alpha instantly! When ready you will get the final build and Steam key.",
+        "developer": "Over the Top Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
+            "developer": "http://www.overthetopgames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Full Mojo Rampage: Voodoo Warrior",
+        "url": "fullmojorampage_warrior/6eHLT2xmErrK",
+        "price": "25",
+        "description": "Buy now and get access to the Alpha instantly! When ready you will get the final build, Steam key and soundtrack.",
+        "developer": "Over the Top Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
+            "developer": "http://www.overthetopgames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Full Mojo Rampage: Voodoo Summoner",
+        "url": "fullmojorampage_summoner/6eHLT2xmErrK",
+        "price": "40",
+        "description": "Buy now and get access to the Alpha instantly! When ready you will get the final build and Steam key.",
+        "developer": "Over the Top Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
+            "developer": "http://www.overthetopgames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Full Mojo Rampage: Voodoo Ritual",
+        "url": "fullmojorampage_ritual/6eHLT2xmErrK",
+        "price": "60",
+        "description": "Buy now and get access to the Alpha instantly! When ready you'll get the final build and Steam key. Include 3 gift keys to share with friends!",
+        "developer": "Over the Top Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
+            "developer": "http://www.overthetopgames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Full Mojo Rampage: Voodoo Priest",
+        "url": "fullmojorampage_priest/6eHLT2xmErrK",
+        "price": "150",
+        "description": "Buy now and get access to the Alpha instantly! When ready you'll get the final build and Steam key.",
+        "developer": "Over the Top Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
+            "developer": "http://www.overthetopgames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Full Mojo Rampage: Voodoo Master",
+        "url": "fullmojorampage_master/6eHLT2xmErrK",
+        "price": "250",
+        "description": "Buy now and get access to the Alpha instantly! When ready you'll get the final build and Steam key.",
         "developer": "Over the Top Games",
         "platform": {
             "android": false,
