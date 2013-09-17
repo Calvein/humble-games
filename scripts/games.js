@@ -1264,6 +1264,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Crypt of the Necrodancer",
+        "url": "cryptofthenecrodancer?preview=Cry7Pge6Tdf",
+        "price": "24.99",
+        "description": "Pre-order Crypt of the NecroDancer, 10% off! Cross-platform and DRM-free, Steam keys + the soundtrack!",
+        "developer": "Brace Yourself Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/crypt-of-the-necrodancer-is-a-roguelike-rhythm-mash-up-254636.phtml",
+            "developer": "http://braceyourselfgames.com/"
+        },
+        "notes": "Not released yet, This is a preorder.",
+        "extras": false
+    },
+    {
         "name": "Crypt Run",
         "url": "cryptrun/Cdy6Dgsy3Fts",
         "price": "12",
@@ -1629,7 +1655,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://www.hiddenpath.com/"
+            "developer": "http://www.intrrpt.com/"
         },
         "extras": false
     },
@@ -7682,31 +7708,6 @@ var games = [
             "gog": false,
             "drm-free": true
         }
-    },
-    {
-    "name": "Crypt of the Necrodancer",
-    "url": "cryptofthenecrodancer?preview=Cry7Pge6Tdf",
-    "price": "24.99",
-    "description": "Pre-order Crypt of the NecroDancer, 10% off! Cross-platform and DRM-free, Steam keys + the soundtrack!",
-    "developer": "Brace Yourself Games",
-    "platform": {
-        "android": false,
-        "linux": false,
-        "windows": true,
-        "mac": true,
-        "audio": true
-    },
-    "drm": {
-        "steam": true,
-        "desura": false,
-        "gog": false,
-        "drm-free": false
-    },
-    "URL": {
-        "review": "http://www.destructoid.com/crypt-of-the-necrodancer-is-a-roguelike-rhythm-mash-up-254636.phtml",
-        "developer": "http://braceyourselfgames.com/"
-    },
-    "notes": "Not released yet, This is a preorder.",
-    "extras": false
-},
+    }
+
 ]
