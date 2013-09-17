@@ -7010,6 +7010,156 @@ var games = [
         }
     },
     {
+        "name": "Treasure Adventure World - Tier 1",
+        "url": "treasureadventure_tier1/Tsh7Rsg6Hsk",
+        "price": "10",
+        "description": "Pre-Order the game (DRM free, upon release) + access to monthly chat sessions with the developers.",
+        "developer": "Robit Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.robitstudios.com/"
+        },
+        "notes": "Steam key when greenlit. \n Webstore: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-1/",
+        "extras": true
+    },
+    {
+        "name": "Treasure Adventure World - Tier 2",
+        "url": "treasureadventure_tier2/Tsh7Rsg6Hsk",
+        "price": "15",
+        "description": "Pre-Order of the game (DRM free, upon release) + Tier 1 rewards + Download of TAG OST + TAW OST (when available)",
+        "developer": "Robit Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.robitstudios.com/"
+        },
+        "notes": "Steam key when greenlit. \n Webstore: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-2/",
+        "extras": true
+    },
+    {
+        "name": "Treasure Adventure World - Tier 3",
+        "url": "treasureadventure_tier3/Tsh7Rsg6Hsk",
+        "price": "30",
+        "description": "Pre-Order of the game (DRM free, upon release) + Tier 1,2 rewards + Name in credits as 'Special Contributor' + Access to private dev blog.",
+        "developer": "Robit Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.robitstudios.com/"
+        },
+        "notes": "Steam key when greenlit. \n Webstore: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-3/",
+        "extras": true
+    },
+    {
+        "name": "Treasure Adventure World - Tier 4",
+        "url": "treasureadventure_tier4/Tsh7Rsg6Hsk",
+        "price": "100",
+        "description": "Pre-Order of the game (DRM free, upon release) + Tier 1,2,3 rewards + Signed original sketch from the developer (50 Slots)",
+        "developer": "Robit Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.robitstudios.com/"
+        },
+        "notes": "Steam key when greenlit. \n Webstore: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-4/",
+        "extras": true
+    },
+    {
+        "name": "Treasure Adventure World - Tier 5",
+        "url": "treasureadventure_tier5/Tsh7Rsg6Hsk",
+        "price": "2000",
+        "description": "Pre-Order of the game (DRM free, upon release) + Tier 1,2,3,4 rewards + Your likeness in the game as an animated NPC (15 Slots)",
+        "developer": "Robit Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.robitstudios.com/"
+        },
+        "notes": "Steam key when greenlit. \n Webstore: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-5/",
+        "extras": true
+    },
+    {
+        "name": "Treasure Adventure World - Tier 6",
+        "url": "treasureadventure_tier6/Tsh7Rsg6Hsk",
+        "price": "5000",
+        "description": "Pre-Order of the game (DRM free, upon release) + Tier 1,2,3,4,5 rewards + Name in credits as 'Producer', personal call from developer.",
+        "developer": "Robit Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.robitstudios.com/"
+        },
+        "notes": "Steam key when greenlit. \n Webstore: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-6/",
+        "extras": true
+    },
+    {
         "name": "Trine",
         "url": "trine",
         "price": "9.99",
