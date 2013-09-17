@@ -2401,7 +2401,7 @@ var games = [
         "name": "Eldritch",
         "url": "eldritch/Edh7Tdy4Tdf5",
         "price": "15",
-        "description": "eldritch/Edh7Tdy4Tdf5",
+        "description": "Pre-order Eldritch and get early access to the beta! Windows only, DRM-free.",
         "developer": "Minor Key Games",
         "platform": {
             "android": false,
@@ -7554,8 +7554,6 @@ var games = [
     },
     "URL": {
         "review": "http://www.destructoid.com/crypt-of-the-necrodancer-is-a-roguelike-rhythm-mash-up-254636.phtml",
-        "steam": "",
-        "desura": "",
         "developer": "http://braceyourselfgames.com/"
     },
     "notes": "Not released yet, This is a preorder.",
