@@ -1298,7 +1298,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -1311,7 +1311,7 @@ var games = [
         "URL": {
             "developer": "http://www.lostdecadegames.com/"
         },
-        "notes": "Webstore: http://www.cryptrun.com/buy/ \n Linux version available if $10k are raised in the game's Kickstarter campaign: http://www.kickstarter.com/projects/richtaur/crypt-run-death-is-just-the-beginning",
+        "notes": "Webstore: http://www.cryptrun.com/buy/",
         "extras": false
     },
     {
@@ -1323,7 +1323,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": true
         },
