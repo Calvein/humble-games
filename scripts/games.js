@@ -7331,6 +7331,32 @@ var games = [
         }
     },
     {
+        "name": "Valdis Story: Abyssal City",
+        "url": "valdisstoryabyssalcity/Vidyh7Reg8G",
+        "price": "14.99",
+        "description": "Buy Valdis Story: Abyssal City DRM-free for Windows now!",
+        "developer": "Endlessfluff Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rpgfan.com/reviews/Valdis_Story_Abyssal_City/index.html",
+            "desura": "http://www.desura.com/games/valdis-story-abyssal-city",
+            "developer": "http://www.endlessfluff.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Vessel",
         "url": "vessel",
         "price": "14.99",
