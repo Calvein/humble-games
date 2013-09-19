@@ -421,8 +421,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -447,8 +447,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         },
         "drm": {
@@ -2407,16 +2407,16 @@ var games = [
         "developer": "Klei Entertainment",
         "platform": {
             "android": false,
-            "windows": false,
-            "linux": false,
-            "mac": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://kleientertainment.com"
