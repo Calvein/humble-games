@@ -4954,6 +4954,31 @@ var games = [
         }
     },
     {
+        "name": "NOWHERE",
+        "url": "nowhere_alpha/Ndhu8Tgey5Fd",
+        "price": "21",
+        "description": "All alpha versions. Final release and Steam key, when available.",
+        "developer": "Duangle",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.duangle.com/"
+        },
+        "notes": "Widget with 8 tiers, from $21 to $10,100, including different rewards. The Alpha Tribe tier currently on sale, full price is $35 \n Webstore: http://www.duangle.com/nowhere",
+        "extras": true
+    },
+    {
         "name": "Offspring Fling",
         "url": "offspringfling",
         "price": "7.99",
