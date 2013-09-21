@@ -3709,7 +3709,7 @@ var games = [
         "description": "Purchase Incredipede and get it instantly, cross-platform and DRM-free, and redeemable on Steam!",
         "developer": "Northway Games",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -3720,6 +3720,9 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.northwaygames.com/"
         },
         "sale": true,
         "notes": "Sale ends around ??? unknown, regular price is $14.99.\nLinux version available for free at http://www.incredipede.com/linux.html"
@@ -3769,7 +3772,7 @@ var games = [
         "name": "Ironclad Tactics",
         "url": "ironclad/Ieyh7Fsdw45",
         "price": "14.99",
-        "description": "Pre-order Ironclad Tactics, set to be released to Steam on September 18th, 2013!",
+        "description": "Buy Ironclad Tactics now and receive a Steam key instantly!",
         "developer": "Zachtronics",
         "platform": {
             "android": false,
@@ -3787,14 +3790,14 @@ var games = [
         "URL": {
             "developer": "http://www.zachtronics.com/"
         },
-        "notes": "Currently on sale at 10% off until release on 18 September.\nWebstore: http://ironcladtactics.com/the-extra-extra-bundle/",
+        "notes": "Webstore: http://ironcladtactics.com/the-extra-extra-bundle/",
         "extras": false
     },
     {
         "name": "The Digital Only Bundle",
         "url": "ironclad_digitalonly/Ieyh7Fsdw45",
         "price": "39.99",
-        "description": "Receive SpaceChem + DLC now, Ironclad Tactics when it's released, and the remaining digital extras after. No physical extras included.",
+        "description": "Buy now and get Ironclad Tactics and Receive SpaceChem + DLC now! Includes the remaining digital extras after. No physical extras included.",
         "developer": "Zachtronics",
         "platform": {
             "android": false,
@@ -3812,14 +3815,14 @@ var games = [
         "URL": {
             "developer": "http://www.zachtronics.com/"
         },
-        "notes": "Currently on sale at 10% off until release on 18 September.\nWebstore: http://ironcladtactics.com/the-extra-extra-bundle/",
+        "notes": "Webstore: http://ironcladtactics.com/the-extra-extra-bundle/",
         "extras": true
     },
     {
         "name": "The Extra! Extra! Bundle (US)",
         "url": "ironclad_extra_us/Ieyh7Fsdw45",
         "price": "56.99",
-        "description": "Receive SpaceChem + DLC now, Ironclad Tactics when it's released, and the remaining extras after. Includes shipping within the US.",
+        "description": "Buy now and get Ironclad Tactics and SpaceChem + DLC now! Also includes the remaining extras. Includes shipping within the US.",
         "developer": "Zachtronics",
         "platform": {
             "android": false,
@@ -3837,14 +3840,14 @@ var games = [
         "URL": {
             "developer": "http://www.zachtronics.com/"
         },
-        "notes": "Currently on sale at 10% off until release on 18 September.\nWebstore: http://ironcladtactics.com/the-extra-extra-bundle/",
+        "notes": "Webstore: http://ironcladtactics.com/the-extra-extra-bundle/",
         "extras": true
     },
     {
         "name": "The Extra! Extra! Bundle (INT)",
         "url": "ironclad_extra_int/Ieyh7Fsdw45",
         "price": "65.99",
-        "description": "Receive SpaceChem + DLC now, Ironclad Tactics when it's released, and the remaining extras after. Includes shipping anywhere.",
+        "description": "Buy now and get Ironclad Tactics and SpaceChem + DLC now! Also includes the remaining extras. Includes shipping anywhere.",
         "developer": "Zachtronics",
         "platform": {
             "android": false,
@@ -3862,7 +3865,7 @@ var games = [
         "URL": {
             "developer": "http://www.zachtronics.com/"
         },
-        "notes": "Currently on sale at 10% off until release on 18 September.\nWebstore: http://ironcladtactics.com/the-extra-extra-bundle/",
+        "notes": "Webstore: http://ironcladtactics.com/the-extra-extra-bundle/",
         "extras": true
     },
     {
