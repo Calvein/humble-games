@@ -5678,6 +5678,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Rktcr",
+        "url": "rktcr/Daski823jdk",
+        "price": "10",
+        "description": "Get Rktcr instantly! Cross-platform and DRM-free. Includes Desura key.",
+        "developer": "TCHOW",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/rktcr",
+            "developer": "http://tchow.com/"
+        },
+        "notes": "Webstore: http://tchow.com/games/rktcr/",
+        "extras": false
+    },
+    {
         "name": "Rochard",
         "url": "rochard",
         "price": "19.99",
