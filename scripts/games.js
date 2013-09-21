@@ -3709,7 +3709,7 @@ var games = [
         "description": "Purchase Incredipede and get it instantly, cross-platform and DRM-free, and redeemable on Steam!",
         "developer": "Northway Games",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
