@@ -4980,6 +4980,34 @@ var games = [
         }
     },
     {
+        "name": "Omegalodon",
+        "url": "omegalodon?preview=Odhy6Fst3Hde",
+        "price": "9.99",
+        "description": " Get Omegalodon instantly! Cross-platform and DRM-free.",
+        "developer": "North of Earth",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://nerdluster.com/indie/17-kickstarter-knuggets/294-20130430-anne",
+            "desura": "http://www.desura.com/games/omegalodon",
+            "steam": "http://store.steampowered.com/app/248350/",
+            "developer": "http://www.northofearth.com"
+        },
+        "notes": "Webstore: http://www.northofearth.com/omegalodon/",
+        "extras": false
+    },
+    {
         "name": "Oniken",
         "url": "oniken?preview=Odg6Tdf4RDsa",
         "price": "5",
