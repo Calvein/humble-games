@@ -1639,7 +1639,7 @@ var games = [
         "name": "Delver",
         "url": "delver?preview=UeHXpidPbEAn",
         "price": "7.99",
-        "description": "Support Delver! Pre-purchase now to get early access and to help with development.",
+        "description": "Support Delver! Pre-purchase now to get early access and to help with development. Comes with DRM-free builds and a Steam key.",
         "developer": "Priority Interrupt",
         "platform": {
             "android": true,
@@ -1649,14 +1649,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.retrospiritgames.co.uk/2013/01/review-delver-pc-indie.html",
+            "steam": "http://store.steampowered.com/app/249630",
             "developer": "http://www.intrrpt.com/"
         },
+        "notes": "Webstore: http://www.delvergame.com/download.html",
         "extras": false
     },
     {
@@ -1926,7 +1929,7 @@ var games = [
         "name": "Doorways: Chapter 1 & 2",
         "url": "doorways/Ddh8Hsy7SD",
         "price": "9.99",
-        "description": "Pre-order the first two chapters of the Argentinian Survival Horror \"Doorways\". And start playing the First Chapter Beta RIGHT NOW!",
+        "description": "Get the first two chapters of the Argentinian Survival Horror \"Doorways\" instantly!",
         "developer": "Saibot Studios",
         "platform": {
             "android": false,
@@ -1936,42 +1939,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
-            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=109177197",
+            "steam": "http://store.steampowered.com/app/248470",
             "desura": "http://www.desura.com/games/doorways",
             "developer": "http://www.saibotstudios.com/"
         },
-        "extras": false
-    },
-    {
-        "name": "Doorways: Chapter 1 - 4",
-        "url": "doorways_allch/Ddh8Hsy7SD",
-        "price": "15.99",
-        "description": "Pre-order the four chapters of the Argentinian Survival Horror \"Doorways\". And start playing the First Chapter Beta RIGHT NOW!",
-        "developer": "Saibot Studios",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=109177197",
-            "desura": "http://www.desura.com/games/doorways",
-            "developer": "http://www.saibotstudios.com/"
-        },
+        "notes": "Webstore: http://www.doorwaysgame.com/?s=store",
         "extras": false
     },
     {
@@ -2735,13 +2713,13 @@ var games = [
         "name": "Fez",
         "url": "fez",
         "price": "9.99",
-        "description": "Preorder Fez for Windows DRM-free!",
+        "description": "Get FEZ cross-platform and DRM-free! Also get a Steam key.",
         "developer": "Polytron Corporation",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -2755,7 +2733,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/224760/",
             "developer": "http://polytroncorporation.com/"
         },
-        "notes": "link found at pcgamingwiki",
+        "notes": "Webstore: http://polytroncorporation.com/buy-fez",
         "extras": false
     },
     {
@@ -5009,9 +4987,9 @@ var games = [
         "developer": "JoyMasher",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -5022,9 +5000,10 @@ var games = [
         },
         "URL": {
             "review": "http://www.destructoid.com/review-oniken-230786.phtml",
+            "desura": "http://www.desura.com/games/oniken",
             "developer": "http://www.oniken.net/"
         },
-        "notes": "Although the description says it's a crossplatform game, only the Windows icon is shown.\nWebstore: http://joymasher.com/oniken/",
+        "notes": "Webstore: http://joymasher.com/oniken/",
         "extras": false
     },
     {
