@@ -4845,14 +4845,14 @@ var games = [
     "name": "Multilytheus",
     "url": "multilytheus/lskdjO12909dkf",
     "price": "2.99",
-    "description": "A difficult abstract first-person puzzle game about navigating space.",
+    "description": "Get Multilytheus instantly! Cross-platform and DRM-free.",
     "developer": "Astro Assembly",
     "platform": {
         "android": false,
         "linux": false,
         "windows": true,
         "mac": true,
-        "audio": true
+        "audio": false
     },
     "drm": {
         "steam": false,
@@ -4865,7 +4865,7 @@ var games = [
         "desura": "http://www.desura.com/games/multilytheus",
         "developer": "http://astroassembly.com/"
         },
-        "notes": "Released September 23rd 2013."
+        "notes": "Released September 23rd 2013. \n On sale 40% off only on launching day. \n Webstore: http://astroassembly.com/multilytheus/",
         "extras": false
     },
     {
