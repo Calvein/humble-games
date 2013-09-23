@@ -797,6 +797,32 @@ var games = [
         }
     },
     {
+    "name": "Castle Story beta",
+    "url": "castlestory_store",
+    "price": "20",
+    "description": "Pre-order Castle Story and get access to the the beta version as soon as it's ready.",
+    "developer": "Sauropod Studio",
+    "platform": {
+        "android": false,
+        "linux": true,
+        "windows": true,
+        "mac": true,
+        "audio": false
+    },
+    "drm": {
+        "steam": true,
+        "desura": false,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "steam": "http://store.steampowered.com/app/227860/",
+        "developer": "http://www.sauropodstudio.com/"
+    },
+    "notes": "Also available via Steam Early Access. \n Humble Store purchase provides a Steam key.",
+    "extras": false
+    },
+    {
         "name": "Castle Vox",
         "url": "castlevox?preview=pending",
         "price": "9.99",
