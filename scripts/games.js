@@ -4842,6 +4842,33 @@ var games = [
         "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
+    "name": "Multilytheus",
+    "url": "multilytheus/lskdjO12909dkf",
+    "price": "2.99",
+    "description": "A difficult abstract first-person puzzle game about navigating space.",
+    "developer": "Astro Assembly",
+    "platform": {
+        "android": false,
+        "linux": false,
+        "windows": true,
+        "mac": true,
+        "audio": true
+    },
+    "drm": {
+        "steam": false,
+        "desura": true,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "http://indiestatik.com/2013/08/20/multilytheus/",
+        "desura": "http://www.desura.com/games/multilytheus",
+        "developer": "http://astroassembly.com/"
+        },
+        "notes": "Released September 23rd 2013."
+        "extras": false
+    },
+    {
         "name": "Natural Selection 2",
         "url": "naturalselection2",
         "price": "24.99",
