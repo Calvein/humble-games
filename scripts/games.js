@@ -1292,8 +1292,8 @@ var games = [
     {
         "name": "Crypt of the Necrodancer",
         "url": "cryptofthenecrodancer?preview=Cry7Pge6Tdf",
-        "price": "24.99",
-        "description": "Pre-order Crypt of the NecroDancer, 10% off! Cross-platform and DRM-free, Steam keys + the soundtrack!",
+        "price": "22.49",
+        "description": "Pre-order Crypt of the NecroDancer, 10% off! Cross-platform and DRM-free, Steam keys + the soundtrack! ($22.49) \n Pre-order Crypt of the NecroDancer, 10% off! Cross-platform and DRM-free + Steam key. ($13.49)",
         "developer": "Brace Yourself Games",
         "platform": {
             "android": false,
@@ -1692,34 +1692,7 @@ var games = [
         "name": "Delver's Drop",
         "url": "delversdrop?preview=P4fpKfKrQ6hl",
         "price": "15",
-        "description": "Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access.",
-        "developer": "Pixelscopic",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "review": "http://kotaku.com/5940805/this-indie-action+rpg-channels-zelda-and-wild-arms",
-            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=124366711",
-            "developer": "http://pixelscopic.com/"
-        },
-        "notes": "Has been greenlit.",
-        "extras": false
-    },
-    {
-        "name": "Delver's Drop + Soundtrack",
-        "url": "delversdrop?preview=P4fpKfKrQ6hl",
-        "price": "20",
-        "description": "Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access and soundtrack.",
+        "description": "Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access. ($15) \n Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access and soundtrack.",
         "developer": "Pixelscopic",
         "platform": {
             "android": false,
@@ -1732,14 +1705,14 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://kotaku.com/5940805/this-indie-action+rpg-channels-zelda-and-wild-arms",
             "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=124366711",
             "developer": "http://pixelscopic.com/"
         },
-        "notes": "Click the drop-down to add the soundtrack.",
+        "notes": "Has been greenlit.",
         "extras": false
     },
     {
@@ -1928,7 +1901,7 @@ var games = [
     {
         "name": "Don't Starve",
         "url": "dontstarve_standalone?preview=mtcdbvdg",
-        "price": "14.99",
+        "price": "19.98",
         "description": "Get Don't Starve Instantly! Free regular updates & new content. Play on Steam, Chrome & Stand-Alone! ($14.99) \n Get Don't Starve and Original Soundtrack Instantly! Free regular updates, bonus tracks, & new content. Play on Steam, Chrome & Stand-Alone! ($19.98)",
         "developer": "Klei Entertainment",
         "platform": {
@@ -1936,7 +1909,7 @@ var games = [
             "windows": true,
             "linux": true,
             "mac": true,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": true,
@@ -1947,8 +1920,36 @@ var games = [
         "URL": {
             "review": "http://www.gamespot.com/dont-starve/reviews/dont-starve-review-6407882/",
             "steam": "http://store.steampowered.com/app/219740/",
-            "developer": "http://www.dontstarvegame.com"
+            "developer": "http://kleientertainment.com/"
         },
+        "notes": "Webstore: http://www.dontstarvegame.com/blog/landing/buynow.html",
+        "extras": false
+    },
+    {
+        "name": "Don't Starve Soundtrack",
+        "url": "dontstarve_soundtrack?preview=mtcdbvdg",
+        "price": "4.99",
+        "description": "Get the official Don't Starve Soundtrack! - MP3 and FLAC format - Get new tracks as they are released in the game",
+        "developer": "Klei Entertainment",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/dont-starve/reviews/dont-starve-review-6407882/",
+            "steam": "http://store.steampowered.com/app/219740/",
+            "developer": "http://kleientertainment.com/"
+        },
+        "notes": "Webstore: http://www.dontstarvegame.com/official-soundtrack",
         "extras": false
     },
     {
@@ -1965,7 +1966,95 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": true,
+            "steam": true,2138
+2139
+2140
+2141
+2142
+2143
+2144
+2145
+2146
+2147
+2148
+2149
+2150
+2151
+2152
+2153
+2154
+2155
+2156
+2157
+2158
+2159
+2160
+2161
+2162
+2163
+2164
+2165
+2166
+2167
+2168
+2169
+2170
+2171
+2172
+2173
+2174
+2175
+2176
+2177
+2178
+2179
+2180
+        },
+        "extras": false
+    },
+    {
+        "name": "Dungeons of Dredmor: Realm of the Diggle Gods",
+        "url": "dungeonsofdredmor_realmofthedigglegods",
+        "price": "2.99",
+        "description": "Get Dungeons of Dredmor: Realm of the Diggle Gods instantly for Windows and Linux, DRM free.",
+        "developer": "Gaslamp Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.indiegamereviewer.com/review-dungeons-of-dredmor-and-realm-of-the-diggle-gods-dlc/",
+            "steam": "http://store.steampowered.com/app/98820/",
+            "desura": "http://www.desura.com/games/realm-of-the-diggle-gods",
+            "developer": "http://www.gaslampgames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Dungeons of Dredmor: Conquest of the Wizardlands",
+        "url": "dungeonsofdredmor_conquestofthewizardlands",
+        "price": "2.99",
+        "description": "Get Dungeons of Dredmor: Conquest of the Wizardlands instantly for Windows and Linux, DRM free.",
+        "developer": "Gaslamp Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+Commit summary: Extended description: (optional)
+muntdefems muntdefems@yahoo.es
+
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -3685,7 +3774,7 @@ var games = [
         "name": "Incognita",
         "url": "incognita?preview=Ieu7Gsyhe5Df",
         "price": "19.99",
-        "description": "Get the Full Game + Soundtrack at launch. Play the Early-Access Alpha immediately! Also includes an extra copy to give to a friend!",
+        "description": "Get the Full Game + Soundtrack at launch. Play the Early-Access Alpha immediately! Also includes an extra copy to give to a friend! ($19.99) \n -Get the Full Game at launch -Play the Early-Access Alpha immediately! -Also includes an extra copy to give to a friend! ($16.99)",
         "developer": "Klei Entertainment",
         "platform": {
             "android": false,
@@ -3704,7 +3793,7 @@ var games = [
             "developer": "http://kleientertainment.com/"
         },
         "sale": true,
-        "notes": "Soundtrack-free edition also available through widget for $16.99\nCurrent prices are early access discounts and will increase in future."
+        "notes": "Current prices are early access discounts and will increase in future. \n Webstore: http://www.incognitagame.com/"
     },
     {
         "name": "Incredipede",
@@ -4225,14 +4314,14 @@ var games = [
         "name": "KRUNCH",
         "url": "krunch/Keus87Sgue",
         "price": "9.99",
-        "description": "Get KRUNCH instantly! Cross-platform and DRM-free.",
+        "description": "Get KRUNCH instantly! Cross-platform and DRM-free. ($9.99) \n Get KRUNCH and the original soundtrack instantly! Cross-platform and DRM-free ($13.99)",
         "developer": "LeGrudge & Rugged",
         "platform": {
             "android": false,
             "linux": true,
             "windows": true,
             "mac": true,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": false,
@@ -4245,7 +4334,7 @@ var games = [
             "desura": "http://www.desura.com/games/krunch",
             "developer": "http://legrudgerugged.com/"
         },
-        "notes": "You can also get the game with its soundtrack for $13.99 on the same widget.\nWebstore: http://krunchgame.com/",
+        "notes": "Webstore: http://krunchgame.com/",
         "extras": false
     },
     {
@@ -5025,7 +5114,7 @@ var games = [
         "name": "NOWHERE",
         "url": "nowhere_alpha/Ndhu8Tgey5Fd",
         "price": "21",
-        "description": "All alpha versions. Final release and Steam key, when available.",
+        "description": "All alpha versions. Final release and Steam key, when available. ($21) \n All alpha versions, paniq album CD. Final release, Steam key, artbook & OST, when available. ($51) \n  All alpha versions, credit mention, paniq album CD. Final release, Steam key, artbook, OST & avatar, when available. ($75) \n All alpha versions, credit mention, paniq album CD. Final release, Steam key, artbook, OST, avatar & exclusive T-Shirt, when available. ($121) \n  Alphas, credit mention, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt & your cosmic bubble as starting world. ($233) \n Alphas, credit mention, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt, your world, DIN A2 calendar & cheat code. ($606) \n Alphas, extra credits, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt, your world, calendar & cheat code. ($2333) \n Alphas, extra credits, paniq album CD,intro video. Later: Final release, Steam key, art book, OST, avatar, T-Shirt, your world, calendar & cheat code. ($10100)",
         "developer": "Duangle",
         "platform": {
             "android": false,
@@ -5043,7 +5132,7 @@ var games = [
         "URL": {
             "developer": "http://www.duangle.com/"
         },
-        "notes": "Widget with 8 tiers, from $21 to $10,100, including different rewards. The Alpha Tribe tier currently on sale, full price is $35 \n Webstore: http://www.duangle.com/nowhere",
+        "notes": "The Alpha Tribe tier currently on sale, full price is $35 \n Webstore: http://www.duangle.com/nowhere",
         "extras": true
     },
     {
