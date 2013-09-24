@@ -4637,14 +4637,14 @@ var games = [
     },
     {
         "name": "Megabyte Punch",
-        "url": "megabytepunch?preview=eE71cq1EKzQe",
-        "price": "7.5",
-        "description": "Get Megabyte Punch including all the future updates! DRM-free.",
+        "url": "megabytepunch_standard/eE71cq1EKzQe",
+        "price": "15",
+        "description": "Buy now and get Megabyte Punch, DRM-free!",
         "developer": "Reptile Games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -4653,7 +4653,41 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.capsulecomputers.asia/2013/08/megabyte-punch-review/",
+            "desura": "http://www.desura.com/games/megabyte-punch",
+            "developer": "http://reptile-games.com/"
+        },
+        "notes": "It's been greenlit and should be available on Steam soon. \n Webstore: http://megabytepunch.reptile-games.com/",
+        "extras": false
+    },
+    {
+        "name": "Megabyte Punch Special Edition",
+        "url": "megabytepunch?preview=eE71cq1EKzQe",
+        "price": "20",
+        "description": "Get Megabyte Punch Special Edition, DRM-free! Includes soundtrack, wallpapers and extra custom versus levels!",
+        "developer": "Reptile Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.capsulecomputers.asia/2013/08/megabyte-punch-review/",
+            "desura": "http://www.desura.com/games/megabyte-punch",
+            "developer": "http://reptile-games.com/"
+        },
+        "notes": "It's been greenlit and should be available on Steam soon. \n Webstore: http://megabytepunch.reptile-games.com/",
+        "extras": true
     },
     {
         "name": "Mercenary Kings",
