@@ -4982,6 +4982,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Nihilumbra",
+        "url": "nihilumbra/Nisdko29kdls",
+        "price": "9.99",
+        "description": "Pre-order Nihilumbra, get it instantly when ready! For Windows, Mac and Linux and DRM-free. Desura key included. Steam key will be sent when it is available.",
+        "developer": "BeautiFun Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/nihilumbra",
+            "developer": "http://www.beautifungames.com/"
+        },
+        "notes": "Steam key available when the game gets greenlit. \n Webstore: http://www.nihilumbra.com/",
+        "extras": false
+    },
+    {
         "name": "Noitu Love 2 Devolution",
         "url": "noitulovedevolution",
         "price": "5",
