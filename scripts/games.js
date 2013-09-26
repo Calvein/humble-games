@@ -3733,6 +3733,30 @@ var games = [
         "notes": "Sale ends around ??? unknown, regular price is $14.99.\nLinux version available for free at http://www.incredipede.com/linux.html"
     },
     {
+        "name": "Inescapable",
+        "url": "Inescapable?preview=soeDojks0982jdI",
+        "price": "9.99",
+        "description": "Get Inescapable instantly! Cross-platform and DRM-free.",
+        "developer": "Magnetic Realms",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.magneticrealms.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "InFlux",
         "url": "influx/Ish6Dgsr5Dts",
         "price": "9.99",
