@@ -3617,6 +3617,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Hyper Light Drifter",
+        "url": "hyperlightdrifter/sdfIwldkGh12k",
+        "price": "15",
+        "description": "Pre-order Hyper Light Drifter. When it's released you will receive the game DRM-free for Win/Mac/Linux + a Steam key!",
+        "developer": "Heart Machine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.heart-machine.com/home1/"
+        },
+        "notes": "They promise a Steam key even though the game hasn't been greenlit yet. \n Webstore: http://www.heart-machine.com/",
+        "extras": false
+    },
+    {
+        "name": "Hyper Light Drifter + Bonus Pack",
+        "url": "hyperlightdrifter_bonuspack/sdfIwldkGh12k",
+        "price": "25",
+        "description": "Pre-order Hyper Light Drifter. When released you will receive the game DRM-free for Win/Mac/Linux + a Steam key + PDF Art Book + PDF manual.",
+        "developer": "Heart Machine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.heart-machine.com/home1/"
+        },
+        "notes": "They promise a Steam key even though the game hasn't been greenlit yet. \n Webstore: http://www.heart-machine.com/",
+        "extras": true
+    },
+    {
         "name": "Ichi",
         "url": "ichi",
         "price": "2.99",
