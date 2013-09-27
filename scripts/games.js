@@ -3707,32 +3707,6 @@ var games = [
         }
     },
     {
-        "name": "Ilamentia",
-        "url": "ilamentia/Hdi8Gyt5Dsf",
-        "price": "8.99",
-        "description": "A mind-bending first-person action puzzler.",
-        "developer": "caiysware",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": false,
-            "audio": false
-            },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-            },
-        "URL": {
-            "review": "http://indiestatik.com/2013/05/24/ilamentia-2/",
-            "developer": "http://caiysware.com/"
-        },
-        "notes": "On sale for $4.99\nWebstore: http://caiysware.com/ilamentia",
-        "extras": false
-    },
-    {
         "name": "Incognita",
         "url": "incognita?preview=Ieu7Gsyhe5Df",
         "price": "19.99",
