@@ -7383,6 +7383,60 @@ var games = [
         "extras": true
     },
     {
+    "name": "TRI",
+    "url": "tri/TEkskdow12kd",
+    "price": "10",
+    "description": "Train your spatial thinking by preordering TRI! Cross-platform and DRM-free. Includes a lot of triangles.",
+    "developer": "Rat King Entertainment",
+    "platform": {
+        "android": false,
+        "linux": true,
+        "windows": true,
+        "mac": true,
+        "audio": false
+    },
+    "drm": {
+        "steam": false,
+        "desura": true,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "desura": "http://www.desura.com/games/tri",
+        "developer": "http://www.ratking.de/"
+    },
+    "notes": "The Monk Edition. Purchase is for beta access Preorder. Soundtrack edition also available. Desura keys provided with purchase are coming soon. Will be issued Steam keys if Greenlit. Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=181319200",
+    "extras": false
+    },
+    {
+    "name": "TRI + OST",
+    "url": "tri_ost/TEkskdow12kd",
+    "price": "15",
+    "description": "Train your spatial thinking by preordering TRI! Crossplatform and DRM-free. This package includes the original soundtrack by Ludwig Hanisch.",
+    "developer": "Rat King Entertainment",
+    "platform": {
+        "android": false,
+        "linux": true,
+        "windows": true,
+        "mac": true,
+        "audio": true
+    },
+    "drm": {
+        "steam": false,
+        "desura": true,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "",
+        "steam": "",
+        "desura": "http://www.desura.com/games/tri",
+        "developer": "http://www.ratking.de/"
+    },
+    "notes": "The Fox Edition. Purchase is for beta access Preorder. Desura keys provided with purchase are coming soon. Will be issued Steam keys if Greenlit. Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=181319200",
+    "extras": false
+    },
+    {
         "name": "Trine",
         "url": "trine",
         "price": "9.99",
