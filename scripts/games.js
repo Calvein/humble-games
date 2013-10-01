@@ -4363,6 +4363,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Last Knight",
+        "url": "lastknight/Tkdowk39vd",
+        "price": "5.99",
+        "description": "Get Last Knight instantly! Cross-platform and DRM-free.",
+        "developer": "Toco Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.indiegamemag.com/last-knight-review-full-medieval-throttle/",
+            "desura": "http://www.desura.com/games/last-knight",
+            "developer": "http://www.tocogames.com/"
+        },
+        "notes": "Webstore: http://www.lastknightthegame.com/#purchase",
+        "extras": false
+    },
+    {
         "name": "Legend of Dungeon",
         "url": "legendofdungeon?preview=SIIUb8tPvGNT",
         "price": "10",
