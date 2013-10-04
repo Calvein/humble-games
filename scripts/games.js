@@ -5498,6 +5498,31 @@ var games = [
         }
     },
     {
+        "name": "pozzle",
+        "url": "pozzle/po1kd9kdk",
+        "price": "2.90",
+        "description": "Get pozzle instantly! Cross-platform and DRM-free.",
+        "developer": "Maximilian Schmitt",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {,
+            "developer": "http://www.pozzlegame.com/"
+        },
+        "notes": "A minimalistic puzzle game that changes the way you think.",
+        "extras": false
+    },
+    {
         "name": "Probability 0",
         "url": "probability0?preview=XE0rD4fbwCkb",
         "price": "7",
