@@ -8039,5 +8039,28 @@ var games = [
             "drm-free": true
         }
     }
+    ,
+    {
+        "name": "Ethan - Meteor Hunter",
+        "url": "ethanmeteorhunter/Met6Ger7Had",
+        "price": "9.90",
+        "description": "Ethan: Meteor Hunter mixes puzzles and platformers core action mechanics with an innovative mechanic: telekinesia. ",
+        "developer": "Seaven Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+        ,
+        "notes": "Store page http://www.ethan-game.com/"
+    }
 
 ]
