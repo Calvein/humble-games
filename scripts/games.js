@@ -5516,7 +5516,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "URL": {,
+        "URL": {
             "developer": "http://www.pozzlegame.com/"
         },
         "notes": "A minimalistic puzzle game that changes the way you think.",
