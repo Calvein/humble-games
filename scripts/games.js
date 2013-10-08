@@ -2733,7 +2733,7 @@ var games = [
         ,
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
         "extras": false
-    }
+    },
     {
         "name": "Ethan: Meteor Hunter Deluxe",
         "url": "ethanmeteorhunter_deluxe/Met6Ger7Had",
@@ -2756,7 +2756,7 @@ var games = [
         ,
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
         "extras": true
-    }
+    },
     {
         "name": "Ethan: Meteor Hunter Early Adopter",
         "url": "ethanmeteorhunter_early/Met6Ger7Had",
@@ -2779,7 +2779,7 @@ var games = [
         ,
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
         "extras": true
-    }
+    },
     {
         "name": "Ethan: Meteor Hunter Supporter Edition",
         "url": "ethanmeteorhunter_supporter/Met6Ger7Had",
@@ -2802,7 +2802,7 @@ var games = [
         ,
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
         "extras": true
-    }
+    },
     {
         "name": "Expander",
         "url": "expander/Asu4Feus23ds",
