@@ -1,5 +1,59 @@
 var games = [
     {
+        "name": "6180 the moon",
+        "url": "6180themoon?preview=iaopvase",
+        "price": "3.99",
+        "description": "Get 6180 the moon instantly and DRM free!",
+        "developer": "Turtle Cream",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://gameclassy.com/blog/?p=230",
+            "desura": "http://www.desura.com/games/6180-the-moon",
+            "developer": "http://www.turtle-cream.com/"
+        },
+        "notes": "Store page: http://www.turtle-cream.com/",
+        "extras": false
+    },
+    {
+        "name": "6180 the moon (with soundtrack)",
+        "url": "6180themoon_soundtrackedition?preview=wehtranjr",
+        "price": "5.99",
+        "description": "Get 6180 the moon (and the soundtrack) instantly and DRM free!",
+        "developer": "Turtle Cream",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://gameclassy.com/blog/?p=230",
+            "desura": "http://www.desura.com/games/6180-the-moon",
+            "developer": "http://www.turtle-cream.com/"
+        },
+        "notes": "Store page: http://www.turtle-cream.com/",
+        "extras": false
+    },
+    {
         "name": "A.N.N.E.",
         "url": "anne?preview=lmX7v6blw6VX",
         "price": "15",
@@ -358,8 +412,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.youtube.com/watch?v=uUNxCCQBHHY",
+            "steam": "http://store.steampowered.com/app/250110/",
             "developer": "http://www.witchbeamgames.com/"
-        }
+        },
+        "extras": false
     },
     {
         "name": "Assault Android Cactus Deluxe",
@@ -381,6 +438,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.youtube.com/watch?v=uUNxCCQBHHY",
             "steam": "http://store.steampowered.com/app/250110/",
             "developer": "http://www.witchbeamgames.com/"
         },
@@ -668,6 +726,31 @@ var games = [
             "desura": "http://www.desura.com/games/blocks-that-matter",
             "developer": "http://www.swingswingsubmarine.com/"
         }
+    },
+    {
+        "name": "Blood of the Werewolf",
+        "url": "bloodofthewerewolf?preview=Wkdow93cskc9",
+        "price": "10",
+        "description": "Steam Greenlight PC Pre-order special 50% off! Full DRM free version available soon and Steam key available upon successful Greenlight",
+        "developer": "Scientifically Proven",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://www.facebook.com/scientifically"
+        },
+        "notes": "It's coming to Windows/Mac/Linux according to its Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=133210361",
+        "extras": false
     },
     {
         "name": "Botanicula",
@@ -1414,6 +1497,31 @@ var games = [
         }
     },
     {
+        "name": "Dark Scavenger",
+        "url": "darkscavenger?preview=Psldkwo109",
+        "price": "4.99",
+        "description": "Purchase Dark Scavenger and get it DRM-free for PC and Mac!",
+        "developer": "Psydra Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.darkscavenger.com/"
+        },
+        "notes": "Store page: http://www.darkscavenger.com/store/",
+        "extras": false
+    },
+    {
         "name": "Dead Pixels",
         "url": "deadpixels?preview=0qeKKdGfNfvO",
         "price": "2.99",
@@ -1768,6 +1876,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Disco Dodgeball (Early Access)",
+        "url": "robotroller_derbydiscododgeball?preview=duwkdjs0122ldk",
+        "price": "10",
+        "description": "Get a discounted copy now and receive all updates and the official release for free!",
+        "developer": "Erik Asmussen",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.82apps.com/"
+        },
+        "notes": "Store page: http://www.82apps.com/DiscoDodgeball/ \n Linux support coming soon: http://www.82apps.com/DiscoDodgeball/about.html",
+        "extras": false
+    },
+    {
         "name": "Distance Beta",
         "url": "distance/Dek8Hsu4Ts",
         "price": "15",
@@ -2082,6 +2215,31 @@ var games = [
             "developer": "http://www.dungeondashers.com"
         },
         "notes": "full name is Dungeon Dashers. Dungeon dashers should be searchable because of this note :P",
+        "extras": false
+    },
+    {
+        "name": "Dungeon of Elements",
+        "url": "dungeonofelements/Dhdu5Teg9Gdye",
+        "price": "19.99",
+        "description": "Dungeon of Elements is an RPG dungeon crawler with combat inspired by Dr. Mario and Tetris.",
+        "developer": "Frogdice",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://frogdice.com/"
+        },
+        "notes": "Store page: http://frogdice.com/dungeon-of-elements/buy/",
         "extras": false
     },
     {
@@ -2826,6 +2984,31 @@ var games = [
             "developer": "http://www.allcivilizedplanets.com"
         },
         "notes": "The game is also available on the iOS AppStore, Google Play and the Mac AppStore.",
+        "extras": false
+    },
+    {
+        "name": "Fancy Skulls",
+        "url": "fancyskulls/Fdkwo1ksl",
+        "price": "6.99",
+        "description": "Get Fancy Skulls alpha instantly! DRM-free for Mac, PC and Linux.",
+        "developer": "tequibo",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://tequibo.com/"
+        },
+        "notes": "Store page: http://fancyskulls.com/ \n Steam key available if/when the game gets Greenlit",
         "extras": false
     },
     {
@@ -4878,6 +5061,32 @@ var games = [
         }
     },
     {
+        "name": "Micron",
+        "url": "micron/Hekwodk2l",
+        "price": "3",
+        "description": "Get Micron instantly! Cross-platform and DRM-free.",
+        "developer": "Apparition Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/micron",
+            "developer": "http://apparitiongames.com/"
+        },
+        "notes": "Store page: http://microngame.com/",
+        "extras": false
+    },
+    {
         "name": "MirrorMoon EP",
         "url": "mirrormoonep_beta/Mdh6Tfsr3Rtd",
         "price": "9.99",
@@ -5798,6 +6007,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Real World Racing",
+        "url": "realworldracing/Rdh7Yshf4Rsd",
+        "price": "14.99",
+        "description": "Get Real World Racing now! ",
+        "developer": "Playstos Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://truepcgaming.com/2013/03/01/real-world-racing-beta-review/",
+            "developer": "http://www.playstos.com/"
+        },
+        "notes": "Store page: http://www.realworldracing.com/",
+        "extras": false
+    },
+    {
         "name": "Receiver",
         "url": "receiver",
         "price": "4.99",
@@ -5917,6 +6152,33 @@ var games = [
             "drm-free": false
         },
         "notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
+    },
+    {
+        "name": "Ring Runner: Flight of the Sages",
+        "url": "ringrunner_flightofthesages?preview=Hdkwokd23kld",
+        "price": "9.99",
+        "description": "Get Ring Runner instantly; Space Defense League expansion included! DRM-free for Windows.",
+        "developer": "Triple.B.Titles",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/07/19/161341/",
+            "desura": "http://www.desura.com/games/ring-runner-flight-of-the-sages",
+            "developer": "http://ringrunner.net"
+        },
+        "notes": "Store page: http://ringrunner.net/store.html",
+        "extras": true
     },
     {
         "name": "RIOT",
@@ -6700,6 +6962,33 @@ var games = [
         }
     },
     {
+        "name": "Spud's Quest",
+        "url": "spudsquest?preview=Shu7Gyh3Dfgt",
+        "price": "8",
+        "description": "Get Spud's Quest for Windows PC instantly! -Completely DRM free! ($8) \n Get Spud's Quest for Windows PC Instantly! -Includes the Spud's Quest Soundtrack -Completely DRM free ($16)",
+        "developer": "Chris Davis",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://i-luv-games.com/?p=1966",
+            "desura": "http://www.desura.com/games/spuds-quest",
+            "developer": "http://www.spudsquest.com/"
+        },
+        "notes": "Store page: http://www.spudsquest.com/ \n Steam and GOG keys if the game is accepted on those stores",
+        "extras": false
+    },
+    {
         "name": "Starbound (Pixel Tier)",
         "url": "starbound_tier1?preview=4uQR712V5n",
         "price": "15",
@@ -7188,6 +7477,31 @@ var games = [
         "notes": "Game website: http://skygoblin.com/the-journey-down/ although there's no link to the Humble Store widget there"
     },
     {
+        "name": "The Maker's Eden",
+        "url": "themakersedenact1?preview=Edkso19sls",
+        "price": "4.50",
+        "description": "Get Act 1 of The Maker's Eden as soon as it releases in January! Cross-platform and DRM-free <3 ($4.50) \n Get the Act 1 Soundtrack immediately, and get Act 1 of The Maker's Eden as soon as it releases in January! Cross-platform and DRM-free <3 ($9)",
+        "developer": "ScrewyLightbulb",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://makerseden.screwylightbulb.com/"
+        },
+        "notes": "Pre-order. \n Store page: http://makerseden.screwylightbulb.com/?action=view&url=the-makers-eden-pre-order-and-demo",
+        "extras": false
+    },
+    {
         "name": "The Real Texas",
         "url": "therealtexas?preview=H8ahfyT6st",
         "price": "14.95",
@@ -7212,6 +7526,33 @@ var games = [
             "developer": "http://kittylambda.com/"
         },
         "notes": "Webstore: http://therealtexasgame.com/#buynow",
+        "extras": false
+    },
+    {
+        "name": "The Sea Will Claim Everything",
+        "url": "theseawillclaimeverything?preview=Sedjiwo129dkc",
+        "price": "10",
+        "description": "Get The Sea Will Claim Everything instantly! Completely DRM-free.",
+        "developer": "Jonas Kyratzes",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/21577",
+            "desura": "http://www.desura.com/games/the-sea-will-claim-everything",
+            "developer": "http://landsofdream.net/"
+        },
+        "notes": "Store page: http://landsofdream.net/games/the-sea-will-claim-everything/",
         "extras": false
     },
     {
