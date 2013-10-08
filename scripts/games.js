@@ -3840,6 +3840,32 @@ var games = [
         "notes": "Original Website: http://www.hammerwatch.com"
     },
     {
+        "name": "Hive",
+        "url": "hive/Hiv7Thsy3RDe",
+        "price": "6.99",
+        "description": "Get the popular board game, Hive, at a discounted pre-order price! Officially licensed and DRM-free. Includes Steam key!",
+        "developer": "BlueLine Game Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/251210/",
+            "developer": "http://www.bluelinegamestudios.com/"
+        },
+        "notes": "Digital version of award-winning two player boardgame. $6.99 is preorder price. Normal price $9.99. Releases \"November\".",
+        "extras": false
+    },
+    {
         "name": "Hotline Miami",
         "url": "hotlinemiami?preview=Sj3j2hsozpn",
         "price": "9.99",
