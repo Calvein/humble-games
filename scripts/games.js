@@ -1445,7 +1445,7 @@ var games = [
         "URL": {
             "developer": "http://www.lostdecadegames.com/"
         },
-        "notes": "Webstore: http://www.cryptrun.com/buy/ \n Linux version available if $10k are raised in the game's Kickstarter campaign: http://www.kickstarter.com/projects/richtaur/crypt-run-death-is-just-the-beginning",
+        "notes": "Webstore: http://www.cryptrun.com/buy/",
         "extras": true
     },
     {
@@ -5070,8 +5070,8 @@ var games = [
         "name": "Mercenary Kings",
         "url": "mercenarykings?preview=sJs83hwnslzh",
         "price": "15",
-        "description": "Pre-order Mercenary Kings now! Receive it the minute it comes out! DRM-free!",
-        "developer": "Tribite Games",
+        "description": "Buy Mercenary Kings now and get Steam Early Access keys instantly!",
+        "developer": "Tribute Games",
         "platform": {
             "android": false,
             "windows": true,
@@ -5080,7 +5080,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -5430,27 +5430,6 @@ var games = [
         }
     },
     {
-        "name": "The Novelist",
-        "url": "thenovelist?preview=QKikXp8loEAg",
-        "price": "14.99",
-        "description": "Get the game DRM-free on Mac and Windows. Enjoy a 25% preorder discount (regular price $19.99) plus a copy of the soundtrack on release!",
-        "developer": "Orthogonal Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "greenlight": true,
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "NOWHERE",
         "url": "nowhere_alpha/Ndhu8Tgey5Fd",
         "price": "21",
@@ -5666,7 +5645,7 @@ var games = [
         "name": "Paranautical Activity",
         "url": "paranauticalactivity?preview=Ush6Rdu9Dsa",
         "price": "5.99",
-        "description": "Get Paranautical Activity instantly! Cross-platform and DRM-free.",
+        "description": "Get Paranautical Activity instantly! Cross-platform and DRM-free + Steam key.",
         "developer": "Code Avarice",
         "platform": {
             "android": false,
@@ -5676,7 +5655,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -6829,7 +6808,7 @@ var games = [
     },
     "drm": {
         "steam": false,
-        "desura": true,
+        "desura": false,
         "gog": false,
         "drm-free": false
     },
@@ -6838,7 +6817,34 @@ var games = [
         "desura": "http://www.desura.com/games/sky-nations",
         "developer": "http://skynations.net/presskit/index.php"
     },
-    "notes": "It is unknown if this game receives a desura key, or if it is simply also being sold there. Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+    "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+    "extras": false
+    },
+    {
+    "name": "Sky Nations 4-Pack",
+    "url": "skynations_4pack/Sdh7Tshs64Fs",
+    "price": "15",
+    "description": "Pre-order now to get the Alpha! This is a multiplayer Airship exploration game in a world of floating isles for you to explore. Includes 3 extra gift keys.",
+    "developer": "MrBenjammin Games",
+    "platform": {
+        "android": false,
+        "linux": false,
+        "windows": true,
+        "mac": false,
+        "audio": false
+    },
+    "drm": {
+        "steam": false,
+        "desura": false,
+        "gog": false,
+        "drm-free": false
+    },
+    "URL": {
+        "review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
+        "desura": "http://www.desura.com/games/sky-nations",
+        "developer": "http://skynations.net/presskit/index.php"
+    },
+    "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
     "extras": false
     },
     {
@@ -7528,6 +7534,27 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Novelist",
+        "url": "thenovelist?preview=QKikXp8loEAg",
+        "price": "14.99",
+        "description": "Get the game DRM-free on Mac and Windows. Soundtrack included as a preorder bonus (available on game release). Steam key included.",
+        "developer": "Orthogonal Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "greenlight": true,
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+    },
+    {
         "name": "The Real Texas",
         "url": "therealtexas?preview=H8ahfyT6st",
         "price": "14.95",
@@ -8186,13 +8213,13 @@ var games = [
         "URL": {
         "developer": "http://www.runestorm.com/"
         },
-        "notes": "$5.00 represents early access price and may increase in future.\nHas already been Greenlit and all purchases will be retroactively awarded a Steam key."
+        "notes": "$5.00 represents early access price and may increase in future. \n Has already been Greenlit and all purchases will be retroactively awarded a Steam key."
     },
     {
         "name": "Volgar The Viking",
         "url": "volgarrtheviking?preview=Hl5o25SJrwbh",
         "price": "11.99",
-        "description": "Pre-Order Volgarr the Viking and get it when it's released, DRM-free!",
+        "description": "Buy Volgarr the Viking and get it instantly, DRM-free! Includes a Steam key & digital manual.",
         "developer": "Crazy Viking Studios",
         "platform": {
             "android": false,
@@ -8206,7 +8233,8 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "extras": true
     },
     {
         "name": "Vox",
