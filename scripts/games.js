@@ -2712,6 +2712,98 @@ var games = [
         "extras": false
     },
     {
+        "name": "Ethan: Meteor Hunter",
+        "url": "ethanmeteorhunter/Met6Ger7Had",
+        "price": "9.90",
+        "description": "Get Ethan: Meteor Hunter instantly! And DRM-free.",
+        "developer": "Seaven Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+        ,
+        "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "extras": false
+    }
+    {
+        "name": "Ethan: Meteor Hunter Deluxe",
+        "url": "ethanmeteorhunter_deluxe/Met6Ger7Had",
+        "price": "14.90",
+        "description": "Get Ethan: Meteor Hunter with soundtrack, wallpapers, artbook & game guide! All DRM-free.",
+        "developer": "Seaven Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+        ,
+        "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "extras": true
+    }
+    {
+        "name": "Ethan: Meteor Hunter Early Adopter",
+        "url": "ethanmeteorhunter_early/Met6Ger7Had",
+        "price": "19.90",
+        "description": "Get Ethan: Meteor Hunter with soundtrack, artbook & game guide before anyone else! All DRM-free.",
+        "developer": "Seaven Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+        ,
+        "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "extras": true
+    }
+    {
+        "name": "Ethan: Meteor Hunter Supporter Edition",
+        "url": "ethanmeteorhunter_supporter/Met6Ger7Had",
+        "price": "29.90",
+        "description": "Get Ethan: Meteor Hunter with soundtrack, artbook, game guide before anyone else and special thanks in the credits! All DRM-free.",
+        "developer": "Seaven Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+        ,
+        "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "extras": true
+    }
+    {
         "name": "Expander",
         "url": "expander/Asu4Feus23ds",
         "price": "2.49",
@@ -8063,29 +8155,6 @@ var games = [
             "gog": false,
             "drm-free": true
         }
-    }
-    ,
-    {
-        "name": "Ethan - Meteor Hunter",
-        "url": "ethanmeteorhunter/Met6Ger7Had",
-        "price": "9.90",
-        "description": "Ethan: Meteor Hunter mixes puzzles and platformers core action mechanics with an innovative mechanic: telekinesia. ",
-        "developer": "Seaven Studio",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-        ,
-        "notes": "Store page http://www.ethan-game.com/"
     }
 
 ]
