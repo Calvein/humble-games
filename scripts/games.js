@@ -7534,6 +7534,50 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Mysterious Cities of Gold: Secret Paths",
+        "url": "themysteriouscitiesofgold_secretpaths/sdkIwkd02kdlVm",
+        "price": "14.99",
+        "description": "Pre-order The Mysterious Cities of Gold: Secret Paths now! When it's ready, you will get access to DRM-free version. Estimated delivery date is November 2013!",
+        "developer": "Ynnis Interactive",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "notes": "Store page: http://mysteriouscitiesofgold.vg/",
+        "extras": false
+    },
+    {
+        "name": "Child of the Sun Pack",
+        "url": "childofthesunpack/sdkIwkd02kdlVm",
+        "price": "29.99",
+        "description": "Pre-order The Mysterious Cities of Gold: Secret Paths + Digital Art Book. DRM-free. Estimated delivery date is November 2013!",
+        "developer": "Ynnis Interactive",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "notes": "Store page: http://mysteriouscitiesofgold.vg/",
+        "extras": true
+    },
+    {
         "name": "The Novelist",
         "url": "thenovelist?preview=QKikXp8loEAg",
         "price": "14.99",
