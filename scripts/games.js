@@ -7291,6 +7291,10 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/212110/",
+            "developer": "http://www.turtle-cream.com/"
         }
     },
     {
@@ -7307,10 +7311,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/221640/",
+            "developer": "http://www.superhexagon.com/"
         }
     },
     {
