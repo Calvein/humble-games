@@ -5811,6 +5811,32 @@ var games = [
         }
     },
     {
+        "name": "Pixel Boy",
+        "url": "pixelboy/Pdkwl23k3k",
+        "price": "4.99",
+        "description": "Pre-order Pixel Boy for PC, and receive a Steam key once it becomes available.",
+        "developer": "Giant Box Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=-KbZ27G2j-M",
+            "developer": "http://pixelboygame.com/about/"
+        },
+        "notes": "Pre-order at 50% off. Steam and Desura keys coming when the game is released on those platforms. \n Store page: http://pixelboygame.com/",
+        "extras": false
+    },
+    {
         "name": "Potatoman Seeks the Troof Bundle",
         "url": "potatomanseeksthetroofbundle?preview=S93sdhSDFbx",
         "price": "5",
