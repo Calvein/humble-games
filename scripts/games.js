@@ -3399,6 +3399,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Glare",
+        "url": "glare/Gdh8Te5Dsr",
+        "price": "14.99",
+        "description": "Purchase Glare now and get it on PC, Mac, and Linux! Cross-platform and DRM-free.",
+        "developer": "Phobic Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-glare-263404.phtml",
+            "steam": "http://store.steampowered.com/app/243140/",
+            "developer": "http://www.phobicstudios.com/"
+        },
+        "notes": "Store page: http://www.glaregame.com/",
+        "extras": false
+    },
+    {
         "name": "God of Blades",
         "url": "godofblades?preview=Sjd92h2nXa",
         "price": "4.99",
