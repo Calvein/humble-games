@@ -7503,6 +7503,32 @@ var games = [
         }
     },
     {
+        "name": "Tetrobot and Co.",
+        "url": "tetrobotandco/asOIsdlke0283t",
+        "price": "11.99",
+        "description": "Purchase Tetrobot and Co. and get your Steam key instantly! Future access to DRM-free version when available.",
+        "developer": "Swing Swing Submarine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/235980/",
+            "developer": "http://www.swingswingsubmarine.com/"
+        },
+        "notes": "Available for $10.79 until the 22nd of October as a launch deal. Buying from Steam provides a free copy of Blocks that Matter but I am unsure whether buying via Humble Widget also offers this. Will be available on Android and iOS \"later\".",
+        "extras": false
+    },
+    {
         "name": "The Adventures of Shuggy",
         "url": "theadventuresofshuggy",
         "price": "5",
