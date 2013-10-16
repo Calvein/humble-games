@@ -6365,8 +6365,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -6374,7 +6374,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/rogue-legacy-review/1900-6411102/",
+            "steam": "http://store.steampowered.com/app/241600/",
+            "desura": "http://www.desura.com/games/rogue-legacy"
+            "developer": "http://cellardoorgames.com/blog/"
+        },
+        "notes": "Store page: http://www.roguelegacy.com/",
+        "extras": false
     },
     {
         "name": "Rooks Keep",
