@@ -6378,7 +6378,7 @@ var games = [
         "URL": {
             "review": "http://www.gamespot.com/reviews/rogue-legacy-review/1900-6411102/",
             "steam": "http://store.steampowered.com/app/241600/",
-            "desura": "http://www.desura.com/games/rogue-legacy"
+            "desura": "http://www.desura.com/games/rogue-legacy",
             "developer": "http://cellardoorgames.com/blog/"
         },
         "notes": "Store page: http://www.roguelegacy.com/",
@@ -7033,6 +7033,162 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Spacebase DF-9: Breather",
+        "url": "spacebasedf9_tier1/Sdh7Gdte9Fey",
+        "price": "25",
+        "description": "Get immediate Steam access to the Spacebase DF-9 alpha, including access to all future updates!",
+        "developer": "Double Fine",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/246090/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://www.spacebasedf9.com/buy",
+        "extras": false
+    },
+    {
+        "name": "Spacebase DF-9: Sentient Lifeform",
+        "url": "spacebasedf9_tier2/Sdh7Gdte9Fey",
+        "price": "30",
+        "description": "Get immediate Steam access to the Spacebase DF-9 alpha! Includes access to all future updates, soundtrack & wallpapers!",
+        "developer": "Double Fine",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/246090/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://www.spacebasedf9.com/buy",
+        "extras": true
+    },
+    {
+        "name": "Spacebase DF-9: Intrepid Explorer",
+        "url": "spacebasedf9_tier3/Sdh7Gdte9Fey",
+        "price": "40",
+        "description": "Get immediate Steam access to the Spacebase DF-9 alpha! Includes all the previous rewards + Costume Quest, Stacking & Psychonauts Steam keys!",
+        "developer": "Double Fine",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/246090/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://www.spacebasedf9.com/buy",
+        "extras": true
+    },
+    {
+        "name": "Spacebase DF-9: Famous Citizen",
+        "url": "spacebasedf9_tier4/Sdh7Gdte9Fey",
+        "price": "50",
+        "description": "Get immediate Steam access to the Spacebase DF-9 alpha! Includes all the previous rewards + your name in the credits and on a random base citizen!",
+        "developer": "Double Fine",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/246090/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://www.spacebasedf9.com/buy",
+        "extras": true
+    },
+    {
+        "name": "Spacebase DF-9: Stargazer",
+        "url": "spacebasedf9_tier5/Sdh7Gdte9Fey",
+        "price": "100",
+        "description": "Get immediate Steam access to the Spacebase DF-9 alpha! Includes all the previous rewards + a Spacebase DF-9 poster!",
+        "developer": "Double Fine",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/246090/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://www.spacebasedf9.com/buy",
+        "extras": true
+    },
+    {
+        "name": "Spacebase DF-9: Extradimensional Entity",
+        "url": "spacebasedf9_tier6/Sdh7Gdte9Fey",
+        "price": "250",
+        "description": "Get immediate Steam access to the Spacebase DF-9 alpha! Includes all the previous rewards + a signed and numbered Spacebase DF-9 poster art print!",
+        "developer": "Double Fine",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/246090/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://www.spacebasedf9.com/buy",
+        "extras": true
     },
     {
         "name": "Spirits",
