@@ -129,6 +129,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Aeternum",
+        "url": "aeternum/Ajdjwi12kdj",
+        "price": "2.99",
+        "description": "Get Aeternum instantly! DRM-free.",
+        "developer": "WastedBrilliance",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "",
+            "steam": "",
+            "desura": "http://www.desura.com/games/aeternum",
+            "developer": "http://wastedbrilliance.com"
+        },
+        "notes": "Official site: http://AeternumGame.com",
+        "extras": false
+    },
+    {
         "name": "Amnesia: A Machine for Pigs",
         "url": "amnesiaamachineforpigs?preview=Skj382hsnblz",
         "price": "20",
