@@ -148,8 +148,6 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
-            "steam": "",
             "desura": "http://www.desura.com/games/aeternum",
             "developer": "http://wastedbrilliance.com"
         },
