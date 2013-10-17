@@ -6432,6 +6432,32 @@ var games = [
         "notes": "Original webstore: http://www.runestorm.com/rook/buy"
     },
     {
+        "name": "Roundabout",
+        "url": "roundabout/Rdhu7Tegh4Sf",
+        "price": "9.99",
+        "description": "[33% OFF] EARLY BIRD SALE! Come visit Roundabout: a city with a twist. Pre-order for exclusive digital art book and soundtrack bonuses.",
+        "developer": "No Goblin",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "",
+            "developer": "http://www.nogoblin.com/"
+        },
+        "notes": "Early Bird preorder includes soundtrack and digital art book. Normal price $14.99.",
+        "extras": true
+    },
+    {
         "name": "Samorost2",
         "url": "samorost2",
         "price": "5",
