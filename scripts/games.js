@@ -6451,7 +6451,6 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "",
             "developer": "http://www.nogoblin.com/"
         },
         "notes": "Early Bird preorder includes soundtrack and digital art book. Normal price $14.99.",
