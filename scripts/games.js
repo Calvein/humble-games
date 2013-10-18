@@ -8897,6 +8897,52 @@ var games = [
         "notes": "Store page http://nightlightinteractive.com/"
     },
     {
+        "name": "WizFight",
+        "url": "wizfight/Wkdkwo1ldksl",
+        "price": "5",
+        "description": "Buy now and get instant access to alpha builds!",
+        "developer": "Another Day, Another Game",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://anotherdayanotherga.me"
+        },
+    },
+    {
+        "name": "Design a Wizard Edition",
+        "url": "wizfight_designawizard/Wkdkwo1ldksl",
+        "price": "15",
+        "description": "Buy WizFight - Design a Wizard Edition and get instant access to alpha builds! You also get the chance to design a wizard for the game + any future bonuses!",
+        "developer": "Another Day, Another Game",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://anotherdayanotherga.me"
+        },
+    },
+    {
         "name": "Wizorb",
         "url": "wizorb",
         "price": "3",
