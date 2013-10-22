@@ -129,6 +129,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Actual Sunlight",
+        "url": "actualsunlight/Ash7Gys5Tgs",
+        "price": "5",
+        "description": "A short interactive story about love, depression and the corporation.",
+        "developer": "Will O'Neill",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/02/11/thoughts-on-actual-sunlight/",
+            "desura": "http://www.desura.com/games/actual-sunlight",
+            "developer": "http://www.actualsunlight.com/"
+        },
+        "notes": "Available on Desura however am uncertain whether Humble Store purchase provides a Desura key. Currently seeking votes on Steam Greenlight: http://steamcommunity.com/sharedfiles/filedetails/?id=132375295",
+        "extras": false
+    },
+    {
         "name": "Aeternum",
         "url": "aeternum/Ajdjwi12kdj",
         "price": "2.99",
@@ -4372,6 +4399,30 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Jazzpunk",
+        "url": "jazzpunk/asdo23Sikalwo1",
+        "price": "15",
+        "description": "Pre-Order Jazzpunk for Windows, Mac and Linux, all DRM-free. Available January 2014!",
+        "developer": "Necrophone Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://necrophonegames.com/"
+        },
+        "extras": false
     },
     {
         "name": "Jolly Rover",
