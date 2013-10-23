@@ -9080,6 +9080,31 @@ var games = [
         }
     },
     {
+        "name": "Wyv and Keep",
+        "url": "wyvandkeep?preview=q8zXphTV4qAB",
+        "price": "9.99",
+        "description": "Ready to play? Get your copy of Wyv and Keep, DRM- free & cross-platform + Desura key instantly! Delivered securely by the Humble Store",
+        "developer": "A Jolly Corpse",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/wyv-and-keep-temple-of-the-lost-idol",
+            "developer": "http://www.jollycorpse.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Pre-Order Xenonauts",
         "url": "xenonautsstrategicplanetarydefencesimulator?preview=nR8dyC0hW0dE",
         "price": "19.99",
