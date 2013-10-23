@@ -9144,6 +9144,34 @@ var games = [
             "gog": false,
             "drm-free": true
         }
-    }
+    },
+    {
+    "name": "Wyv and Keep",
+    "url": "http://www.humblebundle.com/store/product/wyvandkeep?preview=q8zXphTV4qAB",
+    "price": "9.99",
+    "description": "Ready to play? Get your copy of Wyv and Keep, DRM- free & cross-platform + Desura key instantly! Delivered securely by the Humble Store",
+    "developer": "A Jolly Corpse",
+    "platform": {
+        "android": false,
+        "linux": true,
+        "windows": true,
+        "mac": true,
+        "audio": true
+    },
+    "drm": {
+        "steam": false,
+        "desura": true,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "",
+        "steam": "",
+        "desura": "http://www.desura.com/games/wyv-and-keep-temple-of-the-lost-idol",
+        "developer": "http://www.jollycorpse.com/"
+    },
+    "notes": "",
+    "extras": false
+    },
 
 ]
