@@ -3880,7 +3880,7 @@ var games = [
     {
         "name": "Gunpoint: Exclusive Edition",
         "url": "gunpoint_exclusiveedition?preview=djS894h2nS",
-        "price": "20",
+        "price": "30",
         "description": "Pre-order now and get everything in the Special Edition + Making of Gunpoint video, 9 early prototypes, exclusive music tracks, and be on the Secret Beta List!",
         "developer": "Suspicious Developments",
         "platform": {
