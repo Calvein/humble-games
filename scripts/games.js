@@ -601,6 +601,56 @@ var games = [
         }
     },
     {
+        "name": "A Wizard's Lizard",
+        "url": "cryptrun/Cdy6Dgsy3Fts",
+        "price": "12",
+        "description": "Pre-order A Wizard's Lizard at 20% off! Cross-platform and DRM free!",
+        "developer": "Lost Decade Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lostdecadegames.com/"
+        },
+        "notes": "Store page: http://www.wizardslizard.com/",
+        "extras": false
+    },
+    {
+        "name": "A Wizard's Lizard: Early Access",
+        "url": "cryptrun_alpha/Cdy6Dgsy3Fts",
+        "price": "25",
+        "description": "Get A Wizard's Lizard early alpha access! Receive weekly alpha builds of the game during development and the original soundtrack after.",
+        "developer": "Lost Decade Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lostdecadegames.com/"
+        },
+        "notes": "Store page: http://www.wizardslizard.com/",
+        "extras": true
+    },
+    {
         "name": "Bastion",
         "url": "bastion",
         "price": "14.99",
@@ -1476,56 +1526,6 @@ var games = [
         },
         "notes": "Not released yet, This is a preorder.",
         "extras": false
-    },
-    {
-        "name": "Crypt Run",
-        "url": "cryptrun/Cdy6Dgsy3Fts",
-        "price": "12",
-        "description": "Pre-order Crypt Run at 20% off! Cross-platform and DRM free!",
-        "developer": "Lost Decade Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.lostdecadegames.com/"
-        },
-        "notes": "Webstore: http://www.cryptrun.com/buy/",
-        "extras": false
-    },
-    {
-        "name": "Crypt Run: Early Alpha Access",
-        "url": "cryptrun_alpha/Cdy6Dgsy3Fts",
-        "price": "25",
-        "description": "Get Crypt Run early alpha access! Receive weekly alpha builds of the game during development and the original soundtrack after.",
-        "developer": "Lost Decade Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.lostdecadegames.com/"
-        },
-        "notes": "Webstore: http://www.cryptrun.com/buy/",
-        "extras": true
     },
     {
         "name": "Cryptic Sea EP",
