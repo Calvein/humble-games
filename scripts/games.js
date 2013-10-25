@@ -1279,6 +1279,30 @@ var games = [
         "extras": true
     },
     {
+        "name": "Chromatose",
+        "url": "chromatose/ckdwokalsk1",
+        "price": "4.99",
+        "description": "Buy now and get Chromatose instantly! DRM-free for PC only!",
+        "developer": "Aime See",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.chromatosegame.net/"
+        },
+        "extras": false
+    },
+    {
         "name": "City Quest",
         "url": "cityquest/Cajh7TDsg4e",
         "price": "8",
