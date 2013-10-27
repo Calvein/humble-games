@@ -7691,7 +7691,7 @@ var games = [
         }
     },
     {
-        "name": "Super Splatters",
+        "name": "Super Splatters Pre-Order",
         "url": "supersplatters?preview=swDZivGKrr3g",
         "price": "7",
         "description": "Pre-order Super Splatters now and receive it instantly once the game is out!",
@@ -7707,10 +7707,40 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
-        "sale": true,
-        "notes": "Sale ends around ??? unknown, regular price is $10"
+        "URL": {
+            "review": "http://indiegamereviewer.com/review-super-splatters-by-spikysnail-games/",
+            "steam": "http://store.steampowered.com/app/95000",
+            "developer": "http://spikysnail.com/category/spikysnail_blog/"
+        }
+        "notes": "The game has been released long ago, so it's not clear whether this 30% off pre-order widget is still working."
+    },
+    {
+        "name": "Super Splatters",
+        "url": "store/supersplatters_multitier?preview=swDZivGKrr3g",
+        "price": "9.99",
+        "description": "Buy now and get both a steam key and the DRM free version instantly! ($9.99) \n Buy now and get both a steam key and the DRM free version instantly + get the amazing original soundtrack by Egozot! ($14.99)",
+        "developer": "SpikySnail",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamereviewer.com/review-super-splatters-by-spikysnail-games/",
+            "steam": "http://store.steampowered.com/app/95000",
+            "developer": "http://spikysnail.com/category/spikysnail_blog/"
+        }
+        "notes": "Store page: http://spikysnail.com/#watch-headline-title"
     },
     {
         "name": "Super Ubie Land",
