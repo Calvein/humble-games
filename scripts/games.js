@@ -7713,7 +7713,7 @@ var games = [
             "review": "http://indiegamereviewer.com/review-super-splatters-by-spikysnail-games/",
             "steam": "http://store.steampowered.com/app/95000",
             "developer": "http://spikysnail.com/category/spikysnail_blog/"
-        }
+        },
         "notes": "The game has been released long ago, so it's not clear whether this 30% off pre-order widget is still working."
     },
     {
@@ -7739,7 +7739,7 @@ var games = [
             "review": "http://indiegamereviewer.com/review-super-splatters-by-spikysnail-games/",
             "steam": "http://store.steampowered.com/app/95000",
             "developer": "http://spikysnail.com/category/spikysnail_blog/"
-        }
+        },
         "notes": "Store page: http://spikysnail.com/#watch-headline-title"
     },
     {
