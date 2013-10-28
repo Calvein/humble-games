@@ -7718,7 +7718,7 @@ var games = [
     },
     {
         "name": "Super Splatters",
-        "url": "store/supersplatters_multitier?preview=swDZivGKrr3g",
+        "url": "supersplatters_multitier?preview=swDZivGKrr3g",
         "price": "9.99",
         "description": "Buy now and get both a steam key and the DRM free version instantly! ($9.99) \n Buy now and get both a steam key and the DRM free version instantly + get the amazing original soundtrack by Egozot! ($14.99)",
         "developer": "SpikySnail",
