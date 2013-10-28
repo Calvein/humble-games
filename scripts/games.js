@@ -3750,31 +3750,6 @@ var games = [
         }
     },
     {
-        "name": "Grim Dawn Digital Release",
-        "url": "grimdawn-1?preview=J2soPnxhdSxG",
-        "price": "20",
-        "description": "Download the full game upon release, DRM free and on Steam!",
-        "developer": "Crate Entertainment",
-        "platform": {
-            "android": false,
-            "windows": false,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
-            "developer": "http://www.crateentertainment.com/"
-        },
-        "extras": false
-    },
-    {
         "name": "Grim Dawn Pioneer Edition",
         "url": "grimdawn-2?preview=J2soPnxhdSxG",
         "price": "35",
@@ -4282,56 +4257,6 @@ var games = [
         "url": "ironclad_digitalonly/Ieyh7Fsdw45",
         "price": "39.99",
         "description": "Buy now and get Ironclad Tactics and Receive SpaceChem + DLC now! Includes the remaining digital extras after. No physical extras included.",
-        "developer": "Zachtronics",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://www.zachtronics.com/"
-        },
-        "notes": "Webstore: http://ironcladtactics.com/the-extra-extra-bundle/",
-        "extras": true
-    },
-    {
-        "name": "The Extra! Extra! Bundle (US)",
-        "url": "ironclad_extra_us/Ieyh7Fsdw45",
-        "price": "56.99",
-        "description": "Buy now and get Ironclad Tactics and SpaceChem + DLC now! Also includes the remaining extras. Includes shipping within the US.",
-        "developer": "Zachtronics",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://www.zachtronics.com/"
-        },
-        "notes": "Webstore: http://ironcladtactics.com/the-extra-extra-bundle/",
-        "extras": true
-    },
-    {
-        "name": "The Extra! Extra! Bundle (INT)",
-        "url": "ironclad_extra_int/Ieyh7Fsdw45",
-        "price": "65.99",
-        "description": "Buy now and get Ironclad Tactics and SpaceChem + DLC now! Also includes the remaining extras. Includes shipping anywhere.",
         "developer": "Zachtronics",
         "platform": {
             "android": false,
