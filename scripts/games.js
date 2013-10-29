@@ -1501,8 +1501,34 @@ var games = [
         }
     },
     {
+        "name": "Crea Beta",
+        "url": "crea_gameonly/aECF9PQKtbeB",
+        "price": "15",
+        "description": "Preorder now and get immediate beta access to Crea for Windows, Mac, and Linux!",
+        "developer": "Siege Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamers.com/game/crea.11/",
+            "developer": "http://siegegames.com"
+        },
+        "notes": "Store page: http://siegegames.com/preorder/",
+        "extras": false
+    },
+    {
         "name": "Crea Beta + More",
-        "url": "crea?preview=aECF9PQKtbeB",
+        "url": "crea/aECF9PQKtbeB",
         "price": "25",
         "description": "Preorder now and get immediate beta access to Crea for Windows, Mac, and Linux! Soundtrack and digital artbook available at release.",
         "developer": "Siege Games",
@@ -1523,6 +1549,7 @@ var games = [
             "review": "http://indiegamers.com/game/crea.11/",
             "developer": "http://siegegames.com"
         },
+        "notes": "Store page: http://siegegames.com/preorder/",
         "extras": true
     },
     {
