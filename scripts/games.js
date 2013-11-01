@@ -5278,7 +5278,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": false,
             "audio": false
         },
@@ -5298,7 +5298,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": false,
             "audio": false
         },
