@@ -5941,6 +5941,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Pixel: ru²",
+        "url": "pixel_ru/Psldk1lk34k",
+        "price": "16.77",
+        "description": "The alpha build is currently only available for Windows. We are working on a build for Linux, but it is still in development.",
+        "developer": "C63 Industries",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://areyousquared.com/"
+        },
+        "notes": "Currently on sale at 40% off",
+        "extras": false
+    },
+    {
         "name": "Potatoman Seeks the Troof Bundle",
         "url": "potatomanseeksthetroofbundle?preview=S93sdhSDFbx",
         "price": "5",
