@@ -1,5 +1,33 @@
 var games = [
     {
+        "name": "It came from space and ate our brains",
+        "url": "itcamefromspaceandateourbrains?preview=Iskdlwk1ldk",
+        "price": "2.99",
+        "description": "Get It came from space, and ate our brains instantly! Cross-platform and DRM-free.",
+        "developer": "Triangle Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://itcamefromspaceandateourbrains.com/",
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=188743383",
+            "desura": "",
+            "developer": "http://www.triangle-studios.com"
+        },
+        "notes": "",
+        "extras": false
+    },
+    {
         "name": "6180 the moon",
         "url": "6180themoon?preview=iaopvase",
         "price": "3.99",
