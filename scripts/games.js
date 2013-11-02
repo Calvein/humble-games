@@ -104,6 +104,30 @@ var games = [
         "extras": true
     },
     {
+        "name": "Aaru's Awakening",
+        "url": "aarusawakening/Akdlsk1oek",
+        "price": "14.99",
+        "description": "Be the first to get Aaru's Awakening by pre-ordering now. You can even win special pre-order prize!",
+        "developer": "Lumenox Games",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://www.lumenoxgames.com/"
+        },
+        "extras": true
+    },
+    {
         "name": "Aces Wild: Manic Brawling Action",
         "url": "aceswild?preview=Adh87Yahbe",
         "price": "9.99",
@@ -958,6 +982,31 @@ var games = [
         }
     },
     {
+        "name": "Cannon Brawl",
+        "url": "cannonbrawl?preview=Gyyew3NJhmJT",
+        "price": "10",
+        "description": "Get a steam key for Cannon Brawl instantly! Currently only for PC.",
+        "developer": "Turtle Sandbox LLC",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": false
+        },
+        "drm": {
+                "steam": true,
+                "desura": false,
+                "gog": false,
+                "drm-free": false
+        },
+        "URL": {
+                "steam": "http://store.steampowered.com/app/230860/",
+                "developer": "http://turtle-sandbox.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Cardinal Quest",
         "url": "cardinalquest",
         "price": "5",
@@ -983,30 +1032,30 @@ var games = [
         }
     },
     {
-    "name": "Castle Story beta",
-    "url": "castlestory_store",
-    "price": "20",
-    "description": "Pre-order Castle Story and get access to the the beta version as soon as it's ready.",
-    "developer": "Sauropod Studio",
-    "platform": {
-        "android": false,
-        "linux": true,
-        "windows": true,
-        "mac": true,
-        "audio": false
-    },
-    "drm": {
-        "steam": true,
-        "desura": false,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "steam": "http://store.steampowered.com/app/227860/",
-        "developer": "http://www.sauropodstudio.com/"
-    },
-    "notes": "Also available via Steam Early Access. \n Humble Store purchase provides a Steam key.",
-    "extras": false
+        "name": "Castle Story beta",
+        "url": "castlestory_store",
+        "price": "20",
+        "description": "Pre-order Castle Story and get access to the the beta version as soon as it's ready.",
+        "developer": "Sauropod Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/227860/",
+            "developer": "http://www.sauropodstudio.com/"
+        },
+        "notes": "Also available via Steam Early Access. \n Humble Store purchase provides a Steam key.",
+        "extras": false
     },
     {
         "name": "Castle Vox",
@@ -2663,6 +2712,30 @@ var games = [
             "developer": "http://snowbirdgames.com/"
         },
         "notes": "Webstore: http://www.snowbirdgames.com/eador/preorder/?lang=en",
+        "extras": false
+    },
+    {
+        "name": "Eden Star",
+        "url": "edenstar/Dkwodk1lk",
+        "price": "30",
+        "description": "Eden Star Alpha (when available) + access to Eden Star Pre-Alpha Tech Demo (from December 2013)",
+        "developer": "Flix Interactive",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": false
+        },
+        "drm": {
+                "steam": true,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://www.flixinteractive.com/"
+        },
         "extras": false
     },
     {
@@ -4642,6 +4715,31 @@ var games = [
         }
     },
     {
+        "name": "Journal",
+        "url": "journal/Jdkwodknal1029",
+        "price": "10",
+        "description": "Pre-order Journal and get an early access preview! Cross-platform and DRM-free.",
+        "developer": "Locked Door Puzzle",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://www.lockeddoorpuzzle.com/"
+        },
+        "notes": "Multiple tier widget that also allows purchase of 5 editions of the game ranging from $10 to $250.",
+        "extras": false
+    },
+    {
         "name": "Kairo",
         "url": "kairo?preview=QDVkDE58Qv8B",
         "price": "5",
@@ -5586,6 +5684,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Nuclear Throne",
+        "url": "nuclearthrone/Wdhd7Fst4Eds",
+        "price": "12.99",
+        "description": "Get access to builds of Nuclear Throne as it's being developed and talk, chat and hang out with the team at http://nuclearthrone.com/",
+        "developer": "Vlambeer",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": false
+        },
+        "drm": {
+                "steam": true,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "steam": "http://store.steampowered.com/app/242680/",
+                "developer": "http://www.vlambeer.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Offspring Fling",
         "url": "offspringfling",
         "price": "7.99",
@@ -5892,6 +6015,30 @@ var games = [
             "developer": "http://mightanddelight.com/"
         },
         "notes": "Webstore: http://www.shelterthegame.com/index.php?page=buy",
+        "extras": false
+    },
+    {
+        "name": "Pig Eat Ball",
+        "url": "pigeatball/Pdkwo10dks",
+        "price": "10",
+        "description": "Pre-order and save 20% full price!",
+        "developer": "Mommy's Best Games",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://mommysbestgames.com/"
+        },
         "extras": false
     },
     {
@@ -7009,58 +7156,58 @@ var games = [
         "notes": "Original Website: http://skullsoftheshogun.com/buy-it-now/\nAvailable on Windows, Windows Phone, & XBOX 360"
     },
     {
-    "name": "Sky Nations",
-    "url": "skynations/Sdh7Tshs64Fs",
-    "price": "5",
-    "description": "Pre-order now to get Sky Nations Alpha! Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore.",
-    "developer": "MrBenjammin Games",
-    "platform": {
-        "android": false,
-        "linux": false,
-        "windows": true,
-        "mac": false,
-        "audio": false
-    },
-    "drm": {
-        "steam": false,
-        "desura": false,
-        "gog": false,
-        "drm-free": false
-    },
-    "URL": {
-        "review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
-        "desura": "http://www.desura.com/games/sky-nations",
-        "developer": "http://skynations.net/presskit/index.php"
-    },
-    "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
-    "extras": false
+        "name": "Sky Nations",
+        "url": "skynations/Sdh7Tshs64Fs",
+        "price": "5",
+        "description": "Pre-order now to get Sky Nations Alpha! Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore.",
+        "developer": "MrBenjammin Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
+            "desura": "http://www.desura.com/games/sky-nations",
+            "developer": "http://skynations.net/presskit/index.php"
+        },
+        "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+        "extras": false
     },
     {
-    "name": "Sky Nations 4-Pack",
-    "url": "skynations_4pack/Sdh7Tshs64Fs",
-    "price": "15",
-    "description": "Pre-order now to get the Alpha! This is a multiplayer Airship exploration game in a world of floating isles for you to explore. Includes 3 extra gift keys.",
-    "developer": "MrBenjammin Games",
-    "platform": {
-        "android": false,
-        "linux": false,
-        "windows": true,
-        "mac": false,
-        "audio": false
-    },
-    "drm": {
-        "steam": false,
-        "desura": false,
-        "gog": false,
-        "drm-free": false
-    },
-    "URL": {
-        "review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
-        "desura": "http://www.desura.com/games/sky-nations",
-        "developer": "http://skynations.net/presskit/index.php"
-    },
-    "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
-    "extras": false
+        "name": "Sky Nations 4-Pack",
+        "url": "skynations_4pack/Sdh7Tshs64Fs",
+        "price": "15",
+        "description": "Pre-order now to get the Alpha! This is a multiplayer Airship exploration game in a world of floating isles for you to explore. Includes 3 extra gift keys.",
+        "developer": "MrBenjammin Games",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": false
+        },
+        "URL": {
+                "review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
+                "desura": "http://www.desura.com/games/sky-nations",
+                "developer": "http://skynations.net/presskit/index.php"
+        },
+        "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+        "extras": false
     },
     {
         "name": "Snapshot",
@@ -7187,6 +7334,79 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "SoundSelf Alpha Access",
+        "url": "soundself_alpha/Sdue5Tha7Ykl",
+        "price": "30",
+        "description": "Get instant access to the latest build of SoundSelf and our unique creative tools!",
+        "developer": "Robin Arnott LLC",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://soundselfgame.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "SoundSelf Alpha Access: MINECON Sale",
+        "url": "soundself_alpha_minecon/Sdue5Tha7Ykl",
+        "price": "25",
+        "description": "MINECON Sale! Get instant access to the latest build of SoundSelf and our unique creative tools!",
+        "developer": "Robin Arnott LLC",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://soundselfgame.com/"
+        },
+        "notes": "Discounted version of the game available during MineCon 2013.",
+        "extras": false
+    },
+    {
+        "name": "SoundSelf Pre-Order",
+        "url": "soundself/Sdue5Tha7Ykl",
+        "price": "15",
+        "description": "By pre-ordering SoundSelf, you help fuel development of this mind-altering experiment and will be among the first to play the finished game.",
+        "developer": "Robin Arnott LLC",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://soundselfgame.com/"
+        },
+        "extras": false
     },
     {
         "name": "Spacebase DF-9: Breather",
@@ -7363,6 +7583,54 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "SPORTSFRIENDS Computer Slacker Backer",
+        "url": "sportsfriendscomputerslackerbacker?preview=sdjfd9y2rhf",
+        "price": "30",
+        "description": "Buy SPORTSFRIENDS Computer Slacker Backer and get the early alphas now, and the final product for home computers, DRM-free!",
+        "developer": "Die Gute Fabrik",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://gutefabrik.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "SPORTSFRIENDS PS3 Slacker Backer",
+        "url": "sportsfriendsps3slackerbacker?preview=sdjfd9y2rhf",
+        "price": "30",
+        "description": "Buy SPORTSFRIENDS PlayStation 3 Slacker Backer and get the early alphas now (DRM-free), and a redeem code for the final PS3 game.",
+        "developer": "Die Gute Fabrik",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://gutefabrik.com/"
+        },
+        "extras": true
     },
     {
         "name": "Spud's Quest",
