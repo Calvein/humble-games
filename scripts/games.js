@@ -5804,6 +5804,33 @@ var games = [
         }
     },
     {
+        "name": "Outlast",
+        "url": "outlast/JosT7xdLdelx",
+        "price": "19.99",
+        "description": "Get Outlast for Windows, DRM-free and Steam key, instantly! Soundtrack included.",
+        "developer": "Red Barrels Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-outlast-260978.phtml",
+            "steam": "http://store.steampowered.com/app/238320/",
+            "developer": "http://redbarrelsgames.com/index.php"
+        },
+        "notes": "Multi-tier widget offering also the soundtrack of the game for $5.99",
+        "extras": false
+    },
+    {
         "name": "Overgrowth Alpha",
         "url": "overgrowth",
         "price": "29.95",
