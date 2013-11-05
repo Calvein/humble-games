@@ -5162,6 +5162,33 @@ var games = [
         "notes": "Original website: http://www.luminesca.com/\nBlog: http://luminesca.blogspot.com/\nDesura: http://www.desura.com/games/luminesca"
     },
     {
+        "name": "Luxuria Superbia",
+        "url": "luxuriasuperbia/Ldkwodk1k2j",
+        "price": "6.99",
+        "description": "Get Luxuria Superbia instantly! Cross-platform and DRM-free.",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.indiegamemag.com/luxuria-superbia-lots-of-luxury-not-as-much-superb/",
+            "desura": "http://www.desura.com/games/luxuria-superbia",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://luxuria-superbia.com/ \n On sale at 29% off during the launch week.",
+        "extras": false
+    },
+    {
         "name": "Macguffin's Curse",
         "url": "macguffinscurse",
         "price": "6.99",
