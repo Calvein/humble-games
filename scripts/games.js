@@ -6613,9 +6613,9 @@ var games = [
         }
     },
     {
-        "name": "Risk of Rain Pre-order",
+        "name": "Risk of Rain",
         "url": "riskofrain_game?preview=Igd1i3ZMVkTg",
-        "price": "10",
+        "price": "9.99",
         "description": "Buy now and get access to Risk of Rain on release!",
         "developer": "Hopoo Games",
         "platform": {
@@ -6626,42 +6626,16 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "https://www.youtube.com/watch?v=f8rJtoyqX_0",
+            "steam": "http://store.steampowered.com/app/248820",
             "developer": "http://riskofraingame.com/team/"
         },
-        "notes": "pre-order",
-        "extras": false
-    },
-    {
-        "name": "Risk of Rain Pre-order",
-        "url": "riskofrain_gamebeta?preview=Igd1i3ZMVkTg",
-        "price": "25",
-        "description": "Buy Risk of Rain and get beta access immediately! Get the full game on release!",
-        "developer": "Hopoo Games",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "https://www.youtube.com/watch?v=f8rJtoyqX_0",
-            "developer": "http://riskofraingame.com/team/"
-        },
-        "notes": "beta + pre-order",
         "extras": false
     },
     {
