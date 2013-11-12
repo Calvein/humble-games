@@ -9176,6 +9176,34 @@ var games = [
         }
     },
     {
+        "name": "Voyage to Farland",
+        "url": "voyagetofarland?preview=Vkdkwo1ksla",
+        "price": "2.99",
+        "description": "Get Voyage to Farland instantly! Cross-platform and DRM-free.",
+        "developer": "Peculiar Games",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.wraithkal.info/voyage-to-farland-review/",
+            "steam": "",
+            "desura": "http://www.desura.com/games/voyage-to-farland",
+            "developer": "http://www.peculiar-games.com/"
+        },
+        "notes": "Also available on itch.io at:\nhttp://peculiargames.itch.io/voyage-to-farland",
+        "extras": false
+    },
+    {
         "name": "VVVVVV",
         "url": "vvvvvv",
         "price": "4.99",
