@@ -9548,6 +9548,36 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        {
+            "name": "TUG: A Space Trucker's Odyssey",
+                "url": "s?key=vsaNeBwWWmfeVFsa",
+                "price": "2.99",
+                "description": "Take a ride in a galactic 18-wheeler and blast aliens while you deliver your precious cargo.",
+                "developer": "Mutiny, LLC.",
+                "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+            },
+            "drm": {
+                "steam": false,
+                "desura": true,
+                "gog": false,
+                "drm-free": true
+            },
+            "URL": {
+                "review": "http://www.youtube.com/watch?v=zKPd_vDPoUI",
+                "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=138893865",
+                "desura": "http://www.desura.com/games/tug-a-space-truckers-odyssey",
+                "developer": "http://mutinous.com/tug"
+            },
+            "notes": "Full version of Tug: A Space Trucker's Odyssey - No Strings!",
+            "extras": false
+        }
     }
 
 ]
