@@ -2817,26 +2817,27 @@ var games = [
         "name": "Eldritch",
         "url": "eldritch/Edh7Tdy4Tdf5",
         "price": "15",
-        "description": "Pre-order Eldritch and get early access to the beta! Windows only, DRM-free.",
+        "description": "Get Eldritch for Windows, Mac and Linux! DRM-free builds and Steam key included!",
         "developer": "Minor Key Games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/252630",
             "developer": "http://www.minorkeygames.com/"
         },
-        "notes": "Webstore: http://eldritchgame.com/#buy",
-        "extras": true
+        "notes": "Store page: http://eldritchgame.com/#buy",
+        "extras": false
     },
     {
         "name": "Electronic Super Joy",
@@ -8855,6 +8856,32 @@ var games = [
         }
     },
     {
+        "name": "Tug: A Space Trucker's Odyssey",
+        "url": "tug_aspacetruckersodyssey/Tekdowk1ldksl",
+        "price": "2.99",
+        "description": "Get Tug: A Space Trucker's Odyssey instantly! Cross-platform and DRM-free.",
+        "developer": "Mutiny",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=zKPd_vDPoUI",
+            "desura": "http://www.desura.com/games/tug-a-space-truckers-odyssey",
+            "developer": "http://mutinous.com/tug"
+        },
+        "extras": false
+    },
+    {
         "name": "Turba",
         "url": "turba",
         "price": "4.99",
@@ -9547,36 +9574,6 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
-    },
-    {
-        {
-            "name": "TUG: A Space Trucker's Odyssey",
-                "url": "s?key=vsaNeBwWWmfeVFsa",
-                "price": "2.99",
-                "description": "Take a ride in a galactic 18-wheeler and blast aliens while you deliver your precious cargo.",
-                "developer": "Mutiny, LLC.",
-                "platform": {
-                "android": false,
-                "linux": true,
-                "windows": true,
-                "mac": true,
-                "audio": false
-            },
-            "drm": {
-                "steam": false,
-                "desura": true,
-                "gog": false,
-                "drm-free": true
-            },
-            "URL": {
-                "review": "http://www.youtube.com/watch?v=zKPd_vDPoUI",
-                "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=138893865",
-                "desura": "http://www.desura.com/games/tug-a-space-truckers-odyssey",
-                "developer": "http://mutinous.com/tug"
-            },
-            "notes": "Full version of Tug: A Space Trucker's Odyssey - No Strings!",
-            "extras": false
         }
     }
 
