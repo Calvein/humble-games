@@ -8532,7 +8532,7 @@ var games = [
     {
         "name": "Tower of Guns",
         "url": "towerofguns?preview=V3lAICo87Ku2",
-        "price": "7.5",
+        "price": "9.5",
         "description": "Pre-order and gain access to the 'Wear A Hard Hat' development version (and future versions, of course)!",
         "developer": "Terrible Posture Games",
         "platform": {
@@ -9576,5 +9576,4 @@ var games = [
             "drm-free": true
         }
     }
-
 ]
