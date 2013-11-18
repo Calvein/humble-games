@@ -5019,6 +5019,33 @@ var games = [
         }
     },
     {
+        "name": "Legends of Aethereus",
+        "url": "legendsofaethereus/Sh7sg5Fehv",
+        "price": "29.99",
+        "description": "Get Legends of Aethereus instantly!",
+        "developer": "ThreeGates AB",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/10/11/legends-of-aethereus-review",
+            "steam": "http://store.steampowered.com/app/248410/",
+            "developer": "http://www.threegates.se/",
+        },
+        "notes": "Store page: http://www.aethereusgame.com/Buy.html",
+        "extras": false
+    },
+    {
         "name": "Little Inferno",
         "url": "littleinferno",
         "price": "10",
