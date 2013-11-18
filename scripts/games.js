@@ -9557,6 +9557,106 @@ var games = [
         "notes": "\"The Mac port should work natively, but the Linux port will function through an in-built Wine wrapper due to our engine\" Store page: http://www.xenonauts.com/pre-order/"
     },
     {
+        "name": "You Are Not The Hero",
+        "url": "youarenotthehero/Ydkwok2",
+        "price": "15",
+        "description": "Pre-order You Are Not The Hero. Get a DRM-free version or Steam Key when it's released, along with a digital illustrated manual.",
+        "developer": "ToMorning Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://youarenotthehero.com/"
+        },
+        "notes": "Either a Steam key or a DRM-free download.",
+        "extras": true
+    },
+    {
+        "name": "You Are Not The Hero + Tester",
+        "url": "youarenotthehero_tester/Ydkwok2",
+        "price": "30",
+        "description": "Pre-order You Are Not The Hero. DRM-Free Game or Steam Key, Digital Manual, Beta-test throughout development!",
+        "developer": "ToMorning Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://youarenotthehero.com/"
+        },
+        "notes": "Either a Steam key or a DRM-free download.",
+        "extras": true
+    },
+    {
+        "name": "You Are Not The Hero + Bonus Pack",
+        "url": "youarenotthehero_bonus/Ydkwok2",
+        "price": "45",
+        "description": "Pre-order You Are Not The Hero. DRM-Free Game or Steam Key, Digital Manual, Beta-test, Digital Soundtrack and Digital Artbook!",
+        "developer": "ToMorning Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://youarenotthehero.com/"
+        },
+        "notes": "Either a Steam key or a DRM-free download.",
+        "extras": true
+    },
+    {
+        "name": "You Are Not The Hero + Physical Pack",
+        "url": "youarenotthehero_physical/Ydkwok2",
+        "price": "60",
+        "description": "Pre-order You Are Not The Hero. Get a physical box and game with a manual sent straight to you! All digital extras included.",
+        "developer": "ToMorning Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://youarenotthehero.com/"
+        },
+        "notes": "Either a Steam key or a DRM-free download.",
+        "extras": true
+    },
+    {
         "name": "Zen Puzzle Garden",
         "url": "zenpuzzlegarden",
         "price": "10",
