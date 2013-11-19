@@ -1006,6 +1006,31 @@ var games = [
         }
     },
     {
+        "name": "Candle",
+        "url": "candle/Cdh8Yheg5Ff",
+        "price": "15",
+        "description": "Pre-order discount! Cross-platform and DRM-free.",
+        "developer": "Teku Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://tekustudios.com/"
+        },
+        "notes": "Pre-order it 20% off for $12 until the end of January. \n Store page: http://tekustudios.com/purchase.html",
+        "extras": false
+    },
+    {
         "name": "Cannon Brawl",
         "url": "cannonbrawl?preview=Gyyew3NJhmJT",
         "price": "10",
