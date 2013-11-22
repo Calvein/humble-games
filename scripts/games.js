@@ -5512,6 +5512,33 @@ var games = [
         }
     },
     {
+        "name": "Montague's Mount",
+        "url": "montaguesmount/Mdkwo1k2l",
+        "price": "9.99",
+        "description": "Get Montague's Mount for PC/MAC/Linux with no DRM! (And Steam once we are Greenlit!)",
+        "developer": "Mastertronic",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/25543",
+            "steam": "http://store.steampowered.com/app/258950/",
+            "developer": "http://www.polypusher.net/"
+        },
+        "notes": "Store page: http://www.montaguesmount.com/thegame.php",
+        "extras": false
+    },
+    {
         "name": "Moon Intern",
         "url": "moonintern?preview=BozUxRTLdel2",
         "price": "9.99",
