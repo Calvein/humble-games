@@ -7114,6 +7114,30 @@ var games = [
         }
     },
     {
+        "name": "Shiden",
+        "url": "shiden/Shdkwi2",
+        "price": "5",
+        "description": "Get exciting arcade style SHMUP Shiden!",
+        "developer": "Gar Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.garstudios.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Shelter",
         "url": "shelter/Ssh8Tdu9Ysh",
         "price": "9.99",
