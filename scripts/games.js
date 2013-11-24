@@ -1848,7 +1848,7 @@ var games = [
     {
         "name": "Defender's Quest: Valley of the Forgotten",
         "url": "defendersquest?preview=Snd8dhrbaz",
-        "price": "9.99",
+        "price": "14.99",
         "description": "Get Defender's Quest instantly! Cross-platform and DRM-free. Soundtrack included!",
         "developer": "Level Up Labs, LLC",
         "platform": {
@@ -2841,7 +2841,7 @@ var games = [
     {
         "name": "Eldritch",
         "url": "eldritch/Edh7Tdy4Tdf5",
-        "price": "15",
+        "price": "14.99",
         "description": "Get Eldritch for Windows, Mac and Linux! DRM-free builds and Steam key included!",
         "developer": "Minor Key Games",
         "platform": {
@@ -2867,7 +2867,7 @@ var games = [
     {
         "name": "Electronic Super Joy",
         "url": "electronicsuperjoy?preview=7qU9dGBwFyg0",
-        "price": "4.99",
+        "price": "7.99",
         "description": "Get Electronic Super Joy instantly, with ZERO DRM!",
         "developer": "Michael Todd Games",
         "platform": {
@@ -3400,7 +3400,7 @@ var games = [
         "name": "Full Bore",
         "url": "fullbore?preview=Fue7He8Fder",
         "price": "8",
-        "description": "20% OFF Pre-Order Sale!",
+        "description": "Includes parts 1 and 2. Play part 1 now, part 2 coming later this year!",
         "developer": "Whole Hog Games",
         "platform": {
             "android": false,
@@ -3419,14 +3419,14 @@ var games = [
             "review": "http://www.joystiq.com/2012/12/19/the-joystiq-indie-pitch-full-bore/",
             "developer": "http://www.wholehog-games.com/fullbore/"
         },
-        "notes": "Pre-order at 20% off.",
+        "notes": "On sale at 33% off. Full price is $12.",
         "extras": false
     },
     {
         "name": "Full Bore + Soundtrack",
         "url": "fullborewithsoundtrack?preview=Fue7He8Fder",
-        "price": "16",
-        "description": "20% OFF Pre-Order Sale + Discounted Soundtrack!",
+        "price": "13",
+        "description": "Includes parts 1 & 2, and OST. Play part 1 now, part 2 coming later this year! ",
         "developer": "Whole Hog Games",
         "platform": {
             "android": false,
@@ -3445,7 +3445,7 @@ var games = [
             "review": "http://www.joystiq.com/2012/12/19/the-joystiq-indie-pitch-full-bore/",
             "developer": "http://www.wholehog-games.com/fullbore/"
         },
-        "notes": "Pre-order at 20% off.",
+        "notes": "On sale at 38% off. Full price is $18.",
         "extras": false
     },
     {
@@ -4385,9 +4385,9 @@ var games = [
         "developer": "Zachtronics",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -4880,7 +4880,7 @@ var games = [
     {
         "name": "Ku: Shroud of the Morrigan",
         "url": "ku_shroudofthemorrigan?preview=11LHOtGXLhXg",
-        "price": "4.00",
+        "price": "4",
         "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
         "developer": "bitSmith Games",
         "platform": {
@@ -4900,7 +4900,7 @@ var games = [
     {
         "name": "Ku: Shroud of the Morrigan for Android",
         "url": "ku_shroudofthemorrigan_android?preview=11LHOtGXLhXg",
-        "price": "2.00",
+        "price": "2",
         "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
         "developer": "bitSmith Games",
         "platform": {
@@ -6222,7 +6222,7 @@ var games = [
     {
         "name": "Pixel Boy",
         "url": "pixelboy/Pdkwl23k3k",
-        "price": "4.99",
+        "price": "9.99",
         "description": "Pre-order Pixel Boy for PC, and receive a Steam key once it becomes available.",
         "developer": "Giant Box Games",
         "platform": {
@@ -6242,7 +6242,7 @@ var games = [
             "review": "http://www.youtube.com/watch?v=-KbZ27G2j-M",
             "developer": "http://pixelboygame.com/about/"
         },
-        "notes": "Pre-order at 50% off. Steam and Desura keys coming when the game is released on those platforms. \n Store page: http://pixelboygame.com/",
+        "notes": "Steam and Desura keys coming when the game is released on those platforms. \n Store page: http://pixelboygame.com/",
         "extras": false
     },
     {
@@ -6991,7 +6991,7 @@ var games = [
     {
         "name": "Scoregasm",
         "url": "scoregasm?preview=ivnewkdsfo",
-        "price": "9.99",
+        "price": "4.99",
         "description": "Download Scoregasm now, cross-platform and DRM free!",
         "developer": "Charlie's Games",
         "platform": {
@@ -7011,7 +7011,7 @@ var games = [
         {
         "name": "Sentinel",
         "url": "sentinel?preview=xb7qKvL5ES0e",
-        "price": "10.00",
+        "price": "5",
         "description": "Get Sentinel instantly! Cross-platform and DRM-free.",
         "developer": "Matthew Brown",
         "platform": {
@@ -9223,7 +9223,7 @@ var games = [
         {
         "name": "Viscera Cleanup Detail",
         "url": "visceracleanupdetail/Vsu7Ysgd3Dg",
-        "price": "5.00",
+        "price": "5",
         "description": "Pre-order now and when it's ready, get Viscera Cleanup Detail, DRM-free! Includes early access builds and will include a Steam key if it is greenlit!",
         "developer": "Runestorm",
         "platform": {
