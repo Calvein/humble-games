@@ -5744,6 +5744,206 @@ var games = [
         "extras": false
     },
     {
+        "name": "Night In The Woods",
+        "url": "nightinthewoods_tier1/Ndje7Gdye4Sds",
+        "price": "15",
+        "description": "Pre-order now! Get Night In The Woods DRM free when it releases!",
+        "developer": "Infinite Fall",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+        },
+        "notes": "Store page: http://www.nightinthewoods.com/#humble",
+        "extras": false
+    },
+    {
+        "name": "Night In The Woods - Wallpaper Tier",
+        "url": "nightinthewoods_tier2/Ndje7Gdye4Sds",
+        "price": "20",
+        "description": "Beautiful wallpapers that may or may not contain hints to some of Night In The Woods' more cryptic secrets. All previous rewards included.",
+        "developer": "Infinite Fall",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+        },
+        "notes": "Store page: http://www.nightinthewoods.com/#humble",
+        "extras": true
+    },
+    {
+        "name": "Night In The Woods - Soundtrack Tier",
+        "url": "nightinthewoods_tier3/Ndje7Gdye4Sds",
+        "price": "25",
+        "description": "A download featuring Alec’s soundtrack and a collection of essential art from Scott and others! All previous rewards included.",
+        "developer": "Infinite Fall",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+        },
+        "notes": "Store page: http://www.nightinthewoods.com/#humble",
+        "extras": true
+    },
+    {
+        "name": "Night In The Woods - Zine Tier",
+        "url": "nightinthewoods_tier4/Ndje7Gdye4Sds",
+        "price": "50",
+        "description": "Handmade zine featuring comics and illustrations, pins of characters and a super sweet sticker. All previous rewards included.",
+        "developer": "Infinite Fall",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+        },
+        "notes": "Store page: http://www.nightinthewoods.com/#humble",
+        "extras": true
+    },
+    {
+        "name": "Night In The Woods - Initials Tier",
+        "url": "nightinthewoods_tier5/Ndje7Gdye4Sds",
+        "price": "75",
+        "description": "The town in Night In The Woods has seen its share of teenage wasteoids, and they have left their marks. You can be one of them! All previous rewards included.",
+        "developer": "Infinite Fall",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+        },
+        "notes": "Store page: http://www.nightinthewoods.com/#humble",
+        "extras": true
+    },
+    {
+        "name": "Night In The Woods - Prologue Tier",
+        "url": "nightinthewoods_tier6/Ndje7Gdye4Sds",
+        "price": "100",
+        "description": "A super-secret prologue to Night In The Woods available only to backers, delivered ahead of the full game’s release. All previous rewards included.",
+        "developer": "Infinite Fall",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+        },
+        "notes": "Store page: http://www.nightinthewoods.com/#humble",
+        "extras": true
+    },
+    {
+        "name": "Night In The Woods - Mae Tier",
+        "url": "nightinthewoods_tier7/Ndje7Gdye4Sds",
+        "price": "150",
+        "description": "One-of-a-kind handmade plush of Mae, made by a bonafide degree holder in Fiber Arts. All previous rewards included.",
+        "developer": "Infinite Fall",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+        },
+        "notes": "Store page: http://www.nightinthewoods.com/#humble",
+        "extras": true
+    },
+    {
+        "name": "Night In The Woods - Screenprint Tier",
+        "url": "nightinthewoods_tier8/Ndje7Gdye4Sds",
+        "price": "250",
+        "description": "A large, multi-color hand-screened print designed by Scott that reveals SECRETS in the dark! Signed and numbered. All previous rewards included.",
+        "developer": "Infinite Fall",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+        },
+        "notes": "Store page: http://www.nightinthewoods.com/#humble",
+        "extras": true
+    },
+    {
         "name": "Nihilumbra",
         "url": "nihilumbra/Nisdko29kdls",
         "price": "9.99",
