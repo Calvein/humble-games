@@ -6338,6 +6338,131 @@ var games = [
         }
     },
     {
+        "name": "Paradise Lost: First Contact - Bronze",
+        "url": "paradiselost_firstcontact_bronze/Pskdwo1k2",
+        "price": "15",
+        "description": "Pre-order Paradise Lost: First Contact now! When it's released you will receive the game DRM-free for Win/Mac/Linux + a Steam key!",
+        "developer": "Asthree Works",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.asthreeworks.com/"
+        },
+        "notes": "Store page: http://www.asthreeworks.com/games/",
+        "extras": false
+    },
+    {
+        "name": "Paradise Lost: First Contact - Silver",
+        "url": "paradiselost_firstcontact_silver/Pskdwo1k2",
+        "price": "25",
+        "description": "Pre-order Paradise Lost: First Contact now! DRM-free for Win/Mac/Linux + a Steam key + Forum access + Beta access + Digital OST.",
+        "developer": "Asthree Works",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.asthreeworks.com/"
+        },
+        "notes": "Store page: http://www.asthreeworks.com/games/",
+        "extras": true
+    },
+    {
+        "name": "Paradise Lost: First Contact - Gold",
+        "url": "paradiselost_firstcontact_gold/Pskdwo1k2",
+        "price": "40",
+        "description": "Pre-order Paradise Lost: First Contact now! DRM-free for Win/Mac/Linux + a Steam key + Forum access + Beta access + Digital OST + Art book.",
+        "developer": "Asthree Works",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.asthreeworks.com/"
+        },
+        "notes": "Store page: http://www.asthreeworks.com/games/",
+        "extras": true
+    },
+    {
+        "name": "Paradise Lost: First Contact OST",
+        "url": "paradiselost_firstcontact_ost/Pskdwo1k2",
+        "price": "5",
+        "description": "Sounds from outer space! The amazing Paradise Lost digital soundtrack composed by Pablo J. Garmon.",
+        "developer": "Asthree Works",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.asthreeworks.com/"
+        },
+        "notes": "Store page: http://www.asthreeworks.com/games/",
+        "extras": false
+    },
+    {
+        "name": "Alternate Subject W Skin",
+        "url": "alternatesubjectwskin/Pskdwo1k2",
+        "price": "10",
+        "description": "Receive a key to unlock a new skin with different animations and a special ability!",
+        "developer": "Asthree Works",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.asthreeworks.com/"
+        },  
+        "notes": "Store page: http://www.asthreeworks.com/games/",
+        "extras": true
+    },  
+    {
         "name": "Paradise Perfect Boat Rescue",
         "url": "paradiseperfectboatrescue?preview=F38ahs5Fgfh",
         "price": "3.95",
