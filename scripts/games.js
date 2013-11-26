@@ -4397,6 +4397,9 @@ var games = [
             "drm-free": false
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/09/25/wot-i-think-ironclad-tactics/",
+            "steam": "http://store.steampowered.com/app/226960/",
+            "desura": "http://www.desura.com/games/ironclad-tactics",
             "developer": "http://www.zachtronics.com/"
         },
         "notes": "Webstore: http://ironcladtactics.com/the-extra-extra-bundle/",
@@ -4410,9 +4413,9 @@ var games = [
         "developer": "Zachtronics",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": true
         },
         "drm": {
