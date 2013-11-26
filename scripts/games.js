@@ -3975,6 +3975,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Guacamelee! Gold Edition",
+        "url": "guacamelee_goldedition?preview=Gshd6Dsjw8Y",
+        "price": "14.99",
+        "description": "Buy Guacamelee and get it instantly for Windows, DRM-free! Includes Steam key and the re-mastered soundtrack.",
+        "developer": "DrinkBox Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/08/07/guacamelee-gold-edition-review",
+            "steam": "http://store.steampowered.com/app/214770/",
+            "developer": "http://drinkboxstudios.com/blog/"
+        },
+        "notes": "Store page: http://guacamelee.com/purchase/",
+        "extras": false
+    },
+    {
         "name": "Gunpoint",
         "url": "gunpoint?preview=djS894h2nS",
         "price": "10",
