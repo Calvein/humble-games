@@ -8442,6 +8442,33 @@ var games = [
         }
     },
     {
+        "name": "Survivor Squad",
+        "url": "survivorsquad?preview=OJ9lvwc9uFP3",
+        "price": "8.99",
+        "description": "Get Survivor Squad instantly, cross-platform, DRM free, and redeemable on Steam!",
+        "developer": "Endless Loop Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/258050",
+            "desura": "http://www.desura.com/games/survivor-squad",
+            "developer": "http://www.endlessloopstudios.com/"
+        },
+        "notes": "Store page: http://survivor-squad.com/buy.html",
+        "extras": false
+    },
+    {
         "name": "Swords & Soldiers HD",
         "url": "swordssoldiershd",
         "price": "9.99",
