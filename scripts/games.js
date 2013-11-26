@@ -1497,6 +1497,33 @@ var games = [
         }
     },
     {
+        "name": "Coin Crypt (Beta Access)",
+        "url": "coincrypt/Cdkwo1k2l",
+        "price": "6.99",
+        "description": "Play Coin Crypt now + get all future versions! Cross-platform and DRM-free.",
+        "developer": "Dumb and Fat Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=AfP4QPcKWnI",
+            "steam": "http://store.steampowered.com/app/264690",
+            "developer": "http://dumbandfat.com/"
+        },
+        "notes": "The developer is currently working on a Linux version. \n Store page: http://coincryptgame.com/",
+        "extras": false
+    },
+    {
         "name": "Constant C",
         "url": "constantc?preview=aqLfpSQ7TVzx",
         "price": "9.99",
