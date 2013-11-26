@@ -6115,6 +6115,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Oozi: Earth Adventure",
+        "url": "oozi_earthadventure/Oskwl10dksl3",
+        "price": "9.99",
+        "description": "2D platformer with old school gameplay, no puzzle, no punishment, just 100% pure classic platforming fun!",
+        "developer": "Awesome Games Studio",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/oozi-earth-adventure-review/1900-6404157/",
+            "desura": "http://www.desura.com/games/oozi-earth-adventure",
+            "developer": "http://www.awesomegamesstudio.com/"
+        },
+        "notes": "Store page: http://www.awesomegamesstudio.com/index.php/oozi",
+        "extras": false
+    },
+    {
         "name": "Organ Trail: Director's Cut",
         "url": "organtraildirectorscut?preview=d5Es5HhOLzgI",
         "price": "4.99",
