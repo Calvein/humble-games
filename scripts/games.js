@@ -4867,25 +4867,30 @@ var games = [
         }
     },
     {
-        "name": "Kinetic Void",
-        "url": "kineticvoid?preview=GTvPgrgrOIxD",
-        "price": "19.99",
-        "description": "Pre-order Kinetic Void Now! All pre-orders will receive a Steam activation key.",
-        "developer": "Badland Studio",
+        "name": "KarBOOM",
+        "url": "karboom/Kdkwodksl2k3j",
+        "price": "10",
+        "description": "Get KarBOOM instantly for Windows, Mac & Linux! DRM-free!",
+        "developer": "Jibb Smart",
         "platform": {
             "android": false,
-            "windows": true,
             "linux": true,
+            "windows": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": true,
-            "desura": false,
+            "steam": false,
+            "desura": true,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
-        "notes": "Was on kickstarter"
+        "URL": {
+            "desura": "http://www.desura.com/games/karboom",
+            "developer": "http://www.jibbsmart.com/"
+        },
+        "notes": "Store page: http://karboom.net/#buy",
+        "extras": false
     },
     {
         "name": "Kentucky Route Zero Complete",
@@ -4906,6 +4911,27 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Kinetic Void",
+        "url": "kineticvoid?preview=GTvPgrgrOIxD",
+        "price": "19.99",
+        "description": "Pre-order Kinetic Void Now! All pre-orders will receive a Steam activation key.",
+        "developer": "Badland Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "notes": "Was on kickstarter"
     },
     {
         "name": "KRUNCH",
