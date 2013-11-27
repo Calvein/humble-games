@@ -775,6 +775,30 @@ var games = [
         }
     },
     {
+        "name": "Beware Planet Earth",
+        "url": "bewareplanetearth/siEusdkwodk93",
+        "price": "9.99",
+        "description": "Get \"Beware Planet Earth!\" instantly and repel the Martian menace! Cross-platform version and DRM-free!",
+        "developer": "Lightmare Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/beware-planet-earth",
+            "developer": "http://lightmare-studio.com/games/bpe/"
+        }
+    },
+    {
         "name": "BIT.TRIP RUNNER",
         "url": "bittriprunner",
         "price": "9.99",
