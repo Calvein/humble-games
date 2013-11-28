@@ -1922,8 +1922,260 @@ var games = [
             "review": "http://www.destructoid.com/review-defender-s-quest-valley-of-the-forgotten-220503.phtml",
             "steam": "http://store.steampowered.com/app/218410/",
             "desura": "http://www.desura.com/games/defenders-quest-valley-of-the-forgotten",
-            "developer": "http://www.defendersquest.com/"
-        }
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "Store page: http://www.defendersquest.com/1/",
+        "extras": false
+    },
+    {
+        "name": "Defender's Quest II - Game Tier",
+        "url": "defendersquest2_basic/Dueh7Gst3Sfyt",
+        "price": "15",
+        "description": "Preorder Defender’s Quest II now! Get the game + a Steam key upon release, AND the original Defender’s Quest + a Steam key, RIGHT NOW!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },
+    {
+        "name": "Defender's Quest II - Music Tier",
+        "url": "defendersquest2_music/Dueh7Gst3Sfyt",
+        "price": "20",
+        "description": "Preorder Defender’s Quest II now! Get the soundtrack, the game + a Steam key upon release, AND the original Defender’s Quest + a Steam key, RIGHT NOW!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },
+    {
+        "name": "Defender's Quest II - Book Tier",
+        "url": "defendersquest2_book/Dueh7Gst3Sfyt",
+        "price": "25",
+        "description": "Get all rewards from the Defender’s Quest II - Music Tier + the art/story book PDF!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },
+    {
+        "name": "Defender's Quest II - Beta Tier",
+        "url": "defendersquest2_beta/Dueh7Gst3Sfyt",
+        "price": "35",
+        "description": "Get all rewards from the Defender’s Quest II - Book Tier + early beta access!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },
+    {
+        "name": "Defender's Quest II - Alpha Tier",
+        "url": "defendersquest2_alpha/Dueh7Gst3Sfyt",
+        "price": "50",
+        "description": "Get all rewards from the Defender’s Quest II - Beta Tier + early alpha access!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },
+    {
+        "name": "Defender's Quest II - Special Friend",
+        "url": "defendersquest2_special/Dueh7Gst3Sfyt",
+        "price": "100",
+        "description": "Get all rewards from the Defender’s Quest II - Alpha Tier + a spot in the “Friends” wave of the special credits battle!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },  
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },
+    {
+        "name": "Defender's Quest II - Smithy",
+        "url": "defendersquest2_smithy/Dueh7Gst3Sfyt",
+        "price": "500",
+        "description": "Get all rewards from the Defender’s Quest II - Alpha Tier + Design an item & a spot in the “Smithies” wave of the special credits battle!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },
+    {
+        "name": "Defender's Quest II - Cartographer",
+        "url": "defendersquest2_cartographer/Dueh7Gst3Sfyt",
+        "price": "1000",
+        "description": "Get all rewards from the Defender’s Quest II - Alpha Tier + Design a level & a spot in the “Cartographers” wave of the special credits battle!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },
+    {
+        "name": "Defender's Quest II - Monster",
+        "url": "defendersquest2_monster/Dueh7Gst3Sfyt",
+        "price": "1500",
+        "description": "Get all rewards from the Defender’s Quest II - Alpha Tier + Design a monster & a spot in the “Monster Tamers” wave of the special credits battle!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },  
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
+    },  
+    {
+        "name": "Defender's Quest II - Epic Pack of Awesome",
+        "url": "defendersquest2_immortal/Dueh7Gst3Sfyt",
+        "price": "2500",
+        "description": "Get all rewards from all the previous tiers, a spot in the “Immortals” wave of the special credits battle & 9 gift keys for Defender's Quest II + extras!",
+        "developer": "Level Up Labs, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": true,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.leveluplabs.com/"
+        },
+        "notes": "http://www.defendersquest.com/2/?page=preorder",
+        "extras": true
     },
     {
         "name": "Defense Grid: The Awakening",
@@ -3757,7 +4009,7 @@ var games = [
         },
         "extras": false
     },
-        {
+    {
         "name": "Gone Home",
         "url": "gonehome?preview=OHFHXxPWMLTy",
         "price": "19.99",
@@ -3777,6 +4029,60 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.ign.com/articles/2013/08/15/gone-home-review",
+            "steam": "http://store.steampowered.com/app/232430/",
+            "developer": "http://thefullbrightcompany.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Gone Home + 4 Albums",
+        "url": "gonehome_andrecordcollection?preview=OHFHXxPWMLTy",
+        "price": "41",
+        "description": "Download the game + 4 FULL albums: Calculated by Heavens to Betsy, Pottymouth by Bratmobile, The Youngins are Hardcore, and Chris Remo's GH:OST",
+        "developer": "The Fullbright Company",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/08/15/gone-home-review",
+            "steam": "http://store.steampowered.com/app/232430/",
+            "developer": "http://thefullbrightcompany.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Just the Music",
+        "url": "gonehome_recordcollection?preview=OHFHXxPWMLTy",
+        "price": "21",
+        "description": "4 full albums, with NO game download. Calculated by Heavens to Betsy, Pottymouth by Bratmobile, The Youngins are Hardcore, and Chris Remo's GH:OST",
+        "developer": "The Fullbright Company",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/08/15/gone-home-review",
+            "steam": "http://store.steampowered.com/app/232430/",
             "developer": "http://thefullbrightcompany.com/"
         },
         "extras": false
