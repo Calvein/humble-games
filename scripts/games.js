@@ -9116,6 +9116,32 @@ var games = [
         }
     },
     {
+        "name": "The Girl and the Robot - Alpha",
+        "url": "thegirlandtherobotalpha?preview=nq7QVIpVWUqe",
+        "price": "9",
+        "description": "Buying this alpha version at a low price will grant you access to all updates and the final version when it’s finished.",
+        "developer": "Flying Carpets",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/the-girl-and-the-robot",
+            "developer": "http://flyingcarpetsgames.com/"
+        },
+        "notes": "Only Windows version as of yet, but the final game will be available for Mac and Linux as well.",
+        "extras": false
+    },
+    {
         "name": "The Inner World",
         "url": "theinnerworld?preview=g5siGE0pP7sW",
         "price": "31.99",
