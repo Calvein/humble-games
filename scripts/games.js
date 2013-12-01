@@ -5862,6 +5862,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Midora",
+        "url": "midora/Midwoek29",
+        "price": "10",
+        "description": "Preorder Midora today and support its development! Cross-platform and DRM-free.",
+        "developer": "Epic Minds",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.midora.net/"
+        },
+        "notes": "Store page: http://blog.midora.net/post/68408204787/video-demo-campaign",
+        "extras": false
+    },
+    {
         "name": "MirrorMoon EP",
         "url": "mirrormoonep_beta/Mdh6Tfsr3Rtd",
         "price": "9.99",
