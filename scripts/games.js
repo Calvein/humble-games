@@ -4090,7 +4090,7 @@ var games = [
     {
         "name": "Goscurry",
         "url": "goscurry?preview=Dne9FfjeSbng",
-        "price": "4.50",
+        "price": "5.99",
         "description": "Get Goscurry instantly! Cross-platform, DRM-free, and powered by eco electro-beat energy!",
         "developer": "Holoville",
         "platform": {
@@ -4098,32 +4098,6 @@ var games = [
             "windows": true,
             "linux": true,
             "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.youtube.com/watch?v=CnLB3qp8Mao",
-            "developer": "http://www.holoville.com/games/"
-        },
-        "notes": "Webstore: http://www.goscurry.com/buy.php",
-        "extras": false
-    },
-    {
-        "name": "Goscurry Soundtrack",
-        "url": "goscurry_soundtrack?preview=nSfueTbshUdyb",
-        "price": "4.99",
-        "description": "Get the Goscurry soundtrack instantly!",
-        "developer": "Holoville",
-        "platform": {
-            "android": false,
-            "windows": false,
-            "linux": false,
-            "mac": false,
             "audio": true
         },
         "drm": {
@@ -4136,33 +4110,7 @@ var games = [
             "review": "http://www.youtube.com/watch?v=CnLB3qp8Mao",
             "developer": "http://www.holoville.com/games/"
         },
-        "notes": "Webstore: http://www.goscurry.com/buy.php",
-        "extras": false
-    },
-    {
-        "name": "Goscurry + Soundtrack",
-        "url": "goscurry_complete?preview=nSr6TbhUkyb",
-        "price": "8.50",
-        "description": "Get Goscurry and its soundtrack instantly! Cross-platform, DRM-free, and powered by eco electro-beat energy!",
-        "developer": "Holoville",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.youtube.com/watch?v=CnLB3qp8Mao",
-            "developer": "http://www.holoville.com/games/"
-        },
-        "notes": "Webstore: http://www.goscurry.com/buy.php",
+        "notes": "3-tier widget where you can purchase the game ($5.99), the OST ($4.99), and both ($9.99). \n Webstore: http://www.goscurry.com/buy.php",
         "extras": false
     },
     {
