@@ -7709,20 +7709,20 @@ var games = [
         "notes": "Dev Store: http://coffeestainstudios.com/store"
     },
     {
-        "name": "Savant",
+        "name": "Savant - Ascent",
         "url": "savant/Sew6Yth8Hsg",
         "price": "1.99",
         "description": "Buy now and get Savant for Windows (includes future Android, Mac, and Linux flavors)!",
         "developer": "D-Pad Studio",
         "platform": {
             "android": true,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
