@@ -444,14 +444,14 @@ var games = [
         "name": "Apotheon",
         "url": "apotheon?preview=JUEwMIoTCgFx",
         "price": "15",
-        "description": "Preorder Apotheon + Soundtrack for Windows",
+        "description": "Preorder Apotheon for Steam! Includes a copy of Capsized (DRM-free and Steam key).",
         "developer": "Alientrap Games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": true
+            "linux": true,
+            "mac": true,
+            "audio": false
         },
         "drm": {
             "steam": true,
@@ -463,8 +463,8 @@ var games = [
             "review": "http://www.joystiq.com/2012/10/21/first-gameplay-video-of-alientraps-apotheon-is-gorgeous-coming/",
             "developer": "http://www.alientrap.org"
         },
-        "notes": "Not sure about DRM since I couldn't find the webpage that contains the HS widget. Just copied PCGamingWiki's entry.\nThis makes no sense, the store page is listed right there... --Efreak",
-        "extras": false
+        "notes": "Store page: http://www.apotheongame.com/#preorderanchor",
+        "extras": true
     },
     {
         "name": "Aquaria",
