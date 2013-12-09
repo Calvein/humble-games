@@ -4010,6 +4010,34 @@ var games = [
         "extras": false
     },
     {
+    "name": "Gnomoria",
+    "url": "Gnomoria?preview=ys0QthBAKJ0B",
+    "price": "7.99",
+    "description": "Get Gnomoria instantly and DRM free!",
+    "developer": "Robotronic Games",
+    "platform": {
+        "android": false,
+        "linux": false,
+        "windows": true,
+        "mac": false,
+        "audio": false
+    },
+    "drm": {
+        "steam": false,
+        "desura": false,
+        "gog": false,
+        "drm-free": false
+    },
+    "URL": {
+        "review": "http://www.metacritic.com/game/pc/gnomoria",
+        "steam": "http://store.steampowered.com/app/224500/",
+        "desura": "http://www.desura.com/games/gnomoria",
+        "developer": "http://gnomoria.com"
+    },
+    "notes": "20% discount during alpha\nImmediate access to alpha",
+    "extras": false
+    },
+    {
         "name": "God of Blades",
         "url": "godofblades?preview=Sjd92h2nXa",
         "price": "4.99",
@@ -7055,6 +7083,34 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+    "name": "POP: Methodology Experiment One",
+    "url": "pop_methodologyexperimentone?preview=Poskdkwk1",
+    "price": "3.99",
+    "description": "You'll receive the game for PC and Mac, plus the soundtrack, plus a headache probably.",
+    "developer": "Rob Lach Games",
+    "platform": {
+        "android": false,
+        "linux": false,
+        "windows": true,
+        "mac": true,
+        "audio": true
+    },
+    "drm": {
+        "steam": false,
+        "desura": false,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "http://ponderjaunt.org/mind/pop",
+        "steam": "",
+        "desura": "http://www.desura.com/games/pop-methodology-experiment-one",
+        "developer": "http://www.popme1.com/"
+    },
+    "notes": "Linux version, when greenlit.\n\nGreenlight: http://steamcommunity.com/sharedfiles/filedetails/?id=93935251\nOnlive: http://games.onlive.com/launch/trial/pop-methodology-experiment-one\nGamersgate: http://www.gamersgate.com/DD-POPME1/pop-methodology-experiment-one",
+    "extras": false
     },
     {
         "name": "pozzle",
