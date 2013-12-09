@@ -9351,6 +9351,33 @@ var games = [
         }
     },
     {
+        "name": "The Shivah: Kosher Edition",
+        "url": "shivah/Bkdkwodk1",
+        "price": "4.99",
+        "description": "Get the Shivah: Kosher Edition instantly! DRM-Free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-the-shivah-kosher-edition-266162.phtml",
+            "steam": "http://store.steampowered.com/app/252370/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/the-shivah/",
+        "extras": false
+    },
+{
         "name": "The Swapper",
         "url": "theswapper?preview=sdfSHDhe9hs",
         "price": "14.99",
