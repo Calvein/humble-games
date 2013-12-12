@@ -8757,26 +8757,6 @@ var games = [
         }
     },
     {
-        "name": "Starbound (Solarium Tier)",
-        "url": "starbound_tier6?preview=4uQR712V5n",
-        "price": "1000",
-        "description": "Starbound Beta (when available) + Soundtrack + forum badge + name an NPC + name in credits + design a weapon",
-        "developer": "Chucklefish",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "Starbound (Impervium Tier)",
         "url": "starbound_tier7?preview=4uQR712V5n",
         "price": "2000",
