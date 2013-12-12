@@ -9936,6 +9936,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Ultionus: A Tale of Petty Revenge",
+        "url": "ultionus_ataleofpettyrevenge/Udkwo3",
+        "price": "9.99",
+        "description": "Get Ultionus: A Tale of Petty Revenge instantly! Cross-platform and DRM-free.",
+        "developer": "Last Dimension",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://darkfalzx.blogspot.com.es/"
+        },
+        "notes": "Mac version is coming soon. \n Store page: http://darkfalzx.blogspot.com.es/p/games.html#goog_255478544",
+        "extras": false
+    },
+    {
         "name": "Universe Sandbox",
         "url": "universesandbox",
         "price": "19.95",
