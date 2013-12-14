@@ -9103,6 +9103,33 @@ var games = [
         }
     },
     {
+        "name": "Teslagrad",
+        "url": "teslagrad/Tdkwo9302",
+        "price": "9.99",
+        "description": "Get Teslagrad instantly! Cross-platform and DRM-free. ",
+        "developer": "Rain Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/249590/",
+            "desura": "http://www.desura.com/games/teslagrad",
+            "developer": "http://rain-games.com/"
+        },
+        "notes": "Store page: http://teslagrad.com/#shop",
+        "extras": false
+    },
+    {
         "name": "Tetrobot and Co.",
         "url": "tetrobotandco/asOIsdlke0283t",
         "price": "11.99",
