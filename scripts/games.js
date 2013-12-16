@@ -9972,7 +9972,7 @@ var games = [
             "android": false,
             "windows": true,
             "linux": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -9984,7 +9984,7 @@ var games = [
         "URL": {
             "developer": "http://darkfalzx.blogspot.com.es/"
         },
-        "notes": "Mac version is coming soon. \n Store page: http://darkfalzx.blogspot.com.es/p/games.html#goog_255478544",
+        "notes": "Store page: http://darkfalzx.blogspot.com.es/p/games.html#goog_255478544",
         "extras": false
     },
     {
