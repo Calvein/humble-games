@@ -3957,6 +3957,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gimbal Cop",
+        "url": "gimbalcop/Gdkwodkkf3",
+        "price": "5",
+        "description": "Get Gimbal Cop! When ready, receive the game DRM-free and cross-platform (Mac and Linux coming soon)!",
+        "developer": "Defective Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.defectivestudios.com/"
+        },
+        "notes": "Store page: http://www.defectivestudios.com/gimbalcop/#buy",
+        "extras": false
+    },
+    {
         "name": "Girls Like Robots",
         "url": "girlslikerobots?preview=sZA9b3TVhPxM",
         "price": "10",
@@ -8846,28 +8871,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page at http://stonehearth.net/store/"
-    },
-    {
-        "name": "Stonehearth + Beta Access",
-        "url": "stonehearth_beta?preview=bMe8PkEHJcM7",
-        "price": "30",
-        "description": "Pre-order now and get Stonehearth + Beta on release! A sandbox strategy game with town building, crafting, and epic battles!",
-        "developer": "Radiant Entertainment",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "notes": "Store page at http://stonehearth.net/store/"
+        "notes": "Alpha access also available for $30. \n Store page at http://stonehearth.net/store/"
     },
     {
         "name": "Sugar Cube: Bittersweet Factory",
