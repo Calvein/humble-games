@@ -1,4 +1,33 @@
 var games = [
+	
+    {
+        "name": "140",
+        "url": "140/KDwi3ksldk",
+        "price": "4.99",
+        "description": "Get '140' instantly! Cross-platform, DRM-free, and redeemable on Steam!",
+        "developer": "Carlsen Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/10/16/140-review",
+            "steam": "http://store.steampowered.com/app/242820/",
+            "desura": "",
+            "developer": "http://game140.com/"
+        },
+        "notes": "",
+        "extras": false
+    },
     {
         "name": "6180 the moon",
         "url": "6180themoon?preview=iaopvase",
@@ -6642,6 +6671,34 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Ossuary",
+        "url": "ossuary/Osudkwk1",
+        "price": "5",
+        "description": "Get Ossuary instantly for Windows, DRM-free. Fall into the place of bones.",
+        "developer": "Future Proof Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/11/29/down-in-the-bonehoard-ossuary/",
+            "steam": "",
+            "desura": "",
+            "developer": "http://futureproofgames.com/games/ossuary/"
+        },
+        "notes": "",
+        "extras": false
     },
     {
         "name": "Outlast",
