@@ -22,10 +22,8 @@ var games = [
         "URL": {
             "review": "http://www.ign.com/articles/2013/10/16/140-review",
             "steam": "http://store.steampowered.com/app/242820/",
-            "desura": "",
             "developer": "http://game140.com/"
         },
-        "notes": "",
         "extras": false
     },
     {
@@ -6693,11 +6691,9 @@ var games = [
         },
         "URL": {
             "review": "http://www.rockpapershotgun.com/2013/11/29/down-in-the-bonehoard-ossuary/",
-            "steam": "",
-            "desura": "",
-            "developer": "http://futureproofgames.com/games/ossuary/"
+            "developer": "http://futureproofgames.com"
         },
-        "notes": "",
+        "notes": "Store page: http://futureproofgames.com/games/ossuary/",
         "extras": false
     },
     {
@@ -7927,7 +7923,157 @@ var games = [
             "drm-free": true
         }
     },
-        {
+    {
+        "name": "Secrets of Rætikon",
+        "url": "secretsofraetikon_tier1/Sdhe6Sdw5De",
+        "price": "10",
+        "description": "Alpha access, Steam key & in-game editor.",
+        "developer": "Broken Rules",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://brokenrul.es/"
+        },
+        "notes": "Store page: http://www.secrets-of-raetikon.com/",
+        "extras": true
+    },
+    {
+        "name": "Secrets of Rætikon: Minecon Spæcial",
+        "url": "secretsofraetikon_tier2/Sdhe6Sdw5De",
+        "price": "15",
+        "description": "Get Alpha access, Steam keys(on launch), in-game editor & soundtrack.",
+        "developer": "Broken Rules",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://brokenrul.es/"
+        },
+        "notes": "Store page: http://www.secrets-of-raetikon.com/",
+        "extras": true
+    },
+    {
+        "name": "Secrets of Rætikon: Benefæctor Edition",
+        "url": "secretsofraetikon_tier3/Sdhe6Sdw5De",
+        "price": "25",
+        "description": "Alpha access, Steam key, in-game editor & soundtrack",
+        "developer": "Broken Rules",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://brokenrul.es/"
+        },
+        "notes": "Store page: http://www.secrets-of-raetikon.com/",
+        "extras": true
+    },
+    {
+        "name": "Secrets of Rætikon: Collectors Edition",
+        "url": "secretsofraetikon_tier4/Sdhe6Sdw5De",
+        "price": "50",
+        "description": "Soundtræack Edition + unreleased prototype & PDF version of the Book of Rætikon",
+        "developer": "Broken Rules",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://brokenrul.es/"
+        },
+        "notes": "Store page: http://www.secrets-of-raetikon.com/",
+        "extras": true
+    },
+    {
+        "name": "Secrets of Rætikon: Character Pack",
+        "url": "secretsofraetikon_tier5/Sdhe6Sdw5De",
+        "price": "100",
+        "description": "Get Secrets of Rætikon: Collectors Edition + all 4 alternate player characters & 4 extra copies of the game.",
+        "developer": "Broken Rules",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://brokenrul.es/"
+        },
+        "notes": "Store page: http://www.secrets-of-raetikon.com/",
+        "extras": true
+    },
+    {
+        "name": "Secrets of Rætikon: Unique Artefæct",
+        "url": "secretsofraetikon_tier6/Sdhe6Sdw5De",
+        "price": "250",
+        "description": "Collectors Edition + custom branded, wooden USB stick, signed and numbered art print & printed copy of the Book of Rætikon.",
+        "developer": "Broken Rules",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://brokenrul.es/"
+        },
+        "notes": "Store page: http://www.secrets-of-raetikon.com/",
+        "extras": true
+    },
+    {
         "name": "Sentinel",
         "url": "sentinel?preview=xb7qKvL5ES0e",
         "price": "5",
