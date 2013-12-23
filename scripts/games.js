@@ -10646,7 +10646,7 @@ var games = [
         "notes": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
     },
     {
-        "name": "Whispering Willows ",
+        "name": "Whispering Willows",
         "url": "whisperingwillows?preview=CMeeWteE43cw",
         "price": "10",
         "description": "Pre-order now & get full game, cross-platform & DRM-free. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father.",
@@ -10664,7 +10664,30 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://nightlightinteractive.com/"
+        "notes": "Store page: http://nightlightinteractive.com/product/whispering-willows/",
+        "extras": false
+    },
+    {
+        "name": "Whispering Willows Special Edition",
+        "url": "whisperingwillows_se?preview=CMeeWteE43cw",
+        "price": "25",
+        "description": "Pre-order now & get full game, cross-platform & DRM-free. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father.",
+        "developer": "Night Light Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "notes": "The Special Edition includes a soundtrack and an art book. \n Store page: http://nightlightinteractive.com/product/whispering-willows-se/",
+        "extras: true
     },
     {
         "name": "WizFight",
