@@ -726,6 +726,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Bad Hotel",
+        "url": "badhotel/Bdwk2o2k",
+        "price": "4.99",
+        "description": "Get Bad Hotel for Windows, Mac, Linux, & Android. DRM-free, includes Steam Key!",
+        "developer": "Lucky Frame",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://twodashstash.com/2013/10/bad-hotel-review/",
+            "steam": "http://store.steampowered.com/app/231720/",
+            "developer": "http://www.luckyframe.co.uk/"
+        },
+        "notes": "Store page: http://www.luckyframe.co.uk/badhotel/",
+        "extras": false
+    },
+    {
         "name": "Bastion",
         "url": "bastion",
         "price": "14.99",
