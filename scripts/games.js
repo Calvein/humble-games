@@ -7985,6 +7985,33 @@ var games = [
         "notes": "Dev Store: http://coffeestainstudios.com/store"
     },
     {
+        "name": "Saturday Morning RPG",
+        "url": "saturdaymorningrpg/Ksleowkd192kdls",
+        "price": "5.99",
+        "description": "Get Saturday Morning RPG instantly! Cross-platform and DRM-free.",
+        "developer": "Mighty Rabbit Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamereviewer.com/review-saturday-morning-rpg/",
+            "desura": "http://www.desura.com/games/saturday-morning-rpg",
+            "developer": "http://www.mightyrabbitstudios.com/"
+        },
+        "notes": "Store page: http://www.mightyrabbitstudios.com/?page_id=48",
+        "extras": false
+    },
+    {
         "name": "Savant - Ascent",
         "url": "savant/Sew6Yth8Hsg",
         "price": "1.99",
