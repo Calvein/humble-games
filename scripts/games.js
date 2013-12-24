@@ -3016,6 +3016,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Dyad",
+        "url": "dyad?preview=7HNqZDJtFsa9",
+        "price": "14.99",
+        "description": "Get Dyad 100% DRM-Free. Windows only for now. Mac and Linux coming soon!",
+        "developer": "][ Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://kotaku.com/5926808/dyad-the-kotaku-review",
+            "steam": "http://store.steampowered.com/app/223450",
+            "developer": "http://www.dyadgame.com/"
+        },
+        "notes": "link found at pcgamingwiki",
+        "extras": false
+    },
+    {
         "name": "Dynamite Jack",
         "url": "dynamitejack",
         "price": "4.99",
@@ -3042,16 +3069,16 @@ var games = [
         "extras": false
     },
     {
-        "name": "Dyad",
-        "url": "dyad?preview=7HNqZDJtFsa9",
-        "price": "14.99",
-        "description": "Get Dyad 100% DRM-Free. Windows only for now. Mac and Linux coming soon!",
-        "developer": "][ Games",
+        "name": "Dyscourse: PASSENGER",
+        "url": "dyscourse_passenger/Dksowk3",
+        "price": "15",
+        "description": "Pre-Order Dyscourse DRM-free (PC/Mac/Linux) plus get a Steam key! Est. delivery: September 2014",
+        "developer": "Owlchemy Labs",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -3061,12 +3088,60 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "http://kotaku.com/5926808/dyad-the-kotaku-review",
-            "steam": "http://store.steampowered.com/app/223450",
-            "developer": "http://www.dyadgame.com/"
+            "developer": "http://owlchemylabs.com/"
         },
-        "notes": "link found at pcgamingwiki",
+        "notes": "Store page: http://dyscourse.com/#preorder",
         "extras": false
+    },
+    {
+        "name": "Dyscourse: UPGRADED PASSENGER",
+        "url": "dyscourse_upgradedpassenger/Dksowk3",
+        "price": "20",
+        "description": "Pre-Order Dyscourse DRM-free (PC/Mac/Linux) plus Steam key, Beta access, and digital artbook/wallpaper/soundtrack. Est. delivery: May 2014",
+        "developer": "Owlchemy Labs",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://owlchemylabs.com/"
+        },
+        "notes": "Store page: http://dyscourse.com/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Dyscourse: ROUND TRIP PASSENGER",
+        "url": "dyscourse_roundtrippassenger/Dksowk3",
+        "price": "30",
+        "description": "Pre-Order Dyscourse DRM-free (PC/Mac/Linux) + 2 Steam keys, Beta, digital artbook, wallpaper, OST + documentary! Est. May 2014",
+        "developer": "Owlchemy Labs",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://owlchemylabs.com/"
+        },
+        "notes": "Store page: http://dyscourse.com/#preorder",
+        "extras": true
     },
     {
         "name": "Eador: Genesis",
@@ -4545,6 +4620,31 @@ var games = [
             "drm-free": true
         },
         "notes": "Original Website: http://www.hammerwatch.com"
+    },
+    {
+        "name": "Hand of Fate",
+        "url": "handoffate/Hdskwo3",
+        "price": "25",
+        "description": "Preorder Hand of Fate and get it the moment it's released! Cross-platform and DRM-free.",
+        "developer": "Defiant Development",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://defiantdev.com/index.php"
+        },
+        "notes": "Store page: http://defiantdev.com/handoffate.php",
+        "extras": false
     },
     {
         "name": "Hive",
