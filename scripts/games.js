@@ -6870,6 +6870,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Paper Sorcerer",
+        "url": "papersorcerer/Pdkslei2",
+        "price": "5",
+        "description": "Get Paper Sorcerer instantly! Cross-platform and DRM-free.",
+        "developer": "Ultra Runaway Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://diehardgamefan.com/2013/11/06/review-paper-sorcerer-pc/",
+            "desura": "http://www.desura.com/games/paper-sorcerer",
+            "developer": "http://www.ultrarunaway.com/"
+        },
+        "notes": "Store page: http://www.ultrarunaway.com/store.html",
+        "extras": false
+    },
+    {
         "name": "Papers, Please",
         "url": "papersplease/Psh7Hsjt5Fsuy",
         "price": "9.99",
