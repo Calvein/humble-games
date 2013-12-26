@@ -10869,7 +10869,7 @@ var games = [
             "drm-free": true
         },
         "notes": "The Special Edition includes a soundtrack and an art book. \n Store page: http://nightlightinteractive.com/product/whispering-willows-se/",
-        "extras: true
+        "extras": true
     },
     {
         "name": "WizFight",
