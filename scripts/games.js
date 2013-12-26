@@ -6593,16 +6593,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/252670",
             "desura": "http://www.desura.com/games/nihilumbra",
             "developer": "http://www.beautifungames.com/"
         },
-        "notes": "Steam key available when the game gets greenlit. \n Store page: http://www.nihilumbra.com/",
+        "notes": "Store page: http://www.nihilumbra.com/",
         "extras": false
     },
     {
