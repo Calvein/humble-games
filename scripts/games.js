@@ -4802,6 +4802,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Icebound",
+        "url": "icebound/Isldkw10dk",
+        "price": "14.99",
+        "description": "Pre-order Icebound now! When it's ready, get the game Cross-platform and DRM-free.",
+        "developer": "Fastermind Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.fastermind.net/"
+        },
+        "notes": "Store page: http://iceboundgame.com/",
+        "extras": false
+    },
+    {
         "name": "Ichi",
         "url": "ichi",
         "price": "2.99",
