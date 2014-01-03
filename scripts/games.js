@@ -5927,6 +5927,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "Lilly Looking Through",
+        "url": "lillylookingthrough/Lsh8Thyg4TSf",
+        "price": "9.99",
+        "description": "Get Lilly Looking Through, instantly! Cross-platform and DRM-free.",
+        "developer": "Geeta Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/25597",
+            "steam": "http://store.steampowered.com/app/250030/",
+            "developer": "http://geetagames.com/",
+        },
+        "notes": "Linux version coming soon. \n Store page: http://geetagames.com/store/",
+        "extras": false
+    },
+    {
+        "name": "Lilly Looking Through Deluxe",
+        "url": "lillylookingthrough_deluxe/Lsh8Thyg4TSf",
+        "price": "19.99",
+        "description": "Get Lilly Looking Through Deluxe Edition, instantly! Cross-platform and DRM-free. Plus a Steam Key and a PDF of artwork from the game.",
+        "developer": "Geeta Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/25597",
+            "steam": "http://store.steampowered.com/app/250030/",
+            "developer": "http://geetagames.com/",
+        },
+        "notes": "Linux version coming soon. \n Store page: http://geetagames.com/store/",
+        "extras": true
+    },  
+    {
         "name": "Little Inferno",
         "url": "littleinferno",
         "price": "10",
