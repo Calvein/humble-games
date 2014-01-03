@@ -5156,8 +5156,183 @@ var games = [
             "steam": "http://store.steampowered.com/app/241320",
             "developer": "http://www.ludosity.com/"
         },
-        "notes": "Linux version will be added to all purchases when it's made available.\nStore page: http://www.ittledew.com/purchase/",
+        "notes": "Linux version will be added to all purchases when it's made available. \n Store page: http://www.ittledew.com/purchase/",
         "extras": false        
+    },
+    {
+        "name": "Jack Houston: Episode 1",
+        "url": "jackhouston_ep1/Jshu6Yhr5Dsf",
+        "price": "9.99",
+        "description": "Jack Houston and the Necronauts Ep. 1: \"Land Of The Saucermen\" (when available) DRM-free for Win & Linux + Wallpapers & Forum!",
+        "developer": "Warbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.warbirdgames.com/"
+        },
+        "notes": "Store page: http://www.warbirdgames.com/?page_id=545",
+        "extras": true
+    },
+    {
+        "name": "Jack Houston: Season Pass",
+        "url": "jackhouston_season/Jshu6Yhr5Dsf",
+        "price": "39.99",
+        "description": "All 4 Episodes (as available) DRM-free for Win & Linux + Beta, Wallpapers & Forum!",
+        "developer": "Warbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.warbirdgames.com/"
+        },
+        "notes": "Store page: http://www.warbirdgames.com/?page_id=545",
+        "extras": true
+    },
+    {
+        "name": "Jack Houston: Major Class",
+        "url": "jackhouston_major/Jshu6Yhr5Dsf",
+        "price": "60",
+        "description": "All 4 Episodes (as available) DRM-free for Win & Linux, MP3 Soundtrack & PDF Making-Of Book + Extras!",
+        "developer": "Warbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.warbirdgames.com/"
+        },
+        "notes": "Store page: http://www.warbirdgames.com/?page_id=545",
+        "extras": true
+    },
+    {
+        "name": "Jack Houston: Lt. Colonel Class",
+        "url": "jackhouston_colonel/Jshu6Yhr5Dsf",
+        "price": "95",
+        "description": "*All-Digital* w/ Special Ed. Download for Win & Linux + MP3 Soundtrack, PDF Making-Of Book & Extras! Includes 3 Gift links for Jack Houston: Season Pass.",
+        "developer": "Warbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.warbirdgames.com/"
+        },
+        "notes": "Store page: http://www.warbirdgames.com/?page_id=545",
+        "extras": true
+    },
+    {
+        "name": "Jack Houston: Brig. General Class",
+        "url": "jackhouston_brig/Jshu6Yhr5Dsf",
+        "price": "100",
+        "description": "Boxed Special Edition for Win & Linux + 3 Gift Codes containing all the Episodes, MP3 Soundtrack, PDF Making-Of Book & Extras!",
+        "developer": "Warbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.warbirdgames.com/"
+        },
+        "notes": "Store page: http://www.warbirdgames.com/?page_id=545",
+        "extras": true
+    },
+    {
+        "name": "Jack Houston: Major General Class",
+        "url": "jackhouston_general/Jshu6Yhr5Dsf",
+        "price": "250",
+        "description": "Boxed Special Edition for Win & Linux + Soundtrack, PDF Making-Of Book & Extras! Includes 5 Gift links for Jack Houston: Season Pass.",
+        "developer": "Warbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.warbirdgames.com/"
+        },
+        "notes": "Store page: http://www.warbirdgames.com/?page_id=545",
+        "extras": true
+    },
+    {
+        "name": "Jack Houston: Fleet Admiral Class",
+        "url": "jackhouston_admiral/Jshu6Yhr5Dsf",
+        "price": "500",
+        "description": "Boxed Special Edition for Win & Linux + Soundtrack, Making-Of Book & Extras! Includes 7 Gift links for Jack Houston: Season Pass.",
+        "developer": "Warbird Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.warbirdgames.com/"
+        },
+        "notes": "Store page: http://www.warbirdgames.com/?page_id=545",
+        "extras": true
     },
     {
         "name": "Jasper's Journeys",
