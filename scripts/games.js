@@ -979,6 +979,8 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gamespot.com/blood-of-the-werewolf/",
+            "steam": "http://store.steampowered.com/app/260250",
             "developer": "https://www.facebook.com/scientifically"
         },
         "notes": "It's coming to Windows/Mac/Linux according to its Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=133210361",
@@ -1404,7 +1406,7 @@ var games = [
         "URL": {
             "developer": "http://www.beholdstudios.com.br/"
         },
-        "notes": "Steam key if/when greenlit. \n Store page: http://www.chromasquad.com/",
+        "notes": "Store page: http://www.chromasquad.com/",
         "extras": false
     },
     {
@@ -1429,7 +1431,7 @@ var games = [
         "URL": {
             "developer": "http://www.beholdstudios.com.br/"
         },
-        "notes": "Steam key if/when greenlit. \n Store page: http://www.chromasquad.com/",
+        "notes": "Store page: http://www.chromasquad.com/",
         "extras": true
     },
     {
@@ -1454,7 +1456,7 @@ var games = [
         "URL": {
             "developer": "http://www.beholdstudios.com.br/"
         },
-        "notes": "Steam key if/when greenlit. \n Store page: http://www.chromasquad.com/",
+        "notes": "Store page: http://www.chromasquad.com/",
         "extras": true
     },
     {
@@ -2433,7 +2435,7 @@ var games = [
             "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=124366711",
             "developer": "http://pixelscopic.com/"
         },
-        "notes": "Has been greenlit.",
+        "notes": "Store page: http://delversdrop.com/preorder/",
         "extras": false
     },
     {
@@ -2798,14 +2800,14 @@ var games = [
             "review": "http://www.148apps.com/tag/celsius-game-studios/",
             "developer": "http://www.celsiusgs.com/drifter/"
         },
-        "notes": "Currently on sale at 33% off, regular price is $15. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key if the game is greenlit.",
+        "notes": "Currently on sale at 33% off, regular price is $15. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key when the game is available on Steam.",
         "extras": false
     },
     {
         "name": "Dungeon Dashers: Standard Edition",
         "url": "dungeondashers/Ddj8Hgwu6Gd",
         "price": "9.99",
-        "description": "Pre-purchase Dungeon Dashers and get instant access to the latest beta build! Plus a free Steam key when the game gets Greenlit!",
+        "description": "Pre-purchase Dungeon Dashers and get instant access to the latest beta build! Plus a free Steam key delivered instantly!",
         "developer": "Jigxor",
         "platform": {
             "android": false,
@@ -2815,13 +2817,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": true,
             "drm-free": true
         },
         "URL": {
             "review": "http://criticalindiegamer.com/2013/05/dungeon-dashers-first-lookpc/",
+            "steam": "http://store.steampowered.com/app/252210",
             "desura": "http://www.desura.com/games/Dungeon-Dashers",
             "developer": "http://www.dungeondashers.com"
         },
@@ -2831,7 +2834,7 @@ var games = [
         "name": "Dungeon Dashers: 4-Pack Edition",
         "url": "dungeondashers_4pack/Ddj8Hgwu6Gd",
         "price": "26.99",
-        "description": "Instant access to the latest beta build and 3 additional keys for your friends! Plus 4 Steam keys when the game gets Greenlit!",
+        "description": "Instant access to the latest beta build and 3 additional keys for your friends! Plus 4 Steam keys delivered instantly!",
         "developer": "Jigxor",
         "platform": {
             "android": false,
@@ -2841,13 +2844,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": true,
             "drm-free": true
         },
         "URL": {
             "review": "http://criticalindiegamer.com/2013/05/dungeon-dashers-first-lookpc/",
+            "steam": "http://store.steampowered.com/app/252210",
             "desura": "http://www.desura.com/games/Dungeon-Dashers",
             "developer": "http://www.dungeondashers.com"
         },
@@ -2857,7 +2861,7 @@ var games = [
         "name": "DD: Super Best Friend Edition",
         "url": "dd_superbestfriendedition/Ddj8Hgwu6Gd",
         "price": "47.99",
-        "description": "Instant access to the latest beta build, 3 additional keys for your friends, 4 Steam keys when Greenlight, and your name in the credits!",
+        "description": "Instant access to the latest beta build, 3 additional keys for your friends, 4 Steam keys, and your name in the credits!",
         "developer": "Jigxor",
         "platform": {
             "android": false,
@@ -2867,17 +2871,18 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": true,
             "drm-free": true
         },
         "URL": {
             "review": "http://criticalindiegamer.com/2013/05/dungeon-dashers-first-lookpc/",
+            "steam": "http://store.steampowered.com/app/252210",
             "desura": "http://www.desura.com/games/Dungeon-Dashers",
             "developer": "http://www.dungeondashers.com"
         },
-        "notes": "full name is Dungeon Dashers. Dungeon dashers should be searchable because of this note :P",
+        "notes": "Full name is Dungeon Dashers. Dungeon Dashers should be searchable because of this note :P",
         "extras": false
     },
     {
@@ -3745,6 +3750,7 @@ var games = [
             "drm-free": false
         },
         "URL": {
+            "desura": "http://www.desura.com/games/expander",
             "developer": "http://www.allcivilizedplanets.com"
         },
         "notes": "The game is also available on the iOS AppStore, Google Play and the Mac AppStore.",
@@ -6221,6 +6227,56 @@ var games = [
         }
     },
     {
+        "name": "Magnetic By Nature: Standard Edition",
+        "url": "magneticbynature?preview=2LgkTaVbgE3n",
+        "price": "8",
+        "description": "Pre-order Magnetic By Nature now for this special pre-order price! Cross-platform and DRM-free.",
+        "developer": "Tripleslash Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.tripleslashstudios.com/"
+        },
+        "notes": "Store page: http://www.magneticbynature.com/",
+        "extras": false
+    },
+    {
+        "name": "Magnetic By Nature: Ultimate Edition",
+        "url": "magneticbynature_silver?preview=2LgkTaVbgE3n",
+        "price": "15",
+        "description": "Pre-order Magnetic By Nature, cross-platform and DRM-free, now for a special pre-order price! Includes every DLC pack released for MBN in the future!",
+        "developer": "Tripleslash Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.tripleslashstudios.com/"
+        },
+        "notes": "Store page: http://www.magneticbynature.com/",
+        "extras": true
+    },
+    {
         "name": "McDROID",
         "url": "mcdroid?preview=iuNUFbSKkX4J",
         "price": "14.99",
@@ -6282,9 +6338,10 @@ var games = [
         "URL": {
             "review": "http://www.capsulecomputers.asia/2013/08/megabyte-punch-review/",
             "desura": "http://www.desura.com/games/megabyte-punch",
+            "steam": "http://store.steampowered.com/app/248550/",
             "developer": "http://reptile-games.com/"
         },
-        "notes": "It's been greenlit and should be available on Steam soon. \n Store page: http://megabytepunch.reptile-games.com/",
+        "notes": "Store page: http://megabytepunch.reptile-games.com/",
         "extras": false
     },
     {
@@ -6309,9 +6366,10 @@ var games = [
         "URL": {
             "review": "http://www.capsulecomputers.asia/2013/08/megabyte-punch-review/",
             "desura": "http://www.desura.com/games/megabyte-punch",
+            "steam": "http://store.steampowered.com/app/248550/",
             "developer": "http://reptile-games.com/"
         },
-        "notes": "It's been greenlit and should be available on Steam soon. \n Store page: http://megabytepunch.reptile-games.com/",
+        "notes": "Store page: http://megabytepunch.reptile-games.com/",
         "extras": true
     },
     {
@@ -10042,7 +10100,6 @@ var games = [
             "audio": true
         },
         "drm": {
-            "greenlight": true,
             "steam": true,
             "desura": false,
             "gog": false,
