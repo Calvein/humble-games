@@ -2463,6 +2463,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Detective Grimoire",
+        "url": "detectivegrimoire/Dwldkwo1",
+        "price": "6.99",
+        "description": "Get Detective Grimoire now, cross platform and DRM-free!",
+        "developer": "Armor Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://armorgames.com/"
+        },
+        "notes": "Store page: http://detectivegrimoire.com/",
+        "extras": false
+    },
+    {
+        "name": "Detective Grimoire Soundtrack",
+        "url": "detectivegrimoiresoundtrack/Dwldkwo1",
+        "price": "4",
+        "description": "Get the Detective Grimoire Soundtrack instantly and DRM-free, as both MP3 and FLAC!",
+        "developer": "SFB Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://sfbgames.com/"
+        },
+        "notes": "Store page: http://detectivegrimoire.com/",
+        "extras": false
+    },
+    {
         "name": "Dino Run SE",
         "url": "dinorunse",
         "price": "3",
