@@ -9330,6 +9330,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Spectrum",
+        "url": "spectrum/Sdkeo4k",
+        "price": "4.95",
+        "description": "Spectrum is an addictive side scrolling 2D puzzle platformer with a meaningful story. Get Spectrum instantly! Cross-platform and DRM-free.",
+        "developer": "Mido Basim",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/spectrum-a-puzzle-platformer",
+            "developer": "https://www.spectrumgame.com/"
+        },
+        "notes": "Mac version coming soon.",
+        "extras": false
+    },
+    {
         "name": "Spirits",
         "url": "spirits",
         "price": "10",
