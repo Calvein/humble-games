@@ -4829,14 +4829,14 @@ var games = [
         "URL": {
             "developer": "http://www.heart-machine.com/home1/"
         },
-        "notes": "They promise a Steam key even though the game hasn't been greenlit yet. \n Store page: http://www.heart-machine.com/",
+        "notes": "Store page: http://www.heart-machine.com/",
         "extras": false
     },
     {
-        "name": "Hyper Light Drifter + Bonus Pack",
+        "name": "Hyper Light Drifter + Bonus Pack (Early Access)",
         "url": "hyperlightdrifter_bonuspack/sdfIwldkGh12k",
         "price": "25",
-        "description": "Pre-order Hyper Light Drifter. When released you will receive the game DRM-free for Win/Mac/Linux + a Steam key + PDF Art Book + PDF manual.",
+        "description": "Pre-order Hyper Light Drifter (early access). When released you'll receive the game DRM-free for Win/Mac/Linux, Steam key, Art Book & Manual PDFs.",
         "developer": "Heart Machine",
         "platform": {
             "android": false,
@@ -4854,7 +4854,107 @@ var games = [
         "URL": {
             "developer": "http://www.heart-machine.com/home1/"
         },
-        "notes": "They promise a Steam key even though the game hasn't been greenlit yet. \n Store page: http://www.heart-machine.com/",
+        "notes": "Store page: http://www.heart-machine.com/",
+        "extras": true
+    },
+    {
+        "name": "Hyper Light Drifter + Ultimate Bundle",
+        "url": "hyperlightdrifter_ultimatebundle/sdfIwldkGh12k",
+        "price": "40",
+        "description": "Pre-order Hyper Light Drifter. When ready get it DRM-free for Win/Mac/Linux, a Steam key, PDF Art Book, PDF manual, OST, Golden Goods & Beta Access.",
+        "developer": "Heart Machine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.heart-machine.com/home1/"
+        },
+        "notes": "Store page: http://www.heart-machine.com/",
+        "extras": true
+    },
+    {
+        "name": "Hyper Light Drifter Soundtrack",
+        "url": "hyperlightdrifter_ost/sdfIwldkGh12k",
+        "price": "5",
+        "description": "The wonderful digital OST by Disasterpeace, and various other contribution artists!",
+        "developer": "Heart Machine",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.heart-machine.com/home1/"
+        },
+        "notes": "Store page: http://www.heart-machine.com/",
+        "extras": false
+    },
+    {
+        "name": "Unlock: Alternate Drifter",
+        "url": "hyperlightdrifter_unlock/sdfIwldkGh12k",
+        "price": "10",
+        "description": "Receive an early unlock key for the alternate Drifter; get different animations, primary weapon, and story!",
+        "developer": "Heart Machine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.heart-machine.com/home1/"
+        },
+        "notes": "Store page: http://www.heart-machine.com/ \n This is a widget for the game Hyper Light Drifter.",
+        "extras": true
+    },
+    {
+        "name": "Compact Print (US-only)",
+        "url": "hyperlightdrifter_compactprint/sdfIwldkGh12k",
+        "price": "42",
+        "description": "Limited edition 11x14 print with the Drifter, design: Alex Preston! Remember: visit your download page to provide your shipping address!",
+        "developer": "Heart Machine",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.heart-machine.com/home1/"
+        },
+        "notes": "Store page: http://www.heart-machine.com/ \n This is a widget for the game Hyper Light Drifter.",
         "extras": true
     },
     {
