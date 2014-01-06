@@ -8137,6 +8137,31 @@ var games = [
         }
     },
     {
+        "name": "Retrobooster",
+        "url": "retrobooster/Rdkslwo1k2k",
+        "price": "12",
+        "description": "Pre-order Retrobooster for Window and Linux. It's DRM-free!",
+        "developer": "Really Slick",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.reallyslick.com/index.html"
+        },
+        "notes": "Currently on sale at 33% off. Regular price is $18. \n Store page: http://www.reallyslick.com/retrobooster/",
+        "extras": false
+    },
+    {
         "name": "Retrovirus",
         "url": "retrovirus?preview=Lu4XLfSG1anX",
         "price": "19.99",
