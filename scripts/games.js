@@ -9005,26 +9005,6 @@ var games = [
         }
     },
     {
-        "name": "Skullgirls Well-wisher",
-        "url": "skullgirlswellwisher?preview=Sjd92hsnzc",
-        "price": "81",
-        "description": "Get a digital OST, digital sketchbook and Half Minute Hero Steam key now, and a Steam beta + game key and digital art compendium when they're ready!",
-        "developer": "Lab Zero Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        }
-    },
-    {
         "name": "Skulls of the Shogun",
         "url": "skullsoftheshogun?preview=H8fsaTdef7djn",
         "price": "11.99",
