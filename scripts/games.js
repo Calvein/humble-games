@@ -3457,6 +3457,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Elliot Quest",
+        "url": "elliotquest_regular/Ekdosk19ksl",
+        "price": "9.99",
+        "description": "Get Elliot Quest Alpha Access instantly!",
+        "developer": "Ansimuz Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/elliot-quest",
+            "developer": "http://ansimuz.com/"
+        },
+        "extras": false,
+        "notes": "Alpha access. \n Store page: http://elliotquest.com/"
+    },
+    {
+        "name": "Elliot Quest: Deluxe Edition",
+        "url": "elliotquest/Ekdosk19ksl",
+        "price": "12.99",
+        "description": "Get Elliot Quest Alpha Access instantly + OST + upcoming Art PDF. Redeem it on Desura!",
+        "developer": "Ansimuz Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/elliot-quest",
+            "developer": "http://ansimuz.com/"
+        },
+        "extras": true,
+        "notes": "Alpha access. \n Store page: http://elliotquest.com/"
+    },
+    {
         "name": "Energy Hook Alpha",
         "url": "energyhook_alpha/Edu8Ywh6Tsf",
         "price": "35",
