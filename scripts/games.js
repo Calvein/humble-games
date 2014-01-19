@@ -8,7 +8,7 @@ var games = [
         "developer": "Carlsen Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
