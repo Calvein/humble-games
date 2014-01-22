@@ -678,8 +678,8 @@ var games = [
     {
         "name": "A Wizard's Lizard",
         "url": "cryptrun/Cdy6Dgsy3Fts",
-        "price": "12",
-        "description": "Pre-order A Wizard's Lizard at 20% off! Cross-platform and DRM free!",
+        "price": "15",
+        "description": "Conquer the forces of Death in A Wizard’s Lizard. Cross-platform and DRM free!",
         "developer": "Lost Decade Games",
         "platform": {
             "android": false,
@@ -722,7 +722,7 @@ var games = [
         "URL": {
             "developer": "http://www.lostdecadegames.com/"
         },
-        "notes": "Store page: http://www.wizardslizard.com/",
+        "notes": "The game has already been released so this widget, though active, shouldn't probably be used.",
         "extras": true
     },
     {
@@ -2549,7 +2549,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -2562,7 +2562,7 @@ var games = [
         "URL": {
             "developer": "http://www.82apps.com/"
         },
-        "notes": "Currently on sale at 50% off, regular price is $10. \n Store page: http://www.82apps.com/DiscoDodgeball/ \n Linux support coming soon: http://www.82apps.com/DiscoDodgeball/about.html",
+        "notes": "Currently on sale at 50% off, regular price is $10. \n Store page: http://www.82apps.com/DiscoDodgeball/",
         "extras": false
     },
     {
