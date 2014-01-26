@@ -233,6 +233,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Al Emmo & the Lost Dutchman's Mine",
+        "url": "alemmoandthelostdutchmansmine/Aud3",
+        "price": "9.99",
+        "description": "Get the game instantly! DRM-free. Windows only.",
+        "developer": "Himalaya Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/al-emmo-and-the-lost-dutchmans-mine",
+            "developer": "http://www.himalayastudios.com/index.php"
+        },
+        "notes": "Steam key if Greenlit. \n Store page: http://www.himalayastudios.com/alemmo.php",
+        "extras": false
+    },
+    {
         "name": "Amnesia: A Machine for Pigs",
         "url": "amnesiaamachineforpigs?preview=Skj382hsnblz",
         "price": "20",
@@ -5516,7 +5542,7 @@ var games = [
         "name": "Jazzpunk",
         "url": "jazzpunk/asdo23Sikalwo1",
         "price": "15",
-        "description": "Pre-Order Jazzpunk for Windows, Mac and Linux, all DRM-free. Available January 2014!",
+        "description": "Pre-Order Jazzpunk for Windows, Mac and Linux, all DRM-free. Available Feb 7, 2014!",
         "developer": "Necrophone Games",
         "platform": {
             "android": false,
@@ -5534,6 +5560,7 @@ var games = [
         "URL": {
             "developer": "http://necrophonegames.com/"
         },
+        "notes": "Store page: http://www.jazzpunk.net/",
         "extras": false
     },
     {
