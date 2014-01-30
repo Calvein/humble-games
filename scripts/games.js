@@ -1051,7 +1051,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -7243,6 +7243,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Octodad: Dadliest Catch",
+        "url": "octodad_dadliestcatch/Odkwcch3",
+        "price": "14.99",
+        "description": "Purchase Octodad: Dadliest Catch instantly! Cross-platform, DRM-free, and Redeemable on Steam as well.",
+        "developer": "Young Horses",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": true,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "review": "http://kotaku.com/octodad-dadliest-catch-the-kotaku-review-1512040710",
+                "steam": "http://store.steampowered.com/app/224480/",
+                "developer": "http://www.octodadgame.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Offspring Fling",
         "url": "offspringfling",
         "price": "7.99",
@@ -8262,7 +8288,7 @@ var games = [
         "URL": {
             "developer": "http://www.reallyslick.com/index.html"
         },
-        "notes": "Currently on sale at 33% off. Regular price is $18. \n Store page: http://www.reallyslick.com/retrobooster/",
+        "notes": "Currently on sale at 33% off. Regular price is $17.99. \n Store page: http://www.reallyslick.com/retrobooster/",
         "extras": false
     },
     {
@@ -8499,6 +8525,58 @@ var games = [
         "notes": "Early Bird preorder includes soundtrack and digital art book. Normal price $14.99.",
         "extras": true
     },
+    {
+        "name": "rymdkapsel",
+        "url": "rymdkapsel_pc_no_android/rkdow9D",
+        "price": "7.99",
+        "description": "Get rymdkapsel instantly! Cross-platform and DRM-free.",
+        "developer": "grapefrukt games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/253790",
+            "developer": "http://grapefrukt.com/"
+        },
+        "notes": "Steam key allegedly included, as it is in The Humble Store: http://www.humblebundle.com/store/p/rymdkapsel_storefront",
+        "extras": false
+    },
+    {
+        "name": "rymdkapsel: monolith edition",
+        "url": "rymdkapsel_monolith/rkdow9D",
+        "price": "11.99",
+        "description": "The Monolith edition comes with the Android version, the complete Soundtrack and a few secret extras.",
+        "developer": "grapefrukt games",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/253790",
+            "developer": "http://grapefrukt.com/"
+        },
+        "notes": "Steam key allegedly included, as it is in The Humble Store: http://www.humblebundle.com/store/p/rymdkapsel_storefront",
+        "extras": true
+    },  
     {
         "name": "Samorost2",
         "url": "samorost2",
