@@ -10258,6 +10258,32 @@ var games = [
         }
     },
     {
+        "name": "The Floor is Jelly",
+        "url": "thefloorisjelly/Tkdowk4",
+        "price": "9.99",
+        "description": "Get The Floor is Jelly instantly and DRM free!",
+        "developer": "Ian Snyder",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.indiegamemag.com/the-floor-is-jelly-review/",
+            "developer": "http://ianiselsewhere.com/"
+        },
+        "notes": "Store page: http://thefloorisjelly.com/",
+        "extras": false
+    },
+    {
         "name": "The Girl and the Robot - Alpha",
         "url": "thegirlandtherobotalpha?preview=nq7QVIpVWUqe",
         "price": "9",
@@ -10521,7 +10547,33 @@ var games = [
         "notes": "Store page: http://www.wadjeteyegames.com/games/the-shivah/",
         "extras": false
     },
-{
+    {
+        "name": "The Sun At Night",
+        "url": "laikabelieves_thesunatnight/Ldiwknn32josi",
+        "price": "14.99",
+        "description": "Exciting 2D action platformer starring Laika the space dog!",
+        "developer": "Minicore Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-the-sun-at-night-269964.phtml",
+            "developer": "http://minicorestudios.com/"
+        },
+        "notes": "Store page: http://minicorestudios.com/shop/digital-downloads \n The game is supposed to be released for Mac and Linux at some point.",
+        "extras": false
+    },
+    {
         "name": "The Swapper",
         "url": "theswapper?preview=sdfSHDhe9hs",
         "price": "14.99",
