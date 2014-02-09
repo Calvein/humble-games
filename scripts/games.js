@@ -8078,6 +8078,32 @@ var games = [
         }
     },
     {
+        "name": "Probably Archery",
+        "url": "probablyarchery/Psldkw1lkd",
+        "price": "11.99",
+        "description": "Purchase Probably Archery, Cross-platform and DRM-free! Also includes Steam key!",
+        "developer": "South East Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/263420/",
+            "developer": "http://southeastgames.com/"
+        },
+        "notes": "Store page: http://probablyarchery.com/",
+        "extras": false
+    },
+    {
         "name": "Proteus",
         "url": "proteus",
         "price": "10",
@@ -11171,6 +11197,34 @@ var games = [
             "developer": "http://darkfalzx.blogspot.com.es/"
         },
         "notes": "Store page: http://darkfalzx.blogspot.com.es/p/games.html#goog_255478544",
+        "extras": false
+    },
+    {
+        "name": "UnEpic",
+        "url": "unepic_tier1/Udh8Gye5Tdhe",
+        "price": "8.95",
+        "description": "Get UnEpic instantly! Digital downloads for Windows + Steam key.",
+        "developer": "Francisco Tellez de Meneses",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-unepic-214406.phtml",
+            "steam": "http://store.steampowered.com/app/233980/",
+            "desura": "http://www.desura.com/games/unepic",
+            "developer": "http://www.unepicgame.com/en/index.html"
+        },
+        "notes": "Store page: http://www.unepicgame.com/en/comprar.html",
         "extras": false
     },
     {
