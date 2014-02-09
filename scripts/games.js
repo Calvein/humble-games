@@ -6417,6 +6417,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "LYNE",
+        "url": "lyne/Ldkwodk3",
+        "price": "3",
+        "description": "Kick back and poke at geometry. LYNE is a minimal and thoughtful puzzle game for your mind.",
+        "developer": "Thomas Bowker",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/lyne/review",
+            "developer": "http://www.thomasbowker.com/"
+        },
+        "notes": "Store page: http://www.lynegame.com/",
+        "extras": false
+    },
+    {
         "name": "Macguffin's Curse",
         "url": "macguffinscurse",
         "price": "6.99",
