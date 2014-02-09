@@ -4833,6 +4833,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Heroes of Loot",
+        "url": "heroesofloot/Hdkwo3k",
+        "price": "5",
+        "description": "Get Heroes of Loot instantly and DRM free!",
+        "developer": "Orangepixel",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamesaaa.com/2013/09/23/heroes-of-loot-review/",
+            "developer": "http://orangepixel.net/"
+        },
+        "notes": "Java required to run the game. \n Store page: http://www.orangepixel.net/heroesofloot/buy/",
+        "extras": false
+    },
+    {
         "name": "Hive",
         "url": "hive/Hiv7Thsy3RDe",
         "price": "6.99",
