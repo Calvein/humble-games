@@ -11488,7 +11488,7 @@ var games = [
             "android": true,
             "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
