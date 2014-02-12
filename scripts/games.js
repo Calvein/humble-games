@@ -8363,6 +8363,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Rage Runner",
+        "url": "ragerunner/MOcewiocw",
+        "price": "4.99",
+        "description": "Get Rage Runner instantly! Cross-platform and DRM-free.",
+        "developer": "Hypercane Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/rage-runner",
+            "developer": "http://www.hypercanestudios.com/"
+        },
+        "notes": "Store page: http://ragerunner.hypercanestudios.com/",
+        "extras": false
+    },
+    {
         "name": "Real World Racing",
         "url": "realworldracing/Rdh7Yshf4Rsd",
         "price": "14.99",
