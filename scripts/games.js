@@ -1888,6 +1888,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Crystal Catacombs",
+        "url": "crystalcatacombs/Cdh7Gshs4Dd",
+        "price": "10",
+        "description": "Pre-order Crystal Catacombs today and receive your DRM-free copy upon release.",
+        "developer": "Levels or Lives",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://levelsorlives.com/"
+        },
+        "notes": "Store page: http://levelsorlives.com/purchase.htm",
+        "extras": false
+    },
+    {
+        "name": "Crystal Catacombs +",
+        "url": "crystalcatacombs_deluxe/Cdh7Gshs4Dd",
+        "price": "15",
+        "description": "Pre-order Crystal Catacombs and receive your DRM-free copy of the game, manual and OST upon release.",
+        "developer": "Levels or Lives",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://levelsorlives.com/"
+        },
+        "notes": "Store page: http://levelsorlives.com/purchase.htm",
+        "extras": true
+    },
+    {
+        "name": "Crystal Catacombs: BETA Access",
+        "url": "crystalcatacombs_deluxebeta/Cdh7Gshs4Dd",
+        "price": "20",
+        "description": "Pre-order Crystal Catacombs and receive access to the latest BETA Builds, the DRM-free copy of the game, manual and OST upon release.",
+        "developer": "Levels or Lives",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://levelsorlives.com/"
+        },
+        "notes": "Store page: http://levelsorlives.com/purchase.htm",
+        "extras": true
+    },
+    {
         "name": "Danmaku Unlimited 2",
         "url": "danmakuunlimited2/Ddh7Uhs9Sft",
         "price": "4.99",
