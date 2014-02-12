@@ -4353,6 +4353,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Goat Simulator",
+        "url": "goatsimulator/sjd93hhwozp",
+        "price": "9.99",
+        "description": "Beta access when available (Steam key).",
+        "developer": "Coffee Stain Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://coffeestainstudios.com/"
+        },
+        "notes": "Pre-order. \n Store page: http://www.goat-simulator.com/#shop",
+        "extras": false
+    },
+    {
         "name": "God of Blades",
         "url": "godofblades?preview=Sjd92h2nXa",
         "price": "4.99",
@@ -6976,7 +7001,7 @@ var games = [
         "name": "Neocolonialism",
         "url": "neocolonialism/Ndy7Rdg6Drdf",
         "price": "10",
-        "description": "Buy votes, make free trade agreements, manipulate the IMF, extract wealth, ruin everything. The map is upside-down. Pre-order now.",
+        "description": "Order Neocolonialism now! \n DRM-free, custom key (Steam-redeemable if it ever gets Greenlit).",
         "developer": "Subaltern Games",
         "platform": {
             "android": false,
@@ -6994,8 +7019,107 @@ var games = [
         "URL": {
             "developer": "http://subalterngames.com/"
         },
-        "notes": "The game will be released on 4 November.",
         "extras": false
+    },
+    {
+        "name": "Neverending Nightmares",
+        "url": "neverendingnightmares/Nskdo9kdls",
+        "price": "15",
+        "description": "Pre-order Neverending Nightmares now! When it's finished, you'll get the game DRM-free for Win+Mac+Linux+a Steam key!",
+        "developer": "Infinitap Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.infinitapgames.com/"
+        },
+        "notes": "Store page: http://www.neverendingnightmares.com/back.html",
+        "extras": false
+    },
+    {
+        "name": "Final Game + Beta + Soundtrack",
+        "url": "neverendingnightmares_beta_soundtrack/Nskdo9kdls",
+        "price": "25",
+        "description": "Pre-order Neverending Nightmares! When they are ready, get the beta, the game DRM-free for Win+Mac+Linux+a Steam key, and the soundtrack!",
+        "developer": "Infinitap Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.infinitapgames.com/"
+        },
+        "notes": "Store page: http://www.neverendingnightmares.com/back.html",
+        "extras": false
+    },
+    {
+        "name": "Final Game + Alpha + Soundtrack",
+        "url": "neverendingnightmares_alpha_soundtrack/Nskdo9kdls",
+        "price": "35",
+        "description": "Pre-order Neverending Nightmares! When they are ready, get the alpha, the game DRM-free for Win+Mac+Linux+a Steam key, and the soundtrack!",
+        "developer": "Infinitap Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.infinitapgames.com/"
+        },
+        "notes": "Store page: http://www.neverendingnightmares.com/back.html",
+        "extras": false
+    },
+    {
+        "name": "Neverending Nightmares Deluxe",
+        "url": "neverendingnightmares_deluxe/Nskdo9kdls",
+        "price": "50",
+        "description": "Pre-order Neverending Nightmares! Get the alpha, the game DRM free + steam, the soundtrack, a digital art book, and the inner circle videos.",
+        "developer": "Infinitap Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.infinitapgames.com/"
+        },
+        "notes": "Store page: http://www.neverendingnightmares.com/back.html",
+        "extras": true
     },
     {
         "name": "Night In The Woods",
