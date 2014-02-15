@@ -1963,6 +1963,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Cube & Star: An Arbitrary Love",
+        "url": "cubeandstar_anarbitrarylove/Ckdow43",
+        "price": "9.99",
+        "description": "Get Cube & Star: An Arbitrary Love via Steam key",
+        "developer": "Doppler Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/261960/",
+            "developer": "http://blog.dopplerinteractive.com/"
+        },
+        "notes": "Store page: http://www.cube-and-star.com/",
+        "extras": false
+    },
+    {
         "name": "Danmaku Unlimited 2",
         "url": "danmakuunlimited2/Ddh7Uhs9Sft",
         "price": "4.99",
@@ -10732,14 +10758,14 @@ var games = [
         "name": "The Novelist",
         "url": "thenovelist?preview=QKikXp8loEAg",
         "price": "14.99",
-        "description": "Get the game DRM-free on Mac and Windows. Soundtrack included as a preorder bonus (available on game release). Steam key included.",
+        "description": "Get The Novelist, DRM-free on Linux, Mac, and Windows! Steam key included.",
         "developer": "Orthogonal Games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
-            "audio": true
+            "audio": false
         },
         "drm": {
             "steam": true,
@@ -10747,7 +10773,13 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Currently on sale at 25% off, regular price is $19.99."
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/the-novelist-review/1900-6415591/",
+            "steam": "http://store.steampowered.com/app/245150/",
+            "developer": "http://orthogonalgames.com/"
+        }
+        "notes": "Store page: http://www.thenovelistgame.com/",
+        "extras": false
     },
     {
         "name": "The Real Texas",
