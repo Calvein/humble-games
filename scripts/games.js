@@ -10777,7 +10777,7 @@ var games = [
             "review": "http://www.gamespot.com/reviews/the-novelist-review/1900-6415591/",
             "steam": "http://store.steampowered.com/app/245150/",
             "developer": "http://orthogonalgames.com/"
-        }
+        },
         "notes": "Store page: http://www.thenovelistgame.com/",
         "extras": false
     },
