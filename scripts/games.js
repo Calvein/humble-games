@@ -804,6 +804,30 @@ var games = [
         "extras": false
     },
     {
+        "name": "Banished",
+        "url": "banished/LKsoiefj092mlks",
+        "price": "19.99",
+        "description": "Get Banished DRM-free for Windows PCs! Also get a Steam key!",
+        "developer": "Shining Rock Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/242920/",
+            "developer": "http://www.shiningrocksoftware.com/"
+        }
+    },
+    {
         "name": "Bastion",
         "url": "bastion",
         "price": "14.99",
