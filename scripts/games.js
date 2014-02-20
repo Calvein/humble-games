@@ -1164,6 +1164,62 @@ var games = [
         }
     },
     {
+    "name": "Broken Age",
+    "url": "brokenage_tier1/Bkdow42",
+    "price": "24.99",
+    "description": "Purchase your copy of Broken Age, DRM-free! Steam key is also included.",
+    "developer": "Double Fine Productions",
+    "platform": {
+        "android": false,
+        "linux": true,
+        "windows": true,
+        "mac": true,
+        "audio": false
+    },
+    "drm": {
+        "steam": true,
+        "desura": false,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "",
+        "steam": "",
+        "desura": "",
+        "developer": ""
+    },
+    "notes": "",
+    "extras": false
+},
+    {
+    "name": "Broken Age",
+    "url": "brokenage_tier2/Bkdow42",
+    "price": "29.99",
+    "description": "Purchase your copy of Broken Age (DRM-free) + Soundtrack! Steam key is also included.",
+    "developer": "Double Fine Productions",
+    "platform": {
+        "android": false,
+        "linux": true,
+        "windows": true,
+        "mac": true,
+        "audio": true
+    },
+    "drm": {
+        "steam": true,
+        "desura": false,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "",
+        "steam": "",
+        "desura": "",
+        "developer": ""
+    },
+    "notes": "",
+    "extras": false
+},
+    {
         "name": "Candle",
         "url": "candle/Cdh8Yheg5Ff",
         "price": "15",
