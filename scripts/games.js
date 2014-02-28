@@ -8045,6 +8045,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "PARAGON",
+        "url": "http://www.humblebundle.com/store/paragon/pdkw3",
+        "price": "5",
+        "description": "Pre-purchase PARAGON to receive early access to the alpha now and a digital copy of the game on release.",
+        "developer": "Meteoric Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://meteoricgames.com/"
+        },
+        "notes": "Mac version coming soon. \n Store page: http://www.paragongame.com/buy/",
+        "extras": false
+    },
+    {
         "name": "Paranautical Activity",
         "url": "paranauticalactivity?preview=Ush6Rdu9Dsa",
         "price": "5.99",
