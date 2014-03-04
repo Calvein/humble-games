@@ -233,6 +233,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "A Hat in Time",
+        "url": "ahatintime/Han5YUef4ds",
+        "price": "20",
+        "description": "Preorder A Hat in Time for Windows and Mac on Steam!",
+        "developer": "Gears for Breakfast",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://gearsforbreakfast.com/"
+        },
+        "notes": "Store page: http://hatintime.com/preorder/preorder-standard-edition/",
+        "extras": false
+    },
+    {
+        "name": "A Hat in Time Deluxe Edition",
+        "url": "ahatintime_deluxe/Han5YUef4ds",
+        "price": "70",
+        "description": "Receive 2 bundles of A Hat in Time + Alpha + Beta + Soundtrack on Steam! Enjoy the game with a friend (when available)!",
+        "developer": "Gears for Breakfast",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://gearsforbreakfast.com/"
+        },
+        "notes": "Store page: http://hatintime.com/preorder/preorder-deluxe-edition/",
+        "extras": true
+    },
+    {
+        "name": "A Hat in Time Alpha+Beta",
+        "url": "ahatintime_alphabeta/Han5YUef4ds",
+        "price": "20",
+        "description": "Alpha/Beta Access on Windows and Mac for those who want to upgrade! (This does not contain the final game!)",
+        "developer": "Gears for Breakfast",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://gearsforbreakfast.com/"
+        },
+        "notes": "This upgrade requires to have been part of the Kickstarter or to own the standard package. \n Store page: http://hatintime.com/preorder/preorder-upgrade/preorder-upgrade-2/",
+        "extras": true
+    },
+    {
         "name": "Al Emmo & the Lost Dutchman's Mine",
         "url": "alemmoandthelostdutchmansmine/Aud3",
         "price": "9.99",
@@ -336,16 +411,43 @@ var games = [
         "extras": false
     },
     {
-        "name": "Angvik",
-        "url": "angvik?preview=ShDiFHvQDywg",
-        "price": "4.99",
-        "description": "Get Angvik instantly! It's DRM-free.",
-        "developer": "Alastair John Jack",
+        "name": "Angry Video Game Nerd Adventures",
+        "url": "angryvideogamenerdadventures/Sjd92h42bfgs",
+        "price": "16.99",
+        "description": "Get AVGN Adventures for Steam! Yes, this is the official The Angry Video Game Nerd game :)",
+        "developer": "ScrewAttack Games",
         "platform": {
             "android": false,
             "linux": false,
             "windows": true,
             "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-angry-video-game-nerd-adventures-262392.phtml",
+            "steam": "http://store.steampowered.com/app/237740/",
+            "developer": "http://www.screwattack.com/"
+        },
+        "notes": "Also available without the soundtrack for $13.49",
+        "extras": false
+    },
+    {
+        "name": "Angvik",
+        "url": "angvik?preview=ShDiFHvQDywg",
+        "price": "2.99",
+        "description": "Get Angvik instantly! It's cross-platform and DRM-free.",
+        "developer": "Alastair John Jack",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -359,6 +461,7 @@ var games = [
             "greenlight": "http://steamcommunity.com/sharedfiles/filedetails/?id=152112673",
             "developer": "http://angvik.us/"
         },
+        "notes": "Store page: http://angvik.us/buy",
         "extras": false
     },
     {
@@ -902,6 +1005,33 @@ var games = [
             "desura": "http://www.desura.com/games/beat-hazard-ultra",
             "developer": "http://www.coldbeamgames.com/"
         }
+    },
+    {
+        "name": "BeatBlasters III",
+        "url": "beatblasters3/Bdkwoaepjo2",
+        "price": "9.99",
+        "description": "Get BeatBlasters III instantly! Play on Steam and DRM-free.",
+        "developer": "Chainsawesome Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamers-association.com/consoles/pc/beatblasters-iii-review/",
+            "steam": "http://store.steampowered.com/app/246800/",
+            "developer": "http://chainsawesomegames.com/"
+        },
+        "notes": "Store page: http://beatblastersiii.com/",
+        "extras": false
     },
     {
         "name": "Beware Planet Earth!",
@@ -4792,14 +4922,14 @@ var games = [
         "extras": false
     },
     {
-        "name": "Grim Dawn Pioneer Edition",
-        "url": "grimdawn-2?preview=J2soPnxhdSxG",
-        "price": "35",
-        "description": "Get access to the beta when it's ready, get the full game on release, plus get an original digital soundtrack and in-game items!",
+        "name": "Grim Dawn Digital Release",
+        "url": "grimdawn-1/J2soPnxhdSxG",
+        "price": "24.99",
+        "description": "Play now with early access and get the full game upon release.",
         "developer": "Crate Entertainment",
         "platform": {
             "android": false,
-            "windows": false,
+            "windows": true,
             "linux": false,
             "mac": false,
             "audio": true
@@ -4814,17 +4944,18 @@ var games = [
             "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
             "developer": "http://www.crateentertainment.com/"
         },
+        "notes": "Store page: http://www.grimdawn.com/contribute_buynow02a.php",
         "extras": true
     },
     {
         "name": "Grim Dawn Patron Edition",
-        "url": "grimdawn-3?preview=J2soPnxhdSxG",
-        "price": "50",
-        "description": "Get alpha/beta access, full game on release, original digital soundtrack, \"Crate Story\" downloadable PDF, and in-game items!",
+        "url": "grimdawn-3/J2soPnxhdSxG",
+        "price": "39.99",
+        "description": "Play now with early access and get the full game upon release; plus digital soundtrack, \"Crate Story\" downloadable PDF, and in-game items!",
         "developer": "Crate Entertainment",
         "platform": {
             "android": false,
-            "windows": false,
+            "windows": true,
             "linux": false,
             "mac": false,
             "audio": true
@@ -4839,17 +4970,18 @@ var games = [
             "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
             "developer": "http://www.crateentertainment.com/"
         },
+        "notes": "Store page: http://www.grimdawn.com/contribute_buynow02c.php",
         "extras": true
     },
     {
         "name": "Grim Dawn Loyalist Edition",
-        "url": "grimdawn-4?preview=J2soPnxhdSxG",
-        "price": "85",
-        "description": "Get alpha/beta access, full game on release, 1st expansion when ready, digital soundtrack, \"Crate Story\" PDF, HD digital map, and in-game items!",
+        "url": "grimdawn-4/J2soPnxhdSxG",
+        "price": "74.99",
+        "description": "Play now (early access) & get the full game on release + 1st expansion when ready, digital soundtrack, \"Crate Story\" PDF, HD digital map & in-game items!",
         "developer": "Crate Entertainment",
         "platform": {
             "android": false,
-            "windows": false,
+            "windows": true,
             "linux": false,
             "mac": false,
             "audio": true
@@ -4864,6 +4996,7 @@ var games = [
             "review": "http://www.rockpapershotgun.com/2013/05/20/hands-on-grim-dawn/",
             "developer": "http://www.crateentertainment.com/"
         },
+        "notes": "Store page: http://www.grimdawn.com/contribute_buynow02d.php",
         "extras": true
     },
     {
@@ -6369,6 +6502,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Life Goes On",
+        "url": "lifegoeson/Ldh8Ydge5Fh",
+        "price": "12.99",
+        "description": "Pre-order Life Goes On now, for 25% off! Cross-platform, DRM-free, and a free Steam key.",
+        "developer": "Infinite Monkeys Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/250050/",
+            "developer": "http://www.lifegoesongame.com/",
+        },
+        "notes": "Store page: http://www.lifegoesongame.com/#HTMLBlock395",
+        "extras": false
+    },
+    {
         "name": "Lilly Looking Through",
         "url": "lillylookingthrough/Lsh8Thyg4TSf",
         "price": "9.99",
@@ -6548,6 +6707,58 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "LUFTRAUSERS",
+        "url": "luftrausers/Ldh8Ydhe3ts",
+        "price": "9.99",
+        "description": "Prepare to Raus! Each purchase receives a DRM-free download and a Steam key. (Pre-order)",
+        "developer": "Vlambeer",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/233150/",
+            "developer": "http://vlambeer.com/"
+        },
+        "notes": "Store page: http://luftrausers.com/",
+        "extras": false
+    },
+    {
+        "name": "LUFTRAUSERS AIR RAID PACK",
+        "url": "luftrausers_airraidpack/Ldh8Ydhe3ts",
+        "price": "749.99",
+        "description": "Prepare to Raus! 1 DRM-free download and 100 Steam keys! (Pre-order)",
+        "developer": "Vlambeer",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/233150/",
+            "developer": "http://vlambeer.com/"
+        },
+        "notes": "Store page: http://luftrausers.com/",
+        "extras": false
     },
     {
         "name": "Lugaru HD",
@@ -7774,6 +7985,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Out There",
+        "url": "outthere_final/Odkwkdi1",
+        "price": "3.99",
+        "description": "Get Out There instantly for Android! DRM-free.",
+        "developer": "Mi-Clos Studio",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.pockettactics.com/reviews/review-out-there/",
+            "developer": "http://www.miclos.com/"
+        },
+        "notes": "Store page: http://www.outtheregame.com/",
+        "extras": false
+    },
+    {
+        "name": "Out There + Soundtrack",
+        "url": "outthere_soundtrack/Odkwkdi1",
+        "price": "5.99",
+        "description": "Get Out There instantly for Android + Soundtrack by award-winning composer Siddhartha Barnhoorn! DRM-free.",
+        "developer": "Mi-Clos Studio",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.pockettactics.com/reviews/review-out-there/",
+            "developer": "http://www.miclos.com/"
+        },  
+        "notes": "Store page: http://www.outtheregame.com/",
+        "extras": false
+    },
+    {
         "name": "Outlast",
         "url": "outlast/JosT7xdLdelx",
         "price": "11.99",
@@ -8046,7 +8309,7 @@ var games = [
     },
     {
         "name": "PARAGON",
-        "url": "http://www.humblebundle.com/store/paragon/pdkw3",
+        "url": "paragon/pdkw3",
         "price": "5",
         "description": "Pre-purchase PARAGON to receive early access to the alpha now and a digital copy of the game on release.",
         "developer": "Meteoric Games",
@@ -11202,7 +11465,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when greenlit. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-1/",
+        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-1/",
         "extras": true
     },
     {
@@ -11227,7 +11490,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when greenlit. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-2/",
+        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-2/",
         "extras": true
     },
     {
@@ -11252,7 +11515,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when greenlit. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-3/",
+        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-3/",
         "extras": true
     },
     {
@@ -11277,7 +11540,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when greenlit. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-4/",
+        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-4/",
         "extras": true
     },
     {
@@ -11302,7 +11565,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when greenlit. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-5/",
+        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-5/",
         "extras": true
     },
     {
@@ -11327,7 +11590,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when greenlit. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-6/",
+        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-6/",
         "extras": true
     },
     {
@@ -11402,7 +11665,15 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/trine-review/1900-6213054/",
+            "desura": "http://www.desura.com/games/trine",
+            "steam": "http://store.steampowered.com/app/35700/",
+            "developer": "http://frozenbyte.com/"
+        },
+        "notes": "Store page: http://trine-thegame.com/site/index.php?page=buy",
+        "extras": false
     },
     {
         "name": "Trine 2",
@@ -11423,7 +11694,13 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Humble doesn't say it comes with linux but it does"
+        "URL": {
+            "review": "http://www.destructoid.com/review-trine-2-217848.phtml",
+            "desura": "http://www.desura.com/games/trine-2",
+            "developer": "http://frozenbyte.com/"
+        },
+        "notes": "This widget has been superseded by the new Trine 2: Complete Story one. Purchase at your own risk.",
+        "extras": false
     },
     {
         "name": "Trine 2 Collector's Edition",
@@ -11443,7 +11720,41 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": { 
+            "review": "http://www.destructoid.com/review-trine-2-217848.phtml",
+            "desura": "http://www.desura.com/games/trine-2",
+            "developer": "http://frozenbyte.com/"
+        },
+        "notes": "This widget has been superseded by the new Trine 2: Complete Story one. Purchase at your own risk.",
+        "extras": false
+    },
+    {
+        "name": "Trine 2: Complete Story",
+        "url": "trine2_complete/Tei8Hdy37sg",
+        "price": "19.99",
+        "description": "Purchase Trine 2: Complete Story and instantly unlock it on Steam. Includes DRM-free version for Linux, Mac and Windows!",
+        "developer": "Frozenbyte",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": { 
+            "review": "http://www.destructoid.com/review-trine-2-217848.phtml",
+            "steam": "http://store.steampowered.com/app/35720/",
+            "developer": "http://frozenbyte.com/"
+        },
+        "notes": "Includes The Goblin Menace DLC and the Dwarven Caverns. Doesn't include the soundtrack or the digital artbook.",
+        "extras": false
     },
     {
         "name": "Trine 2: Goblin Menace DLC",
@@ -11463,7 +11774,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
+        },
+        "URL": {
+            "review": "http://wikigameguides.com/Blogs/Trine-2-Goblin-Menace-Review-21315",
+            "developer": "http://frozenbyte.com/"
+        },
+        "notes": "This widget has been superseded by the new Trine 2: Complete Story one. Purchase at your own risk.",
+        "extras": false
     },
     {
         "name": "Tug: A Space Trucker's Odyssey",
