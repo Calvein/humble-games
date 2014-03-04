@@ -10988,6 +10988,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Spirit Age",
+        "url": "thespiritage/NVuorwionbe",
+        "price": "10",
+        "description": "Pre-order The Spirit Age. When it's released you will receive your personal digital copy of the game!",
+        "developer": "Jamaker Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.thespiritage.com/"
+        },
+        "notes": "Allegedly being developed only for Windows, as the game's FAQ only mentions PC. \n Store page: http://www.thespiritage.com/preorder",
+        "extras": false
+    },
+    {
         "name": "The Sun At Night",
         "url": "laikabelieves_thesunatnight/Ldiwknn32josi",
         "price": "14.99",
