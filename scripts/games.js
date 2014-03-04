@@ -5007,9 +5007,9 @@ var games = [
         "developer": "DrinkBox Studios",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": true
         },
         "drm": {
@@ -6643,6 +6643,7 @@ var games = [
         "URL": {
             "review": "http://www.justadventure.com/index.php/2013-05-20-21-09-14/591-loren-the-amazon-princess2",
             "desura": "http://www.desura.com/games/loren-the-amazon-princess",
+            "steam": "http://store.steampowered.com/app/257970/",
             "developer": "http://www.winterwolves.com/"
         },
         "notes": "Couldn't find the page containing the Humble Store widget. From the price I suppose it includes the Castle Of N'Mar expansion.",
@@ -11310,8 +11311,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -11319,7 +11320,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/06/01/the-swapper-review",
+            "steam": "http://store.steampowered.com/app/231160/",
+            "developer": "http://facepalmgames.com/"
+        },
+        "notes": "Store page: http://facepalmgames.com/the-swapper/",
+        "extras": false
     },
     {
         "name": "The Swapper + Soundtrack",
@@ -11330,8 +11338,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         },
         "drm": {
@@ -11339,7 +11347,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/06/01/the-swapper-review",
+            "steam": "http://store.steampowered.com/app/231160/",
+            "developer": "http://facepalmgames.com/"
+        },
+        "notes": "Store page: http://facepalmgames.com/the-swapper/",
+        "extras": false
     },
     {
         "name": "Thirty Flights of Loving",
