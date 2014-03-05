@@ -1969,6 +1969,31 @@ var games = [
         "notes": "Vertigo gaming store is at http://www.vertigogaming.net/blog/?page_id=1978"
     },
     {
+        "name": "Copod",
+        "url": "copod/cnrouNOUICevp?mp-r-id=nW0iQKs=",
+        "price": "5",
+        "description": "Get Copod instantly! Cross-platform and DRM-free.",
+        "developer": "Ben Perry",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://herebeben.com"
+        },
+        "notes": "Game in alpha stage of development. Allegedly available for Mac and Linux too, even though the widget only displays the Windows logo. \n Store page: http://herebeben.com/copod",
+        "extras": false
+    },
+    {
         "name": "Cortex Command",
         "url": "cortexcommand",
         "price": "20",
