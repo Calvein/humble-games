@@ -1995,6 +1995,32 @@ var games = [
         }
     },
     {
+        "name": "Crater Maker",
+        "url": "cratermaker/uiahfdiulhsefASIUDHL",
+        "price": "9.99",
+        "description": "Get Crater Maker instantly! Cross-platform and DRM-free.",
+        "developer": "Playing With Matches",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/crater-maker",
+            "developer": "http://www.pwmgames.com/"
+        },
+        "notes": "Game is currently in alpha phase of development. \n Store page: http://www.pwmgames.com/crater-maker/#humble",
+        "extras": false
+    },
+    {
         "name": "Crea Beta",
         "url": "crea_gameonly/aECF9PQKtbeB",
         "price": "9.99",
@@ -2245,6 +2271,131 @@ var games = [
         },
         "notes": "Store page: http://www.darkscavenger.com/store/",
         "extras": false
+    },
+    {
+        "name": "Darkest Dungeon",
+        "url": "darkestdungeon/Dkwodkfhj2",
+        "price": "15",
+        "description": "Pre-order Darkest Dungeon. When it's released, you will receive your choice of Steam key or DRM-free download! (Win/Mac/Linux)",
+        "developer": "Red Hook Studios Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://darkestdungeon.com/"
+        },
+        "notes": "Store page: http://darkestdungeon.com/buy/",
+        "extras": false
+    },
+    {
+        "name": "Darkest Dungeon + Early Access",
+        "url": "darkestdungeon_earlyaccess/Dkwodkfhj2",
+        "price": "20",
+        "description": "Pre-order Darkest Dungeon + Early Access. Early Access is STEAM ONLY (Win/Mac). Also get DRM-free download upon game release (Win/Mac/Linux)",
+        "developer": "Red Hook Studios Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://darkestdungeon.com/"
+        },
+        "notes": "Store page: http://darkestdungeon.com/buy/",
+        "extras": false
+    },
+    {
+        "name": "Darkest Dungeon + Digital BONUS",
+        "url": "darkestdungeon_digitalbonus/Dkwodkfhj2",
+        "price": "29",
+        "description": "Pre-order the Game (DRM-free download upon release), Early Access (Steam Win/Mac only), PDF Adventuring Journal, PDF Estate Map!",
+        "developer": "Red Hook Studios Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://darkestdungeon.com/"
+        },
+        "notes": "Store page: http://darkestdungeon.com/buy/",
+        "extras": true
+    },
+    {
+        "name": "Darkest Dungeon + Digital DELUXE",
+        "url": "darkestdungeon_digitaldeluxe/Dkwodkfhj2",
+        "price": "49",
+        "description": "Pre-order: Game (DRM-free on release), Early Access (Steam Win/Mac only), Additional Hero class, OST, Art Book, Journal, Map!",
+        "developer": "Red Hook Studios Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://darkestdungeon.com/"
+        },  
+        "notes": "Store page: http://darkestdungeon.com/buy/",
+        "extras": true
+    },
+    {
+        "name": "Darkest Dungeon + Digital ULTIMATE",
+        "url": "darkestdungeon_digitalultimate/Dkwodkfhj2",
+        "price": "95",
+        "description": "Pre-order: Game (DRM-free on release), EarlyAccess (Steam Win/Mac only), Class, OST, Art Book, Journal, Map, Diorama, Design hero & item!",
+        "developer": "Red Hook Studios Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://darkestdungeon.com/"
+        },
+        "notes": "Store page: http://darkestdungeon.com/buy/",
+        "extras": true
     },
     {
         "name": "Dead Pixels",
