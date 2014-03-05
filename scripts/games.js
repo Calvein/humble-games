@@ -8703,6 +8703,62 @@ var games = [
         "extras": false
     },
     {
+        "name": "PixelJunk Monsters Ultimate",
+        "url": "pixeljunkmonstersultimate/Pdkwoei2",
+        "price": "9.99",
+        "description": "Get PixelJunk Monsters Ultimate instantly! Cross-platform and DRM-free. Includes a Steam key!",
+        "developer": "Double Eleven",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamingnexus.com/Article/Pixel-Junk-Monsters-Ultimate-%28PC%29/Item4127.aspx",
+            "desura": "http://www.desura.com/games/pixeljunk-monsters",
+            "steam": "http://store.steampowered.com/app/243780/",
+            "developer": "http://double11.co.uk/"
+        },
+        "notes": "Store page: http://double11.co.uk/game/pixeljunk-monsters/#buyNow",
+        "extras": false
+    },
+    {
+        "name": "PixelJunk Shooter",
+        "url": "pixeljunkshooter/Pdkwofkgh39",
+        "price": "8.99",
+        "description": "Get PixelJunk Shooter instantly! Cross-platform and DRM-free. Also includes a Steam key!",
+        "developer": "Double Eleven",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.pcgamesn.com/indie/pixeljunk-shooter-pc-review",
+            "desura": "http://www.desura.com/games/pixeljunk-shooter",
+            "steam": "http://store.steampowered.com/app/255870/",
+            "developer": "http://double11.co.uk/"
+        },
+        "notes": "Store page: http://double11.co.uk/game/pixeljunk-shooter/#buyNow",
+        "extras": false
+    },
+    {
         "name": "Potatoman Seeks the Troof Bundle",
         "url": "potatomanseeksthetroofbundle?preview=S93sdhSDFbx",
         "price": "5",
@@ -9114,6 +9170,31 @@ var games = [
             "gog": true,
             "drm-free": true
         }
+    },
+    {
+        "name": "Retro Game Crunch",
+        "url": "retrogamecrunch/crnuoiONCnoirw",
+        "price": "14.99",
+        "description": "Get the seven game collection instantly! Cross-platform and DRM-free.",
+        "developer": "Retro Game Crunch",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://retrogamecrunch.com/"
+        },
+        "notes": "Currently on sale at 20% off.",
+        "extras": false
     },
     {
         "name": "Retrobooster",
@@ -11571,15 +11652,15 @@ var games = [
     {
         "name": "Tower of Guns",
         "url": "towerofguns?preview=V3lAICo87Ku2",
-        "price": "9.5",
-        "description": "Pre-order and gain access to the 'Wear A Hard Hat' development version (and future versions, of course)!",
+        "price": "14.99",
+        "description": "Buy Tower of Guns now and get it DRM-free for Windows!",
         "developer": "Terrible Posture Games",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
             "mac": false,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": false,
