@@ -10099,7 +10099,7 @@ var games = [
         "URL": {
             "review": "http://indiegamereviewer.com/review-shufflepuck-cantina-deluxe-pimp-my-pong/",
             "desura": "http://www.desura.com/games/shufflepuck-cantina-deluxe",
-            "steam:" "http://store.steampowered.com/app/259510",
+            "steam": "http://store.steampowered.com/app/259510",
             "developer": "http://blog.aghartastudio.com/"
         },
         "notes": "Store page: http://blog.aghartastudio.com/?page_id=762",
