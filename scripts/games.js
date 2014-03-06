@@ -6984,6 +6984,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Luna's Wandering Stars",
+        "url": "lunaswanderingstars/dkwodkfId2",
+        "price": "4.95",
+        "description": "This action-packed puzzle game features real Newtonian physics, space-bending superpowers, and way more snark than you can handle. (Preorder)",
+        "developer": "Serenity Forge",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://serenityforge.com/"
+        },
+        "notes": "Pre-order at 50% off, regular price will be $9.95. \n Store page: http://serenityforge.com/games/lunaswanderingstars.html#featured",
+        "extras": false
+    },
+    {
         "name": "Luxuria Superbia",
         "url": "luxuriasuperbia/Ldkwodk1k2j",
         "price": "6.99",
