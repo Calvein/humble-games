@@ -10078,6 +10078,34 @@ var games = [
         "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
     },
     {
+        "name": "Shufflepuck Cantina Deluxe",
+        "url": "shufflepuckcantinadeluxe/Sdlkwogbhu4",
+        "price": "9.99",
+        "description": "Download Shufflepuck Cantina Deluxe now, cross-platform, DRM free, and redeemable on Steam! Complementary Android apk bonus!",
+        "developer": "Agharta Studio",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamereviewer.com/review-shufflepuck-cantina-deluxe-pimp-my-pong/",
+            "desura": "http://www.desura.com/games/shufflepuck-cantina-deluxe",
+            "steam:" "http://store.steampowered.com/app/259510",
+            "developer": "http://blog.aghartastudio.com/"
+        },
+        "notes": "Store page: http://blog.aghartastudio.com/?page_id=762",
+        "extras": false
+    },
+    {
         "name": "Sir, You Are Being Hunted",
         "url": "siryouarebeinghunted?preview=Sjd93hwnsk",
         "price": "20",
