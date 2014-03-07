@@ -7037,7 +7037,7 @@ var games = [
         "URL": {
             "review": "http://www.adventuregamers.com/articles/view/25597",
             "steam": "http://store.steampowered.com/app/250030/",
-            "developer": "http://geetagames.com/",
+            "developer": "http://geetagames.com/"
         },
         "notes": "Linux version coming soon. \n Store page: http://geetagames.com/store/",
         "extras": false
@@ -7064,7 +7064,7 @@ var games = [
         "URL": {
             "review": "http://www.adventuregamers.com/articles/view/25597",
             "steam": "http://store.steampowered.com/app/250030/",
-            "developer": "http://geetagames.com/",
+            "developer": "http://geetagames.com/"
         },
         "notes": "Linux version coming soon. \n Store page: http://geetagames.com/store/",
         "extras": true
