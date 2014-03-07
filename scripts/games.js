@@ -1644,6 +1644,31 @@ var games = [
         }
     },
     {
+        "name": "Chivalry: Medieval Warfare (four pack)",
+        "url": "chivalrymedievalwarfare-4pack",
+        "price": "74.99",
+        "description": "Purchase the Chivalry: Medieval Warfare four pack and get four Steam keys for Windows!",
+        "developer": "Torn Banner Studios Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/10/29/chivalry-medieval-warfare-review",
+            "steam": "http://store.steampowered.com/app/219640",
+            "developer": "http://www.tornbanner.com/"
+        }
+    },
+    {
         "name": "Chivalry: Medieval Warfare - Soundtrack",
         "url": "chivalrymedievalwarfare_soundtrack",
         "price": "4.99",
@@ -9766,6 +9791,34 @@ var games = [
             "steam": "http://store.steampowered.com/app/248820",
             "developer": "http://riskofraingame.com/team/"
         },
+        "notes": "Store page: http://riskofraingame.com/purchase-risk-of-rain/",
+        "extras": false
+    },
+    {
+        "name": "Risk of Rain 4-Pack",
+        "url": "riskofrain_4pack/Igd1i3ZMVkTg",
+        "price": "29.99",
+        "description": "Buy now and get access to Risk of Rain on release! Includes 3 gift keys for a copy of Risk of Rain.",
+        "developer": "Hopoo Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "https://www.youtube.com/watch?v=f8rJtoyqX_0",
+            "steam": "http://store.steampowered.com/app/248820",
+            "developer": "http://riskofraingame.com/team/"
+        },
+        "notes": "Store page: http://riskofraingame.com/purchase-risk-of-rain-4-pack/",
         "extras": false
     },
     {
