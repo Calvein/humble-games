@@ -5597,6 +5597,26 @@ var games = [
         "extras": true
     },
     {
+        "name": "I Get This Call Every Day",
+        "url": "igetthiscalleveryday?preview=Sjd8chZkdn",
+        "price": "2",
+        "description": "A personal tale of unwinnable realities. Available instantly, cross-platform and DRM-free.",
+        "developer": "David S Gallant",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+    },
+    {
         "name": "Icebound",
         "url": "icebound/Isldkw10dk",
         "price": "14.99",
@@ -5631,26 +5651,6 @@ var games = [
             "android": false,
             "windows": true,
             "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
-        "name": "I Get This Call Every Day",
-        "url": "igetthiscalleveryday?preview=Sjd8chZkdn",
-        "price": "2",
-        "description": "A personal tale of unwinnable realities. Available instantly, cross-platform and DRM-free.",
-        "developer": "David S Gallant",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
             "mac": true,
             "audio": false
         },
@@ -8804,26 +8804,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Potatoman Seeks the Troof Bundle",
-        "url": "potatomanseeksthetroofbundle?preview=S93sdhSDFbx",
-        "price": "5",
-        "description": "Purchase the bundle and get Potatoman for Windows, Mac, and Linux as well as the soundtrack, all DRM-free!",
-        "developer": "Pixeljam",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "POP: Methodology Experiment One",
         "url": "pop_methodologyexperimentone?preview=Poskdkwk1",
         "price": "3.99",
@@ -8849,6 +8829,26 @@ var games = [
         },
         "notes": "Linux version, when greenlit. \n Greenlight: http://steamcommunity.com/sharedfiles/filedetails/?id=93935251",
         "extras": false
+    },
+    {
+        "name": "Potatoman Seeks the Troof Bundle",
+        "url": "potatomanseeksthetroofbundle?preview=S93sdhSDFbx",
+        "price": "5",
+        "description": "Purchase the bundle and get Potatoman for Windows, Mac, and Linux as well as the soundtrack, all DRM-free!",
+        "developer": "Pixeljam",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
     },
     {
         "name": "pozzle",
