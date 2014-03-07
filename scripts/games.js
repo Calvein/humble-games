@@ -1,6 +1,26 @@
 var games = [
 	
     {
+        "name": "7 Grand Steps",
+        "url": "7grandsteps?preview=o7KrZd0Usmql",
+        "price": "11",
+        "description": "Get '7 Grand Steps' instantly. Cross-platform and DRM-free. Make Family History!",
+        "developer": "Mousechief Co.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+    },
+    {
         "name": "140",
         "url": "140/KDwi3ksldk",
         "price": "4.99",
@@ -79,6 +99,183 @@ var games = [
         },
         "notes": "Store page: http://www.turtle-cream.com/",
         "extras": false
+    },
+    {
+        "name": "A Hat in Time",
+        "url": "ahatintime/Han5YUef4ds",
+        "price": "20",
+        "description": "Preorder A Hat in Time for Windows and Mac on Steam!",
+        "developer": "Gears for Breakfast",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://gearsforbreakfast.com/"
+        },
+        "notes": "Store page: http://hatintime.com/preorder/preorder-standard-edition/",
+        "extras": false
+    },
+    {
+        "name": "A Hat in Time Deluxe Edition",
+        "url": "ahatintime_deluxe/Han5YUef4ds",
+        "price": "70",
+        "description": "Receive 2 bundles of A Hat in Time + Alpha + Beta + Soundtrack on Steam! Enjoy the game with a friend (when available)!",
+        "developer": "Gears for Breakfast",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://gearsforbreakfast.com/"
+        },
+        "notes": "Store page: http://hatintime.com/preorder/preorder-deluxe-edition/",
+        "extras": true
+    },
+    {
+        "name": "A Hat in Time Alpha+Beta",
+        "url": "ahatintime_alphabeta/Han5YUef4ds",
+        "price": "20",
+        "description": "Alpha/Beta Access on Windows and Mac for those who want to upgrade! (This does not contain the final game!)",
+        "developer": "Gears for Breakfast",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://gearsforbreakfast.com/"
+        },
+        "notes": "This upgrade requires to have been part of the Kickstarter or to own the standard package. \n Store page: http://hatintime.com/preorder/preorder-upgrade/preorder-upgrade-2/",
+        "extras": true
+    },
+    {
+        "name": "A Virus Named Tom",
+        "url": "avirusnamedtom_no_soundtrack",
+        "price": "10",
+        "description": "Get A Virus Named TOM instantly! Play it on Windows, DRM-free and redeem it on Steam.",
+        "developer": "Misfits Attic",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/08/02/a-virus-named-tom-review",
+            "steam": "http://store.steampowered.com/app/207650/",
+            "desura": "http://www.desura.com/games/a-virus-named-tom",
+            "developer": "http://misfitsattic.blogspot.com/"
+        }
+    },
+    {
+        "name": "A Virus Named Tom (with Soundtrack)",
+        "url": "avirusnamedtom",
+        "price": "12",
+        "description": "Get A Virus Named TOM instantly, including its soundtrack! Play it on Windows, DRM-free and redeem it on Steam.",
+        "developer": "Misfits Attic",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2012/08/02/a-virus-named-tom-review",
+            "steam": "http://store.steampowered.com/app/207650/",
+            "desura": "http://www.desura.com/games/a-virus-named-tom",
+            "developer": "http://misfitsattic.blogspot.com/"
+        }
+    },
+    {
+        "name": "A Wizard's Lizard",
+        "url": "cryptrun/Cdy6Dgsy3Fts",
+        "price": "15",
+        "description": "Conquer the forces of Death in A Wizard’s Lizard. Cross-platform and DRM free!",
+        "developer": "Lost Decade Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lostdecadegames.com/"
+        },
+        "notes": "Store page: http://www.wizardslizard.com/",
+        "extras": false
+    },
+    {
+        "name": "A Wizard's Lizard: Early Access",
+        "url": "cryptrun_alpha/Cdy6Dgsy3Fts",
+        "price": "25",
+        "description": "Get A Wizard's Lizard early alpha access! Receive weekly alpha builds of the game during development and the original soundtrack after.",
+        "developer": "Lost Decade Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lostdecadegames.com/"
+        },
+        "notes": "The game has already been released so this widget, though active, shouldn't probably be used.",
+        "extras": true
     },
     {
         "name": "A.N.N.E.",
@@ -233,81 +430,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "A Hat in Time",
-        "url": "ahatintime/Han5YUef4ds",
-        "price": "20",
-        "description": "Preorder A Hat in Time for Windows and Mac on Steam!",
-        "developer": "Gears for Breakfast",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://gearsforbreakfast.com/"
-        },
-        "notes": "Store page: http://hatintime.com/preorder/preorder-standard-edition/",
-        "extras": false
-    },
-    {
-        "name": "A Hat in Time Deluxe Edition",
-        "url": "ahatintime_deluxe/Han5YUef4ds",
-        "price": "70",
-        "description": "Receive 2 bundles of A Hat in Time + Alpha + Beta + Soundtrack on Steam! Enjoy the game with a friend (when available)!",
-        "developer": "Gears for Breakfast",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://gearsforbreakfast.com/"
-        },
-        "notes": "Store page: http://hatintime.com/preorder/preorder-deluxe-edition/",
-        "extras": true
-    },
-    {
-        "name": "A Hat in Time Alpha+Beta",
-        "url": "ahatintime_alphabeta/Han5YUef4ds",
-        "price": "20",
-        "description": "Alpha/Beta Access on Windows and Mac for those who want to upgrade! (This does not contain the final game!)",
-        "developer": "Gears for Breakfast",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://gearsforbreakfast.com/"
-        },
-        "notes": "This upgrade requires to have been part of the Kickstarter or to own the standard package. \n Store page: http://hatintime.com/preorder/preorder-upgrade/preorder-upgrade-2/",
-        "extras": true
-    },
-    {
         "name": "Al Emmo & the Lost Dutchman's Mine",
         "url": "alemmoandthelostdutchmansmine/Aud3",
         "price": "9.99",
@@ -334,31 +456,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Amnesia: A Machine for Pigs",
-        "url": "amnesiaamachineforpigs?preview=Skj382hsnblz",
-        "price": "20",
-        "description": "Pre-order Amnesia: A Machine For Pigs and get it for Windows, Mac, and Linux when it's released. Comes with DRM-free versions and a Steam key.",
-        "developer": "Frictional Games",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/239200/",
-            "developer": "http://www.frictionalgames.com/"
-        },
-        "extras": false
-    },
-    {
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
         "price": "9.99",
@@ -380,6 +477,31 @@ var games = [
         "URL": {
             "steam": "http://steamdb.info/sub/18177/",
             "developer": "http://www.doublefine.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Amnesia: A Machine for Pigs",
+        "url": "amnesiaamachineforpigs?preview=Skj382hsnblz",
+        "price": "20",
+        "description": "Pre-order Amnesia: A Machine For Pigs and get it for Windows, Mac, and Linux when it's released. Comes with DRM-free versions and a Steam key.",
+        "developer": "Frictional Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/239200/",
+            "developer": "http://www.frictionalgames.com/"
         },
         "extras": false
     },
@@ -753,58 +875,6 @@ var games = [
         }
     },
     {
-        "name": "A Virus Named Tom",
-        "url": "avirusnamedtom_no_soundtrack",
-        "price": "10",
-        "description": "Get A Virus Named TOM instantly! Play it on Windows, DRM-free and redeem it on Steam.",
-        "developer": "Misfits Attic",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.ign.com/articles/2012/08/02/a-virus-named-tom-review",
-            "steam": "http://store.steampowered.com/app/207650/",
-            "desura": "http://www.desura.com/games/a-virus-named-tom",
-            "developer": "http://misfitsattic.blogspot.com/"
-        }
-    },
-    {
-        "name": "A Virus Named Tom (with Soundtrack)",
-        "url": "avirusnamedtom",
-        "price": "12",
-        "description": "Get A Virus Named TOM instantly, including its soundtrack! Play it on Windows, DRM-free and redeem it on Steam.",
-        "developer": "Misfits Attic",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.ign.com/articles/2012/08/02/a-virus-named-tom-review",
-            "steam": "http://store.steampowered.com/app/207650/",
-            "desura": "http://www.desura.com/games/a-virus-named-tom",
-            "developer": "http://misfitsattic.blogspot.com/"
-        }
-    },
-    {
         "name": "Awesomenauts",
         "url": "awesomenauts",
         "price": "9.99",
@@ -828,56 +898,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/204300/",
             "developer": "http://www.ronimo-games.com/"
         }
-    },
-    {
-        "name": "A Wizard's Lizard",
-        "url": "cryptrun/Cdy6Dgsy3Fts",
-        "price": "15",
-        "description": "Conquer the forces of Death in A Wizard’s Lizard. Cross-platform and DRM free!",
-        "developer": "Lost Decade Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.lostdecadegames.com/"
-        },
-        "notes": "Store page: http://www.wizardslizard.com/",
-        "extras": false
-    },
-    {
-        "name": "A Wizard's Lizard: Early Access",
-        "url": "cryptrun_alpha/Cdy6Dgsy3Fts",
-        "price": "25",
-        "description": "Get A Wizard's Lizard early alpha access! Receive weekly alpha builds of the game during development and the original soundtrack after.",
-        "developer": "Lost Decade Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.lostdecadegames.com/"
-        },
-        "notes": "The game has already been released so this widget, though active, shouldn't probably be used.",
-        "extras": true
     },
     {
         "name": "Bad Hotel",
@@ -1241,31 +1261,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/26800/",
             "desura": "http://www.desura.com/games/braid",
             "developer": "http://number-none.com/blow/"
-        }
-    },
-    {
-        "name": "The Bridge",
-        "url": "thebridge?preview=Sj39dhsnNzlx",
-        "price": "14.99",
-        "description": "The Bridge is a logic puzzle game in the style of M. C. Escher. This download is for a Windows Steam key.",
-        "developer": "The Quantum Astrophysicists Guild",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "review": "http://www.gamespot.com/the-bridge/reviews/the-bridge-review-6404664/",
-            "steam": "http://store.steampowered.com/app/204240/",
-            "developer": "http://thebridgeisblackandwhite.com/"
         }
     },
     {
@@ -6150,32 +6145,6 @@ var games = [
         }
     },
     {
-        "name": "Jones On Fire",
-        "url": "jonesonfire?preview=yVb9lpn5eSL2",
-        "price": "2.99",
-        "description": "Jones on Fire - a high-speed action game of kitty saving and flame evading, running and jumping, where YOU are the hero! (for Mac and PC)",
-        "developer": "Glass Bottom Games",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.gamezebo.com/games/jones-fire/review",
-            "developer": "http://www.glassbottomgames.com/"
-        },
-        "notes": "Store page: http://www.glassbottomgames.com/projects/jones-on-fire/",
-        "extras": false
-    },
-    {
         "name": "Jon Shafer's At the Gates (Tier 1)",
         "url": "jonshafersatthegates?preview=azfqF2CgFxgJ",
         "price": "30",
@@ -6324,6 +6293,32 @@ var games = [
             "developer": "http://www.conifergames.com"
         },
         "extras": true
+    },
+    {
+        "name": "Jones On Fire",
+        "url": "jonesonfire?preview=yVb9lpn5eSL2",
+        "price": "2.99",
+        "description": "Jones on Fire - a high-speed action game of kitty saving and flame evading, running and jumping, where YOU are the hero! (for Mac and PC)",
+        "developer": "Glass Bottom Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/jones-fire/review",
+            "developer": "http://www.glassbottomgames.com/"
+        },
+        "notes": "Store page: http://www.glassbottomgames.com/projects/jones-on-fire/",
+        "extras": false
     },
     {
         "name": "Jottobots",
@@ -9162,26 +9157,6 @@ var games = [
         }
     },
     {
-        "name": "Retro/Grade",
-        "url": "retrograde?preview=Pb1QKoAeVXmk",
-        "price": "9.99",
-        "description": "Get Retro/Grade DRM-free and on Steam!",
-        "developer": "24 Caret Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "Retro City Rampage (steam)",
         "url": "retrocityrampagesteam",
         "price": "14.99",
@@ -9245,6 +9220,26 @@ var games = [
         },
         "notes": "Currently on sale at 20% off.",
         "extras": false
+    },
+    {
+        "name": "Retro/Grade",
+        "url": "retrograde?preview=Pb1QKoAeVXmk",
+        "price": "9.99",
+        "description": "Get Retro/Grade DRM-free and on Steam!",
+        "developer": "24 Caret Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
     },
     {
         "name": "Retrobooster",
@@ -9715,26 +9710,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "7 Grand Steps",
-        "url": "7grandsteps?preview=o7KrZd0Usmql",
-        "price": "11",
-        "description": "Get '7 Grand Steps' instantly. Cross-platform and DRM-free. Make Family History!",
-        "developer": "Mousechief Co.",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "Scoregasm",
         "url": "scoregasm?preview=ivnewkdsfo",
         "price": "4.99",
@@ -10010,30 +9985,6 @@ var games = [
         }
     },
     {
-        "name": "Shiden",
-        "url": "shiden/Shdkwi2",
-        "price": "5",
-        "description": "Get exciting arcade style SHMUP Shiden!",
-        "developer": "Gar Studios",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.garstudios.com/"
-        },
-        "extras": false
-    },
-    {
         "name": "Shelter",
         "url": "shelter/Ssh8Tdu9Ysh",
         "price": "9.99",
@@ -10058,6 +10009,30 @@ var games = [
             "developer": "http://mightanddelight.com/"
         },
         "notes": "Store page: http://www.shelterthegame.com/index.php?page=buy",
+        "extras": false
+    },
+    {
+        "name": "Shiden",
+        "url": "shiden/Shdkwi2",
+        "price": "5",
+        "description": "Get exciting arcade style SHMUP Shiden!",
+        "developer": "Gar Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.garstudios.com/"
+        },
         "extras": false
     },
     {
@@ -11263,6 +11238,31 @@ var games = [
             "desura": true,
             "gog": false,
             "drm-free": true
+        }
+    },
+    {
+        "name": "The Bridge",
+        "url": "thebridge?preview=Sj39dhsnNzlx",
+        "price": "14.99",
+        "description": "The Bridge is a logic puzzle game in the style of M. C. Escher. This download is for a Windows Steam key.",
+        "developer": "The Quantum Astrophysicists Guild",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/the-bridge/reviews/the-bridge-review-6404664/",
+            "steam": "http://store.steampowered.com/app/204240/",
+            "developer": "http://thebridgeisblackandwhite.com/"
         }
     },
     {
@@ -12555,6 +12555,27 @@ var games = [
             "drm-free": true
         }
     },
+   {
+        "name": "Waking Mars",
+        "url": "wakingmars?preview=pending",
+        "price": "9.99",
+        "description": "Purchase Waking Mars and get it instantly for Mac, Windows, and Linux.",
+        "developer": "Tiger Style",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "notes": "The frame shows an Android icon, but neither the description nor the game site confirms you'll get the Android version purchasing the game at the Humble Store."
+    },
     {
         "name": "Wanderlust: Rebirth",
         "url": "wanderlustrebirth?preview=Sjd92hdnsSzc",
@@ -12606,47 +12627,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Waking Mars",
-        "url": "wakingmars?preview=pending",
-        "price": "9.99",
-        "description": "Purchase Waking Mars and get it instantly for Mac, Windows, and Linux.",
-        "developer": "Tiger Style",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "notes": "The frame shows an Android icon, but neither the description nor the game site confirms you'll get the Android version purchasing the game at the Humble Store."
-    },
-    {
-        "name": "Waveform",
-        "url": "waveform?preview=pending",
-        "price": "6.99",
-        "description": "Purchase Waveform for Windows and instantly get it DRM-free and on Steam.",
-        "developer": "Eden Industries",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "War For The Overworld Pre-Order",
         "url": "warfortheoverworld?preview=ssvsVmAipVnT",
         "price": "22",
@@ -12687,6 +12667,26 @@ var games = [
             "drm-free": true
         },
         "notes": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
+    },
+   {
+        "name": "Waveform",
+        "url": "waveform?preview=pending",
+        "price": "6.99",
+        "description": "Purchase Waveform for Windows and instantly get it DRM-free and on Steam.",
+        "developer": "Eden Industries",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
     },
     {
         "name": "Whispering Willows",
