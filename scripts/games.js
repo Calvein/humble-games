@@ -1081,6 +1081,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Beatbuddy",
+        "url": "beatbuddy/Bdu8Se9Hd",
+        "price": "9.99",
+        "description": "Buy Beatbuddy, cross platform and DRM-free! Includes a Steam key.",
+        "developer": "THREAKS",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/08/07/wot-i-think-beatbuddy-tale-of-the-guardians/",
+            "steam": "http://store.steampowered.com/app/231040/",
+            "developer": "http://beatbuddy.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Beware Planet Earth!",
         "url": "bewareplanetearth/siEusdkwodk93",
         "price": "9.99",
@@ -3163,6 +3189,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Delve Deeper",
+        "url": "delvedeeper/Dhie8YEhs4FS",
+        "price": "4.99",
+        "description": "Get Delve Deeper instantly! Redeemable on Steam and Desura. DRM-free.",
+        "developer": "Lunar Giant",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-delve-deeper-185529.phtml",
+            "desura": "http://www.desura.com/games/delve-deeper",
+            "steam": "http://store.steampowered.com/app/63800/",
+            "developer": "http://www.lunargiantstudios.com/"
+        },
+        "notes": "Store page: http://delve-deeper.com/",
+        "extras": false
+    },
+    {
         "name": "Delver",
         "url": "delver?preview=UeHXpidPbEAn",
         "price": "7.99",
@@ -4561,6 +4615,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Evoland",
+        "url": "evoland/Evdkwosl1",
+        "price": "9.99",
+        "description": "Get Evoland instantly! Cross-platform and DRM-free. Includes soundtrack and a Steam key!",
+        "developer": "Shiro Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-evoland-250781.phtml",
+            "steam": "http://store.steampowered.com/app/233470/",
+            "developer": "http://shirogames.com/"
+        },
+        "notes": "Store page: http://evoland.shirogames.com/",
+        "extras": false
+    },
+    {
         "name": "Expander",
         "url": "expander/Asu4Feus23ds",
         "price": "2.49",
@@ -4639,6 +4720,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "FIST OF AWESOME",
+        "url": "fistofawesome/Fkdowk3",
+        "price": "1.99",
+        "description": "Get Fist of Awesome (Android) instantly!",
+        "developer": "I Fight Bears",
+        "platform": {
+            "android": true,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/fist-awesome/review",
+            "developer": "http://ifightbears.co.uk/press/"
+        },
+        "notes": "Store page: http://fistofawesome.com/",
+        "extras": false
+    },
+    {
         "name": "Flotilla",
         "url": "flotilla",
         "price": "10",
@@ -4714,6 +4821,33 @@ var games = [
             "developer": "http://www.santaragione.com/"
         },
         "notes": "Currently on sale at 50% off, regular price is $9.99.",
+        "extras": false
+    },
+    {
+        "name": "Foul Play",
+        "url": "foulplay/Fei8Hy9Fsre",
+        "price": "14.99",
+        "description": "Get Foul Play via Steam key for a flawless performance either way!",
+        "developer": "Mediatonic",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.polygon.com/2013/9/24/4747228/foul-play-review-standing-ovation",
+            "steam": "http://store.steampowered.com/app/244810/",
+            "developer": "http://mediatonicgames.com/"
+        },
+        "notes": "Store page: http://mediatonicgames.com/games/foul-play",
         "extras": false
     },
     {
@@ -4968,6 +5102,34 @@ var games = [
             "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
             "developer": "http://www.overthetopgames.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Game Dev Tycoon",
+        "url": "gamedevtycoon/Gamdkwo1",
+        "price": "9.99",
+        "description": "Get Game Dev Tycoon instantly and DRM free!",
+        "developer": "Greenheart Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://greenlitgaming.com/game-dev-tycoon-review/",
+            "desura": "http://www.desura.com/games/game-dev-tycoon",
+            "steam": "http://store.steampowered.com/app/239820/",
+            "developer": "http://www.greenheartgames.com/"
+        },
+        "notes": "Store page: http://www.greenheartgames.com/game-dev-tycoon-downloads/",
         "extras": false
     },
     {
@@ -5567,6 +5729,34 @@ var games = [
             "developer": "http://www.suspiciousdevelopments.com/"
         },
         "extras": true
+    },
+    {
+        "name": "Hack, Slash, Loot",
+        "url": "hackslashloot/Hekdowkl3k",
+        "price": "7",
+        "description": "Get Hack, Slash, Loot instantly! Cross-platform and DRM-free.",
+        "developer": "David Williamson",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezone.com/reviews/2012/04/30/hack-slash-loot-review",
+            "desura": "http://www.desura.com/games/hack-slash-loot",
+            "steam": "http://store.steampowered.com/app/207430/",
+            "developer": "http://www.gooeyblob.com/"
+        },
+        "notes": "Store page: http://hackslashloot.com/purchase.html",
+        "extras": false
     },
     {
         "name": "Hammerwatch",
@@ -8052,6 +8242,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Nidhogg",
+        "url": "nidhogg/Ndy7Teh6Sjo",
+        "price": "14.99",
+        "description": "Buy Nidhogg and get it instantly for Windows via Steam key!",
+        "developer": "Messhof",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2014/01/15/nidhogg-review",
+            "steam": "http://store.steampowered.com/app/94400/",
+            "developer": "http://messhof.com/"
+        },
+        "notes": "Store page: http://www.nidhogggame.com/",
+        "extras": false
+    },
+    {
         "name": "Night In The Woods",
         "url": "nightinthewoods_tier1/Ndje7Gdye4Sds",
         "price": "15",
@@ -8523,6 +8740,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Our Darker Purpose",
+        "url": "ourdarkerpurpose/RkjsI28Kd89",
+        "price": "15",
+        "description": "Journey to the dark heart of the Edgewood Home for Lost Children in this rogue-like action-RPG!",
+        "developer": "Avidly Wild Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.dealspwn.com/darker-purpose-review-school-hard-knocks-165960",
+            "developer": "http://www.ourdarkerpurpose.com/wp/"
+        },
+        "extras": false
+    },
+    {
         "name": "Out There",
         "url": "outthere_final/Odkwkdi1",
         "price": "3.99",
@@ -8693,6 +8935,34 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Papo & Yo",
+        "url": "papoandyo/Pdh6gdey5eh",
+        "price": "14.99",
+        "description": "Get Papo & Yo for Windows via Steam key Instantly! ($14.99) \n Get Papo & Yo for Windows via Steam key + Soundtrack Instantly! ($16.99)",
+        "developer": "Minority Media",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.technobuffalo.com/reviews/papo-and-yo-review/",
+            "desura": "http://www.desura.com/games/papo-yo",
+            "steam": "http://store.steampowered.com/app/227080",
+            "developer": "http://www.weareminority.com/"
+        },
+        "notes": "The widget doesn't mention DRM-free availability but it's very likely since the game was featured in a Humble Indie Bundle. \n Store page: http://www.weareminority.com/papo-yo/",
+        "extras": false
     },
     {
         "name": "Paradise Lost: First Contact - Bronze",
@@ -8889,6 +9159,32 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Particulars Alpha: Basic Pack",
+        "url": "particulars_alphabasic/Pdh7teg3GSy",
+        "price": "9.99",
+        "description": "Get Particulars (cross-platform and DRM-free). Includes all Alpha updates and final release + Steam key.",
+        "developer": "SeeThrough Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/particulars",
+            "steam": "http://store.steampowered.com/app/259470/",
+            "developer": "http://www.seethroughstudios.com/"
+        },
+        "extras": false
     },
     {
         "name": "Perfection.",
@@ -10038,6 +10334,33 @@ var games = [
         }
     },
     {
+        "name": "Samurai Gunn",
+        "url": "samuraigunn/Sfdhe7GSte6G",
+        "price": "14.99",
+        "description": "Buy Samurai Gunn now, DRM-free for Windows! This is a lightning-fast Bushido brawler for two to four players.",
+        "developer": "Teknopants",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.polygon.com/2013/12/13/5208420/samurai-gunn-review",
+            "steam": "http://store.steampowered.com/app/239090",
+            "developer": "http://teknopants.com/"
+        },
+        "notes": "Store page: http://maxistentialism.com/samuraigunn/",
+        "extras": false
+    },
+    {
         "name": "Sanctum",
         "url": "sanctum",
         "price": "9.99",
@@ -10909,6 +11232,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Space Hulk",
+        "url": "spacehulk/Sh8Yhe5Rdf",
+        "price": "29.99",
+        "description": "The legendary Space Hulk returns to Windows PC and Mac in this epic turn based strategy game.",
+        "developer": "Full Control",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/08/16/wot-i-think-space-hulk/",
+            "steam": "http://store.steampowered.com/app/242570",
+            "developer": "http://www.fullcontrol.dk/"
+        },
+        "notes": "Store page: http://www.spacehulk-game.com/",
+        "extras": false
+    },
+    {
         "name": "Spacebase DF-9: Breather",
         "url": "spacebasedf9_tier1/Sdh7Gdte9Fey",
         "price": "25",
@@ -11351,6 +11701,32 @@ var games = [
         }
     },
     {
+        "name": "STARWHAL: Just the Tip",
+        "url": "starwhal_justthetip/Hfd73Hei3Gd",
+        "price": "9.99",
+        "description": "Get STARWHAL: Just the Tip (Early Access) instantly, via Steam key!",
+        "developer": "Breakfall",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/263020",
+            "developer": "http://breakfall.ca/"
+        },
+        "notes": "Store page: http://www.starwhal.com/",
+        "extras": false
+    },
+    {
         "name": "Steam Marines",
         "url": "steammarines/Sdg6Reg5Fs",
         "price": "4.99",
@@ -11444,6 +11820,32 @@ var games = [
             "steam": "http://store.steampowered.com/app/221640/",
             "developer": "http://www.superhexagon.com/"
         }
+    },
+    {
+        "name": "Super Meat Boy",
+        "url": "supermeatboy/Shyfu6Gfdty4s",
+        "price": "14.99",
+        "description": "Purchase Super Meat Boy for Windows, Mac, and Linux and instantly get it DRM-free and on Steam.",
+        "developer": "Team Meat",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/super-meat-boy-review/1900-6285270/",
+            "steam": "http://store.steampowered.com/app/40800/",
+            "developer": "http://supermeatboy.com/"
+        },
+        "extras": false
     },
     {
         "name": "Super Splatters Pre-Order",
