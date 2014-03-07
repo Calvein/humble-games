@@ -702,7 +702,7 @@ var games = [
         "extras": true
     },
     {
-        "name": "Pre-order Astroids",
+        "name": "Pre-order ASTROIDS",
         "url": "astroids/Adkowek3",
         "price": "10",
         "description": "Pre-order “ASTROIDS” game to support its development, get early access to alpha game builds and have a chance to influence the final outcome.",
@@ -1087,7 +1087,7 @@ var games = [
         }
     },
     {
-        "name": "Blade Symphony (Pre-Order)",
+        "name": "Blade Symphony (Early Access Game)",
         "url": "bladesymphony",
         "price": "15",
         "description": "Pre-order Blade Symphony and start playing the beta now.",
@@ -1110,7 +1110,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/225600/",
             "developer": "http://www.punyhumangames.com/"
         },
-        "notes": "dev page: http://www.blade-symphony.com/prerelease/"
+        "notes": "Store page: http://www.blade-symphony.com/prerelease/"
     },
     {
         "name": "Bleed",
@@ -1322,7 +1322,7 @@ var games = [
     "extras": false
 },
     {
-    "name": "Broken Age",
+    "name": "Broken Age + Soundtrack",
     "url": "brokenage_tier2/Bkdow42",
     "price": "29.99",
     "description": "Purchase your copy of Broken Age (DRM-free) + Soundtrack! Steam key is also included.",
@@ -12447,7 +12447,7 @@ var games = [
         "notes": "$5.00 represents early access price and may increase in future. \n Has already been Greenlit and all purchases will be retroactively awarded a Steam key."
     },
     {
-        "name": "Volgar The Viking",
+        "name": "Volgarr The Viking",
         "url": "volgarrtheviking?preview=Hl5o25SJrwbh",
         "price": "11.99",
         "description": "Buy Volgarr the Viking and get it instantly, DRM-free! Includes a Steam key & digital manual.",
