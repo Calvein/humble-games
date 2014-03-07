@@ -976,6 +976,33 @@ var games = [
         }
     },
     {
+        "name": "Battle Group",
+        "url": "battlegroup/Mekdowk2",
+        "price": "5",
+        "description": "Get Battle Group instantly! Cross-platform and DRM-free.",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.invisioncommunity.co.uk/review/battlegroup-review/",
+            "desura": "http://www.desura.com/games/battle-group",
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "Store page: http://www.mergegames.com/battle-group-2/",
+        "extras": false
+    },
+    {
         "name": "Bean's Quest",
         "url": "beansquest",
         "price": "4.99",
@@ -1541,6 +1568,31 @@ var games = [
         "notes": "Comes with early alpha access, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits."
     },
     {
+        "name": "Chernobyl Underground",
+        "url": "chernobylunderground/Mekdowk2",
+        "price": "10",
+        "description": "Get Chernobyl Underground instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/chernobyl-underground/",
+        "extras": false
+    },
+    {
 	"name": "Chivalry: Deadliest Warrior",
 	"url": "chivalrymedievalwarfare_tiered/Chdi8Fst4Rsg",
 	"price": "29.99",
@@ -1863,6 +1915,126 @@ var games = [
         "extras": false
     },
     {
+        "name": "Commandos: Behind Enemy Lines",
+        "url": "commandos_behindenemylines/Mekdowk2",
+        "price": "5",
+        "description": "Get Commandos: Behind Enemy Lines instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-behind-enemy-lines/"
+    },
+    {
+        "name": "Commandos: Beyond the Call of Duty",
+        "url": "commandos_beyondthecallofduty/Mekdowk2",
+        "price": "5",
+        "description": "Get Commandos: Beyond the Call of Duty instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-beyond-the-call-of-duty/"
+    },
+    {
+        "name": "Commandos 2: Men of Courage",
+        "url": "commandos2_menofcourage/Mekdowk2",
+        "price": "5",
+        "description": "Get Commandos 2: Men of Courage instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-2-men-of-courage/"
+    },
+    {
+        "name": "Commandos 3: Destination Berlin",
+        "url": "commandos3_destinationberlin/Mekdowk2",
+        "price": "5",
+        "description": "Get Commandos 3: Destination Berlin instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-3-destination-berlin/"
+    },
+    {
+        "name": "Commandos: Strike Force",
+        "url": "commandos_strikeforce/Mekdowk2",
+        "price": "5",
+        "description": "Get Commandos: Strike Force instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-strike-force/"
+    },
+    {
         "name": "Constant C",
         "url": "constantc?preview=aqLfpSQ7TVzx",
         "price": "9.99",
@@ -2091,6 +2263,54 @@ var games = [
         },
         "notes": "Currently on sale at 20% off, regular price is $20. \n Store page: http://siegegames.com/preorder/",
         "extras": true
+    },
+    {
+        "name": "Creatures: Exodus",
+        "url": "creatures_exodus/Mekdowk2",
+        "price": "6",
+        "description": "Get Creatures: Exodus instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },  
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/creatures-exodus/"
+    },
+    {
+        "name": "Creatures: Village",
+        "url": "creatures_village/Mekdowk2",
+        "price": "6",
+        "description": "Get Creatures: Village instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/creatures-village/"
     },
     {
         "name": "Crypt of the NecroDancer",
@@ -4421,6 +4641,30 @@ var games = [
         "extras": false
     },
     {
+        "name": "Football Director",
+        "url": "footballdirector/Mekdowk2",
+        "price": "10",
+        "description": "Get Football Director instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/football-director/"
+    },
+    {
         "name": "FOTONICA",
         "url": "fotonica",
         "price": "9.99",
@@ -5198,6 +5442,30 @@ var games = [
         "extras": false
     },
     {
+        "name": "Guise of the Wolf",
+        "url": "guiseofthewolf/Mekdowk2",
+        "price": "14.99",
+        "description": "Pre-order Guise of the Wolf!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "The widget says pre-order even though the game has already been released. No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/guise-of-the-wolf/"
+    },
+    {
         "name": "Gunpoint",
         "url": "gunpoint?preview=djS894h2nS",
         "price": "10",
@@ -5660,6 +5928,30 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Imperial Glory",
+        "url": "imperialglory/Mekdowk2",
+        "price": "6",
+        "description": "Get Imperial Glory instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/imperial-glory/"
     },
     {
         "name": "Incognita",
@@ -7380,6 +7672,30 @@ var games = [
         }
     },
     {
+        "name": "Monster Truck Destruction",
+        "url": "monstertruckdestruction/Mekdowk2",
+        "price": "20",
+        "description": "Get Monster Truck Destruction instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/monster-truck-destruction-2/"
+    },
+    {
         "name": "Montague's Mount",
         "url": "montaguesmount/Mdkwo1k2l",
         "price": "9.99",
@@ -8804,6 +9120,54 @@ var games = [
         "extras": false
     },
     {
+        "name": "Police Simulator",
+        "url": "policesimulator/Mekdowk2",
+        "price": "10",
+        "description": "Get Police Simulator instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/police-simulator/"
+    },
+    {
+        "name": "Police Simulator 2",
+        "url": "policesimulator2/Mekdowk2",
+        "price": "10",
+        "description": "Get Police Simulator 2 instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/police-simulator-2/"
+    },
+    {
         "name": "POP: Methodology Experiment One",
         "url": "pop_methodologyexperimentone?preview=Poskdkwk1",
         "price": "3.99",
@@ -8874,6 +9238,30 @@ var games = [
         },
         "notes": "A minimalistic puzzle game that changes the way you think.",
         "extras": false
+    },
+    {
+        "name": "Praetorians",
+        "url": "praetorians/Mekdowk2",
+        "price": "6",
+        "description": "Get Praetorians instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/praetorians/"
     },
     {
         "name": "Probability 0",
@@ -9405,6 +9793,30 @@ var games = [
         },
         "notes": "Store page: http://tchow.com/games/rktcr/",
         "extras": false
+    },
+    {
+        "name": "Roaming Fortress",
+        "url": "roamingfortress/Mekdowk2",
+        "price": "10",
+        "description": "Get Roaming Fortress instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/roaming-fortress/"
     },
     {
         "name": "Rochard",
@@ -13005,5 +13417,29 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Zoo Park",
+        "url": "zoopark/Mekdowk2",
+        "price": "20",
+        "description": "Get Zoo Park instantly!",
+        "developer": "Merge Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.mergegames.com/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/zoo-park/"
     }
 ]
