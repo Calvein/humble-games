@@ -6169,30 +6169,6 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/imperial-glory/"
     },
     {
-        "name": "Incognita",
-        "url": "incognita?preview=Ieu7Gsyhe5Df",
-        "price": "19.99",
-        "description": "Get the Full Game + Soundtrack at launch. Play the Early-Access Alpha immediately! Also includes an extra copy to give to a friend! ($19.99) \n -Get the Full Game at launch -Play the Early-Access Alpha immediately! -Also includes an extra copy to give to a friend! ($16.99)",
-        "developer": "Klei Entertainment",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-            },
-        "URL": {
-            "developer": "http://kleientertainment.com/"
-        },
-        "notes": "Current prices are early access discounts and will increase in future. \n Store page: http://www.incognitagame.com/"
-    },
-    {
         "name": "Incredipede",
         "url": "incredipede",
         "price": "9.99",
@@ -6280,6 +6256,30 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Invisible, Inc.",
+        "url": "incognita?preview=Ieu7Gsyhe5Df",
+        "price": "19.99",
+        "description": "Get the Full Game + Soundtrack at launch. Play the Early-Access Alpha immediately! Also includes an extra copy to give to a friend! ($19.99) \n -Get the Full Game at launch -Play the Early-Access Alpha immediately! -Also includes an extra copy to give to a friend! ($16.99)",
+        "developer": "Klei Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+            },
+        "URL": {
+            "developer": "http://kleientertainment.com/"
+        },
+        "notes": "Current prices are early access discounts and will increase in future. \n Store page: http://www.incognitagame.com/"
     },
     {
         "name": "Ironclad Tactics",
