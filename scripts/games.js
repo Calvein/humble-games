@@ -1448,6 +1448,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Card City Nights",
+        "url": "cardcitynights/asdjwOS3",
+        "price": "3.99",
+        "description": "Get Card City Nights instantly and DRM free!",
+        "developer": "Ludosity",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamereviewer.com/review-card-city-nights-a-narrative-driven-ccg/",
+            "steam": "http://store.steampowered.com/app/271820/",
+            "developer": "http://www.ludosity.com/"
+        },
+        "notes": "Store page: http://www.cardcitynights.com/",
+        "extras": false
+    },
+    {
         "name": "Cardinal Quest",
         "url": "cardinalquest",
         "price": "5",
@@ -3529,6 +3556,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Dominique Pamplemousse",
+        "url": "dominiquepamplemousse/Djwij3",
+        "price": "4.99",
+        "description": "A unique and offbeat stop motion animated detective adventure game about gender and the economy, with frequent bursts into song.",
+        "developer": "Deirdra Kiai Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.edge-online.com/review/dominique-pamplemousse-in-its-all-over-once-the-fat-lady-sings-review/",
+            "steam": "http://store.steampowered.com/app/270310/",
+            "developer": "http://www.deirdrakiai.com/"
+        },
+        "notes": "It allegedly includes a soundtrack, even though the widget description doesn't mention it. \n Store page: http://www.dominiquepamplemousse.com/#buy-desktop",
+        "extras": false
+    },
+    {
         "name": "Don't Starve",
         "url": "dontstarve_standalone?preview=mtcdbvdg",
         "price": "19.98",
@@ -4879,7 +4933,7 @@ var games = [
     {
         "name": "FTL: Faster Than Light",
         "url": "ftlfasterthanlight",
-        "price": "10",
+        "price": "9.99",
         "description": "Download FTL: Faster Than Light now, cross-platform, DRM free, and redeemable on Steam!",
         "developer": "Subset Games",
         "platform": {
@@ -12975,6 +13029,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "TUG Early Access",
+        "url": "tug_seedling/Tudkwo43",
+        "price": "20",
+        "description": "Disclaimer: You are purchasing access to a pre-commercial launch Alpha build. It's unstable and it will break at times.",
+        "developer": "Nerd Kingdom",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.nerdkingdom.com/index.shtml"
+        },
+        "notes": "According to the developer, the price will increase when the game hits beta. \n Store page: http://www.nerdkingdom.com/early-access/index.shtml",
+        "extras": false
+    },
+    {
         "name": "Tug: A Space Trucker's Odyssey",
         "url": "tug_aspacetruckersodyssey/Tekdowk1ldksl",
         "price": "2.99",
@@ -13267,6 +13346,32 @@ var games = [
             "desura": "http://www.desura.com/games/valdis-story-abyssal-city",
             "developer": "http://www.endlessfluff.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Vertiginous Golf",
+        "url": "vertiginousgolf/Vkdowk4",
+        "price": "14.99",
+        "description": "Get Vertiginous Golf instantly and DRM-free. Includes all Beta updates and final release + Steam key, once released on Steam!",
+        "developer": "Kinelco & Lone Elk Creative",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/272890/",
+            "developer": "http://surpriseattackgames.com/"
+        },
+        "notes": "Store page: http://community.surpriseattackgames.com/vertigolf",
         "extras": false
     },
     {
@@ -13597,6 +13702,34 @@ var games = [
             "drm-free": true
         },
         "notes": "The Special Edition includes a soundtrack and an art book. \n Store page: http://nightlightinteractive.com/product/whispering-willows-se/",
+        "extras": true
+    },
+    {
+        "name": "Windforge",
+        "url": "windforge/Wkd09",
+        "price": "14.99",
+        "description": "Get the game DRM-free plus a Steam key and the digital manual!",
+        "developer": "Snowed In Studios Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.hardcoregamer.com/2014/03/10/review-windforge/77585/",
+            "desura": "http://www.desura.com/games/windforge",
+            "steam": "http://store.steampowered.com/app/266170/",
+            "developer": "http://snowedin.ca/"
+        },
+        "notes": "Store page: http://windforgegame.snowedin.ca/index.php?page=buy",
         "extras": true
     },
     {
