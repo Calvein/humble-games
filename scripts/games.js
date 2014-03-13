@@ -2716,6 +2716,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Dawn of the Plow",
+        "url": "dawnoftheplow/Dkwdof9",
+        "price": "1.99",
+        "description": "You are the new plow on the block, and today is your day.",
+        "developer": "Trichotomy",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://trichotomygames.com/"
+        },
+        "notes": "Store page: http://dogsledsaga.com/DSStoPAXEast/",
+        "extras": false
+    },
+    {
         "name": "Dead Pixels",
         "url": "deadpixels?preview=0qeKKdGfNfvO",
         "price": "2.99",
