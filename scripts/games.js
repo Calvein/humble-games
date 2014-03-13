@@ -9848,6 +9848,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Race To Mars",
+        "url": "racetomars/nveoOINViobebwe",
+        "price": "19.99",
+        "description": "Get a Steam key for Race To Mars instantly!",
+        "developer": "INTERMARUM",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/257930",
+            "developer": "http://intermarum.com/"
+        },
+        "notes": "Store page: http://www.racetomars.pl/#buy",
+        "extras": false
+    },
+    {
         "name": "Rage Runner",
         "url": "ragerunner/MOcewiocw",
         "price": "4.99",
