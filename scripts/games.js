@@ -11808,6 +11808,131 @@ var games = [
         }
     },
     {
+        "name": "StarCrawlers",
+        "url": "starcrawlers/89IOreq",
+        "price": "15",
+        "description": "Pre-order StarCrawlers. When it's released, you will receive your choice of Steam key or DRM-free download! (Win/Mac/Linux)",
+        "developer": "Juggernaut Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.juggernaut-games.com/"
+        },
+        "notes": "Store page: http://starcrawlers.com/store/",
+        "extras": false
+    },
+    {
+        "name": "StarCrawlers + OST by Ben Prunty",
+        "url": "starcrawlers_soundtrack/venoi34P",
+        "price": "20",
+        "description": "Pre-order the Game (DRM-free download upon release) + Digital Copy of the original soundtrack by Ben Prunty.",
+        "developer": "Juggernaut Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.juggernaut-games.com/"
+        },
+        "notes": "Store page: http://starcrawlers.com/store/",
+        "extras": false
+    },
+    {
+        "name": "StarCrawlers + OST + Beta Access",
+        "url": "starcrawlers_beta/benio34Y",
+        "price": "25",
+        "description": "Pre-order the Game (DRM-free download upon release) + Digital Copy of the original soundtrack by Ben Prunty + Beta Access.",
+        "developer": "Juggernaut Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.juggernaut-games.com/"
+        },
+        "notes": "Store page: http://starcrawlers.com/store/",
+        "extras": false
+    },
+    {
+        "name": "StarCrawlers + OST + Beta & Alpha",
+        "url": "starcrawlers_alpha/vbrx643V",
+        "price": "30",
+        "description": "Pre-order the Game (DRM-free download upon release) + Digital Copy of the original soundtrack by Ben Prunty + Alpha & Beta Access.",
+        "developer": "Juggernaut Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.juggernaut-games.com/"
+        },
+        "notes": "Store page: http://starcrawlers.com/store/",
+        "extras": false
+    },
+    {
+        "name": "StarCrawlers + OST + Pre-Alpha",
+        "url": "starcrawlers_prealpha/vtw34Kr",
+        "price": "40",
+        "description": "Pre-order the Game (DRM-free download upon release) + Digital Copy of the original soundtrack by Ben Prunty + Pre-Alpha/Alpha/Beta Access.",
+        "developer": "Juggernaut Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.juggernaut-games.com/"
+        },
+        "notes": "Store page: http://starcrawlers.com/store/",
+        "extras": false
+    },
+    {
         "name": "Starseed Pilgrim",
         "url": "starseedpilgrim?preview=h0FE1AmJJTm7",
         "price": "6",
@@ -13603,9 +13728,45 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.gameinformer.com/blogs/members/b/deanofmedia_blog/archive/2011/05/20/indie-game-review-vvvvvv.aspx",
+            "desura": "http://www.desura.com/games/vvvvvv/",
+            "steam": "http://store.steampowered.com/app/70300/",
+            "developer": "http://distractionware.com/blog/"
+        },
+        "notes": "Store page: http://thelettervsixtim.es/purchase.html",
+        "extras": false
     },
-   {
+    {
+        "name": "VVVVVV + PPPPPP",
+        "url": "vvvvvv_pppppp/Dokwokd4",
+        "price": "7.50",
+        "description": "Get VVVVVV + soundtrack (PPPPPP) instantly! Cross-platform and DRM free.",
+        "developer": "Terry Cavanagh",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gameinformer.com/blogs/members/b/deanofmedia_blog/archive/2011/05/20/indie-game-review-vvvvvv.aspx",
+            "desura": "http://www.desura.com/games/vvvvvv/",
+            "steam": "http://store.steampowered.com/app/70300/",
+            "developer": "http://distractionware.com/blog/"
+        },
+        "notes": "Store page: http://thelettervsixtim.es/purchase.html",
+        "extras": false
+    },
+    {
         "name": "Waking Mars",
         "url": "wakingmars?preview=pending",
         "price": "9.99",
