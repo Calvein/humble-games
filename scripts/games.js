@@ -6224,6 +6224,32 @@ var games = [
         }
     },
     {
+        "name": "Imagine Me",
+        "url": "imagineme/Iskwldk1ldks",
+        "price": "7.99",
+        "description": "Preorder Imagine Me! Cross-platform and DRM-free.",
+        "developer": "KinifiGames LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/265670/",
+            "developer": "http://imaginemegame.com/"
+        },
+        "notes": "No mention about a Steam key, despite the game being available on Steam Early Access.",
+        "extras": false
+    },
+    {
         "name": "Imperial Glory",
         "url": "imperialglory/Mekdowk2",
         "price": "6",
