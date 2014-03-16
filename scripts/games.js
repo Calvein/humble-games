@@ -1500,6 +1500,32 @@ var games = [
         }
     },
     {
+        "name": "Carmageddon: Reincarnation",
+        "url": "carmageddon_reincarnation/arvbKBvw4",
+        "price": "29.99",
+        "description": "Pre-Order Carmageddon: Reincarnation now! Steam Early Access coming 27 March 2014",
+        "developer": "Stainless Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/249380/",
+            "developer": "http://www.stainlessgames.com/"
+        },
+        "notes": "Early Access on Steam beginning on 27 March. Upon release, the game will be ported to Mac and Linux and a DRM-free version will be made available. \n Store page: http://www.carmageddon.com/preorder",
+        "extras": false
+    },
+    {
         "name": "Castle Story beta",
         "url": "castlestory_store",
         "price": "20",
