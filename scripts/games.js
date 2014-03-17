@@ -4644,8 +4644,7 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
-        ,
+        },
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
         "extras": false
     },
@@ -4667,8 +4666,7 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
-        ,
+        },
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
         "extras": true
     },
@@ -4690,8 +4688,7 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
-        ,
+        },
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
         "extras": true
     },
@@ -4713,9 +4710,33 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
-        ,
+        },
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "extras": true
+    },
+    {
+        "name": "Ether One: Deluxe Edition",
+        "url": "etherone_deluxeedition/env63OM",
+        "price": "29.99",
+        "description": "Pre-order Ether One now for PC DRM-free. Available 25th March 2014. Includes a Steam Key, Ether One OST, Game Script & Comic by M.D Penman!",
+        "developer": "White Paper Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.whitepapergames.com/"
+        },
+        "notes": "Store page: http://ether-game.com/#section4",
         "extras": true
     },
     {
@@ -8245,6 +8266,31 @@ var games = [
             "developer": "http://www.unknownworlds.com/"
         },
         "notes": "Store page: http://www.naturalselection2.com/",
+        "extras": false
+    },
+    {
+        "name": "Natural Soccer",
+        "url": "naturalsoccer/HFGJDGK98HDJFG76",
+        "price": "9.99",
+        "description": "Get your DRM-FREE copy of Natural Soccer for Windows now!",
+        "developer": "Thorsten Schleinzer",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.schleinzer.com/"
+        },
+        "notes": "Linux and Mac versions are currently under development. \n Store page: http://naturalsoccer.com/buy",
         "extras": false
     },
     {
