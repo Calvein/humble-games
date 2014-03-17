@@ -3717,8 +3717,8 @@ var games = [
     {
         "name": "Drifter (Pre-Order)",
         "url": "drifter",
-        "price": "10",
-        "description": "Pre-order Drifter for 33% off and receive access to the beta on PC/Mac immediately.",
+        "price": "12",
+        "description": "Pre-order Drifter for 20% off and receive access to the beta on PC, Mac and Linux immediately. Includes Steam key!",
         "developer": "Celsius Game Studios",
         "platform": {
             "android": false,
@@ -3728,16 +3728,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.148apps.com/tag/celsius-game-studios/",
-            "developer": "http://www.celsiusgs.com/drifter/"
+            "developer": "http://www.celsiusgs.com"
         },
-        "notes": "Currently on sale at 33% off, regular price is $15. Immediate access to the beta (currently on Windows and Mac). DRM-free copy of the game (on Windows, Mac and Linux) when it's released. Free Steam key when the game is available on Steam.",
+        "notes": "Currently on sale at 20% off, regular price is $15. \n Store page: http://celsiusgs.com/drifter/preorder.php",
         "extras": false
     },
     {
