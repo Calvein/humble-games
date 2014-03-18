@@ -9411,6 +9411,31 @@ var games = [
         "notes": "Says Ubuntu instead of Linux but will work on any distribution"
     },
     {
+        "name": "Pharaoh's Dance",
+        "url": "pharaohsdance/Pasldk12k",
+        "price": "4.99",
+        "description": "Pre-order Pharaoh's Dance, DRM-free for PC and Mac!",
+        "developer": "Astro Assembly",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://astroassembly.com/"
+        },
+        "notes": "Store page: http://astroassembly.com/pharaohs-dance/#post-508",
+        "extras": false
+    },
+    {
         "name": "Pid",
         "url": "pid?preview=P0W6nZJkdNg8",
         "price": "10",
