@@ -3634,6 +3634,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Don't Move",
+        "url": "dontmove/Dkwodk4",
+        "price": "1",
+        "description": "Get Don't Move instantly! DRM-free and cross-platform, with the official extended soundtrack included.",
+        "developer": "STVR",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiestatik.com/2013/09/16/dont-move-distils-modern-gamings-player-investment-manipulation-to-a-worrying-conclusion/",
+            "desura": "http://www.desura.com/games/dont-move",
+            "developer": "http://www.steverichey.com/"
+        },
+        "notes": "The desktop version is free, you're basically purchasing the Android version here. \n Store page: http://www.steverichey.com/dontmove/",
+        "extras": false
+    },
+    {
         "name": "Don't Starve",
         "url": "dontstarve_standalone?preview=mtcdbvdg",
         "price": "19.98",
