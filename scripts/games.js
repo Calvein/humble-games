@@ -5312,6 +5312,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gentlemen!",
+        "url": "gentlemen/Gdu8Yste6sg",
+        "price": "8",
+        "description": "Buy Gentlemen! now for Windows, Mac, or Android (7inch+). No DRM, just some super great local multiplayer fun times.",
+        "developer": "Lucky Frame",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/253570/",
+            "desura": "http://www.desura.com/games/gentlemen",
+            "developer": "http://luckyframe.co.uk/"
+        },
+        "notes": "Store page: http://www.luckyframe.co.uk/gentlemen/#buy",
+        "extras": false
+    },
+    {
         "name": "Gimbal Cop",
         "url": "gimbalcop/Gdkwodkkf3",
         "price": "5",
@@ -12178,6 +12205,31 @@ var games = [
             "drm-free": true
         },
         "notes": "Alpha access also available for $30. \n Store page at http://stonehearth.net/store/"
+    },
+    {
+        "name": "Stranded",
+        "url": "stranded/Sjdkwo43",
+        "price": "6.99",
+        "description": "Purchase Stranded + Official Soundtrack! Cross-platform and DRM-free.",
+        "developer": "Peter Moorhead",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.petermoorhead.com/"
+        },
+        "notes": "Store page: http://www.petermoorhead.com/stranded/#buynow",
+        "extras": false
     },
     {
         "name": "Sugar Cube: Bittersweet Factory",
