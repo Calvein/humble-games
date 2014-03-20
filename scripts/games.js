@@ -875,6 +875,31 @@ var games = [
         }
     },
     {
+        "name": "Attractio - Early Access",
+        "url": "attractio/BKcewin3",
+        "price": "17",
+        "description": "Manipulate Gravity before everyone! Get Attractio DRM-free.",
+        "developer": "GameCoder Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.gamecoderstudios.com/"
+        },
+        "notes": "Mac version coming later. \n Store page: http://attractio-game.com/shop/",
+        "extras": false
+    },
+    {
         "name": "Awesomenauts",
         "url": "awesomenauts",
         "price": "9.99",
@@ -6005,6 +6030,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Heart&Slash - GAME",
+        "url": "heartandslash/qwm09NJ",
+        "price": "10",
+        "description": "Get Heart&Slash on release day! Cross-platform and DRM-free.",
+        "developer": "aheartfulofgames",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.aheartfulofgames.com/"
+        },
+        "notes": "Store page: http://www.aheartfulofgames.com/preorder/",
+        "extras": false
+    },
+    {
+        "name": "Heart&Slash - GAME+MUSIC",
+        "url": "heartandslash_soundtrack/mkv984JN",
+        "price": "15",
+        "description": "Get Heart&Slash on release day! Cross-platform and DRM-free. PLUS a DRM free soundtrack for you to listen to.",
+        "developer": "aheartfulofgames",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.aheartfulofgames.com/"
+        },
+        "notes": "Store page: http://www.aheartfulofgames.com/preorder/",
+        "extras": false
+    },
+    {
+        "name": "Heart&Slash - GAME+MUSIC+BETA",
+        "url": "heartandslash_beta/vmIMKL32",
+        "price": "25",
+        "description": "Get Heart&Slash on release day! Cross-platform and DRM-free. PLUS a DRM free soundtrack for you to listen to. PLUS access to the early Beta!",
+        "developer": "aheartfulofgames",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.aheartfulofgames.com/"
+        },  
+        "notes": "Store page: http://www.aheartfulofgames.com/preorder/",
+        "extras": false
+    },
+    {
         "name": "Heroes of Loot",
         "url": "heroesofloot/Hdkwo3k",
         "price": "5",
@@ -10261,8 +10361,8 @@ var games = [
     {
         "name": "Retrobooster",
         "url": "retrobooster/Rdkslwo1k2k",
-        "price": "12",
-        "description": "Pre-order Retrobooster for Window and Linux. It's DRM-free!",
+        "price": "17.99",
+        "description": "Purchase Retrobooster for Window and Linux. It's DRM-free!",
         "developer": "Really Slick",
         "platform": {
             "android": false,
@@ -10280,7 +10380,32 @@ var games = [
         "URL": {
             "developer": "http://www.reallyslick.com/index.html"
         },
-        "notes": "Currently on sale at 33% off. Regular price is $17.99. \n Store page: http://www.reallyslick.com/retrobooster/",
+        "notes": "Store page: http://www.reallyslick.com/retrobooster/",
+        "extras": false
+    },
+    {
+        "name": "Retrobooster + Soundtrack",
+        "url": "retrobooster_soundtrack/Rdkslwo1k2k",
+        "price": "20.99",
+        "description": "Get Retrobooser and its soundtrack. This game runs on Windows and Linux and is DRM-free.",
+        "developer": "Really Slick",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.reallyslick.com/index.html"
+        },
+        "notes": "Store page: http://www.reallyslick.com/retrobooster/",
         "extras": false
     },
     {
