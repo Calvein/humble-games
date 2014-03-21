@@ -5727,6 +5727,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Great Permutator",
+        "url": "greatpermutator/MPcewpmveior",
+        "price": "6.99",
+        "description": "Purchase Great Permutator instantly and get it DRM-free for PC, Mac and Linux! Includes a Desura key!",
+        "developer": "Ripatti Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://ripattisoftware.com/"
+        },
+        "notes": "Store page: http://ripattisoftware.com/greatpermutator/buy_now.php",
+        "extras": false
+    },
+    {
         "name": "Grim Dawn Digital Release",
         "url": "grimdawn-1/J2soPnxhdSxG",
         "price": "24.99",
@@ -10247,6 +10272,31 @@ var games = [
         },
         "notes": "Web store: http://flippfly.com/racethesun/",
         "extras": false
+    },
+    {
+        "name": "Race the Sun + Extras",
+        "url": "racethesun_deluxe/Rahd5tGH9jd",
+        "price": "14",
+        "description": "Get Race The Sun instantly, cross-platform and DRM-free. Includes 5-track soundtrack and wallpapers.",
+        "developer": "Flippfly",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://flippfly.com/"
+        },
+        "notes": "Steam key included via Flippfly account. \n Store page: http://flippfly.com/paypal/",
+        "extras": true
     },
     {
         "name": "Race To Mars",
