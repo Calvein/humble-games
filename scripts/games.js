@@ -8922,6 +8922,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Octopus City Blues: Tentacle Cutter",
+        "url": "octopuscityblues_tentaclecutter/894NLve",
+        "price": "10",
+        "description": "Pre-order a DRM-free digital copy of Octopus City Blues for Windows, OSX and Linux.",
+        "developer": "Ghost in a Bottle",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://ghostinabottle.com/"
+        },
+        "notes": "Store page: http://www.octopuscityblues.com/preorder",
+        "extras": false
+    },
+    {
+        "name": "Octopus City Blues: Groupie",
+        "url": "octopuscityblues_groupie/L4lmk34",
+        "price": "20",
+        "description": "Pre-order a DRM-free, cross-platform copy of Octopus City Blues. Includes a digital copy of the soundtrack.",
+        "developer": "Ghost in a Bottle",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": true
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://ghostinabottle.com/"
+        },
+        "notes": "Store page: http://www.octopuscityblues.com/preorder",
+        "extras": false
+    },
+    {
+        "name": "Octopus City Blues: Octomaniac",
+        "url": "octopuscityblues_octomaniac/crm354M",
+        "price": "50",
+        "description": "Pre-order a DRM-free, cross-platform copy of Octopus City Blues. Includes digital copies of the soundtrack, Necronomicon guide and art book.",
+        "developer": "Ghost in a Bottle",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": true
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://ghostinabottle.com/"
+        },
+        "notes": "Store page: http://www.octopuscityblues.com/preorder",
+        "extras": true
+    },
+    {
         "name": "Offspring Fling",
         "url": "offspringfling",
         "price": "7.99",
