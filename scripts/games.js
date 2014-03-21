@@ -9228,7 +9228,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": false,
             "audio": false
         },
@@ -9239,11 +9239,10 @@ var games = [
             "drm-free": false
         },
         "URL": {
-            "review": "",
             "desura": "http://www.desura.com/games/paper-dungeons",
             "developer": "http://www.agentmega.net/"
         },
-        "notes": "Mac and Linux versions coming soon. No mention about DRM or lack thereof neither in the widget nor in the game's website. \n Store page: http://paperdungeons.net/#!/buy-it",
+        "notes": "Mac version coming soon. No mention about DRM or lack thereof neither in the widget nor in the game's website. \n Store page: http://paperdungeons.net/#!/buy-it",
         "extras": false
     },
     {
