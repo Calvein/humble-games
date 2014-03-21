@@ -2316,6 +2316,31 @@ var games = [
         }
     },
     {
+        "name": "CosmoKnots",
+        "url": "gimbalcop/Gdkwodkkf3",
+        "price": "5",
+        "description": "Get CosmoKnots! When ready, receive the game DRM-free and cross-platform!",
+        "developer": "Defective Studios",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.defectivestudios.com/"
+        },
+        "notes": "Store page: http://www.defectivestudios.com/cosmoknots/#buy",
+        "extras": false
+    },
+    {
         "name": "Crater Maker",
         "url": "cratermaker/uiahfdiulhsefASIUDHL",
         "price": "9.99",
@@ -5036,7 +5061,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -5050,7 +5075,6 @@ var games = [
             "review": "http://www.gamezebo.com/games/frogatto/review",
             "developer": "http://www.frogatto.com/"
         },
-        "notes": "Linux will be added soon",
         "extras": false
     },
     {
@@ -5361,31 +5385,6 @@ var games = [
             "developer": "http://luckyframe.co.uk/"
         },
         "notes": "Store page: http://www.luckyframe.co.uk/gentlemen/#buy",
-        "extras": false
-    },
-    {
-        "name": "Gimbal Cop",
-        "url": "gimbalcop/Gdkwodkkf3",
-        "price": "5",
-        "description": "Get Gimbal Cop! When ready, receive the game DRM-free and cross-platform (Mac and Linux coming soon)!",
-        "developer": "Defective Studios",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.defectivestudios.com/"
-        },
-        "notes": "Store page: http://www.defectivestudios.com/gimbalcop/#buy",
         "extras": false
     },
     {
