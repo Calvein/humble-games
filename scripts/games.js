@@ -4681,26 +4681,28 @@ var games = [
     {
         "name": "Escape Goat 2",
         "url": "escapegoat2/Edh6Tfgy9Uh",
-        "price": "8",
-        "description": "Save 20%! Coming September 10, 2013. Includes DRM-free installer for Windows.",
+        "price": "9.99",
+        "description": "Buy Escape Goat now! Includes DRM-free installer for Windows + a Steam key.",
         "developer": "MagicalTimeBean",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://greenlitgaming.com/escape-goat-2-review/",
+            "steam": "http://store.steampowered.com/app/255340/",
             "developer": "http://www.magicaltimebean.com/"
         },
-        "notes": "Store page: http://www.magicaltimebean.com/escape-goat-2/",
+        "notes": "Store page: http://www.escapegoat2.com/buy.html",
         "extras": false
     },
     {
