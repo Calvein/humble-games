@@ -4140,7 +4140,7 @@ var games = [
     {
         "name": "Dynamite Jack",
         "url": "dynamitejack",
-        "price": "4.99",
+        "price": "9.99",
         "description": "Purchase Dynamite Jack and instantly get it cross-platform DRM-free and on Steam.",
         "developer": "Hassey Enterprises, Inc.",
         "platform": {
