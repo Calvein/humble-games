@@ -1132,6 +1132,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Betrayer",
+        "url": "betrayer/Bdh7Ts5GLwi",
+        "price": "19.99",
+        "description": "Get the Alpha Immediately on Steam! ",
+        "developer": "Blackpowder Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/243120/",
+            "developer": "http://www.blackpowdergames.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Beware Planet Earth!",
         "url": "bewareplanetearth/siEusdkwodk93",
         "price": "9.99",
@@ -4792,6 +4817,31 @@ var games = [
         },
         "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
         "extras": true
+    },
+    {
+        "name": "Ether One: Basic Edition",
+        "url": "etherone/abeno4OP",
+        "price": "19.99",
+        "description": "Pre-order Ether One now for PC DRM-free. Available 25th March 2014.",
+        "developer": "White Paper Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.whitepapergames.com/"
+        },
+        "notes": "Store page: http://ether-game.com/#section4",
+        "extras": false
     },
     {
         "name": "Ether One: Deluxe Edition",
@@ -9995,6 +10045,34 @@ var games = [
             "developer": "http://www.popme1.com/"
         },
         "notes": "Linux version, when greenlit. \n Greenlight: http://steamcommunity.com/sharedfiles/filedetails/?id=93935251",
+        "extras": false
+    },
+    {
+        "name": "POSTAL 2",
+        "url": "postal2/nj32NOUv",
+        "price": "9.99",
+        "description": "Get POSTAL 2 instantly on Steam, cross-platform!",
+        "developer": "Running With Scissors",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2003/04/03/postal-2-review",
+            "desura": "http://www.desura.com/games/postal-2",
+            "steam": "http://store.steampowered.com/app/223470/",
+            "developer": "http://runningwithscissors.com/main/index.php"
+        },
+        "notes": "Store page: http://runningwithscissors.com/main/index.php?topic=1833.0",
         "extras": false
     },
     {
