@@ -6181,6 +6181,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Heavy Bullets",
+        "url": "heavybullets/567truggEU3y7",
+        "price": "6",
+        "description": "Play the Beta now and get access to all future versions! For Windows, Mac and Linux, DRM-free!",
+        "developer": "Terri Vellmann",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://terrivellmann.tumblr.com/"
+        },
+        "notes": "Store page: http://heavybullets.com/",
+        "extras": false
+    },
+    {
         "name": "Heroes of Loot",
         "url": "heroesofloot/Hdkwo3k",
         "price": "5",
@@ -9914,6 +9939,31 @@ var games = [
             "developer": "http://areyousquared.com/"
         },
         "notes": "Currently on sale at 40% off, regular price is $16.77.",
+        "extras": false
+    },
+    {
+        "name": "PixelJunk Bundle PayPal",
+        "url": "pixeljunk_bundle/OPI4574",
+        "price": "22.99",
+        "description": "Get PixelJunk Bundle Pack instantly for your PC! PixelJunk Eden Is available on Steam only!",
+        "developer": "Double Eleven",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://double11.co.uk/"
+        },
+        "notes": "PixelJunk Eden not available on Linux. \n Store page: http://double11.co.uk/paypal-promo/",
         "extras": false
     },
     {
