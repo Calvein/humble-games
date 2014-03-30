@@ -11510,6 +11510,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Shipwreck",
+        "url": "shipwreck/Sdpowek4",
+        "price": "3",
+        "description": "Get Shipwreck instantly and DRM free!",
+        "developer": "Brushfire Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.indiealtrepeat.com/2014/03/review-shipwreck/",
+            "developer": "http://brushfiregames.com/"
+        },
+        "notes": "Linux version coming soon. \n Store page: http://brushfiregames.com/shipwreck/#buy",
+        "extras": false
+    },
+    {
         "name": "Shovel Knight",
         "url": "shovelknight?preview=AsWK4zsikgrE",
         "price": "15",
