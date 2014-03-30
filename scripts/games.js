@@ -745,6 +745,34 @@ var games = [
         "extras": true
     },
     {
+        "name": "Aqua Kitty: Milk Mine Defender",
+        "url": "aquakitty_milkminedefender/Adwieiie4",
+        "price": "5.99",
+        "description": "Get AQUA KITTY instantly! DRM-free.",
+        "developer": "Tikipod",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://criticalindiegamer.com/2014/02/aqua-kitty-milk-mine-defender-review-pc/",
+            "desura": "http://www.desura.com/games/aqua-kitty-milk-mine-defender",
+            "steam": "http://store.steampowered.com/app/263880/",
+            "developer": "http://tikipod.com"
+        },
+        "notes": "Store page: http://tikipod.com/aquakitty/",
+        "extras": false
+    },
+    {
         "name": "Aquaria",
         "url": "aquaria/Adu7Fstg8Rwe",
         "price": "9.99",
@@ -3760,6 +3788,31 @@ var games = [
             "developer": "http://kleientertainment.com/"
         },
         "notes": "Store page: http://www.dontstarvegame.com/blog/landing/buynow.html",
+        "extras": false
+    },
+    {
+        "name": "Don't Starve: Reign of Giants DLC",
+        "url": "dontstarve_reignofthegiants/Dhdu7Ydhei5F",
+        "price": "4.99",
+        "description": "- Expand the Don't Starve experience in the official DLC!\n- Get access to the Beta immediately!",
+        "developer": "Klei Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://kleientertainment.com/"
+        },
+        "notes": "Currently on sale at 20% off.\nStore page: http://forums.kleientertainment.com/topic/31824-dlc-beta-come-and-get-it/#entry420197",
         "extras": false
     },
     {
@@ -13049,8 +13102,8 @@ var games = [
     {
         "name": "The Inner World",
         "url": "theinnerworld?preview=g5siGE0pP7sW",
-        "price": "31.99",
-        "description": "Buy now and get The Inner World digital download, an early prototype, soundtrack as mp3 + PDF Art book 'Encyclopaedia Asposia'!",
+        "price": "18.99",
+        "description": "Buy now and get The Inner World (DRM free), an early prototype, the soundtrack (mp3), a PDF Art booklet \"Encyclopaedia Asposia + a STEAM KEY!",
         "developer": "Studio Fizbin",
         "platform": {
             "android": false,
@@ -13060,7 +13113,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -13069,7 +13122,7 @@ var games = [
             "review": "http://ilovegamereviews.blogspot.com.es/2013/07/the-inner-world-review-best-daedalic.html",
             "developer": "http://www.studio-fizbin.de/"
         },
-        "notes": "Only German version available as of yet.\nStore page: http://www.theinnerworld.de/buy.html",
+        "notes": "Store page: http://www.theinnerworld.de/buy.html",
         "extras": true
     },
     {
