@@ -3870,6 +3870,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Dragon Fin Soup",
+        "url": "dragonfinsoup/daiudsaaiouyYE32",
+        "price": "15",
+        "description": "A charming SNES style RPG with Roguelike elements, set in a twisted fairytale world with cheerful, yet raging alcoholic heroine content! (Pre-Order)",
+        "developer": "Grimm Bros",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grimm-bros.com/"
+        },
+        "notes": "Since this widget parallels the $15 level Kickstarter pledge, it's safe to assume that it also includes the OST, HD wallpapers, a game manual, and forum access.\nStore page: http://dragonfinsoup.com/store.html#humbleBanner",
+        "extras": true
+    },
+    {
+        "name": "Dragon Fin Soup - Digital Plus Edition",
+        "url": "dragonfinsoup_digitalplusedition/ertiteryiuretiryYEet83",
+        "price": "20",
+        "description": "A charming SNES style RPG with Roguelike elements, set in a twisted fairytale world with cheerful, yet raging alcoholic heroine content! (Pre-Order)",
+        "developer": "Grimm Bros",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grimm-bros.com/"
+        },
+        "notes": "Since this widget parallels the $20 level Kickstarter pledge, it's safe to assume that it also includes the OST, HD wallpapers, a game manual, a digital art book, and forum access.\nStore page: http://dragonfinsoup.com/store.html#humbleBanner",
+        "extras": true
+    },
+    {
         "name": "Drifter (Pre-Order)",
         "url": "drifter",
         "price": "12",
