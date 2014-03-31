@@ -11616,13 +11616,13 @@ var games = [
         "name": "Shipwreck",
         "url": "shipwreck/Sdpowek4",
         "price": "3",
-        "description": "Get Shipwreck instantly and DRM free!",
+        "description": "Get Shipwreck DRM free for Windows, Mac, and Linux.",
         "developer": "Brushfire Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -11635,7 +11635,7 @@ var games = [
             "review": "http://www.indiealtrepeat.com/2014/03/review-shipwreck/",
             "developer": "http://brushfiregames.com/"
         },
-        "notes": "Linux version coming soon. \n Store page: http://brushfiregames.com/shipwreck/#buy",
+        "notes": "Store page: http://brushfiregames.com/shipwreck/#buy",
         "extras": false
     },
     {
