@@ -12763,6 +12763,32 @@ var games = [
         }
     },
     {
+        "name": "Super Distro Horizons Vs. Galaximo's Army",
+        "url": "distrohorizons_vs_galaximosarmy/niovrionIPNVkpet",
+        "price": "4.99",
+        "description": "Gain access to Super Distro Horizons Vs. Galaximo's Army NOW! Play the current and future alpha and beta builds, Cross-Platform!",
+        "developer": "Kitatus Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/distro-horizons-vs-galaximos-army",
+            "developer": "http://kitatusstudios.co.uk/"
+        },
+        "notes": "Store page: https://sites.google.com/a/kitatusstudios.co.uk/super-distro-horizons-vs-galaximo-s-army/pre-purchase",
+        "extras": false
+    },
+    {
         "name": "Super Hexagon",
         "url": "superhexagon?preview=sdfj8sdyhfn",
         "price": "2.99",
