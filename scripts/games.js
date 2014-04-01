@@ -3554,10 +3554,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "Disco Dodgeball (Early Access)",
-        "url": "robotroller_derbydiscododgeball?preview=duwkdjs0122ldk",
-        "price": "5",
-        "description": "Get a discounted copy now and receive all updates and the official release for free!",
+        "name": "Disco Dodgeball",
+        "url": "robotroller_derbydiscododgeball_final/beCno324Of",
+        "price": "10",
+        "description": "Receive one Steam Key for Disco Dodgeball Early Access (Win/Mac/Linux)",
         "developer": "Erik Asmussen",
         "platform": {
             "android": false,
@@ -3567,15 +3567,16 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/270450",
             "developer": "http://www.82apps.com/"
         },
-        "notes": "Currently on sale at 50% off, regular price is $10. \n Store page: http://www.82apps.com/DiscoDodgeball/",
+        "notes": "Store page: http://www.82apps.com/DiscoDodgeball/",
         "extras": false
     },
     {
