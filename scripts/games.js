@@ -9007,7 +9007,7 @@ var games = [
         "name": "Nihilumbra",
         "url": "nihilumbra/Nisdko29kdls",
         "price": "9.99",
-        "description": "Pre-order Nihilumbra, get it instantly when ready! For Windows, Mac and Linux and DRM-free. Desura key included. Steam key will be sent when it is available.",
+        "description": "Get Nihilumbra instantly! DRM-free for Windows, Mac and Linux.",
         "developer": "BeautiFun Games",
         "platform": {
             "android": false,
@@ -9028,6 +9028,58 @@ var games = [
             "developer": "http://www.beautifungames.com/"
         },
         "notes": "Store page: http://www.nihilumbra.com/",
+        "extras": false
+    },
+    {
+        "name": "Noir Syndrome",
+        "url": "noirsyndrome/nj23NJ2wv",
+        "price": "6.99",
+        "description": "Get Noir Syndrome instantly! Cross-platform and DRM-free.",
+        "developer": "Glass Knuckle Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/noir-syndrome",
+            "developer": "http://glassknuckle.com/"
+        },
+        "notes": "Mac and Linux versions require Java to run.\nStore page: http://glassknuckle.com/NoirSyndrome/",
+        "extras": false
+    },
+    {
+        "name": "Noir Syndrome + Soundtrack",
+        "url": "noirsyndrome_soundtrack/nj23NJ2wv",
+        "price": "9.99",
+        "description": "Get Noir Syndrome instantly! Cross-platform and DRM-free. Includes soundtrack!",
+        "developer": "Glass Knuckle Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/noir-syndrome",
+            "developer": "http://glassknuckle.com/"
+        },
+        "notes": "Mac and Linux versions require Java to run.\nStore page: http://glassknuckle.com/NoirSyndrome/",
         "extras": false
     },
     {
@@ -14113,6 +14165,32 @@ var games = [
         },
         "notes": "Store page: http://projecty2k.com/two-brothers-pre-order.html",
         "extras": true
+    },
+    {
+        "name": "UFHO2",
+        "url": "ufho2?preview=H8est5RwuSTa",
+        "price": "10.99",
+        "description": "Get UFHO2 instantly, cross-platform and DRM-free.",
+        "developer": "Tiny Colossus",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/ufho2",
+            "developer": "http://www.tinycolossus.com/"
+        },
+        "notes": "Store page: http://www.tinycolossus.com/ufho2/",
+        "extras": false
     },
     {
         "name": "Ultionus: A Tale of Petty Revenge",
