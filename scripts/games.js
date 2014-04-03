@@ -5462,6 +5462,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Galactic Princess",
+        "url": "galacticprincess/vbuhubtubuirNN332",
+        "price": "15",
+        "description": "Pre-order Galactic Princess now! Receive a DRM-free copy for Windows, Mac and Linux + a Steam key upon release!",
+        "developer": "Celcy",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://galactic-princess.com/"
+        },
+        "notes": "Store page: http://galactic-princess.com/#Shape3",
+        "extras": false
+    },
+    {
         "name": "Game Dev Tycoon",
         "url": "gamedevtycoon/Gamdkwo1",
         "price": "9.99",
