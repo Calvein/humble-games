@@ -6587,7 +6587,7 @@ var games = [
         "name": "Icebound",
         "url": "icebound/Isldkw10dk",
         "price": "14.99",
-        "description": "Pre-order Icebound now! When it's ready, get the game Cross-platform and DRM-free.",
+        "description": "Buy Icebound now! Download the game for PC, Mac and Linux.",
         "developer": "Fastermind Games",
         "platform": {
             "android": false,
