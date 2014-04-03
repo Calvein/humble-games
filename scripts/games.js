@@ -12694,6 +12694,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "SteamWorld Dig",
+        "url": "steamworlddig/BOUveorukvw",
+        "price": "9.99",
+        "description": "Download SteamWorld Dig now, cross-platform, DRM free, and redeemable on Steam!",
+        "developer": "Image & Form",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/12/05/wot-i-think-steamworld-dig-a-fistful-of-dirt/",
+            "steam": "http://store.steampowered.com/app/252410",
+            "developer": "http://imageform.se/"
+        },
+        "notes": "Store page: http://steamworldgames.com/dig/",
+        "extras": false
+    },
+    {
         "name": "Stonehearth",
         "url": "stonehearth?preview=bMe8PkEHJcM7",
         "price": "15",
