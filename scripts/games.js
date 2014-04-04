@@ -1004,6 +1004,32 @@ var games = [
         }
     },
     {
+        "name": "Bardbarian",
+        "url": "bardbarian/uoiwearuHRUE82",
+        "price": "6.99",
+        "description": "Get Bardbarian instantly! Available on Windows and Mac with Steam keys and DRM-free!",
+        "developer": "TreeFortress",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/269490/",
+            "developer": "http://treefortress.com/"
+        },
+        "notes": "Store page: http://treefortress.com/app/_bardbarian/",
+        "extras": false
+    },
+    {
         "name": "Bastion",
         "url": "bastion",
         "price": "14.99",
