@@ -11581,6 +11581,106 @@ var games = [
         }
     },
     {
+        "name": "Sentris",
+        "url": "sentris/sSkdw3",
+        "price": "20",
+        "description": "Pre-order Sentris now and when ready, get it in Windows, Mac, and Linux. DRM-free!",
+        "developer": "Timbre Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://timbreinteractive.com/"
+        },
+        "notes": "Store page: http://timbreinteractive.com/store",
+        "extras": false
+    },
+    {
+        "name": "Sentris Beta",
+        "url": "sentris_beta/sSkdw3",
+        "price": "30",
+        "description": "Pre-order Sentris now and when ready, get it in Windows, Mac, and Linux. DRM-free! + Access to Beta!",
+        "developer": "Timbre Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://timbreinteractive.com/"
+        },
+        "notes": "Store page: http://timbreinteractive.com/store",
+        "extras": false
+    },
+    {
+        "name": "Sentris Beta + Alpha",
+        "url": "sentris_betaalpha/sSkdw3",
+        "price": "40",
+        "description": "Pre-order Sentris now and when ready, get it in Windows, Mac, and Linux. DRM-free! + Access to Alpha + Beta!",
+        "developer": "Timbre Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://timbreinteractive.com/"
+        },
+        "notes": "Store page: http://timbreinteractive.com/store",
+        "extras": false
+    },
+    {
+        "name": "Sentris Beta + Alpha + Prototypes",
+        "url": "sentris_prototypes/sSkdw3",
+        "price": "50",
+        "description": "Pre-order Sentris now and when ready, get it in Windows, Mac, and Linux. DRM-free! + Access to Prototypes + Alpha + Beta!",
+        "developer": "Timbre Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://timbreinteractive.com/"
+        },
+        "notes": "Store page: http://timbreinteractive.com/store",
+        "extras": true
+    },
+    {
         "name": "Shadow Warrior",
         "url": "shadowwarrior",
         "price": "39.99",
