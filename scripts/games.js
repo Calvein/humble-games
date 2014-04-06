@@ -1109,11 +1109,11 @@ var games = [
     {
         "name": "Beat Hazard Ultra",
         "url": "beathazardultra",
-        "price": "10",
+        "price": "12.99",
         "description": "Purchase Beat Hazard Ultra for Windows and Mac and instantly get it DRM-free and on Steam.",
         "developer": "Cold Beam Games Ltd",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -3792,9 +3792,9 @@ var games = [
     },
     {
         "name": "Don't Starve",
-        "url": "dontstarve_standalone?preview=mtcdbvdg",
-        "price": "19.98",
-        "description": "Get Don't Starve Instantly! Free regular updates & new content. Play on Steam, Chrome & Stand-Alone! ($14.99) \n Get Don't Starve and Original Soundtrack Instantly! Free regular updates, bonus tracks, & new content. Play on Steam, Chrome & Stand-Alone! ($19.98)",
+        "url": "dontstarve_standalone/mtcdbvdg",
+        "price": "14.99",
+        "description": "-Get the original Don't Starve\n-Play on Steam and DRM free stand-alone!",
         "developer": "Klei Entertainment",
         "platform": {
             "android": false,
@@ -3814,21 +3814,21 @@ var games = [
             "steam": "http://store.steampowered.com/app/219740/",
             "developer": "http://kleientertainment.com/"
         },
-        "notes": "Store page: http://www.dontstarvegame.com/blog/landing/buynow.html",
+        "notes": "Multi-tier widget that also offers the game plus the Reign of Giants DLC, or the complete package: game+DLC+soundtrack.\nStore page: http://www.dontstarvegame.com/blog/landing/rog/complete/b/buy-ds-complete-b.html",
         "extras": false
     },
     {
         "name": "Don't Starve: Reign of Giants DLC",
         "url": "dontstarve_reignofthegiants/Dhdu7Ydhei5F",
         "price": "4.99",
-        "description": "- Expand the Don't Starve experience in the official DLC!\n- Get access to the Beta immediately!",
+        "description": "-Expand Don't Starve with Reign of Giants DLC\n-Steam and DRM free stand-alone at launch",
         "developer": "Klei Entertainment",
         "platform": {
             "android": false,
             "windows": true,
             "linux": true,
             "mac": true,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": true,
@@ -3839,7 +3839,7 @@ var games = [
         "URL": {
             "developer": "http://kleientertainment.com/"
         },
-        "notes": "Currently on sale at 20% off.\nStore page: http://forums.kleientertainment.com/topic/31824-dlc-beta-come-and-get-it/#entry420197",
+        "notes": "Multi-tier widget that also offers the game plus the DLC, or the complete package: game+DLC+soundtrack.\nStore page: http://www.dontstarvegame.com/blog/landing/rog/expansion/buy-rog.html",
         "extras": false
     },
     {
