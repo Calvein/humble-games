@@ -404,6 +404,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Adventurezator",
+        "url": "adventurezator/dksoHsowk23kat",
+        "price": "15",
+        "description": "Pre-order Adventurezator now and get the game cross-platform and DRM-free on release!",
+        "developer": "Pigasus Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://devblog.pigasusgames.com/"
+        },
+        "notes": "Store page: http://adventurezator.com/",
+        "extras": false
+    },
+    {
         "name": "Aeternum",
         "url": "aeternum/Ajdjwi12kdj",
         "price": "2.99",
