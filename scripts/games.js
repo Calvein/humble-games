@@ -4827,6 +4827,81 @@ var games = [
         "notes": "Alpha access. \n Store page: http://elliotquest.com/"
     },
     {
+        "name": "Emerald",
+        "url": "emerald/Ekdosk3",
+        "price": "8",
+        "description": "Preorder Emerald now. DRM-free. Release date is February 13th, 2014.",
+        "developer": "krangGAMES",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.kranggames.com/"
+        },
+        "notes": "The release date in the widget is wrong. According to the game's website, it will be released on Q2-Q3 2014.\nStore page: http://www.emeraldgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Emerald + Soundtrack",
+        "url": "emerald_soundtrack/Ekdosk3",
+        "price": "12",
+        "description": "Preorder Emerald and OST. DRM-free. Release date is February 13th, 2014.",
+        "developer": "krangGAMES",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.kranggames.com/"
+        },
+        "notes": "The release date in the widget is wrong. According to the game's website, it will be released on Q2-Q3 2014.\nStore page: http://www.emeraldgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Emerald + Extra Edition",
+        "url": "emerald_extra/Ekdosk3",
+        "price": "25",
+        "description": "Preorder Emerald, OST + Dev Diary, crew logs, status reports, encrypted secrets, and more. DRM-free. Release date is Feb 13th, 2014",
+        "developer": "krangGAMES",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.kranggames.com/"
+        },
+        "notes": "The release date in the widget is wrong. According to the game's website, it will be released on Q2-Q3 2014.\nStore page: http://www.emeraldgame.com/",
+        "extras": true
+    },
+    {
         "name": "Energy Hook Alpha",
         "url": "energyhook_alpha/Edu8Ywh6Tsf",
         "price": "35",
