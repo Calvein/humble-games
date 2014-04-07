@@ -6055,6 +6055,156 @@ var games = [
         "extras": false
     },
     {
+        "name": "Grapple Knight",
+        "url": "grappleknight/gDkoe3",
+        "price": "9.99",
+        "description": "Pre-order Grapple Knight now! When ready, it will be available DRM-free!",
+        "developer": "Red Knight Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://redknightgames.com"
+        },
+        "notes": "Store page: http://redknightgames.com/buy.html",
+        "extras": false
+    },
+    {
+        "name": "Grapple Knight - Bronze Retro Pack",
+        "url": "grappleknight_bronzeretro/gDkoe3",
+        "price": "14.99",
+        "description": "Pre-order Grapple Knight, available DRM-free! (when ready) + PDF Manual",
+        "developer": "Red Knight Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://redknightgames.com"
+        },
+        "notes": "Store page: http://redknightgames.com/buy.html",
+        "extras": true
+    },
+    {
+        "name": "Grapple Knight - Silver Art Edition",
+        "url": "grappleknight_silverart/gDkoe3",
+        "price": "19.99",
+        "description": "Pre-order Grapple Knight, available DRM-free! (when ready) + PDF Manual + PDF Artbook",
+        "developer": "Red Knight Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://redknightgames.com"
+        },
+        "notes": "Store page: http://redknightgames.com/buy.html",
+        "extras": true
+    },
+    {
+        "name": "Grapple Knight - Golden Musical Edition",
+        "url": "grappleknight_goldenmusical/gDkoe3",
+        "price": "24.99",
+        "description": "Pre-order Grapple Knight, available DRM-free! (when ready) + PDF Manual + PDF Artbook + Soundtrack",
+        "developer": "Red Knight Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://redknightgames.com"
+        },
+        "notes": "Store page: http://redknightgames.com/buy.html",
+        "extras": true
+    },
+    {
+        "name": "Grapple Knight - Emerald Beta Edition",
+        "url": "grappleknight_emeraldbeta/gDkoe3",
+        "price": "39.99",
+        "description": "Pre-order Grapple Knight, available DRM-free! (when ready) + PDF Manual + PDF Artbook + Soundtrack + Pixel Face + Beta & Forum Access",
+        "developer": "Red Knight Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://redknightgames.com"
+        },
+        "notes": "Store page: http://redknightgames.com/buy.html",
+        "extras": true
+    },
+    {
+        "name": "Grapple Knight - Diamond Epic Edition",
+        "url": "grappleknight_diamondepic/gDkoe3",
+        "price": "379.99",
+        "description": "Pre-order Grapple Knight, DRM-free! + PDF Manual, PDF Artbook, Soundtrack, Pixel Face, Beta & Forum Access, & NPC likeness in game!",
+        "developer": "Red Knight Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://redknightgames.com"
+        },
+        "notes": "Store page: http://redknightgames.com/buy.html",
+        "extras": true
+    },
+    {
         "name": "Gratuitous Space Battles",
         "url": "gratuitousspacebattles",
         "price": "14.95",
