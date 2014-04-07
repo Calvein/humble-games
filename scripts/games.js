@@ -2395,6 +2395,56 @@ var games = [
         }
     },
     {
+        "name": "Cosmochoria - Digital Game Pre-Order",
+        "url": "cosmochoria/dsrghafsdEU33",
+        "price": "12",
+        "description": "Support Cosmochoria by pre-ordering the game today! Receive a DRM-free copy upon game release! Available for Windows, Mac and Linux!",
+        "developer": "30/30",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://3030.ca/"
+        },
+        "notes": "Store page: http://www.cosmochoria.com/",
+        "extras": false
+    },
+    {
+        "name": "Cosmochoria + Soundtrack Pre-Order",
+        "url": "cosmochoria_soundtrack/jakhkhjlfad372G",
+        "price": "20",
+        "description": "Support Cosmochoria by pre-ordering the game + soundtrack today! Receive a DRM-free copy upon game release!",
+        "developer": "30/30",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://3030.ca/"
+        },
+        "notes": "Store page: http://www.cosmochoria.com/",
+        "extras": false
+    },
+    {
         "name": "CosmoKnots",
         "url": "gimbalcop/Gdkwodkkf3",
         "price": "5",
@@ -3970,6 +4020,81 @@ var games = [
         },
         "notes": "Currently on sale at 20% off, regular price is $15. \n Store page: http://celsiusgs.com/drifter/preorder.php",
         "extras": false
+    },
+    {
+        "name": "Duelyst - Guardian Tier",
+        "url": "duelyst_guardiantier/benoNKMvaenb",
+        "price": "20",
+        "description": "Pre-Order Duelyst now!",
+        "developer": "Counterplay Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://duelyst.tumblr.com/"
+        },
+        "notes": "The other widgets mention a Steam key, but not this one. \n Store page: http://duelyst.com/#pledge",
+        "extras": false
+    },
+    {
+        "name": "Duelyst - Digital Collector Tier",
+        "url": "duelyst_digitalcollectortier/benoNKMvaenb",
+        "price": "40",
+        "description": "Pre-Order Duelyst now! Receive Beta access, Soundtrack, Art Book, Steam key (when available) and more!",
+        "developer": "Counterplay Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://duelyst.tumblr.com/"
+        },
+        "notes": "Store page: http://duelyst.com/#pledge",
+        "extras": true
+    },
+    {
+        "name": "Duelyst - Secret Powers Tier",
+        "url": "duelyst_secretpowerstier/benoNKMvaenb",
+        "price": "70",
+        "description": "Pre-Order Duelyst now! Receive Beta access, Soundtrack, Art Book, Steam key (when available) exclusive spells and more!",
+        "developer": "Counterplay Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://duelyst.tumblr.com/"
+        },
+        "notes": "Store page: http://duelyst.com/#pledge",
+        "extras": true
     },
     {
         "name": "Dungeon Dashers: Standard Edition",
