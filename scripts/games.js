@@ -4047,6 +4047,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Dropsy",
+        "url": "dropsy/Dkwoektl5",
+        "price": "9.99",
+        "description": "Pre-order Dropsy and receive the game cross-platform, DRM-free and Steam key once available.",
+        "developer": "Tendershoot",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://jaytholen.net/index.html"
+        },
+        "notes": "Store page: http://dropsytheclown.com/",
+        "extras": false
+    },
+    {
+        "name": "Dropsy - Deluxe Edition",
+        "url": "dropsy_deluxe/Dkwoektl5",
+        "price": "24.99",
+        "description": "Pre-order the game, Original Soundtrack by Chris Schlarb, Beta Access, and a special Book of Secrets!",
+        "developer": "Tendershoot",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://jaytholen.net/index.html"
+        },
+        "notes": "Store page: http://dropsytheclown.com/",
+        "extras": true
+    },
+    {
         "name": "Duelyst - Guardian Tier",
         "url": "duelyst_guardiantier/benoNKMvaenb",
         "price": "20",
@@ -5299,6 +5349,31 @@ var games = [
             "developer": "http://tequibo.com/"
         },
         "notes": "Currently on sale at 40% off, regular price is $9.99. \n Store page: http://fancyskulls.com/ \n Steam key available if/when the game gets Greenlit",
+        "extras": false
+    },
+    {
+        "name": "Ferdy The Cat",
+        "url": "ferdythecat/jbnvmcriuhtFGH30",
+        "price": "5.99",
+        "description": "Get Ferdy The Cat instantly! Cross-platform and DRM-free!",
+        "developer": "nikkki.net",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nikkki.net/"
+        },
+        "notes": "Store page: http://ferdythecat.com/",
         "extras": false
     },
     {
@@ -13615,6 +13690,34 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Syder Arcade",
+        "url": "syderarcade/Sdu8Fs5TFgh",
+        "price": "11.99",
+        "description": "Get Syder Arcade instantly! Cross-platform and DRM-free.",
+        "developer": "Studio Evil S.r.l.",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://truepcgaming.com/2014/02/21/syder-arcade-review/",
+            "steam": "http://store.steampowered.com/app/252310/",
+            "desura": "http://www.desura.com/games/syder-arcade",
+            "developer": "http://www.studioevil.com/"
+        },
+        "notes": "Store page: http://www.syderarcade.com/buy-syder-arcade/",
+        "extras": false
     },
     {
         "name": "Talisman Prologue: Standard Edition",
