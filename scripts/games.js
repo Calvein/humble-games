@@ -11066,7 +11066,7 @@ var games = [
         "name": "Real World Racing",
         "url": "realworldracing/Rdh7Yshf4Rsd",
         "price": "14.99",
-        "description": "Get Real World Racing now! ",
+        "description": "Get Real World Racing now!",
         "developer": "Playstos Entertainment",
         "platform": {
             "android": false,
@@ -11107,6 +11107,32 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Rehearsals and Returns",
+        "url": "rehearsalsandreturns/HGHFGFH87HGH98",
+        "price": "4",
+        "description": "Rehearsals and Returns is a videogame about conversations that will never take place.",
+        "developer": "Peter Brinson",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/rehearsals-and-returns",
+            "developer": "http://peterbrinson.com/"
+        },
+        "notes": "Store page: http://rehearsalsandreturns.peterbrinson.com/",
+        "extras": false
     },
     {
         "name": "Retro City Rampage (steam)",
