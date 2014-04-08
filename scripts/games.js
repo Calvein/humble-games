@@ -14033,7 +14033,7 @@ var games = [
         "developer": "Wadjet Eye Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": false,
             "audio": false
