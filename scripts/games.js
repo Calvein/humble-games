@@ -8708,7 +8708,7 @@ var games = [
     {
         "name": "Micron",
         "url": "micron/Hekwodk2l",
-        "price": "3",
+        "price": "0.99",
         "description": "Get Micron instantly! Cross-platform and DRM-free.",
         "developer": "Apparition Games",
         "platform": {
@@ -9100,6 +9100,7 @@ var games = [
         "URL": {
             "developer": "http://subalterngames.com/"
         },
+        "notes": "The widget also includes a $30 tier for a 4-pack",
         "extras": false
     },
     {
