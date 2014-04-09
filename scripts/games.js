@@ -13765,7 +13765,7 @@ var games = [
         "name": "Teslagrad",
         "url": "teslagrad/Tdkwo9302",
         "price": "9.99",
-        "description": "Get Teslagrad instantly! Cross-platform and DRM-free. ",
+        "description": "Get Teslagrad instantly! Cross-platform and DRM-free.",
         "developer": "Rain Games",
         "platform": {
             "android": false,
@@ -13786,6 +13786,32 @@ var games = [
             "developer": "http://rain-games.com/"
         },
         "notes": "Store page: http://teslagrad.com/#shop",
+        "extras": false
+    },
+    {
+        "name": "Tetrapulse",
+        "url": "tetrapulse/Tkdlsi1l2klsk",
+        "price": "10",
+        "description": "Pre-order Tetrapulse for PC, Mac, and Linux! Reserve your DRM-free copy of the game now!",
+        "developer": "The Amiable Company",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/250440/",
+            "developer": "http://theamiable.com/"
+        },
+        "notes": "In spite of the game being slated for release on Steam, there's no mention of a Steam key either in the widget nor in the game's website.\nStore page: http://tetrapulse.com/#humbleWidget",
         "extras": false
     },
     {
