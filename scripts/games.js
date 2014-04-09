@@ -825,6 +825,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Arcadecraft",
+        "url": "arcadecraft/Arkdowkd1",
+        "price": "14.99",
+        "description": "Get the Arcadecraft Beta now!",
+        "developer": "Firebase Industries",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://firebase.ca/"
+        },
+        "notes": "Store page: http://firebase.ca/arcadecraft/",
+        "extras": false
+    },
+    {
         "name": "Assault Android Cactus",
         "url": "assaultandroidcactus/Adu7Tsg4Rfs",
         "price": "15",
@@ -5535,6 +5560,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "FRACT OSC",
+        "url": "fractosc/Xlkdwo4",
+        "price": "14.99",
+        "description": "Pre-order FRACT OSC, a musical exploration game for Windows & Mac.",
+        "developer": "Phosfiend Systems",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/243220",
+            "developer": "http://fractgame.com/"
+        },
+        "notes": "No mention in the widget whatsoever about the distribution method. Supposed it's a DRM-free download and a Steam key just like in the Humble Store.\nStore page: http://fractgame.com/buy",
+        "extras": false
+    },
+    {
         "name": "Frogatto",
         "url": "frogatto?preview=thsueWluErTM",
         "price": "9.99",
@@ -5892,6 +5943,34 @@ var games = [
             "developer": "http://luckyframe.co.uk/"
         },
         "notes": "Store page: http://www.luckyframe.co.uk/gentlemen/#buy",
+        "extras": false
+    },
+    {
+        "name": "GIGANTIC ARMY",
+        "url": "giganticarmy/Adkwodk2",
+        "price": "5.99",
+        "description": "Get GIGANTIC ARMY instantly! Cross-platform and DRM-free. Includes a Steam key!",
+        "developer": "ASTRO PORT",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-gigantic-army-270222.phtml",
+            "steam": "http://store.steampowered.com/app/278930/",
+            "desura": "http://www.desura.com/games/gigantic-army",
+            "developer": "http://nyu-media.com/category/astro-port/"
+        },
+        "notes": "Store page: http://giganticarmy.com/humble.html",
         "extras": false
     },
     {
@@ -10622,6 +10701,33 @@ var games = [
             "developer": "http://double11.co.uk/"
         },
         "notes": "PixelJunk Eden not available on Linux. \n Store page: http://double11.co.uk/paypal-promo/",
+        "extras": false
+    },
+    {
+        "name": "PixelJunk Eden",
+        "url": "pixeljunkeden/BIZUvv34",
+        "price": "9.99",
+        "description": "Get PixelJunk Eden instantly for your PC!",
+        "developer": "Double Eleven",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2012/02/20/wot-i-think-pixeljunk-eden/",
+            "steam": "http://store.steampowered.com/app/105800/",
+            "developer": "http://double11.co.uk/"
+        },
+        "notes": "Store page: http://double11.co.uk/game/pixeljunk-eden/#buyNow",
         "extras": false
     },
     {
