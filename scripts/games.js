@@ -6566,6 +6566,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Groundskeeper 2",
+        "url": "groundskeeper2/pmjkpjmpEIue399",
+        "price": "5",
+        "description": "Get Groundskeeper 2 instantly! Cross-platform and DRM-free! Requires Java to run and play!",
+        "developer": "Orangepixel",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://orangepixel.net/"
+        },
+        "notes": "Store page: http://www.groundskeepergame.com/groundskeeper2/buy/",
+        "extras": false
+    },
+    {
         "name": "Guacamelee! Gold Edition",
         "url": "guacamelee_goldedition?preview=Gshd6Dsjw8Y",
         "price": "14.99",
