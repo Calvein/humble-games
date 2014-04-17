@@ -744,6 +744,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Another Star",
+        "url": "anotherstar/jsadfnjnsdfHJ24",
+        "price": "10",
+        "description": "Buy Another Star now and get it DRM-free instantly!",
+        "developer": "Vision Riders",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "desura": "http://www.desura.com/games/another-star",
+                "developer": "http://www.visionriders.com/"
+        },
+        "notes": "Store page: http://visionriders.com/anotherstar/buy.html",
+        "extras": false
+    },
+    {
         "name": "Apotheon",
         "url": "apotheon?preview=JUEwMIoTCgFx",
         "price": "9.99",
@@ -2969,6 +2995,31 @@ var games = [
         },
         "notes": "Store page: http://darkestdungeon.com/buy/",
         "extras": true
+    },
+    {
+        "name": "David.",
+        "url": "david/oiuweroieYT34",
+        "price": "1",
+        "description": "David.\nis a game. A game about physics and enemies. A game about struggles and life. A game about David.",
+        "developer": "Fermenter",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.fermentergames.com/"
+        },
+        "notes": "Store page: http://www.fermentergames.com/store/david-is-a-game",
+        "extras": false
     },
     {
         "name": "Dawn of the Plow",
@@ -11670,6 +11721,81 @@ var games = [
         },
         "notes": "Store page: http://tchow.com/games/rktcr/",
         "extras": false
+    },
+    {
+        "name": "Road Redemption (Pre-Order)",
+        "url": "roadredemption/vrin923NKC",
+        "price": "18",
+        "description": "Preorder the full version of Road Redemption! Cross-platform and DRM-free.",
+        "developer": "DarkSeas Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.darkseasinteractive.com/"
+        },
+        "notes": "Store page: http://www.roadredemption.com/#!preorder-checkout/cepp",
+        "extras": false
+    },
+    {
+        "name": "Road Redemption (Alpha Access)",
+        "url": "roadredemption_alpha/NJf43kv",
+        "price": "40",
+        "description": "Get the Road Redemption Alpha instantly! This also includes access to all future versions as well as other digital rewards. DRM-free.",
+        "developer": "DarkSeas Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.darkseasinteractive.com/"
+        },
+        "notes": "Store page: http://www.roadredemption.com/#!preorder-checkout/cepp",
+        "extras": true
+    },
+    {
+        "name": "Road Redemption Special Edition",
+        "url": "roadredemption_specialedition/Jcwjl23",
+        "price": "70",
+        "description": "Get the Road Redemption Alpha instantly! This also includes access to all future versions as well as other digital rewards. DRM-free.",
+        "developer": "DarkSeas Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.darkseasinteractive.com/"
+        },
+        "notes": "Store page: http://www.roadredemption.com/#!preorder-checkout/cepp",
+        "extras": true
     },
     {
         "name": "Roaming Fortress",
