@@ -8376,7 +8376,7 @@ var games = [
         "name": "Life Goes On",
         "url": "lifegoeson/Ldh8Ydge5Fh",
         "price": "12.99",
-        "description": "Pre-order Life Goes On now, for 25% off! Cross-platform, DRM-free, and a free Steam key.",
+        "description": "Get Life Goes On now, for 25% off! Cross-platform, DRM-free, and a with free Steam key.",
         "developer": "Infinite Monkeys Entertainment",
         "platform": {
             "android": false,
@@ -8395,7 +8395,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/250050/",
             "developer": "http://www.lifegoesongame.com/",
         },
-        "notes": "Store page: http://www.lifegoesongame.com/#HTMLBlock395",
+        "notes": "Store page: http://www.lifegoesongame.com/#HTMLBlock431",
         "extras": false
     },
     {
