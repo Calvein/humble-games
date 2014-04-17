@@ -11196,6 +11196,34 @@ var games = [
         }
     },
     {
+        "name": "Q.U.B.E.",
+        "url": "qube/Sj92hsDhg4",
+        "price": "9.99",
+        "description": "Purchase Q.U.B.E. for Windows and instantly get it DRM-free and on Steam.",
+        "developer": "Toxic Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/qube-review/1900-6348007/",
+            "desura": "http://www.desura.com/games/qube",
+            "steam": "http://store.steampowered.com/app/203730/",
+            "developer": "http://toxicgames.co.uk/"
+        },
+        "notes": "Store page: http://qube-game.com/buy-now/",
+        "extras": false
+    },
+    {
         "name": "Quest For Infamy",
         "url": "questforinfamy_preorder/Qdh4Gsue8dj",
         "price": "15",
@@ -12170,6 +12198,331 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Secrets of Grindea [Early Access]",
+        "url": "secretsofgrindea_tier1/vrk2DVR",
+        "price": "15",
+        "description": "Get instant access to the beta (Steam and DRM-free) and of course the finished product when it's done!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/slime-tier",
+        "extras": false
+    },
+    {
+        "name": "Giga Slime Tier",
+        "url": "secretsofgrindea_tier4/XNOUevfe416",
+        "price": "45",
+        "description": "Four copies of Steam beta keys, DRM-free download and the full game when it's released!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/gigaslime-tier",
+        "extras": false
+    },
+    {
+        "name": "Rabby Tier",
+        "url": "secretsofgrindea_tier2/ve23NOU",
+        "price": "20",
+        "description": "Instant access to the beta (Steam and DRM-free), the finished product when it's done and an exclusive pre-order hat!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/rabby-tier",
+        "extras": true
+    },
+    {
+        "name": "Giant Rabby Tier",
+        "url": "secretsofgrindea_tier2b/ve23NOU",
+        "price": "60",
+        "description": "Four copies of Steam beta keys, DRM-free download and the full game when it's released! But most importantly... four hats!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/gigarabby-tier",
+        "extras": true
+    },
+    {
+        "name": "Jumpkin Tier",
+        "url": "secretsofgrindea_tier3/453NJVce",
+        "price": "30",
+        "description": "Instant access to the beta (Steam and DRM-free), the finished product when it's done, an exclusive pre-order hat and the soundtrack!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/jumpkin-tier",
+        "extras": true
+    },
+    {
+        "name": "Snowbacca Tier",
+        "url": "secretsofgrindea_tier5/nBRT593nj",
+        "price": "50",
+        "description": "Beta access (Steam+DRM-free), finished game, soundtrack, exclusive early access hat, PDF producton booklet and mention in credits!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/snowbacca-tier",
+        "extras": true
+    },
+    {
+        "name": "Bottomless Bag Tier",
+        "url": "secretsofgrindea_tier6/vei530NJcw",
+        "price": "100",
+        "description": "Everything in the Snowbacca Tier, plus you get to design a piece of equipment (not visible on the character sprite)!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/bag-tier",
+        "extras": true
+    },
+    {
+        "name": "Carpenter Tier",
+        "url": "secretsofgrindea_tier7/bnrtu418B",
+        "price": "200",
+        "description": "Everything in the Snowbacca Tier, plus you get to design a piece of furniture players can put in their homes!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/carpenter-tier",
+        "extras": true
+    },
+    {
+        "name": "Fabulous Hatter Tier",
+        "url": "secretsofgrindea_tier8/BXYU351vnjer",
+        "price": "300",
+        "description": "Everything in the Snowbacca Tier, plus you get to design a hat or facegear that you and other people can wear!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/hatter-tier",
+        "extras": true
+    },
+    {
+        "name": "Master Sculpter (sic) Tier",
+        "url": "secretsofgrindea_tier9/356Nmo63",
+        "price": "500",
+        "description": "Everything in the Snowbacca Tier, plus you get a statue designed in your likeness (or someone else's likeness)!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/sculptor-tier",
+        "extras": true
+    },
+    {
+        "name": "Legendary Blacksmith Tier",
+        "url": "secretsofgrindea_tier10/g54nbrU",
+        "price": "750",
+        "description": "Everything in the Snowbacca Tier, plus you get to design a weapon that can be used by you and other players in the game!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/blacksmith-tier",
+        "extras": true
+    },
+    {
+        "name": "Collector Tier",
+        "url": "secretsofgrindea_tier11/viu34eVNI",
+        "price": "1000",
+        "description": "Everything in the Snowbacca Tier, plus you get to become an NPC found in the game!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/collector-tier",
+        "extras": true
+    },
+    {
+        "name": "Master Collector Tier",
+        "url": "secretsofgrindea_tier12/vnu23MIO",
+        "price": "2000",
+        "description": "Everything in the Snowbacca Tier, plus you get to become an NPC found in the game, with your own questline!",
+        "developer": "Pixel Ferrets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.secretsofgrindea.com/"
+        },
+        "notes": "Store page: http://www.secretsofgrindea.com/index.php/pre-order/mastercollector-tier",
+        "extras": true
     },
     {
         "name": "Secrets of Rætikon",
