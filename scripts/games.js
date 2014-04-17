@@ -7332,6 +7332,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Influent",
+        "url": "influent/wrbi43ceVBE",
+        "price": "9.99",
+        "description": "Get Influent + one language of your choice instantly! Cross-platform and DRM-free.",
+        "developer": "Robert Howland",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gameskinny.com/cv8lb/influent-a-fun-supplement-to-language-learning",
+            "steam": "http://store.steampowered.com/app/274980/",
+            "developer": "http://robatato.tumblr.com/"
+        },
+        "notes": "Store page: http://playinfluent.com/download/",
+        "extras": false
+    },
+    {
         "name": "InFlux",
         "url": "influx/Ish6Dgsr5Dts",
         "price": "9.99",
