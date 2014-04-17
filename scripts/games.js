@@ -2672,32 +2672,6 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/creatures-village/"
     },
     {
-        "name": "Crypt of the NecroDancer",
-        "url": "cryptofthenecrodancer?preview=Cry7Pge6Tdf",
-        "price": "22.49",
-        "description": "Pre-order Crypt of the NecroDancer, 10% off! Cross-platform and DRM-free, Steam keys + the soundtrack! ($22.49) \n Pre-order Crypt of the NecroDancer, 10% off! Cross-platform and DRM-free + Steam key. ($13.49)",
-        "developer": "Brace Yourself Games",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "review": "http://www.destructoid.com/crypt-of-the-necrodancer-is-a-roguelike-rhythm-mash-up-254636.phtml",
-            "developer": "http://braceyourselfgames.com/"
-        },
-        "notes": "Not released yet, This is a preorder.",
-        "extras": false
-    },
-    {
         "name": "Cryptic Sea EP",
         "url": "crypticseaep/Cry0Pe8Usgh",
         "price": "3",
