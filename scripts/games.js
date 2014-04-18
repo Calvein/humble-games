@@ -1852,6 +1852,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Children of Liberty",
+        "url": "childrenofliberty/adrweuoiweroiuRR33",
+        "price": "9.99",
+        "description": "The Regulars are marching! Get access to the Children of Liberty builds as the game is being developed!",
+        "developer": "Lantana Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": true,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/children-of-liberty",
+            "steam": "http://store.steampowered.com/app/264440/",
+            "developer": "http://www.lantanagames.com/"
+        },
+        "notes": "Activating the Desura or Steam key gives access to alpha, beta, and release versions of the game, as well as any future DLC.\nStore page: http://www.lantanagames.com/childrenofliberty/#carousel",
+        "extras": true
+    },
+    {
 	"name": "Chivalry: Deadliest Warrior",
 	"url": "chivalrymedievalwarfare_tiered/Chdi8Fst4Rsg",
 	"price": "29.99",
