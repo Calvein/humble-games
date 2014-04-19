@@ -5666,7 +5666,7 @@ var games = [
         "name": "FTL: Faster Than Light",
         "url": "ftlfasterthanlight",
         "price": "9.99",
-        "description": "Download FTL: Faster Than Light now, cross-platform, DRM free, and redeemable on Steam!",
+        "description": "Download FTL: Faster Than Light now, cross-platform, DRM free, and redeemable on Steam! Includes FTL: Advanced Edition.",
         "developer": "Subset Games",
         "platform": {
             "android": false,
@@ -5686,7 +5686,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/212680",
             "developer": "http://www.ftlgame.com/"
         },
-        "extras": false
+        "extras": true
     },
     {
         "name": "Full Bore",
