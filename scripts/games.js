@@ -1628,6 +1628,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "CAPSULE",
+        "url": "capsule/DhjU7gdf4Ec",
+        "price": "8",
+        "description": "Get CAPSULE instantly! Cross-platform and DRM-free.",
+        "developer": "Finji",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://www.finjigames.com/"
+        },
+        "notes": "Store page: http://milsci.info/",
+        "extras": false
+    },
+    {
         "name": "Card City Nights",
         "url": "cardcitynights/asdjwOS3",
         "price": "3.99",
@@ -8944,6 +8969,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Melody's Escape",
+        "url": "melodysescape/nj923nPev",
+        "price": "9.99",
+        "description": "Run, jump and slide to the rhythm of your own music library! [Steam Early Access]",
+        "developer": "Icetesy SPRL",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/270210/",
+            "developer": "http://www.melodysescape.com/contact.php"
+        },
+        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.melodysescape.com/buy.php",
+        "extras": false
+    },
+    {
         "name": "Mercenary Kings",
         "url": "mercenarykings?preview=sJs83hwnslzh",
         "price": "15",
@@ -14621,6 +14672,33 @@ var games = [
             "drm-free": true
         },
         "notes": "Game website: http://skygoblin.com/the-journey-down/ although there's no link to the Humble Store widget there"
+    },
+    {
+        "name": "The Last Federation",
+        "url": "thelastfederation/ercgihmegYEgen492",
+        "price": "19.99",
+        "description": "Grand strategy with turn-based tactical combat, set in a deep simulation of an entire solar system and its billions of inhabitants!",
+        "developer": "Arcen Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.strategyinformer.com/pc/lastfederation/2325/review.html",
+            "steam": "http://store.steampowered.com/app/273070/",
+            "developer": "http://www.arcengames.com/"
+        },
+        "notes": "Store page: http://www.arcengames.com/w/index.php/arcen-store",
+        "extras": false
     },
     {
         "name": "The Maker's Eden",
