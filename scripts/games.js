@@ -4356,31 +4356,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Dungeon of Elements",
-        "url": "dungeonofelements/Dhdu5Teg9Gdye",
-        "price": "9.99",
-        "description": "Dungeon of Elements is an RPG dungeon crawler with combat inspired by Dr. Mario and Tetris.",
-        "developer": "Frogdice",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://frogdice.com/"
-        },
-        "notes": "Currently on sale at 50% off, regular price is $19.99. \n Store page: http://frogdice.com/dungeon-of-elements/buy/",
-        "extras": false
-    },
-    {
         "name": "Dungeon Hearts",
         "url": "dungeonhearts?preview=fvTuzN4QPa1l",
         "price": "2.99",
@@ -4405,6 +4380,31 @@ var games = [
             "desura": "http://www.desura.com/games/Dungeon-hearts",
             "developer": "http://cube-roots.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Dungeon of Elements",
+        "url": "dungeonofelements/Dhdu5Teg9Gdye",
+        "price": "9.99",
+        "description": "Dungeon of Elements is an RPG dungeon crawler with combat inspired by Dr. Mario and Tetris.",
+        "developer": "Frogdice",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://frogdice.com/"
+        },
+        "notes": "Currently on sale at 50% off, regular price is $19.99. \n Store page: http://frogdice.com/dungeon-of-elements/buy/",
         "extras": false
     },
     {
@@ -5479,7 +5479,7 @@ var games = [
         "extras": false
     },
     {
-        "name": "Fez",
+        "name": "FEZ",
         "url": "fez",
         "price": "9.99",
         "description": "Get FEZ cross-platform and DRM-free! Also get a Steam key.",
@@ -9871,9 +9871,9 @@ var games = [
         "developer": "Vlambeer",
         "platform": {
                 "android": false,
-                "linux": false,
+                "linux": true,
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "audio": false
         },
         "drm": {
@@ -9886,6 +9886,7 @@ var games = [
                 "steam": "http://store.steampowered.com/app/242680/",
                 "developer": "http://www.vlambeer.com/"
         },
+        "notes": "Store page: http://nuclearthrone.com/humble.html",
         "extras": false
     },
     {
@@ -10368,9 +10369,9 @@ var games = [
         "developer": "Minority Media",
         "platform": {
             "android": false,
-            "linux": true,
+            "linux": false,
             "windows": true,
-            "mac": true,
+            "mac": false,
             "audio": true
         },
         "drm": {
@@ -10385,7 +10386,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/227080",
             "developer": "http://www.weareminority.com/"
         },
-        "notes": "The widget doesn't mention DRM-free availability but it's very likely since the game was featured in a Humble Indie Bundle. \n Store page: http://www.weareminority.com/papo-yo/",
+        "notes": "Store page: http://www.weareminority.com/papo-yo/",
         "extras": false
     },
     {
