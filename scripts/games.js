@@ -4909,7 +4909,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": true
         },
@@ -4917,13 +4917,14 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://criticalindiegamer.com/2013/06/element4l-review-pc/",
             "steam": "http://store.steampowered.com/app/235820",
             "developer": "http://www.i-illusions.com"
         },
+        "notes": "Linux version only available in beta form, DRM-free and without online play at the moment.\nStore page: http://i-illusions.com/element4l/#buy",
         "extras": false
     },
     {
