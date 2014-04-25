@@ -1340,6 +1340,32 @@ var games = [
         }
     },
     {
+        "name": "Black Ice",
+        "url": "blackice/bsadbuiaBB21",
+        "price": "5",
+        "description": "Get Black Ice instantly! Cross-platform and DRM-free!",
+        "developer": "Garrett Cooper",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/black-ice",
+            "developer": "http://superdupergc.com/"
+        },
+        "notes": "Store page: http://superdupergc.com/?page_id=396#post-396",
+        "extras": false
+    },
+    {
         "name": "Blade Symphony (Early Access Game)",
         "url": "bladesymphony",
         "price": "15",
@@ -7385,6 +7411,32 @@ var games = [
             "developer": "http://www.mergegames.com/"
         },
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/imperial-glory/"
+    },
+    {
+        "name": "In Vivo",
+        "url": "invivo/uirtuiyrtyuYR48",
+        "price": "5.99",
+        "description": "Get In Vivo instantly! Cross-platform and DRM-free!",
+        "developer": "Electric Horse Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/in-vivo",
+            "developer": "http://electrichorsesoftware.com/"
+        },
+        "notes": "Store page: http://electrichorsesoftware.com/in-vivo/#post-368",
+        "extras": false
     },
     {
         "name": "Incredipede",
