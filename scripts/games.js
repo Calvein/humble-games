@@ -9516,6 +9516,34 @@ var games = [
         "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
+    "name": "Mr. Bree+",
+    "url": "mrbree/Mdkwo1k2",
+    "price": "9.99",
+    "description": "Purchase Mr. Bree+ and also get the Original Soundtrack! Cross-platform and DRM-free.",
+    "developer": "TawStudio Entertainment",
+    "platform": {
+        "android": false,
+        "linux": false,
+        "windows": true,
+        "mac": true,
+        "audio": true
+    },
+    "drm": {
+        "steam": false,
+        "desura": false,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "http://enemyslime.com/2013/12/review-mr-bree/",
+        "desura": "http://www.desura.com/games/mrbree",
+        "steam": "http://store.steampowered.com/app/264220/",
+        "developer": "http://tawstudio.com/"
+        },
+        "notes": "Store page: http://www.mr-bree.com/#humbleOrder",
+        "extras": false
+    },
+    {
     "name": "Multilytheus",
     "url": "multilytheus/lskdjO12909dkf",
     "price": "4.99",
@@ -11506,6 +11534,33 @@ var games = [
             "developer": "http://toxicgames.co.uk/"
         },
         "notes": "Store page: http://qube-game.com/buy-now/",
+        "extras": false
+    },
+    {
+        "name": "QbQbQb",
+        "url": "qbqbqb/Phg8Jwr5Vuha",
+        "price": "3.99",
+        "description": "Buy the game via this widget and have it easily accessible via Humble Bundle platform!",
+        "developer": "Rezoner",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://theindiemine.com/qbqbqb-review/",
+            "desura": "http://www.desura.com/games/qbqbqb",
+            "developer": "http://rezoner.net/"
+        },
+        "notes": "Store page: http://qbqbqb.rezoner.net/",
         "extras": false
     },
     {
