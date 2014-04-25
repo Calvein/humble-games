@@ -47,6 +47,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "1849",
+        "url": "1849/bvncmbdfjhgURYT47",
+        "price": "9.99",
+        "description": "Pre-Order 1849 now! Available for Windows and Mac DRM-free!",
+        "developer": "SomaSim",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.somasim.com/"
+        },
+        "notes": "Pre-order only, without access to beta builds.\nStore page: http://www.somasim.com/1849/buy.html",
+        "extras": false
+    },
+    {
         "name": "6180 the moon",
         "url": "6180themoon?preview=iaopvase",
         "price": "3.99",
@@ -8527,6 +8552,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Let There Be Light",
+        "url": "lettherebelife/BCeiruwveino",
+        "price": "7.99",
+        "description": "Let There Be Life is a relaxing puzzle-like game allowing you to create magical trees, protect flowers, and interact with playful wildlife.",
+        "developer": "Backward pieS",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.indiegamemag.com/let-there-be-life-review-relaxation-and-creativity-hand-in-hand/",
+            "desura": "http://www.desura.com/games/let-there-be-life",
+            "developer": "http://www.backwardpies.com/",
+        },
+        "notes": "Steam key if/when Greenlit.\nMac and Android versions coming soon.\nStore page: http://www.backwardpies.com/?page_id=388#post-388",
+        "extras": false
+    },
+    {
         "name": "Life Goes On",
         "url": "lifegoeson/Ldh8Ydge5Fh",
         "price": "12.99",
@@ -15867,6 +15919,33 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Unhack",
+        "url": "unhack/viortuNOXonve",
+        "price": "5",
+        "description": "The full version of Unhack is $5. Any additional funding to support my endeavors would also be highly appreciated. Thank you!",
+        "developer": "Marcus Lam",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.capsulecomputers.com.au/2014/02/unhack-review/",
+            "desura": "http://www.desura.com/games/unhack",
+            "developer": "http://invertmouse.com/"
+        },
+        "notes": "Store page: http://unhack.invertmouse.com/#play.html",
+        "extras": false
     },
     {
         "name": "Unrest",
