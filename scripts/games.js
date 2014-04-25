@@ -12327,6 +12327,32 @@ var games = [
         }
     },
     {
+        "name": "Samphi",
+        "url": "samphi/Skdow43",
+        "price": "6.99",
+        "description": "Samphi is a story driven RPG set in a randomly generated, destructible sandbox universe.",
+        "developer": "Greeny Games Studio",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/samphi",
+            "developer": "http://www.greenygames.com/"
+        },
+        "notes": "Store page: http://www.samphi-game.co.uk/#section4",
+        "extras": false
+    },
+    {
         "name": "Samurai Gunn",
         "url": "samuraigunn/Sfdhe7GSte6G",
         "price": "14.99",
@@ -14393,6 +14419,33 @@ var games = [
             "drm-free": true
         },
         "notes": "Alpha access also available for $30. \n Store page at http://stonehearth.net/store/"
+    },
+    {
+        "name": "Stonerid",
+        "url": "stonerid/Sdkwo3",
+        "price": "4.99",
+        "description": "Get Stonerid for Windows instantly! It's DRM-free.",
+        "developer": "Enitvare",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://leviathyn.com/pc/2014/01/26/stonerid-review-trial-error-two-dimensions/",
+            "desura": "http://www.desura.com/games/stonerid",
+            "developer": "http://enitvare.com/"
+        },
+        "notes": "Store page: http://stonerid.com/",
+        "extras": false
     },
     {
         "name": "Stranded",
