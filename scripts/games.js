@@ -1832,6 +1832,30 @@ var games = [
         }
     },
     {
+        "name": "CastleAbra",
+        "url": "castleabra/vbeiuebVNOIDvr",
+        "price": "6.99",
+        "description": "Get CastleAbra instantly! DRM free for Windows.",
+        "developer": "CastleAbra Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://castleabra.com/CastleAbra.aspx"
+        },
+        "extras": false
+    },
+    {
         "name": "Chasm - Bronze",
         "url": "chasm_bronze?preview=wyr5mV9sPvVd",
         "price": "15",
@@ -7145,6 +7169,32 @@ var games = [
             "gog": "http://www.gog.com/gamecard/humans_must_answer",
             "developer": "http://sumomgames.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Hyper Gauntlet",
+        "url": "hypergauntlet_legacyofnozzlethrusteriii/BNOcnoeruwvnoi",
+        "price": "5",
+        "description": "Get Hyper Gauntlet: Legacy of Nozzlethruster III instantly! Cross-platform and DRM-free.",
+        "developer": "Udell Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.manapool.co.uk/review/hyper-gauntlet-legacy-of-nozzlethruster-iii-review/",
+            "developer": "http://www.udellgames.com/"
+        },
+        "notes": "Store page: http://www.udellgames.com/games/hypergauntlet/#post-390",
         "extras": false
     },
     {
