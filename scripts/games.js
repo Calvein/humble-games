@@ -4249,6 +4249,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Drive to Hell",
+        "url": "drivetohell/SDlkwjo4",
+        "price": "7.99",
+        "description": "Get Drive to Hell instantly! Cross-platform and DRM-free!",
+        "developer": "Ghost Crab Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://mashthosebuttons.com/review/mastery-is-earned-not-given-drive-to-hell-review/",
+            "desura": "http://www.desura.com/games/drive-to-hell",
+            "developer": "http://ghostcrabgames.com/"
+        },
+        "notes": "Android version to be announced.\nStore page: http://drivetohell.com/#summary",
+        "extras": false
+    },
+    {
         "name": "Dropsy",
         "url": "dropsy/Dkwoektl5",
         "price": "9.99",
@@ -16464,6 +16491,33 @@ var games = [
         },
         "notes": "The Special Edition includes a soundtrack and an art book. \n Store page: http://nightlightinteractive.com/product/whispering-willows-se/",
         "extras": true
+    },
+    {
+        "name": "Whitewash",
+        "url": "whitewash/Wkdo34",
+        "price": "5",
+        "description": "Purchase Whitewash, the 3rd-Person Indie Puzzle game, cross-platform and DRM-Free! (Mac and Linux coming soon)",
+        "developer": "OUSE Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=S5ChDAb_Nlg",
+            "desura": "http://www.desura.com/games/whitewash",
+            "developer": "http://www.ousegames.com/home"
+        },
+        "notes": "Store page: http://www.ousegames.com/whitewash-on-humble-bundle/",
+        "extras": false
     },
     {
         "name": "Windforge",
