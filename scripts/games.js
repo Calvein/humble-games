@@ -2950,6 +2950,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Cubicity",
+        "url": "cubicity/Ckdkwodk2lk",
+        "price": "3.99",
+        "description": "Purchase Cubicity and get it instantly for Windows, DRM-free!",
+        "developer": "Brush And Code",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.godisageek.com/2013/11/cubicity-review/",
+            "desura": "http://www.desura.com/games/cubicity",
+            "developer": "http://brushandcode.com/"
+        },
+        "notes": "Store page: http://cubicitygame.com/",
+        "extras": false
+    },
+    {
         "name": "Danmaku Unlimited 2",
         "url": "danmakuunlimited2/Ddh7Uhs9Sft",
         "price": "4.99",
