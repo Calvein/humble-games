@@ -13749,6 +13749,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Spy Chameleon - RGB Agent",
+        "url": "spychameleon_rgbagent/Sdlkwjeo4",
+        "price": "5.99",
+        "description": "Get Spy Chameleon - RGB Agent instantly! Cross-platform and DRM-free!",
+        "developer": "Unfinished Pixel",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://unfinishedpixel.com/"
+        },
+        "notes": "Store page: http://www.spychameleon.com/",
+        "extras": false
+    },
+    {
         "name": "Starbound (Pixel Tier)",
         "url": "starbound_tier1?preview=4uQR712V5n",
         "price": "15",
