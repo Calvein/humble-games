@@ -11303,6 +11303,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Quest of Dungeons",
+        "url": "questofdungeons/Qodkwo3",
+        "price": "4.99",
+        "description": "Get Quest of Dungeons instantly! Cross-platform and DRM-free.",
+        "developer": "David Amador",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/270050",
+            "developer": "http://www.david-amador.com/"
+        },
+        "notes": "Linux version coming soon.\nStore page: http://www.questofdungeons.com/#purchase",
+        "extras": false
+    },
+    {
         "name": "Quest For Infamy Deluxe",
         "url": "questforinfamy_preorderdeluxe/Qdh4Gsue8dj",
         "price": "25",
