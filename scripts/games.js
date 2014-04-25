@@ -1497,6 +1497,31 @@ var games = [
         }
     },
     {
+        "name": "Brandon Must Die!",
+        "url": "brandonmustdie/asdfaewrwaefER21",
+        "price": "8.99",
+        "description": "Help support development and pre-order Brandon Must Die! Cross-platform and DRM-free!",
+        "developer": "Dr. Ebenstedt's Herbal Remedies and Video Games, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/brandon-must-die",
+            "developer": "http://www.brandonmustdie.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Broforce",
         "url": "broforce/Bdu7Fsgt3Eds",
         "price": "10",
@@ -11187,6 +11212,31 @@ var games = [
             "developer": "http://southeastgames.com/"
         },
         "notes": "Store page: http://probablyarchery.com/",
+        "extras": false
+    },
+    {
+        "name": "Prometheus - The Fire Thief",
+        "url": "prometheus_thefirethief/BVruwbveiae",
+        "price": "9.99",
+        "description": "Get Prometheus instantly! DRM-free.",
+        "developer": "Magical Hackers",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://servadacsgamedev.blogspot.se/"
+        },
+        "notes": "Store page: http://servadacsgamedev.blogspot.se/2014/03/prometheus-fire-thief-is-now-out.html",
         "extras": false
     },
     {
