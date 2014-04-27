@@ -5609,6 +5609,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "FarSky",
+        "url": "farsky/Fdkwok3",
+        "price": "14.99",
+        "description": "Get FarSky instantly! Cross-platform and DRM-free. Includes a Steam key!",
+        "developer": "Farsky Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/farsky",
+            "steam": "http://store.steampowered.com/app/286340/",
+            "developer": "http://www.farskygame.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Ferdy The Cat",
         "url": "ferdythecat/jbnvmcriuhtFGH30",
         "price": "5.99",
