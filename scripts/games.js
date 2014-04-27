@@ -2298,6 +2298,31 @@ var games = [
         }
     },
     {
+        "name": "Cloaks and Spells",
+        "url": "cloaksandspells/Clsko1k3kd",
+        "price": "11.99",
+        "description": "Get Cloaks and Spells Alpha Access instantly with OST all DRM-free! Redeem it on Desura! Includes Steam Key when Greenlit.",
+        "developer": "Sean Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/cloaks-and-spells",
+            "developer": "http://www.cloaksandspells.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Cogs",
         "url": "cogs",
         "price": "9.99",
@@ -8783,6 +8808,34 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Little Racers STREET",
+        "url": "littleracersstreet/LDkwodk",
+        "price": "5",
+        "description": "Get Little Racers STREET now! Cross-Platform Steam key!",
+        "developer": "Milkstone Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.strategyinformer.com/pc/littleracersstreet/2291/review.html",
+            "desura": "http://www.desura.com/games/little-racers-street",
+            "steam": "http://store.steampowered.com/app/262690/",
+            "developer": "http://www.milkstonestudios.com/"
+        },
+        "notes": "Store page: http://www.milkstonestudios.com/games/little-racers-street/#gameInfo",
+        "extras": false
     },
     {
         "name": "Lone Survivor",
