@@ -2977,6 +2977,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Cute Things Dying Violently",
+        "url": "cutethingsdyingviolently/Ckdow1k",
+        "price": "2.99",
+        "description": "Maim Cute Things instantly! Hand-crafted and DRM-free.",
+        "developer": "ApathyWorks",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamebundles.com/review-cute-things-dying-violently/",
+            "desura": "http://www.desura.com/games/ctdv",
+            "developer": "http://www.apathyworks.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Danmaku Unlimited 2",
         "url": "danmakuunlimited2/Ddh7Uhs9Sft",
         "price": "4.99",
@@ -16936,6 +16962,32 @@ var games = [
         },
         "notes": "Either a Steam key or a DRM-free download.",
         "extras": true
+    },
+    {
+        "name": "You Still Won't Make It",
+        "url": "youstillwontmakeit/SyuF6dauY9b",
+        "price": "5",
+        "description": "Buy now and get You Still Won't Make It instantly! Cross-platform and DRM-free, with a Desura key included.",
+        "developer": "Vetra Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/you-still-wont-make-it",
+            "developer": "http://www.vetragames.com"
+        },
+        "notes": "Store page: http://www.vetragames.com/games/you-still-wont-make-it/#post-370",
+        "extras": false
     },
     {
         "name": "You Are Not The Hero + Physical Pack",
