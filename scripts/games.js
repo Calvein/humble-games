@@ -8090,6 +8090,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Jamsouls",
+        "url": "jamsouls/Jdkwok10ksl",
+        "price": "2.99",
+        "description": "Purchase Jamsouls for Windows and instantly get it DRM-free!",
+        "developer": "ChromaticDream",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/jamsouls",
+            "developer": "http://www.chromaticdream.com/"
+        },
+        "notes": "Store page: http://www.jamsouls.com/buy.html",
+        "extras": false
+    },
+    {
         "name": "Jasper's Journeys",
         "url": "jaspersjourneys",
         "price": "5",
@@ -8811,7 +8837,7 @@ var games = [
     },
     {
         "name": "Little Racers STREET",
-        "url": "littleracersstreet/LDkwodk",
+        "url": "littleracersstreet/LDkwodk4",
         "price": "5",
         "description": "Get Little Racers STREET now! Cross-Platform Steam key!",
         "developer": "Milkstone Studios",
@@ -11622,7 +11648,7 @@ var games = [
     },
     {
         "name": "Pushcat",
-        "url": "hcat/Pslek2ldkso",
+        "url": "pushcat/Pslek2ldkso",
         "price": "4",
         "description": "Get Pushcat instantly! Cross-platform and DRM-free.",
         "developer": "Zut Games",
