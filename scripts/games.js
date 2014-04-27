@@ -11622,7 +11622,7 @@ var games = [
     },
     {
         "name": "Pushcat",
-        "url": "hcat/Pslek2ldkso,
+        "url": "hcat/Pslek2ldkso",
         "price": "4",
         "description": "Get Pushcat instantly! Cross-platform and DRM-free.",
         "developer": "Zut Games",
