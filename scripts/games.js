@@ -11621,6 +11621,33 @@ var games = [
         }
     },
     {
+        "name": "Pushcat",
+        "url": "hcat/Pslek2ldkso,
+        "price": "4",
+        "description": "Get Pushcat instantly! Cross-platform and DRM-free.",
+        "developer": "Zut Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamereviewer.com/review-pushcat/",
+            "desura": "http://www.desura.com/games/pushcat",
+            "developer": "http://zutgames.com/"
+        },
+        "notes": "Store page: http://pushcatgame.com/",
+        "extras": false
+    },
+    {
         "name": "Puzzle Dimension",
         "url": "puzzledimension",
         "price": "2.99",
@@ -16854,6 +16881,32 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Woodle Tree: Adventures",
+        "url": "woodletree_adventures/iureyriuaIEURY73",
+        "price": "2.49",
+        "description": "An old school platform game with a catchy and unique art style!",
+        "developer": "Chubby Pixel",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/woodle-tree",
+            "developer": "http://chubbypixel.com/"
+        },
+        "notes": "Store page: http://chubbypixel.com/games/woodle-tree/",
+        "extras": false
     },
     {
         "name": "Word Realms",
