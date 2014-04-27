@@ -7250,6 +7250,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Hero Generations",
+        "url": "herogenerations/acnOUW4",
+        "price": "14.99",
+        "description": "Pre-order and get Hero Generations as soon as it is released! Cross-platform and DRM-free.",
+        "developer": "Heart Shaped Games LLC",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.heartshapedgames.com/"
+        },
+        "notes": "Store page: http://www.herogenerations.com/#preorder",
+        "extras": false
+    },
+    {
+        "name": "Hero Generations Collector's Edition",
+        "url": "herogenerations_collectorsedition/CTVj43",
+        "price": "24.99",
+        "description": "Pre-order and get Hero Generations as soon as it's released, plus the original soundtrack and Digital Art Book! Cross-platform and DRM-free.",
+        "developer": "Heart Shaped Games LLC",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.heartshapedgames.com/"
+        },
+        "notes": "Store page: http://www.herogenerations.com/#preorder",
+        "extras": true
+    },
+    {
         "name": "Heroes of Loot",
         "url": "heroesofloot/Hdkwo3k",
         "price": "5",
