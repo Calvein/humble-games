@@ -5391,6 +5391,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Enola",
+        "url": "enola/Edkso3",
+        "price": "14.99",
+        "description": "Enola is a game about love, hate, and death. You play as a young girl on a mysterious place, looking for her missing girlfriend.",
+        "developer": "The Domaginarium",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/enola",
+            "developer": "http://www.thedomaginarium.com/index.html"
+        },
+        "notes": "Store page: http://www.thedomaginarium.com/enola_buy.html",
+        "extras": false
+    },
+    {
         "name": "Escape Goat",
         "url": "escapegoat",
         "price": "4.99",
@@ -11438,9 +11464,36 @@ var games = [
         "notes": "Store page: http://runningwithscissors.com/main/index.php?topic=1833.0",
         "extras": false
     },
+   {
+        "name": "Potatoman Seeks the Troof",
+        "url": "potatomanseeksthetroof/S93sdhSDFbx",
+        "price": "3",
+        "description": "Purchase Potatoman and get it instantly for Windows, Mac, and Linux, DRM-free!",
+        "developer": "Pixeljam",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.laserlemming.com/2013/01/03/review-potatoman-seeks-the-troof/",
+            "desura": "http://www.desura.com/games/potatoman-seeks-the-troof",
+            "developer": "http://www.pixeljam.com"
+        },
+        "notes": "Store page: http://www.pixeljam.com/potatoman/#BUY",
+        "extras": false
+    },
     {
         "name": "Potatoman Seeks the Troof Bundle",
-        "url": "potatomanseeksthetroofbundle?preview=S93sdhSDFbx",
+        "url": "potatomanseeksthetroofbundle/S93sdhSDFbx",
         "price": "5",
         "description": "Purchase the bundle and get Potatoman for Windows, Mac, and Linux as well as the soundtrack, all DRM-free!",
         "developer": "Pixeljam",
@@ -11456,7 +11509,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.laserlemming.com/2013/01/03/review-potatoman-seeks-the-troof/",
+            "desura": "http://www.desura.com/games/potatoman-seeks-the-troof",
+            "developer": "http://www.pixeljam.com"
+        },
+        "notes": "Store page: http://www.pixeljam.com/potatoman/#BUY",
+        "extras": false
     },
     {
         "name": "pozzle",
