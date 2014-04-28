@@ -7817,6 +7817,31 @@ var games = [
         "notes": "Store page: http://joewintergreen.com/influx/influxr/influx.html"
     },
     {
+        "name": "inSynch",
+        "url": "insynch/mnvbnbfjhfgEU238",
+        "price": "4.99",
+        "description": "Pre-Order inSynch now! Cross-platform and DRM-free!",
+        "developer": "Them Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.themgames.net/"
+        },
+        "notes": "Immediate access to early stable builds of the game.\nAndroid version scheduled for later release.\nStore page: http://www.themgames.net/insynch/",
+        "extras": false
+    },
+    {
         "name": "Intrusion 2",
         "url": "intrusion2",
         "price": "10",
