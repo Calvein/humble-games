@@ -5946,6 +5946,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "FRONTIERS (Pre-Order)",
+        "url": "frontiers/xqfFWtyrgio184gVD",
+        "price": "15",
+        "description": "Missed the Kickstarter? Here's your chance to support FRONTIERS! Cross-platform and DRM-free! Pre-order now!",
+        "developer": "AAD Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://aadgames.blogspot.com.es/"
+        },
+        "notes": "Store page: http://explore-frontiers.com/#post-31",
+        "extras": true
+    },
+    {
         "name": "FTL: Faster Than Light",
         "url": "ftlfasterthanlight",
         "price": "9.99",
