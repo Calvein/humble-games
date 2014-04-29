@@ -2496,6 +2496,31 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-strike-force/"
     },
     {
+        "name": "CONSORTIUM",
+        "url": "consortium/ckdowkd20k",
+        "price": "19.99",
+        "description": "Purchase your copy of CONSORTIUM! DRM-free. Also includes Steam key!",
+        "developer": "iDGi",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/264240/",
+            "developer": "http://interdimensionalgames.com/"
+        },
+        "notes": "Store page: http://consortium-game.com/"
+    },
+    {
         "name": "Constant C",
         "url": "constantc?preview=aqLfpSQ7TVzx",
         "price": "9.99",
