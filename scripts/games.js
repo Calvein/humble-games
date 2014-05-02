@@ -6331,6 +6331,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Ghost Song",
+        "url": "ghostsong/noucdONCu",
+        "price": "15",
+        "description": "Preorder Ghost Song today. Windows, Mac, Linux. DRM Free version + Steam version.",
+        "developer": "Old Moon",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://ghostsonggame.com/"
+        },
+        "notes": "Store page: http://ghostsonggame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "GIGANTIC ARMY",
         "url": "giganticarmy/Adkwodk2",
         "price": "5.99",
