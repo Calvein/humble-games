@@ -9932,6 +9932,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Nekro",
+        "url": "nekro/NUverj23",
+        "price": "19.99",
+        "description": "Pre-Order Nekro and receive Early Access Steam keys. Get the the final game DRM-Free and cross-platform when released!",
+        "developer": "darkForge Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/246400/",
+            "developer": "http://darkforgegames.com/"
+        },
+        "notes": "Store page: http://darkforgegames.com/store/",
+        "extras": false
+    },
+    {
         "name": "Neocolonialism",
         "url": "neocolonialism/Ndy7Rdg6Drdf",
         "price": "10",
