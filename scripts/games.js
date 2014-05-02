@@ -16553,6 +16553,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Unsummoning: the Spectral Horde",
+        "url": "unsummoning_thespectralhorde/uqgeIEg439Xn1",
+        "price": "3.99",
+        "description": "Download \"UnSummoning: the Spectral Horde\" now! Available for Windows, Mac, & Linux, DRM-free!",
+        "developer": "Roaming Ground Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/unsummoning-the-spectral-horde",
+            "developer": "http://www.roamingground.com/"
+        },
+        "notes": "Store page: http://www.roamingground.com/#item-535f1dd9e4b08cab3cb54bb9",
+        "extras": false
+    },
+    {
         "name": "Valdis Story: Abyssal City",
         "url": "valdisstoryabyssalcity/Vidyh7Reg8G",
         "price": "14.99",
