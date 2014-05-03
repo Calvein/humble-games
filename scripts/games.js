@@ -16506,7 +16506,7 @@ var games = [
     {
         "name": "Unrest",
         "url": "unrest/Udg6Ytd8Dfw",
-        "price": "10",
+        "price": "14.99",
         "description": "Pre-order and get Unrest cross-platform and DRM-free on release!",
         "developer": "Pyrodactyl Games",
         "platform": {
@@ -16514,7 +16514,7 @@ var games = [
             "linux": true,
             "windows": true,
             "mac": true,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": false,
@@ -16525,13 +16525,13 @@ var games = [
         "URL": {
             "developer": "http://pyrodactyl.com/"
         },
-        "notes": "Store page: http://pyrodactyl.com/#buy",
-        "extras": false
+        "notes": "Multi-tier widget with the Soundtrack Edition and Special Edition rewards also available.\nStore page: http://pyrodactyl.com/#buy",
+        "extras": true
     },
     {
         "name": "Unrest: Soundtrack Edition",
         "url": "unrest_withsoundtrack/Udg6Ytd8Dfw",
-        "price": "15",
+        "price": "19.99",
         "description": "Pre-order now. When ready get Unrest, cross-platform and DRM-free! Includes soundtrack.",
         "developer": "Pyrodactyl Games",
         "platform": {
@@ -16554,34 +16554,9 @@ var games = [
         "extras": false
     },
     {
-        "name": "Unrest: Novella Edition",
-        "url": "unrest_novella/Udg6Ytd8Dfw",
-        "price": "20",
-        "description": "Pre-order now. When ready get Unrest, cross-platform and DRM-free! Includes soundtrack & digital novella by Rutskarn.",
-        "developer": "Pyrodactyl Games",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://pyrodactyl.com/"
-        },
-        "notes": "Store page: http://pyrodactyl.com/#buy",
-        "extras": true
-    },
-    {
         "name": "Unrest: Special Edition",
         "url": "unrest_se/Udg6Ytd8Dfw",
-        "price": "25",
+        "price": "24.99",
         "description": "Pre-order now. When ready get Unrest, cross-platform and DRM-free! Includes soundtrack & digital novella, concept art & special extras.",
         "developer": "Pyrodactyl Games",
         "platform": {
