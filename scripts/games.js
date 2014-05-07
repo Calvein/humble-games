@@ -6541,6 +6541,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gods Will Be Watching",
+        "url": "godswillbewatching/SDljfw4",
+        "price": "9.99",
+        "description": "Pre-order Gods Will Be Watching and receive the game DRM-free and via Steam key when it launches.",
+        "developer": "Deconstructeam",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/274290/",
+            "developer": "http://www.deconstructeam.com/en"
+        },
+        "notes": "Store page: http://www.godswillbewatching.com/",
+        "extras": false
+    },
+    {
+        "name": "Gods Will Be Watching Special Edition",
+        "url": "godswillbewatching_tier2/SDljfw4",
+        "price": "19.99",
+        "description": "Pre-order Gods Will Be Watching and receive the game DRM-free, Steam key, Soundtrack, Art Book and Comic Book when it launches.",
+        "developer": "Deconstructeam",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/274290/",
+            "developer": "http://www.deconstructeam.com/en"
+        },
+        "notes": "Store page: http://www.godswillbewatching.com/",
+        "extras": true
+    },
+    {
         "name": "Gone Home",
         "url": "gonehome?preview=OHFHXxPWMLTy",
         "price": "19.99",
