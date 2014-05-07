@@ -506,6 +506,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Always Sometimes Monsters",
+        "url": "alwayssometimesmonsters/Aduh8T56sg",
+        "price": "9.99",
+        "description": "Pre-order Always Sometimes Monsters DRM-free and also receive a Steam key at launch!",
+        "developer": "Vagabond Dog",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/274310/",
+            "developer": "http://vagabonddog.com/"
+        },
+        "notes": "Store page: http://www.alwayssometimesmonsters.com/",
+        "extras": false
+    },
+    {
         "name": "Amnesia Fortnight Bundle",
         "url": "amnesiafortnight_store",
         "price": "9.99",
@@ -16652,6 +16678,30 @@ var games = [
             "review": "http://www.rpgfan.com/reviews/Valdis_Story_Abyssal_City/index.html",
             "desura": "http://www.desura.com/games/valdis-story-abyssal-city",
             "developer": "http://www.endlessfluff.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Vertical Drop Heroes HD",
+        "url": "verticaldropheroeshd/gvenoCMRObeto",
+        "price": "5",
+        "description": "Buy Vertical Drop Heroes HD! DRM-free for Windows and Mac.",
+        "developer": "Nerdook Productions",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nerdook-productions.com/"
         },
         "extras": false
     },
