@@ -1699,6 +1699,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Brigador",
+        "url": "brigador/poiopwetvf2839",
+        "price": "15",
+        "description": "(Pre-order) Brigador is an isometric vehicular action game, cross-platform and DRM-free! Order includes Steam key!",
+        "developer": "Stellar Jockeys",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/274500/",
+            "developer": "http://stellarjockeys.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Broforce",
         "url": "broforce/Bdu7Fsgt3Eds",
         "price": "10",
@@ -17204,6 +17229,32 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "WE ARE DOOMED",
+        "url": "wearedoomed/zuoIEh2v1asw",
+        "price": "4",
+        "description": "Get WE ARE DOOMED instantly for Windows & Mac, DRM-free!",
+        "developer": "Mobeen Fikree",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.hardcoregamer.com/2014/04/30/review-we-are-doomed/82719/",
+            "developer": "http://www.mobeenfikree.com/"
+        },
+        "notes": "Store page: http://www.caffeinemonstersoftware.com/wearedoomed/",
+        "extras": false
     },
     {
         "name": "Whispering Willows",
