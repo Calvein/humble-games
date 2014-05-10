@@ -15177,6 +15177,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Strike Vector",
+        "url": "strikevector/eiueruihreHBR38",
+        "price": "19.99",
+        "description": "Strike Vector is a brutal, aerial FPS game that will test your skills against online players in traditional FPS form! Steam key only!",
+        "developer": "Ragequit Corporation",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.pcgamer.com/review/strike-vector-review/",
+            "steam": "http://store.steampowered.com/app/246700",
+            "developer": "http://www.strikevector.net/"
+        },
+        "notes": "Store page: http://www.strikevector.net/join-the-fight/",
+        "extras": false
+    },
+    {
         "name": "Sugar Cube: Bittersweet Factory",
         "url": "sugarcubebittersweetfactory",
         "price": "6.99",
