@@ -8987,6 +8987,126 @@ var games = [
         "extras": false
     },
     {
+        "name": "LAST LIFE",
+        "url": "lastlife_tier1/Ldhe8Gey9De",
+        "price": "15",
+        "description": "Pre-order LAST LIFE. Upon release you'll get all Kickstarter funded episodes DRM-free for Win/Mac/Linux + a Steam key.",
+        "developer": "Sam Farmer",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lastlifegame.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "LAST LIFE + Digital Merch",
+        "url": "lastlife_tier2/Ldhe8Gey9De",
+        "price": "30",
+        "description": "Upon release, get a digital Art Book PDF & OST. All previous rewards included.",
+        "developer": "Sam Farmer",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lastlifegame.com/"
+        },
+        "extras": true
+    },
+    {
+        "name": "LAST LIFE + MarsTopia Resident",
+        "url": "lastlife_tier3/Ldhe8Gey9De",
+        "price": "75",
+        "description": "Get a MarsTopia resident patch + your name in the game & credits. All previous rewards included. Add $5 USD to ship outside the US.",
+        "developer": "Sam Farmer",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lastlifegame.com/"
+        },
+        "extras": true
+    },
+    {
+        "name": "LAST LIFE + Exclusive T-Shirt",
+        "url": "lastlife_tier4/Ldhe8Gey9De",
+        "price": "100",
+        "description": "Get an exclusive backer T-Shirt. All previous rewards included. Add $15 USD to ship outside the US.",
+        "developer": "Sam Farmer",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lastlifegame.com/"
+        },
+        "extras": true
+    },
+    {
+        "name": "LAST LIFE + Character as You",
+        "url": "lastlife_tier5/Ldhe8Gey9De",
+        "price": "1000",
+        "description": "An in-game character will be based on you (see Kickstarter rewards for details). All previous rewards included.",
+        "developer": "Sam Farmer",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lastlifegame.com/"
+        },
+        "extras": true
+    },
+    {
         "name": "Legend of Dungeon",
         "url": "legendofdungeon?preview=SIIUb8tPvGNT",
         "price": "10",
