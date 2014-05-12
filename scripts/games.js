@@ -16293,6 +16293,58 @@ var games = [
         }
     },
     {
+        "name": "Transistor",
+        "url": "transistor/vNOIc34",
+        "price": "19.99",
+        "description": "Pre-order Transistor, a sci-fi-themed action RPG from the creators of Bastion. Redeemable via Steam for Windows only (available May 20th)!",
+        "developer": "Supergiant Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/237930/",
+            "developer": "http://supergiantgames.com/"
+        },
+        "notes": "There won't be a DRM-free standalone version of the game, but the developers claim the Steam version will have no DRM attached.\nStore page: http://supergiantgames.com/index.php/2013/06/transistor-faq/",
+        "extras": false
+    },
+    {
+        "name": "Transistor + Soundtrack",
+        "url": "transistor_withsoundtrack/vNOIc34",
+        "price": "29.98",
+        "description": "Pre-order Transistor, a sci-fi-themed action RPG from the creators of Bastion. Redeemable via Steam for Windows only! Includes Soundtrack.",
+        "developer": "Supergiant Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/237930/",
+            "developer": "http://supergiantgames.com/"
+        },
+        "notes": "There won't be a DRM-free standalone version of the game, but the developers claim the Steam version will have no DRM attached.\nStore page: http://supergiantgames.com/index.php/2013/06/transistor-faq/",
+        "extras": false
+    },
+    {
         "name": "Treasure Adventure World - Tier 1",
         "url": "treasureadventure_tier1/Tsh7Rsg6Hsk",
         "price": "10",
