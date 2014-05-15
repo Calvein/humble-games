@@ -12582,6 +12582,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "ReignMaker",
+        "url": "reignmaker/zeuEBgke823e",
+        "price": "14.99",
+        "description": "Saving the World One Tower at a Time! City building political strategy game with match-3 and tower defense combat!",
+        "developer": "Frogdice",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/286200/",
+            "developer": "http://frogdice.com/"
+        },
+        "notes": "Store page: http://frogdice.com/reignmaker/buy/",
+        "extras": false
+    },
+    {
         "name": "Retro City Rampage (steam)",
         "url": "retrocityrampagesteam",
         "price": "14.99",
