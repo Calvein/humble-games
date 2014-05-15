@@ -6455,6 +6455,30 @@ var games = [
         "extras": false
     },
     {
+        "name": "Generic Space Shooter",
+        "url": "genericspaceshooter/Gkdow4",
+        "price": "1",
+        "description": "Pre-order Generic Space Shooter instantly! When ready, get it DRM-free.",
+        "developer": "LionSword",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://lionsword.x10.mx/"
+        },
+        "extras": false
+    },
+    {
         "name": "Gentlemen!",
         "url": "gentlemen/Gdu8Yste6sg",
         "price": "8",
