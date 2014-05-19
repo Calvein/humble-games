@@ -5966,6 +5966,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Flip - A puzzle game for your eyes and your brain (Android Only)",
+        "url": "flip_androidonly/nasd8LSmkd1",
+        "price": "1.37",
+        "description": "Flip is a casual puzzle game that will challenge your brain and your perception. Features 1000+ puzzles and color blind mode! (Android Only)",
+        "developer": "Perro Electrico",
+        "platform": {
+            "android": true,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamersftw.co.uk/video-games/review-flip-puzzler-windows-android-new-indie-devs-block/",
+            "developer": "http://perroelectrico.com/"
+        },
+        "notes": "Store page: http://perroelectrico.com/flip/",
+        "extras": false
+    },
+    {
+        "name": "Flip - A puzzle game for your eyes and your brain (Windows + Android)",
+        "url": "flip/gowimEih3991s",
+        "price": "5.99",
+        "description": "Flip is a casual puzzle game that will challenge your brain and your perception. Features 1000+ puzzles and color blind mode! (Windows + Android)",
+        "developer": "Perro Electrico",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamersftw.co.uk/video-games/review-flip-puzzler-windows-android-new-indie-devs-block/",
+            "developer": "http://perroelectrico.com/"
+        },  
+        "notes": "Store page: http://perroelectrico.com/flip/",
+        "extras": false
+    },  
+    {
         "name": "Flotilla",
         "url": "flotilla",
         "price": "10",
@@ -7630,14 +7682,14 @@ var games = [
     {
         "name": "Hive",
         "url": "hive/Hiv7Thsy3RDe",
-        "price": "6.99",
+        "price": "9.99",
         "description": "Get the popular board game, Hive, at a discounted pre-order price! Officially licensed and DRM-free. Includes Steam key!",
         "developer": "BlueLine Game Studios",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -7650,7 +7702,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/251210/",
             "developer": "http://www.bluelinegamestudios.com/"
         },
-        "notes": "Digital version of award-winning two player boardgame. $6.99 is preorder price. Normal price $9.99. Releases \"November\".",
+        "notes": "Currently on sale at 30% off.\nStore page: http://bluelinegamestudios.com/hive-game/",
         "extras": false
     },
     {
@@ -7702,6 +7754,30 @@ var games = [
             "review": "http://www.eurogamer.net/articles/2013-08-02-humans-must-answer-review",
             "gog": "http://www.gog.com/gamecard/humans_must_answer",
             "developer": "http://sumomgames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "HuniePop",
+        "url": "huniepop/Anok0319hnd",
+        "price": "10",
+        "description": "Pre-Order HuniePop! The sexiest dating sim/puzzle game hybrid you'll ever play! Available for Windows, Mac and Linux!",
+        "developer": "Huniepot",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.huniepop.com/"
         },
         "extras": false
     },
@@ -9282,6 +9358,31 @@ var games = [
             "developer": "http://www.lifegoesongame.com/",
         },
         "notes": "Store page: http://www.lifegoesongame.com/#HTMLBlock431",
+        "extras": false
+    },
+    {
+        "name": "Life of Pixel",
+        "url": "lifeofpixel/nDIuh2rni239q",
+        "price": "6.99",
+        "description": "Get Life of Pixel instantly! Available on Windows, DRM-free!",
+        "developer": "Super Icon Ltd",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.supericon.co.uk/",
+        },
+        "notes": "Store page: http://www.lifeofpixel.co.uk/#buy",
         "extras": false
     },
     {
