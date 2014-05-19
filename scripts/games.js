@@ -10044,6 +10044,31 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/monster-truck-destruction-2/"
     },
     {
+        "name": "Monsters & Medicine",
+        "url": "monstersandmedicine/mal2923ndjyyq",
+        "price": "4.99",
+        "description": "Get Monsters & Medicine now! Available on Windows and Linux, DRM-free!",
+        "developer": "Clockwork Acorn",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://clockworkacorn.com/"
+        },
+        "notes": "Pre-order at 20% off and get the development version immediately.\nStore page: http://clockworkacorn.com/games/monsters-and-medicine/#buy",
+        "extras": false
+    },
+    {
         "name": "Montague's Mount",
         "url": "montaguesmount/Mdkwo1k2l",
         "price": "9.99",
