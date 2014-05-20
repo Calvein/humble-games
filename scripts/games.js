@@ -10907,6 +10907,33 @@ var games = [
         }
     },
     {
+        "name": "Not The Robots",
+        "url": "nottherobots/46VDF3bo4dax",
+        "price": "9.99",
+        "description": "Get Not the Robots instantly! Cross-platform (Windows, Mac, Linux) and DRM-free!",
+        "developer": "2DArray",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2014/01/14/not-the-robots-review",
+            "steam": "http://store.steampowered.com/app/257120",
+            "developer": "http://www.2darray.net/"
+        },
+        "notes": "Store page: http://nottherobots.com/",
+        "extras": false
+    },
+    {
         "name": "NOWHERE",
         "url": "nowhere_alpha/Ndhu8Tgey5Fd",
         "price": "21",
