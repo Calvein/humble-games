@@ -14422,7 +14422,7 @@ var games = [
         "name": "Sir, You Are Being Hunted",
         "url": "siryouarebeinghunted?preview=Sjd93hwnsk",
         "price": "20",
-        "description": "Pre-order Sir, You Are Being Hunted now and get the game cross-platform and DRM-free upon its release!",
+        "description": "Buy Sir, You Are Being Hunted now and get the game cross-platform and DRM-free + Steam key!",
         "developer": "Big Robot",
         "platform": {
             "android": false,
@@ -14432,11 +14432,43 @@ var games = [
             "audio": false
         },
         "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.continue-play.com/review/sir-you-are-being-hunted-review/",
+            "steam": "http://store.steampowered.com/app/242880/",
+            "developer": "http://www.big-robot.com/"
+        },
+        "notes": "Store page: http://www.big-robot.com/2012/03/12/sir-you-are-being-hunted/#post-442",
+        "extras": false
+    },
+    {
+        "name": "Siralim",
+        "url": "siralim/PASnei29dmn1",
+        "price": "14.99",
+        "description": "Pre-order Siralim at a reduced price and get the full game when it is released! Always DRM-free! Includes instant beta access!",
+        "developer": "Thylacine Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
             "steam": false,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "developer": "http://www.thylacinestudios.com/"
+        },
+        "notes": "Pre-order it 30% off for $9.99.\nStore page: http://www.siralim.com/purchase.php",
+        "extras": false
     },
     {
         "name": "Six Sided Sanctuary",
