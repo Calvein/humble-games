@@ -5942,14 +5942,14 @@ var games = [
     {
         "name": "FIST OF AWESOME",
         "url": "fistofawesome/Fkdowk3",
-        "price": "1.99",
+        "price": "7.99",
         "description": "Get Fist of Awesome (Android) instantly!",
         "developer": "I Fight Bears",
         "platform": {
             "android": true,
-            "windows": false,
+            "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
