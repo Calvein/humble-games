@@ -12454,8 +12454,35 @@ var games = [
             "steam": "http://store.steampowered.com/app/203730/",
             "developer": "http://toxicgames.co.uk/"
         },
-        "notes": "Store page: http://qube-game.com/buy-now/",
         "extras": false
+    },
+    {
+        "name": "Q.U.B.E. Director's Cut",
+        "url": "qube_directorscut/znEb113Hfop",
+        "price": "14.99",
+        "description": "Get Q.U.B.E. Director's Cut instantly for Windows! Oculus Rift enabled, DLC included and DRM-free!",
+        "developer": "Toxic Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/qube-review/1900-6348007/",
+            "desura": "http://www.desura.com/games/qube",
+            "steam": "http://store.steampowered.com/app/203730/",
+            "developer": "http://toxicgames.co.uk/"
+        },
+        "notes": "Store page: http://qube-game.com/buy-now/",
+        "extras": true
     },
     {
         "name": "QbQbQb",
@@ -14363,6 +14390,32 @@ var games = [
             "developer": "http://blog.aghartastudio.com/"
         },
         "notes": "Store page: http://blog.aghartastudio.com/?page_id=762",
+        "extras": false
+    },
+    {
+        "name": "Signs of Life",
+        "url": "signsoflife/enkj34NJf",
+        "price": "9.99",
+        "description": "Get Signs of Life instantly, redeemable on Steam!",
+        "developer": "Sweet Dog Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/263200/",
+            "developer": "http://playsignsoflife.com/"
+        },
+        "notes": "Store page: http://playsignsoflife.com/?page_id=282",
         "extras": false
     },
     {
