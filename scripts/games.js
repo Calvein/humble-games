@@ -582,6 +582,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Among the Sleep",
+        "url": "amongthesleep/AHDGFKLK436346",
+        "price": "19.99",
+        "description": "Among the Sleep is a first person horror adventure, in which you play a two year old child. Pre-order Now!",
+        "developer": "Krillbite Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/250620/",
+            "developer": "http://www.krillbite.com/"
+        },
+        "notes": "No mention whatsoever about distribution method either on the widget or on the website. Just assumed it's a Steam key, like in the Humble Store.\nStore page: http://www.krillbite.com/ats/",
+        "extras": false
+    },
+    {
         "name": "And Yet It Moves",
         "url": "andyetitmoves",
         "price": "9.99",
