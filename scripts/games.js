@@ -14325,7 +14325,7 @@ var games = [
     {
         "name": "Shipwreck",
         "url": "shipwreck/Sdpowek4",
-        "price": "3",
+        "price": "0.99",
         "description": "Get Shipwreck DRM free for Windows, Mac, and Linux.",
         "developer": "Brushfire Games",
         "platform": {
