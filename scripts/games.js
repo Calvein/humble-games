@@ -828,7 +828,7 @@ var games = [
         "developer": "Vision Riders",
         "platform": {
                 "android": false,
-                "linux": false,
+                "linux": true,
                 "windows": true,
                 "mac": false,
                 "audio": false
