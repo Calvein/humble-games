@@ -1105,31 +1105,6 @@ var games = [
         "extras": true
     },
     {
-        "name": "Pre-order ASTROIDS",
-        "url": "astroids/Adkowek3",
-        "price": "10",
-        "description": "Pre-order “ASTROIDS” game to support its development, get early access to alpha game builds and have a chance to influence the final outcome.",
-        "developer": "Industry Entertainment",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://indus3.org/"
-        },
-        "notes": "Store page: http://astroids.tv/#preorder \n Linux version coming soon: http://www.gamingonlinux.com/articles/are-you-ready-to-face-the-astroids.3004",
-        "extras": false
-    },
-    {
         "name": "Atom Zombie Smasher",
         "url": "atomzombiesmasher",
         "price": "15",
@@ -15834,6 +15809,31 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Pre-order SUPERVERSE",
+        "url": "astroids/Adkowek3",
+        "price": "10",
+        "description": "Pre-order the game to support its development, get early access to alpha game builds and have a chance to influence the final outcome.",
+        "developer": "Industry Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://indus3.org/"
+        },
+        "notes": "Store page: http://superverse-game.com/#preorder\nLinux version coming soon: http://www.gamingonlinux.com/articles/are-you-ready-to-face-the-astroids.3004",
+        "extras": false
     },
     {
         "name": "Survivor Squad",
