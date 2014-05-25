@@ -2781,9 +2781,9 @@ var games = [
         "developer": "Ben Perry",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -2795,7 +2795,7 @@ var games = [
         "URL": {
             "developer": "http://herebeben.com"
         },
-        "notes": "Game in alpha stage of development. Allegedly available for Mac and Linux too, even though the widget only displays the Windows logo. \n Store page: http://herebeben.com/copod",
+        "notes": "Game in alpha stage of development.\nStore page: http://herebeben.com/copod",
         "extras": false
     },
     {
