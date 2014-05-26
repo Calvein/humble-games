@@ -14832,7 +14832,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -15051,54 +15051,6 @@ var games = [
             "gog": false,
             "drm-free": true
         }
-    },
-    {
-        "name": "SPORTSFRIENDS Computer Slacker Backer",
-        "url": "sportsfriendscomputerslackerbacker?preview=sdjfd9y2rhf",
-        "price": "30",
-        "description": "Buy SPORTSFRIENDS Computer Slacker Backer and get the early alphas now, and the final product for home computers, DRM-free!",
-        "developer": "Die Gute Fabrik",
-        "platform": {
-                "android": false,
-                "linux": false,
-                "windows": true,
-                "mac": true,
-                "audio": false
-        },
-        "drm": {
-                "steam": false,
-                "desura": false,
-                "gog": false,
-                "drm-free": true
-        },
-        "URL": {
-                "developer": "http://gutefabrik.com/"
-        },
-        "extras": false
-    },
-    {
-        "name": "SPORTSFRIENDS PS3 Slacker Backer",
-        "url": "sportsfriendsps3slackerbacker?preview=sdjfd9y2rhf",
-        "price": "30",
-        "description": "Buy SPORTSFRIENDS PlayStation 3 Slacker Backer and get the early alphas now (DRM-free), and a redeem code for the final PS3 game.",
-        "developer": "Die Gute Fabrik",
-        "platform": {
-                "android": false,
-                "linux": false,
-                "windows": true,
-                "mac": true,
-                "audio": false
-        },
-        "drm": {
-                "steam": false,
-                "desura": false,
-                "gog": false,
-                "drm-free": true
-        },
-        "URL": {
-                "developer": "http://gutefabrik.com/"
-        },
-        "extras": true
     },
     {
         "name": "Spud's Quest",
