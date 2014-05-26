@@ -10124,6 +10124,31 @@ var games = [
         }
     },
     {
+        "name": "Monochroma (Pre-order)",
+        "url": "monochroma/Mdkwok4",
+        "price": "19.99",
+        "description": "Preorder a copy of Monochroma!",
+        "developer": "Nowhere Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/265830/",
+            "developer": "http://monochromagame.com/Monochroma/indexEN.html"
+        },
+        "extras": false
+    },
+    {
         "name": "Monster Truck Destruction",
         "url": "monstertruckdestruction/Mekdowk2",
         "price": "20",
