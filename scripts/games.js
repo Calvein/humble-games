@@ -16016,12 +16016,12 @@ var games = [
         "name": "The Bridge",
         "url": "thebridge?preview=Sj39dhsnNzlx",
         "price": "14.99",
-        "description": "The Bridge is a logic puzzle game in the style of M. C. Escher. This download is for a Windows Steam key.",
+        "description": "The Bridge is a logic puzzle game in the style of M. C. Escher. Redeemable via Steam for Windows, Mac and Linux.",
         "developer": "The Quantum Astrophysicists Guild",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": false,
             "audio": false
         },
