@@ -9367,13 +9367,13 @@ var games = [
         "name": "Life of Pixel",
         "url": "lifeofpixel/nDIuh2rni239q",
         "price": "6.99",
-        "description": "Get Life of Pixel instantly! Available on Windows, DRM-free!",
+        "description": "Get Life of Pixel instantly! Cross-platform and DRM-free.",
         "developer": "Super Icon Ltd",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
