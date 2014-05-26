@@ -3462,7 +3462,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -3477,7 +3477,9 @@ var games = [
             "steam": "http://store.steampowered.com/app/203810/",
             "desura": "http://www.desura.com/games/dear-esther",
             "developer": "http://thechineseroom.co.uk/"
-        }
+        },
+        "notes": "Store page: http://dear-esther.com/?page_id=789",
+        "extras": false
     },
     {
         "name": "Decoda Commercial License",
