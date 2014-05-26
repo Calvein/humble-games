@@ -11443,12 +11443,12 @@ var games = [
         "name": "Papers, Please",
         "url": "papersplease/Psh7Hsjt5Fsuy",
         "price": "9.99",
-        "description": "Pre-order now and when it's ready get Papers, Please instantly! DRM-free for PC/Mac and redeemable on Steam!",
+        "description": "Buy now and get Papers, Please instantly! DRM-free for PC/Mac and redeemable on Steam!",
         "developer": "Lucas Pope",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -11457,7 +11457,14 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/08/12/papers-please-review",
+            "steam": "http://store.steampowered.com/app/239030",
+            "developer": "http://dukope.com/"
+        },
+        "notes": "Store page: http://papersplea.se/#humblewidget",
+        "extras": false
     },
     {
         "name": "Papo & Yo",
