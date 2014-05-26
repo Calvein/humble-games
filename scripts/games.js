@@ -16022,7 +16022,7 @@ var games = [
             "android": false,
             "windows": true,
             "linux": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
