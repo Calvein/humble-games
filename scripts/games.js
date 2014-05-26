@@ -9699,8 +9699,8 @@ var games = [
     {
         "name": "Luna's Wandering Stars",
         "url": "lunaswanderingstars/dkwodkfId2",
-        "price": "4.95",
-        "description": "This action-packed puzzle game features real Newtonian physics, space-bending superpowers, and way more snark than you can handle. (Preorder)",
+        "price": "9.95",
+        "description": "A cosmic adventure featuring multiple physics-based powers, a beautiful soundtrack, a versatile level creator, and more snark than you can handle.",
         "developer": "Serenity Forge",
         "platform": {
             "android": false,
@@ -9718,7 +9718,7 @@ var games = [
         "URL": {
             "developer": "http://serenityforge.com/"
         },
-        "notes": "Pre-order at 50% off, regular price will be $9.95. \n Store page: http://serenityforge.com/games/lunaswanderingstars.html#featured",
+        "notes": "Linux version TBA.\nStore page: http://serenityforge.com/games/lunaswanderingstars.html#featured",
         "extras": false
     },
     {
