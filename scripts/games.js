@@ -201,6 +201,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "A Story About My Uncle",
+        "url": "astoryaboutmyuncle/e029KDJn293",
+        "price": "12.99",
+        "description": "Get A Story About My Uncle now! Available for Windows, Steam key version!",
+        "developer": "Gone North Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://whatsyourtagblog.com/2014/05/27/a-story-about-my-uncle-review/",
+            "steam": "http://store.steampowered.com/app/278360",
+            "developer": "http://gonenorthgames.com/"
+        },
+        "notes": "Store page: http://gonenorthgames.com/games/a-story-about-my-uncle/",
+        "extras": false
+    },
+    {
         "name": "A Virus Named Tom",
         "url": "avirusnamedtom_no_soundtrack",
         "price": "10",
@@ -9719,6 +9746,32 @@ var games = [
             "developer": "http://serenityforge.com/"
         },
         "notes": "Linux version TBA.\nStore page: http://serenityforge.com/games/lunaswanderingstars.html#featured",
+        "extras": false
+    },
+    {
+        "name": "Lunar Flight",
+        "url": "lunarflight/Ldkwo1s",
+        "price": "10",
+        "description": "Receive a Lunar Flight Steam Key Instantly!",
+        "developer": "Shovsoft",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://gamedesignreviews.com/scrapbook/lunar-flight/",
+            "steam": "http://store.steampowered.com/app/208600/",
+            "developer": "http://www.shovsoft.com/lunarflight/"
+        },
         "extras": false
     },
     {
