@@ -17809,6 +17809,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Where is my Heart",
+        "url": "whereismyheart/enOEI2ndoi0w",
+        "price": "7.99",
+        "description": "Get Where is my Heart instantly! Available on Windows and Mac, DRM-free!",
+        "developer": "Schulenburg Software & Die Gute Fabrik",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/where-is-my-heart-review/1900-6415775/",
+            "steam": "http://store.steampowered.com/app/244950",
+            "developer": "http://gutefabrik.com/"
+        },
+        "notes": "Linux version coming soon.\nStore page: http://whereismyheartgame.com/#humblewidget",
+        "extras": false
+    },
+    {
         "name": "Whispering Willows",
         "url": "whisperingwillows?preview=CMeeWteE43cw",
         "price": "10",
