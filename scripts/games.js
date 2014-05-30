@@ -1183,6 +1183,225 @@ var games = [
         "extras": false
     },
     {
+        "name": "Avadon: The Black Fortress",
+        "url": "avadon_theblackfortress/Sdwodk41",
+        "price": "20",
+        "description": "Get Avadon instantly! Enjoy the hit, epic, indie RPG, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2011/05/27/wot-i-think-avadon-the-black-fortress/",
+            "desura": "http://www.desura.com/games/avadon-the-black-fortress",
+            "steam": "http://store.steampowered.com/app/112100/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Linux version available at Gameolith: http://www.gameolith.com/game/avadon-black-fortress/ \n Store page: http://www.spiderwebsoftware.com/avadon/index.html",
+        "extras": false
+    },
+    {
+        "name": "Avadon: The Black Fortress Hint Book",
+        "url": "avadon_theblackfortresshintbook/Sdwodk41",
+        "price": "6",
+        "description": "Get the Avadon hint book instantly, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2011/05/27/wot-i-think-avadon-the-black-fortress/",
+            "desura": "http://www.desura.com/games/avadon-the-black-fortress",
+            "steam": "http://store.steampowered.com/app/112100/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Linux version available at Gameolith: http://www.gameolith.com/game/avadon-black-fortress/ \n Store page: http://www.spiderwebsoftware.com/avadon/index.html",
+        "extras": true
+    },
+    {
+        "name": "Avadon 2: The Corruption",
+        "url": "avadon2_thecorruption/Adkfow345j",
+        "price": "20",
+        "description": "Get Avadon 2 instantly! Enjoy the hit, epic, indie RPG, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://grogheads.com/?p=3342",
+            "steam": "http://store.steampowered.com/app/233310/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.spiderwebsoftware.com/avadon2/index.html",
+        "extras": false
+    },
+    {
+        "name": "Avadon 2: The Corruption Hint Book",
+        "url": "avadon2_thecorruptionhintbook/Adkfow345j",
+        "price": "6",
+        "description": "Get the Avadon 2 hint book instantly, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://grogheads.com/?p=3342",
+            "steam": "http://store.steampowered.com/app/233310/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.spiderwebsoftware.com/avadon2/index.html",
+        "extras": true
+    },
+    {
+        "name": "Avernum: Escape From the Pit",
+        "url": "avernum_escapefromthepit/Adkfow345j",
+        "price": "20",
+        "description": "Get Avernum instantly! Enjoy the hit, epic, indie RPG, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://theindiemine.com/avernum-escape-pit/",
+            "steam": "http://store.steampowered.com/app/208400/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.avernum.com/avernum/index.html",
+        "extras": false
+    },
+    {
+        "name": "Avernum: Escape From the Pit Hint Book",
+        "url": "avernum_escapefromthepithintbook/Adkfow345j",
+        "price": "6",
+        "description": "Get the Avernum hint book instantly, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://theindiemine.com/avernum-escape-pit/",
+            "steam": "http://store.steampowered.com/app/208400/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.avernum.com/avernum/index.html",
+        "extras": true
+    },
+    {
+        "name": "Avernum: The Great Trials Trilogy",
+        "url": "avernum_thegreattrialstrilogy/Adkfow345j",
+        "price": "20",
+        "description": "Get Avernum 4-6 instantly! Enjoy these three hit, epic, indie RPGs, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://geardiary.com/2012/05/25/avernum-great-trials-trilogy-for-pc-review/",
+            "desura": "http://www.desura.com/games/avernum-the-great-trials-trilogy",
+            "steam": "http://store.steampowered.com/sub/14583/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.avernum.com/avernum6/index.html",
+        "extras": false
+    },
+    {
+        "name": "Avernum: The Great Trials Trilogy Hint Book",
+        "url": "avernum_thegreattrialstrilogyhintbooks/Adkfow345j",
+        "price": "10",
+        "description": "Get the three Avernum 4-6 hint books instantly, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://theindiemine.com/avernum-escape-pit/",
+            "steam": "http://store.steampowered.com/app/208400/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.avernum.com/avernum/index.html",
+        "extras": true
+    },
+    {
         "name": "Awesomenauts",
         "url": "awesomenauts",
         "price": "9.99",
@@ -6537,6 +6756,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Geneforge Saga",
+        "url": "thegeneforgesaga/Sdwodk41",
+        "price": "30",
+        "description": "Get Geneforge 1-5 instantly! Enjoy these five hit, epic, indie RPGs, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/geneforge-saga",
+            "steam": "http://store.steampowered.com/sub/12171/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.spiderwebsoftware.com/geneforge5/index.html",
+        "extras": false
+    },
+    {
+        "name": "The Geneforge Saga Hint Books",
+        "url": "thegeneforgesaga_hintbooks/Sdwodk41",
+        "price": "15",
+        "description": "Get the five Geneforge hint books instantly, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/geneforge-saga",
+            "steam": "http://store.steampowered.com/sub/12171/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.spiderwebsoftware.com/geneforge5/index.html",
+        "extras": false
+    },  
+    {
         "name": "Generic Space Shooter",
         "url": "genericspaceshooter/Gkdow4",
         "price": "1",
@@ -10559,6 +10832,60 @@ var games = [
             "developer": "http://subalterngames.com/"
         },
         "notes": "The widget also includes a $30 tier for a 4-pack",
+        "extras": false
+    },
+    {
+        "name": "Nethergate: Ressurection (sic)",
+        "url": "nethergate_resurrection/Adkfow345j",
+        "price": "10",
+        "description": "Get Nethergate: Resurrection instantly! Enjoy the hit, epic, indie RPG, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rpgwatch.com/show/article?articleid=60",
+            "steam": "http://store.steampowered.com/app/218020/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.spiderwebsoftware.com/nethergateres/index.html",
+        "extras": false
+    },  
+    {   
+        "name": "Nethergate: Resurrection Hint Book",
+        "url": "nethergate_resurrectionhintbook/Adkfow345j",
+        "price": "6",
+        "description": "Get the Nethergate: Resurrection hint book instantly, cross-platform and DRM-free.",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rpgwatch.com/show/article?articleid=60",
+            "steam": "http://store.steampowered.com/app/218020/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.spiderwebsoftware.com/nethergateres/index.html",
         "extras": false
     },
     {
