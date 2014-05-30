@@ -50,7 +50,7 @@ var games = [
         "name": "1849",
         "url": "1849/bvncmbdfjhgURYT47",
         "price": "9.99",
-        "description": "Pre-Order 1849 now! Available for Windows and Mac DRM-free!",
+        "description": "Buy 1849 now! Available for Windows and Mac DRM-free!",
         "developer": "SomaSim",
         "platform": {
             "android": false,
@@ -68,7 +68,7 @@ var games = [
         "URL": {
             "developer": "http://www.somasim.com/"
         },
-        "notes": "Pre-order only, without access to beta builds.\nStore page: http://www.somasim.com/1849/buy.html",
+        "notes": "Store page: http://www.somasim.com/1849/buy.html",
         "extras": false
     },
     {
@@ -631,7 +631,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/250620/",
             "developer": "http://www.krillbite.com/"
         },
-        "notes": "No mention whatsoever about distribution method either on the widget or on the website. Just assumed it's a Steam key, like in the Humble Store.\nStore page: http://www.krillbite.com/ats/",
+        "notes": "No mention whatsoever about distribution method either on the widget or on the website. Just assumed it's a Steam key, like in the Humble Store.\nThe widget is no longer available on the game's website, so it was probably used for pre-order purposes only.",
         "extras": false
     },
     {
@@ -1103,6 +1103,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/250110/",
             "developer": "http://www.witchbeamgames.com/"
         },
+        "notes": "Store page: http://www.assaultandroidcactus.com/p/buy-cactus.html",
         "extras": false
     },
     {
@@ -1865,7 +1866,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/260250",
             "developer": "https://www.facebook.com/scientifically"
         },
-        "notes": "It's coming to Windows/Mac/Linux according to its Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=133210361",
+        "notes": "It's coming to Windows/Mac/Linux according to its Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=133210361 \n Widget no longer available on the game's website, so it was probably used with pre-order purposes only.",
         "extras": false
     },
     {
@@ -7742,8 +7743,8 @@ var games = [
     {
         "name": "Hammerwatch",
         "url": "hammerwatch?preview=Ths7GweR9csa",
-        "price": "8",
-        "description": "Pre-order now and when ready get Hammerwatch, cross-platform and DRM-free! Includes Steam key and soundtrack.",
+        "price": "7.99",
+        "description": "Buy Hammerwatch now! Cross-platform, DRM free, redeemable on Steam and includes the soundtrack.",
         "developer": "Crackshell",
         "platform": {
             "android": false,
@@ -7758,13 +7759,18 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Original Website: http://www.hammerwatch.com"
+        "URL": {
+            "review": "http://www.destructoid.com/review-hammerwatch-259822.phtml",
+            "steam": "http://store.steampowered.com/app/239070/",
+            "developer": "http://www.hammerwatch.com/"
+        },
+        "extras": false
     },
     {
         "name": "Hammerwatch 4-Pack",
         "url": "hammerwatch_4pack?preview=Ths7GweR9csa",
         "price": "24",
-        "description": "Pre-order now and when ready get a 4-Pack of Hammerwatch! Includes a Steam key and soundtrack.",
+        "description": "Buy Hammerwatch 4-pack now! Cross-platform, DRM free, redeemable on Steam and includes the soundtrack and giftable keys.",
         "developer": "Crackshell",
         "platform": {
             "android": false,
@@ -7779,7 +7785,13 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Original Website: http://www.hammerwatch.com"
+        "URL": {
+            "review": "http://www.destructoid.com/review-hammerwatch-259822.phtml",
+            "steam": "http://store.steampowered.com/app/239070/",
+            "developer": "http://www.hammerwatch.com/"
+        },
+        "notes": "Store page: http://www.hammerwatch.com/4pack.php",
+        "extras": false
     },
     {
         "name": "Hand of Fate",
@@ -8920,8 +8932,8 @@ var games = [
     {
         "name": "Jazzpunk",
         "url": "jazzpunk/asdo23Sikalwo1",
-        "price": "15",
-        "description": "Pre-Order Jazzpunk for Windows, Mac and Linux, all DRM-free. Available Feb 7, 2014!",
+        "price": "14.99",
+        "description": "Buy Jazzpunk now for Windows, Mac and Linux! Includes DRM-free builds and Steam key.",
         "developer": "Necrophone Games",
         "platform": {
             "android": false,
@@ -8931,12 +8943,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gamesradar.com/jazzpunk-review/",
+            "steam": "http://store.steampowered.com/app/250260/",
             "developer": "http://necrophonegames.com/"
         },
         "notes": "Store page: http://www.jazzpunk.net/",
@@ -9268,7 +9282,12 @@ var games = [
             "gog": false,
             "drm-free": false
         },
-        "notes": "Was on kickstarter"
+	"URL": {
+            "steam": "http://store.steampowered.com/app/227160",
+            "developer": "http://badlandstudio.com/"
+        },
+        "notes": "Store page: http://badlandstudio.com/Kinetic-Void/",
+        "extras": false
     },
     {
         "name": "Knight Squad",
@@ -12171,8 +12190,8 @@ var games = [
     {
         "name": "Pharaoh's Dance",
         "url": "pharaohsdance/Pasldk12k",
-        "price": "4.99",
-        "description": "Pre-order Pharaoh's Dance, DRM-free for PC and Mac!",
+        "price": "6.99",
+        "description": "Get Pharaoh's Dance now! DRM-free for PC, Mac, and Linux.",
         "developer": "Astro Assembly",
         "platform": {
             "android": false,
@@ -17836,8 +17855,8 @@ var games = [
         {
         "name": "Viscera Cleanup Detail",
         "url": "visceracleanupdetail/Vsu7Ysgd3Dg",
-        "price": "5",
-        "description": "Pre-order now and when it's ready, get Viscera Cleanup Detail, DRM-free! Includes early access builds and will include a Steam key if it is greenlit!",
+        "price": "7.99",
+        "description": "Buy now and get Viscera Cleanup Detail! Includes an early access build + early access Steam key!",
         "developer": "Runestorm",
         "platform": {
             "android": false,
@@ -17853,9 +17872,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+        "steam": "http://store.steampowered.com/app/246900/",
         "developer": "http://www.runestorm.com/"
         },
-        "notes": "$5.00 represents early access price and may increase in future. \n Has already been Greenlit and all purchases will be retroactively awarded a Steam key."
+        "notes": "Store page: http://www.runestorm.com/viscera",
+        "extras": false
     },
     {
         "name": "Volgarr The Viking",
@@ -18190,9 +18211,9 @@ var games = [
     },
     {
         "name": "Whispering Willows",
-        "url": "whisperingwillows?preview=CMeeWteE43cw",
-        "price": "10",
-        "description": "Pre-order now & get full game, cross-platform & DRM-free. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father.",
+        "url": "whisperingwillows_noouya/masLSKDJ329s",
+        "price": "14.99",
+        "description": "Full game for PC, Mac, and Linux. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father. DRM-Free.",
         "developer": "Night Light Interactive",
         "platform": {
             "android": false,
@@ -18207,14 +18228,17 @@ var games = [
             "gog": false,
             "drm-free": true
         },
+        "URL": {
+            "developer": "http://nightlightinteractive.com/"
+        },
         "notes": "Store page: http://nightlightinteractive.com/product/whispering-willows/",
         "extras": false
     },
     {
         "name": "Whispering Willows Special Edition",
-        "url": "whisperingwillows_se?preview=CMeeWteE43cw",
+        "url": "whisperingwillows_se_noouya/InbejD82nhdid",
         "price": "25",
-        "description": "Pre-order now & get full game, cross-platform & DRM-free. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father.",
+        "description": "Full game for PC, Mac, and Linux. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father. DRM-Free.",
         "developer": "Night Light Interactive",
         "platform": {
             "android": false,
@@ -18229,7 +18253,10 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "The Special Edition includes a soundtrack and an art book. \n Store page: http://nightlightinteractive.com/product/whispering-willows-se/",
+        "URL": {
+            "developer": "http://nightlightinteractive.com/"
+        },
+        "notes": "The Special Edition includes a soundtrack, an art book, and a wallpaper. \n Store page: http://nightlightinteractive.com/product/whispering-willows-se/",
         "extras": true
     },
     {
