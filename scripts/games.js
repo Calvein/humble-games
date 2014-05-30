@@ -9271,6 +9271,32 @@ var games = [
         "notes": "Was on kickstarter"
     },
     {
+        "name": "Knight Squad",
+        "url": "knightsquad/qLIdnk239hdji",
+        "price": "9.99",
+        "description": "Get Knight Squad instantly! Early Access on Steam!",
+        "developer": "Chainsawesome Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/294000",
+            "developer": "http://chainsawesomegames.com/"
+        },
+        "notes": "Store page: http://knightsquadgame.com/#video-wrapper",
+        "extras": false
+    },
+    {
         "name": "KRUNCH",
         "url": "krunch/Keus87Sgue",
         "price": "9.99",
