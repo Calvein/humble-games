@@ -17482,6 +17482,32 @@ var games = [
         }
     },
     {
+        "name": "Twin Robots",
+        "url": "twinrobots/pO99keikj2o",
+        "price": "4.99",
+        "description": "Get Twin Robots instantly! Cross-platform and DRM-free!",
+        "developer": "Thinice",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/twin-robots",
+            "developer": "http://www.thinicegames.com/"
+        },
+        "notes": "Store page: http://www.thinicegames.com/games/twin-robots/#Downloads",
+        "extras": false
+    },
+    {
         "name": "Two Brothers",
         "url": "twobrothers?preview=Twd5Fbr8Bsa",
         "price": "15",
