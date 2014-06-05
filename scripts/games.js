@@ -15727,6 +15727,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Space - The Return Of The Pixxelfrazzer",
+        "url": "space_thereturnofthepixxelfrazzer/NJIcrwjenvioe",
+        "price": "4",
+        "description": "Get Space - The Return Of The Pixxelfrazzer instantly! DRM-free.",
+        "developer": "Sorb",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.outofeight.info/2013/11/space-return-of-pixxelfrazzer-gameplay.html",
+            "desura": "http://www.desura.com/games/space-the-return-of-the-pixxelfrazzer",
+            "developer": "https://www.facebook.com/SoerbGames"
+        },
+        "notes": "Store page: http://spaceofficial.weebly.com/index.html",
+        "extras": false
+    },
+    {
         "name": "Space Corp Tycoon",
         "url": "spacecorptycoon/Nf4jlnD3",
         "price": "10",
@@ -16375,6 +16402,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Steamalot: Epoch's Journey",
+        "url": "steamalot_epochsjourney/asfdklhadfsTU12",
+        "price": "4.99",
+        "description": "Get the medieval steampunk tactical trading card game! Available on Windows and Mac DRM-free!",
+        "developer": "Risen Phoenix Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/steamalot-epochs-journey",
+            "developer": "http://www.risenphoenixstudios.com/home.html"
+        },
+        "notes": "Store page: http://www.risenphoenixstudios.com/store.html#wb_element_html__1398191134539_35",
+        "extras": false
+    },
+    {
         "name": "SteamWorld Dig",
         "url": "steamworlddig/BOUveorukvw",
         "price": "9.99",
@@ -16472,6 +16525,34 @@ var games = [
             "developer": "http://www.petermoorhead.com/"
         },
         "notes": "Store page: http://www.petermoorhead.com/stranded/#buynow",
+        "extras": false
+    },
+    {
+        "name": "Strata",
+        "url": "strata/Str7Gdu8Thgs",
+        "price": "3.99",
+        "description": "Get Strata instantly! Cross-platform and DRM-free.",
+        "developer": "Graveck",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/strata/review",
+            "desura": "http://www.desura.com/games/strata",
+            "steam": "http://store.steampowered.com/app/286380/",
+            "developer": "http://www.graveck.com/"
+        },
+        "notes": "Store page: http://www.graveck.com/strata/",
         "extras": false
     },
     {
