@@ -17477,6 +17477,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Useful Dead",
+        "url": "theusefuldead/Bdh7dTfe5sg",
+        "price": "2",
+        "description": "Buy now and get The Useful Dead, cross-platform and DRM-free.",
+        "developer": "Ian Campbell",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/the-useful-dead",
+            "developer": "http://www.bootdiskrevolution.com/blog/"
+        },
+        "notes": "Store page: http://bootdiskrevolution.com/",
+        "extras": false
+    },
+    {
         "name": "Thirty Flights of Loving",
         "url": "thirtyflightsofloving",
         "price": "5",
@@ -17576,7 +17602,43 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": false
-        }
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-tower-wars-234654.phtml",
+            "desura": "http://www.desura.com/games/tower-wars",
+            "steam" : "http://store.steampowered.com/app/214360/",
+            "developer": "http://www.svsgames.com/"
+        },
+        "notes": "Store page: http://www.towerwarsgame.com/store.html",
+        "extras": false
+    },
+    {
+        "name": "Tower Wars Soundtrack",
+        "url": "towerwars_soundtrack",
+        "price": "2.99",
+        "description": "Get the Tower Wars soundtrack now!",
+        "developer": "SuperVillain Studios",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-tower-wars-234654.phtml",
+            "desura": "http://www.desura.com/games/tower-wars",
+            "steam" : "http://store.steampowered.com/app/214360/",
+            "developer": "http://www.svsgames.com/"
+        },
+        "notes": "Store page: http://www.towerwarsgame.com/store.html",
+        "extras": false
     },
     {
         "name": "Transistor",
@@ -19058,6 +19120,32 @@ var games = [
             "desura": "http://www.desura.com/games/wyv-and-keep-temple-of-the-lost-idol",
             "developer": "http://www.jollycorpse.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "XCVB: The Full Version"",
+        "url": "xcvb_thefullversion/Xkdoe3",
+        "price": "1.50",
+        "description": "Get the Arcade Rage Madness and Mayhem of XCVB right now through the Humble Widget. With Over 20 Levels to Rage Through.",
+        "developer": "xcvb Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/xcvb",
+            "developer": "http://xcvbstudios.com/index.html"
+        },
+        "notes": "Store page: http://xcvbstudios.com/xcvb.html",
         "extras": false
     },
     {
