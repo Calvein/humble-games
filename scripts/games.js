@@ -1898,7 +1898,7 @@ var games = [
             "developer": "http://www.wadjeteyegames.com/"
         },
         "notes": "Can include a soundtrack ($17.99), or a soundtrack and production videos ($18.99).\nStore page: http://www.wadjeteyegames.com/games/blackwell-epiphany/",
-        "extras": false
+        "extras": true
     },
     {
         "name": "The Blackwell Legacy",
@@ -3748,6 +3748,33 @@ var games = [
             "desura": "http://www.desura.com/games/ctdv",
             "developer": "http://www.apathyworks.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Da New Guys",
+        "url": "danewguys/Bkdkwodk1",
+        "price": "9.99",
+        "description": "Get Da New Guys instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/1740",
+            "desura": "http://www.desura.com/games/da-new-guys",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/da-new-guys/",
         "extras": false
     },
     {
@@ -7108,6 +7135,34 @@ var games = [
             "desura": "http://www.desura.com/games/gateways",
             "developer": "http://www.smudgedcat.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Gemini Rue",
+        "url": "geminirue/Bkdkwodk1",
+        "price": "9.99",
+        "description": "Get Gemini Rue instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/1",
+            "desura": "http://www.desura.com/games/gemini-rue",
+            "steam": "http://store.steampowered.com/app/80310/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/gemini-rue/",
         "extras": false
     },
     {
@@ -13378,6 +13433,34 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/praetorians/"
     },
     {
+        "name": "Primordia",
+        "url": "primordia/Bkdkwodk1",
+        "price": "9.99",
+        "description": "Get Primordia instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/23408",
+            "desura": "http://www.desura.com/games/primordia",
+            "steam": "http://store.steampowered.com/app/227000/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/primordia/",
+        "extras": false
+    },
+    {
         "name": "Probability 0",
         "url": "probability0?preview=XE0rD4fbwCkb",
         "price": "7",
@@ -13541,6 +13624,34 @@ var games = [
             "developer": "http://zutgames.com/"
         },
         "notes": "Store page: http://pushcatgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Puzzle Bots",
+        "url": "puzzlebots/Bkdkwodk1",
+        "price": "4.99",
+        "description": "Get Puzzle Bots instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/18424",
+            "desura": "http://www.desura.com/games/puzzle-bots",
+            "steam": "http://store.steampowered.com/app/80300/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/puzzle-bots/",
         "extras": false
     },
     {
@@ -13919,6 +14030,34 @@ var games = [
             "developer": "http://frogdice.com/"
         },
         "notes": "Store page: http://frogdice.com/reignmaker/buy/",
+        "extras": false
+    },
+    {
+        "name": "Resonance",
+        "url": "resonance/Bkdkwodk1",
+        "price": "9.99",
+        "description": "Get Resonance instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/21793",
+            "desura": "http://www.desura.com/games/resonance",
+            "steam": "http://store.steampowered.com/app/212050/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/resonance/",
         "extras": false
     },
     {
