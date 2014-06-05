@@ -7162,7 +7162,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/80310/",
             "developer": "http://www.wadjeteyegames.com/"
         },
-        "notes": "Store page: http://www.wadjeteyegames.com/games/gemini-rue/",
+        "notes": "It probably includes Mac and Linux builds as well, since it was part of a Humble Bundle.\nStore page: http://www.wadjeteyegames.com/games/gemini-rue/",
         "extras": false
     },
     {
