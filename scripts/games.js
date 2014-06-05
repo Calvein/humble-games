@@ -8313,6 +8313,61 @@ var games = [
         "extras": false
     },
     {
+        "name": "Hexcells",
+        "url": "hexcells/Cdh7Tdhu8DF",
+        "price": "3",
+        "description": "Get Hexcells instantly! Cross-platform and DRM-free.",
+        "developer": "Matthew Brown",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/09/13/wot-i-think-hexcells/",
+            "desura": "http://www.desura.com/games/hexcells",
+            "steam": "http://store.steampowered.com/app/265890/",
+            "developer": "http://www.matthewbrowngames.com/"
+        },
+        "notes": "Store page: http://www.matthewbrowngames.com/hexcells.html",
+        "extras": false
+    },
+    {
+        "name": "Hexcells Plus",
+        "url": "hexcellsplus/Hduwo3",
+        "price": "3",
+        "description": "Get Hexcells Plus instantly! Cross-platform and DRM-free.",
+        "developer": "Matthew Brown",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/12/11/wot-i-think-hexcells-plus/",
+            "steam": "http://store.steampowered.com/app/271900/",
+            "developer": "http://www.matthewbrowngames.com/"
+        },
+        "notes": "Store page: http://www.matthewbrowngames.com/hexcellsplus.html",
+        "extras": false
+    },
+    {
         "name": "Hive",
         "url": "hive/Hiv7Thsy3RDe",
         "price": "9.99",
@@ -9999,6 +10054,33 @@ var games = [
             "developer": "http://www.threegates.se/",
         },
         "notes": "Store page: http://www.aethereusgame.com/Buy.html",
+        "extras": false
+    },
+    {
+        "name": "Legends of Dawn",
+        "url": "legendsofdawn?preview=Dwn7Gde8Khy",
+        "price": "19.99",
+        "description": "Buy now and get Legends of Dawn instantly! Includes Steam key.",
+        "developer": "Dreamatrix",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/07/16/legends-of-dawn-review",
+            "steam": "http://store.steampowered.com/app/234980/",
+            "developer": "http://www.dreamatrix.net/site/",
+        },
+        "notes": "Store page: http://www.dreamatrix.net/site/index.php/store.html",
         "extras": false
     },
     {
