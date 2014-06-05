@@ -8415,6 +8415,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Huntsman: The Orphanage",
+        "url": "huntsman_theorphanage/Hdkwodk2",
+        "price": "9.95",
+        "description": "Halloween Edition",
+        "developer": "Shadowshifters",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/huntsman-the-orphanage-review/1900-6415603/",
+            "desura": "http://www.desura.com/games/huntsman-the-orphanage",
+            "steam": "http://store.steampowered.com/app/246740/",
+            "developer": "http://www.shadowshifters.com"
+        },
+        "notes": "Store page: http://www.shadowshifters.com/games.html",
+        "extras": false
+    },
+    {
         "name": "Hyper Gauntlet",
         "url": "hypergauntlet_legacyofnozzlethrusteriii/BNOcnoeruwvnoi",
         "price": "5",
@@ -10552,6 +10580,61 @@ var games = [
         },
         "notes": "Store page: http://www.magneticbynature.com/",
         "extras": true
+    },
+    {
+        "name": "Marvin's Mittens",
+        "url": "marvinsmittens/Mdkwo1kd9ks",
+        "price": "4.99",
+        "description": "Marvin's Mittens presents a soothing world to explore, free from enemies and danger. Go on an adventure!",
+        "developer": "Breakfall",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamereviewer.com/review-marvins-mittens-rekindle-the-joys-of-exploring-a-winter-wonderland/",
+            "desura": "http://www.desura.com/games/marvins-mittens",
+            "developer": "http://breakfall.ca/"
+        },
+        "notes": "Store page: http://breakfall.ca/marvinsmittens#node-55",
+        "extras": false
+    },
+    {
+        "name": "Master Reboot",
+        "url": "masterreboot/Mskdowk3",
+        "price": "14.99",
+        "description": "Get Master Reboot instantly! Steam key for now, DRM-free builds coming later!",
+        "developer": "Wales Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.dualshockers.com/2014/03/04/review-master-reboot-intriguing-concept-flawed-execution/",
+            "desura": "http://www.desura.com/games/master-reboot",
+            "steam": "http://store.steampowered.com/app/251850/",
+            "developer": "http://www.walesinteractive.com"
+        },
+        "notes": "Store page: http://www.walesinteractive.com/#!master-reboot/c1vts",
+        "extras": false
     },
     {
         "name": "McDROID",
