@@ -17803,7 +17803,7 @@ var games = [
     {
         "name": "UFHO2",
         "url": "ufho2?preview=H8est5RwuSTa",
-        "price": "10.99",
+        "price": "9.99",
         "description": "Get UFHO2 instantly, cross-platform and DRM-free.",
         "developer": "Tiny Colossus",
         "platform": {
@@ -17823,7 +17823,7 @@ var games = [
             "desura": "http://www.desura.com/games/ufho2",
             "developer": "http://www.tinycolossus.com/"
         },
-        "notes": "Store page: http://www.tinycolossus.com/ufho2/",
+        "notes": "Currently on sale at 50% off for $4.99\nStore page: http://www.tinycolossus.com/ufho2/",
         "extras": false
     },
     {
