@@ -1818,6 +1818,145 @@ var games = [
         "extras": false
     },
     {
+        "name": "Blackwell Convergence",
+        "url": "blackwellconvergence/Bkdkwodk1",
+        "price": "4.99",
+        "description": "Get Blackwell Convergence instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/18322",
+            "desura": "http://www.desura.com/games/blackwell-legacy",
+            "steam": "http://store.steampowered.com/app/80350/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/blackwell-convergence/",
+        "extras": false
+    },
+    {
+        "name": "Blackwell Deception",
+        "url": "blackwelldeception/Bkdkwodk1",
+        "price": "9.99",
+        "description": "Get Blackwell Deception instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/18622",
+            "desura": "http://www.desura.com/games/blackwell-deception",
+            "steam": "http://store.steampowered.com/app/80360/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/blackwell-deception/",
+        "extras": false
+    },
+    {
+        "name": "Blackwell Epiphany",
+        "url": "blackwellepiphany_tiered/NUvron32nmk",
+        "price": "14.99",
+        "description": "-Get Blackwell Epiphany instantly and DRM-Free!",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/26375",
+            "steam": "http://store.steampowered.com/app/236930/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Can include a soundtrack ($17.99), or a soundtrack and production videos ($18.99).\nStore page: http://www.wadjeteyegames.com/games/blackwell-epiphany/",
+        "extras": false
+    },
+    {
+        "name": "The Blackwell Legacy",
+        "url": "theblackwelllegacy/Bkdkwodk1",
+        "price": "4.99",
+        "description": "Get Blackwell Legacy instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/18015",
+            "desura": "http://www.desura.com/games/blackwell-legacy",
+            "steam": "http://store.steampowered.com/app/80330/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/blackwell-legacy/",
+        "extras": false
+    },
+    {
+        "name": "Blackwell Unbound",
+        "url": "blackwellunbound/Bkdkwodk1",
+        "price": "4.99",
+        "description": "Get Blackwell Unbound instantly! DRM-free.",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/18102",
+            "desura": "http://www.desura.com/games/blackwell-legacy",
+            "steam": "http://store.steampowered.com/app/80340/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/games/blackwell-unbound/",
+        "extras": false
+    },
+    {
         "name": "Blade Symphony (Early Access Game)",
         "url": "bladesymphony",
         "price": "15",
