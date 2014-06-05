@@ -2827,6 +2827,33 @@ var games = [
         }
     },
     {
+        "name": "CoBots",
+        "url": "cobots/Ckdkso1kslak",
+        "price": "2.99",
+        "description": "Get CoBots instantly! Play single-player or locally with a friend!",
+        "developer": "Digital Tuna",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.dealspwn.com/cobots-review-160296",
+            "desura": "http://www.desura.com/games/cobots",
+            "developer": "http://www.digitaltunagames.com/"
+        },
+        "notes": "Store page: http://www.cobotsgame.com/",
+        "extras": false
+    },
+    {
         "name": "Coin Crypt (Beta Access)",
         "url": "coincrypt/Cdkwo1k2l",
         "price": "4.99",
@@ -3352,6 +3379,34 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/creatures-village/"
     },
     {
+        "name": "Croixleur Sigma",
+        "url": "croixleursigma/sEUb10DH49gg",
+        "price": "7.99",
+        "description": "60 FPS of high-speed, hack-&-slash arcade action! Battle your way through floors of oncoming monsters to emerge the Adjuvant Trial victor!",
+        "developer": "Souvenir Circ.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.usgamer.net/articles/croixleur-sigma-pc-review-hack-slash-dash",
+            "desura": "http://www.desura.com/games/croixleur-sigma",
+            "steam": "http://store.steampowered.com/app/250640",
+            "developer": "http://lost-identity.jp/souvenir/"
+        },
+        "notes": "Store page: http://croixleur.com/buy",
+        "extras": false
+    },
+    {
         "name": "Cryptic Sea EP",
         "url": "crypticseaep/Cry0Pe8Usgh",
         "price": "3",
@@ -3502,6 +3557,32 @@ var games = [
             "developer": "http://brushandcode.com/"
         },
         "notes": "Store page: http://cubicitygame.com/",
+        "extras": false
+    },
+    {
+        "name": "Cubit The Hardcore Platformer Robot Full",
+        "url": "cubitthehardcoreplatformerrobotfull/toInel094Djkl",
+        "price": "1",
+        "description": "Get Cubit The Hardcore Platformer Robot EX-tended instantly! Available on Windows, DRM-free!",
+        "developer": "CoderChild",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/cubit-the-hardcore-platformer-robot",
+            "developer": "http://coderchild.com/"
+        },
+        "notes": "Store page: http://www.coderchild.com/pay-what-you-want/",
         "extras": false
     },
     {
