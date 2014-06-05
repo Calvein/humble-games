@@ -16881,6 +16881,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Tabletop Simulator",
+        "url": "tabletopsimulator/CRvet45",
+        "price": "14.99",
+        "description": "Get Tabletop Simulator for Windows, Mac & Linux!",
+        "developer": "Berserk Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/286160",
+            "developer": "http://berserk-games.com/"
+        },
+        "notes": "Store page: http://www.berserk-games.com/buy/",
+        "extras": false
+    },
+    {
+        "name": "Tabletop Simulator 4-Pack",
+        "url": "tabletopsimulator_4pack/NJv43ve",
+        "price": "44.99",
+        "description": "Get Tabletop Simulator for you and your friends!",
+        "developer": "Berserk Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/286160",
+            "developer": "http://berserk-games.com/"
+        },
+        "notes": "Store page: http://www.berserk-games.com/buy/",
+        "extras": false
+    },
+    {
         "name": "Talisman Prologue",
         "url": "talismanprologuestandardedition?preview=hTHvuxEBSNCy",
         "price": "4.99",
@@ -19293,6 +19345,60 @@ var games = [
             "developer": "http://youarenotthehero.com/"
         },
         "notes": "Either a Steam key or a DRM-free download.",
+        "extras": true
+    },
+    {
+        "name": "Yrminsul",
+        "url": "yrminsul/nbuFfhOeui121",
+        "price": "14.99",
+        "description": "Get Yrminsul instantly! Cross-platform and DRM-free!",
+        "developer": "Studio Black Flag",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=7Pq8SCie5bQ",
+            "desura": "http://www.desura.com/games/yrminsul",
+            "developer": "http://studioblackflag.com/"
+        },
+        "notes": "Store page: http://studioblackflag.com/en/buy-game",
+        "extras": false
+    },
+    {
+        "name": "Yrminsul - Collector Edition",
+        "url": "yrminsul_collectoredition/zjeiuHRbeud22",
+        "price": "24.99",
+        "description": "Get Yrminsul instantly! Cross-platform and DRM-free! Collector Edition Content: Yrminsul + 112 Page Digital Comic Book + Yrminsul's OST!",
+        "developer": "Studio Black Flag",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.youtube.com/watch?v=7Pq8SCie5bQ",
+            "desura": "http://www.desura.com/games/yrminsul",
+            "developer": "http://studioblackflag.com/"
+        },
+        "notes": "Store page: http://studioblackflag.com/en/buy-game",
         "extras": true
     },
     {
