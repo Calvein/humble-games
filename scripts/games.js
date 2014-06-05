@@ -19098,6 +19098,62 @@ var games = [
         "extras": true
     },
     {
+        "name": "Windforge: The Diesel Pack",
+        "url": "windforge_thedieselpack/784587IDSWHeu29",
+        "price": "20",
+        "description": "Get the game for Windows, DRM-free plus a Steam key! Includes the digital manual, art book, wallpaper, and soundtrack!",
+        "developer": "Snowed In Studios Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.hardcoregamer.com/2014/03/10/review-windforge/77585/",
+            "desura": "http://www.desura.com/games/windforge",
+            "steam": "http://store.steampowered.com/app/266170/",
+            "developer": "http://snowedin.ca/"
+        },
+        "notes": "Store page: http://windforgegame.snowedin.ca/index.php?page=buy",
+        "extras": true
+    },
+    {
+        "name": "Windforge Soundtrack",
+        "url": "windforge_soundtrack/gewrehjg923874DH",
+        "price": "8",
+        "description": "Get the exclusive Windforge Soundtrack!",
+        "developer": "Snowed In Studios Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.hardcoregamer.com/2014/03/10/review-windforge/77585/",
+            "desura": "http://www.desura.com/games/windforge",
+            "steam": "http://store.steampowered.com/app/266170/",
+            "developer": "http://snowedin.ca/"
+        },
+        "notes": "Store page: http://windforgegame.snowedin.ca/index.php?page=buy",
+        "extras": false
+    },
+    {
         "name": "WizFight",
         "url": "wizfight/Wkdkwo1ldksl",
         "price": "3",
