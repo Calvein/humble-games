@@ -10896,6 +10896,32 @@ var games = [
         }
     },
     {
+        "name": "Monkey vs Robots",
+        "url": "monkeyvsrobots/Mse8Shs7Ga",
+        "price": "1.99",
+        "description": "Get Monkey vs Robots instantly! Direct download DRM-free for Windows.",
+        "developer": "Pixelatom",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/monkey-vs-robots",
+            "developer": "http://pixelatom.com/"
+        },
+        "notes": "Linux version coming soon.\nStore page: http://games.pixelatom.com/monkey-vs-robots/#buyitnow",
+        "extras": false
+    },
+    {
         "name": "Monochroma (Pre-order)",
         "url": "monochroma/Mdkwok4",
         "price": "19.99",
@@ -11175,6 +11201,32 @@ var games = [
         "developer": "http://astroassembly.com/"
         },
         "notes": "Store page: http://astroassembly.com/multilytheus/",
+        "extras": false
+    },
+    {
+    "name": "Musquare (sic)",
+    "url": "musquare/vjnNCKJRlkjnve",
+    "price": "2",
+    "description": "Get MuSquare instantly! DRM-free. Soundtrack is included!",
+    "developer": "toby3d",
+    "platform": {
+        "android": false,
+        "linux": false,
+        "windows": true,
+        "mac": false,
+        "audio": true
+    },
+    "drm": {
+        "steam": false,
+        "desura": false,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "desura": "http://www.desura.com/games/musquare",
+        "developer": "http://toby3d.ru/"
+        },
+        "notes": "Store page: http://toby3d.ru/MuSquare/",
         "extras": false
     },
     {
@@ -15555,6 +15607,31 @@ var games = [
             "drm-free": true
         },
         "notes": "Solar 2 is available for android. No clue if this gives it to you, but it doesn't say it does, so assuming not."
+    },
+    {
+        "name": "Somyeol HD",
+        "url": "somyeolhd/Dkwodkao23jk",
+        "price": "2.99",
+        "description": "Get Somyeol HD now for Windows and Android. Cross-platform and DRM-free. Mac OS version coming soon.",
+        "developer": "Brain Connected",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/somyeol-hd", 
+            "developer": "http://www.somyeol.com/"
+        },
+        "extras": false
     },
     {
         "name": "Soul Caster I and II",
