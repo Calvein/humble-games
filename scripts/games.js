@@ -5719,6 +5719,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Eleusis",
+        "url": "eleusis/Hdeie7GDey",
+        "price": "14.99",
+        "description": "Get Eleusis instantly! DRM-free for Windows. Includes a Steam key!",
+        "developer": "Nocturnal Works",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://egmr.net/2013/03/indie-review-eleusis/",
+            "desura": "http://www.desura.com/games/eleusis",
+            "steam": "http://store.steampowered.com/app/251310/",
+            "developer": "http://www.eleusisgame.com/"
+        },
+        "notes": "Store page: http://www.eleusisgame.com/Buy.html",
+        "extras": false
+    },
+    {
         "name": "Elliot Quest",
         "url": "elliotquest_regular/Ekdosk19ksl",
         "price": "9.99",
@@ -6556,6 +6584,33 @@ var games = [
             "developer": "http://fractgame.com/"
         },
         "notes": "No mention in the widget whatsoever about the distribution method. Supposed it's a DRM-free download and a Steam key just like in the Humble Store.\nStore page: http://fractgame.com/buy",
+        "extras": false
+    },
+    {
+        "name": "Fractured Soul",
+        "url": "fracturedsoul/Fwos56",
+        "price": "9.99",
+        "description": "Get Fractured Soul instantly! DRM-free.",
+        "developer": "Endgame Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-fractured-soul-pc--271612.phtml",
+            "desura": "http://www.desura.com/games/fractured-soul",
+            "developer": "http://endgamestudios.com/"
+        },
+        "notes": "Store page: http://www.endgamestudios.com/fracturedsoul/#availablenow",
         "extras": false
     },
     {
@@ -7563,6 +7618,34 @@ var games = [
             "desura": "http://www.desura.com/games/Gratuitous-Space-Battles",
             "developer": "http://www.positech.co.uk/"
         },
+        "extras": false
+    },
+    {
+        "name": "Gravity Badgers",
+        "url": "gravitybadgers/venijavIRNGSTkrt",
+        "price": "4.99",
+        "description": "Get Gravity Badgers instantly via Steam/Desura keys!",
+        "developer": "Wales Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": true,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.hardcoregamer.com/2013/12/02/review-gravity-badgers/64330/",
+            "desura": "http://www.desura.com/games/gravity-badgers",
+            "steam": "http://store.steampowered.com/app/267060/",
+            "developer": "http://www.walesinteractive.com/"
+        },
+        "notes": "Store page: http://www.walesinteractive.com/gravity-badgers/cbuf#!gravity-badgers/cbuf",
         "extras": false
     },
     {
