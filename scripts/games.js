@@ -533,6 +533,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Altitude0 (Pre-Order)",
+        "url": "altitude0_lowerandfaster/nvdodfjoJI22",
+        "price": "18.99",
+        "description": "Pre-order Altitude0, Air Racing Extreme, and play the beta immediately. Once game gets on Steam, Steam key will be given for free.",
+        "developer": "Gugila",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/altitude0",
+            "developer": "http://www.gugila.com/"
+        },
+        "notes": "Currently on sale at 21% off for $14.99 \n Store page: http://www.altitude0.com/buy",
+        "extras": false
+    },
+    {
         "name": "Always Sometimes Monsters",
         "url": "alwayssometimesmonsters/Aduh8T56sg",
         "price": "9.99",
@@ -977,6 +1003,33 @@ var games = [
             "developer": "http://firebase.ca/"
         },
         "notes": "Store page: http://firebase.ca/arcadecraft/",
+        "extras": false
+    },
+    {
+        "name": "ARMED SEVEN",
+        "url": "armedseven/Adkwodk2",
+        "price": "4.99",
+        "description": "Get ARMED SEVEN instantly! Cross-platform and DRM-free.",
+        "developer": "Nyu Media",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.capsulecomputers.com.au/2013/10/armed-seven-review/",
+            "desura": "http://www.desura.com/games/armed-seven",
+            "developer": "http://nyu-media.com/"
+        },
+        "notes": "Store page: http://armedseven.com/purchase",
         "extras": false
     },
     {
@@ -1815,6 +1868,32 @@ var games = [
             "desura": "http://www.desura.com/games/bleed",
             "developer": "http://bootdiskrevolution.com/"
         }
+    },
+    {
+        "name": "Block Blocks",
+        "url": "blockblocks/Bkdkwo1kdb",
+        "price": "2.99",
+        "description": "Get Block Blocks on Windows, Mac, and Android and all DRM-free!",
+        "developer": "Scott Washington",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/block-blocks",
+            "developer": "http://www.scottwashi.com/"
+        },
+        "notes": "Store page: http://www.blockblocks.com/",
+        "extras": false
     },
     {
         "name": "Blocks That Matter",
