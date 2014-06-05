@@ -8062,6 +8062,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "HassleHeart",
+        "url": "hassleheart/iBelkn62jdkds",
+        "price": "4.99",
+        "description": "Get HassleHeart beta instantly! When it's released you will receive the full game DRM-free for Windows and Mac!",
+        "developer": "Santa Clara Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/hassleheart",
+            "developer": "http://www.santaclaragames.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "HDF: Hexapod Defense Force",
+        "url": "hdf_hexapoddefenseforce/Hdkwok2910s",
+        "price": "1",
+        "description": "Get HDF instantly! Cross-platform and DRM-free.",
+        "developer": "Binary Cocoa",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/hexapod-defense-force",
+            "developer": "http://www.hdfgame.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Heart&Slash - GAME",
         "url": "heartandslash/qwm09NJ",
         "price": "10",
@@ -8159,6 +8209,31 @@ var games = [
             "developer": "http://terrivellmann.tumblr.com/"
         },
         "notes": "Store page: http://heavybullets.com/",
+        "extras": false
+    },
+    {
+        "name": "Hermi & Max",
+        "url": "hermiandmax/maoiGBD298bdx",
+        "price": "3",
+        "description": "Get Hermi & Max instantly! Available on Windows, DRM-free! [Suitable for Ages 16+]",
+        "developer": "Andrani",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/hermi-max",
+            "developer": "http://www.hermimax.com/index.html"
+        },
         "extras": false
     },
     {
