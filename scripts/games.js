@@ -17606,7 +17606,7 @@ var games = [
         "URL": {
             "review": "http://www.destructoid.com/review-tower-wars-234654.phtml",
             "desura": "http://www.desura.com/games/tower-wars",
-            "steam" : "http://store.steampowered.com/app/214360/",
+            "steam": "http://store.steampowered.com/app/214360/",
             "developer": "http://www.svsgames.com/"
         },
         "notes": "Store page: http://www.towerwarsgame.com/store.html",
@@ -17634,7 +17634,7 @@ var games = [
         "URL": {
             "review": "http://www.destructoid.com/review-tower-wars-234654.phtml",
             "desura": "http://www.desura.com/games/tower-wars",
-            "steam" : "http://store.steampowered.com/app/214360/",
+            "steam": "http://store.steampowered.com/app/214360/",
             "developer": "http://www.svsgames.com/"
         },
         "notes": "Store page: http://www.towerwarsgame.com/store.html",
@@ -19123,7 +19123,7 @@ var games = [
         "extras": false
     },
     {
-        "name": "XCVB: The Full Version"",
+        "name": "XCVB: The Full Version",
         "url": "xcvb_thefullversion/Xkdoe3",
         "price": "1.50",
         "description": "Get the Arcade Rage Madness and Mayhem of XCVB right now through the Humble Widget. With Over 20 Levels to Rage Through.",
