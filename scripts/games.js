@@ -2271,6 +2271,34 @@ var games = [
     "extras": false
 },
     {
+    "name": "Broken Age + Doc + Soundtrack",
+    "url": "brokenage_tier4/Bkdow42",
+    "price": "34.99",
+    "description": "Purchase your copy of Broken Age (DRM-free) + Soundtrack! Steam key is also included.",
+    "developer": "Double Fine Productions",
+    "platform": {
+        "android": false,
+        "linux": true,
+        "windows": true,
+        "mac": true,
+        "audio": true
+    },
+    "drm": {
+        "steam": true,
+        "desura": false,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "",
+        "steam": "",
+        "desura": "",
+        "developer": ""
+    },
+    "notes": "",
+    "extras": false
+},
+    {
         "name": "Candle",
         "url": "candle/Cdh8Yheg5Ff",
         "price": "15",
