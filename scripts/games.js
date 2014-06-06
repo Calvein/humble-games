@@ -607,7 +607,7 @@ var games = [
             "steam": "http://steamdb.info/sub/18177/",
             "developer": "http://www.doublefine.com/"
         },
-        "notes": "Includes 2 week documentary by 2 Player Productions"
+        "notes": "Includes 2 week documentary by 2 Player Productions",
         "extras": true
     },
     {
@@ -632,7 +632,7 @@ var games = [
         "URL": {
             "developer": "http://www.doublefine.com/"
         },
-        "notes": "Includes 2 week documentary by 2 Player Productions"
+        "notes": "Includes 2 week documentary by 2 Player Productions",
         "extras": true
     },
     {
@@ -2241,113 +2241,111 @@ var games = [
         }
     },
     {
-    "name": "Broken Age",
-    "url": "brokenage_tier1/Bkdow42",
-    "price": "24.99",
-    "description": "Purchase your copy of Broken Age, DRM-free! Steam key is also included.",
-    "developer": "Double Fine Productions",
-    "platform": {
-        "android": false,
-        "linux": true,
-        "windows": true,
-        "mac": true,
-        "audio": false
+        "name": "Broken Age",
+        "url": "brokenage_tier1/Bkdow42",
+        "price": "24.99",
+        "description": "Purchase your copy of Broken Age, DRM-free! Steam key is also included.",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+            "steam": "http://store.steampowered.com/app/232790/",
+            "developer": "http://doublefine.com/"
+        },
+        "extras": false
     },
-    "drm": {
-        "steam": true,
-        "desura": false,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
-        "steam": "http://store.steampowered.com/app/232790/",
-        "developer": "http://doublefine.com/"
-    },
-    "notes": "",
-    "extras": false
-},
     {
-    "name": "Broken Age + Soundtrack",
-    "url": "brokenage_tier2/Bkdow42",
-    "price": "29.99",
-    "description": "Purchase your copy of Broken Age (DRM-free) + Soundtrack! Steam key is also included.",
-    "developer": "Double Fine Productions",
-    "platform": {
-        "android": false,
-        "linux": true,
-        "windows": true,
-        "mac": true,
-        "audio": true
+        "name": "Broken Age + Soundtrack",
+        "url": "brokenage_tier2/Bkdow42",
+        "price": "29.99",
+        "description": "Purchase your copy of Broken Age (DRM-free) + Soundtrack! Steam key is also included.",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+            "steam": "http://store.steampowered.com/app/232790/",
+            "developer": "http://doublefine.com/"
+        },
+        "extras": false
     },
-    "drm": {
-        "steam": true,
-        "desura": false,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
-        "steam": "http://store.steampowered.com/app/232790/",
-        "developer": "http://doublefine.com/"
-    },
-    "notes": "",
-    "extras": false
-},
     {
-    "name": "Broken Age + Documentary",
-    "url": "brokenage_tier3/Bkdow42",
-    "price": "34.99",
-    "description": "Purchase your copy of Broken Age (DRM-free) and the documentary digital download! Steam key is also included.",
-    "developer": "Double Fine Productions",
-    "platform": {
-        "android": false,
-        "linux": true,
-        "windows": true,
-        "mac": true,
-        "audio": false
+        "name": "Broken Age + Documentary",
+        "url": "brokenage_tier3/Bkdow42",
+        "price": "34.99",
+        "description": "Purchase your copy of Broken Age (DRM-free) and the documentary digital download! Steam key is also included.",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+            "steam": "http://store.steampowered.com/app/232790/",
+            "developer": "http://doublefine.com/"
+        },
+        "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions",
+        "extras": true
     },
-    "drm": {
-        "steam": true,
-        "desura": false,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
-        "steam": "http://store.steampowered.com/app/232790/",
-        "developer": "http://doublefine.com/"
-    },
-    "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions",
-    "extras": true
-},
     {
-    "name": "Broken Age + Doc + Soundtrack",
-    "url": "brokenage_tier4/Bkdow42",
-    "price": "34.99",
-    "description": "Purchase your copy of Broken Age (DRM-free) + documentary digital download + soundtrack! Steam key is also included.",
-    "developer": "Double Fine Productions",
-    "platform": {
-        "android": false,
-        "linux": true,
-        "windows": true,
-        "mac": true,
-        "audio": true
+        "name": "Broken Age + Doc + Soundtrack",
+        "url": "brokenage_tier4/Bkdow42",
+        "price": "34.99",
+        "description": "Purchase your copy of Broken Age (DRM-free) + documentary digital download + soundtrack! Steam key is also included.",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+            "steam": "http://store.steampowered.com/app/232790/",
+            "developer": "http://doublefine.com/"
+        },
+        "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions",
+        "extras": true
     },
-    "drm": {
-        "steam": true,
-        "desura": false,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
-        "steam": "http://store.steampowered.com/app/232790/",
-        "developer": "http://doublefine.com/"
-    },
-    "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions",
-    "extras": true
-},
     {
         "name": "Candle",
         "url": "candle/Cdh8Yheg5Ff",
@@ -8228,6 +8226,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Hack 'n' Slash",
+        "url": "hacknslash/Hejei7Feye6ah",
+        "price": "19.99",
+        "description": "Purchase Hack 'n' Slack now! Redeemable on Steam for Windows, Mac, and Linux!",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.polygon.com/2014/3/21/5531492/double-fine-hack-n-slash",
+            "steam": "http://store.steampowered.com/app/246070/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Steam Early Access",
+        "extras": false
+    },
+    {
         "name": "Hack, Slash, Loot",
         "url": "hackslashloot/Hekdowkl3k",
         "price": "7",
@@ -8253,33 +8278,6 @@ var games = [
             "developer": "http://www.gooeyblob.com/"
         },
         "notes": "Store page: http://hackslashloot.com/purchase.html",
-        "extras": false
-    },
-    {
-        "name": "Hack 'n' Slash",
-        "url": "hacknslash/Hejei7Feye6ah",
-        "price": "19.99",
-        "description": "Purchase Hack 'n' Slack now! Redeemable on Steam for Windows, Mac, and Linux!",
-        "developer": "Double Fine Productions",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "review": "http://www.polygon.com/2014/3/21/5531492/double-fine-hack-n-slash",
-            "steam": "http://store.steampowered.com/app/246070/",
-            "developer": "http://www.doublefine.com/"
-        },
-        "notes": "Steam Early Access",
         "extras": false
     },
     {
