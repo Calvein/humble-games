@@ -17584,6 +17584,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Symphony",
+        "url": "symphony/Skdowdk2kjl",
+        "price": "10",
+        "description": "Thank you for your interest! Get a Steam key instantly and let us know what you think about the game in the Steam community hub!",
+        "developer": "Empty Clip Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/symphony-review/1900-6391218/",
+            "desura": "http://www.desura.com/games/symphony",
+            "steam": "http://store.steampowered.com/app/207750/",
+            "developer": "http://www.emptyclipstudios.com/"
+        },
+        "notes": "It probably includes DRM-free downloads and an Android version as well, as it was part of the Humble Bundle: PC and Android 10.\nStore page: http://www.symphonygame.com/symphony-news/december-2013-biggest-symphony-update-ever-just-released.html",
+        "extras": false
+    },
+    {
         "name": "Tabletop Simulator",
         "url": "tabletopsimulator/CRvet45",
         "price": "14.99",
@@ -18255,6 +18283,56 @@ var games = [
             "developer": "http://www.bootdiskrevolution.com/blog/"
         },
         "notes": "Store page: http://bootdiskrevolution.com/",
+        "extras": false
+    },
+    {
+        "name": "There Came An Echo",
+        "url": "therecameanecho/mbbhgureURYhJD38",
+        "price": "15",
+        "description": "Pre-order There Came an Echo and tell everyone you were there before it was cool! DRM-free copies will be available at launch!",
+        "developer": "Iridium Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playiridium.com/"
+        },
+        "notes": "OS X and Linux versions will come some time after release.\nStore page: http://www.playiridium.com/games",
+        "extras": false
+    },
+    {
+        "name": "There Came An Echo + Soundtrack Bundle",
+        "url": "therecameanecho_soundtrackbundle/uyerdvbBDGF83",
+        "price": "20",
+        "description": "Alongside a copy of There Came an Echo, pick up the amazing soundtrack for only $5 more! Composed by Ronald Jenkees and Jimmy Hinson!",
+        "developer": "Iridium Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playiridium.com/"
+        },
+        "notes": "OS X and Linux versions will come some time after release.\nStore page: http://www.playiridium.com/games",
         "extras": false
     },
     {
