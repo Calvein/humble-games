@@ -481,6 +481,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Aeon Command",
+        "url": "aeoncommand/Aekdowk2",
+        "price": "2.99",
+        "description": "Get Aeon Command instantly! Cross-platform and DRM free!",
+        "developer": "Bat Country Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamehq.com/review/aeon-command-by-bat-country-games/",
+            "desura": "http://www.desura.com/games/aeon-command",
+            "developer": "http://www.aeoncommand.com/"
+        },
+        "notes": "Store page: http://www.aeoncommand.com/#humblewidget",
+        "extras": false
+    },
+    {
         "name": "Aeternum",
         "url": "aeternum/Ajdjwi12kdj",
         "price": "2.99",
@@ -6778,6 +6805,34 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/football-director/"
     },
     {
+        "name": "Fortix 2",
+        "url": "fortix2/Fdfo2",
+        "price": "1.99",
+        "description": "As Sir Fortix, you must conquer castles while dodging tower turrets and evil monsters. Come play this new take on a classic arcade style!",
+        "developer": "Nemesys Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2011/05/24/fortix-2-review",
+            "desura": "http://www.desura.com/games/fortix-2",
+            "steam": "http://store.steampowered.com/app/45450/",
+            "developer": "http://www.nemesys.hu/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.fortix2.com/#blog",
+        "extras": false
+    },
+    {
         "name": "FOTONICA",
         "url": "fotonica",
         "price": "9.99",
@@ -11212,6 +11267,33 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Metal Dead",
+        "url": "metaldead/hjfghiureEYRU74",
+        "price": "4.99",
+        "description": "Get Metal Dead instantly! DRM-free! Old-school point and click adventure mayhem!",
+        "developer": "Walk Thru Walls Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://jtmgames.com/2012/04/18/metal-dead-pc-review/",
+            "desura": "http://www.desura.com/games/metal-dead",
+            "developer": "http://www.walkthruwalls.com/"
+        },
+        "notes": "Store page: http://www.walkthruwalls.com/#buy",
+        "extras": false
     },
     {
         "name": "Micron",
