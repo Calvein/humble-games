@@ -3421,6 +3421,56 @@ var games = [
         }
     },
     {
+        "name": "Cosmic Star Heroine Regular Edition",
+        "url": "cosmicstarheroine_regular/CsdSjkdk2",
+        "price": "10",
+        "description": "Cosmic Star Heroine Pre-Order for Windows, Mac, and Linux.",
+        "developer": "Zeboyd Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://zeboyd.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the developer's website.\nStore page: http://zeboyd.com/2013/06/25/zeboyd-games-is-proud-to-announce-cosmic-star-heroine/",
+        "extras": false
+    },
+    {
+        "name": "Cosmic Star Heroine Special Edition",
+        "url": "cosmicstarheroine_special/CsdSjkdk2",
+        "price": "25",
+        "description": "Cosmic Star Heroine Pre-Order for Windows, Mac, and Linux. Plus digital soundtrack, art book, strategy guide, wallpaper, and forum avatars.",
+        "developer": "Zeboyd Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://zeboyd.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the developer's website.\nStore page: http://zeboyd.com/2013/06/25/zeboyd-games-is-proud-to-announce-cosmic-star-heroine/",
+        "extras": true
+    },
+    {
         "name": "Cosmochoria - Digital Game Pre-Order",
         "url": "cosmochoria/dsrghafsdEU33",
         "price": "12",
@@ -8492,6 +8542,58 @@ var games = [
             "desura": "http://www.desura.com/games/hassleheart",
             "developer": "http://www.santaclaragames.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Haunt the House: Terrortown",
+        "url": "hauntthehouse_terrortown/Tekds1kk",
+        "price": "4.99",
+        "description": "Get your copy of Haunt the House: Terrortown! Available in Windows and Mac OS, DRM-free + Steam!",
+        "developer": "SFB Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/270630/",
+            "developer": "http://sfbgames.com/"
+        },
+        "notes": "Store page: http://hauntthehouse.com/",
+        "extras": false
+    },
+    {
+        "name": "Haunt the House: Terrortown OST",
+        "url": "hauntthehouse_terrortown_ost/Tekds1kk",
+        "price": "2",
+        "description": "Get the Haunt the House: Terrortown OST instantly and DRM-free, as both MP3 and FLAC!",
+        "developer": "SFB Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/270630/",
+            "developer": "http://sfbgames.com/"
+        },
+        "notes": "Store page: http://hauntthehouse.com/",
         "extras": false
     },
     {
