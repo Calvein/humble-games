@@ -585,7 +585,7 @@ var games = [
         "extras": false
     },
     {
-        "name": "Amnesia Fortnight Bundle",
+        "name": "Amnesia Fortnight 2012",
         "url": "amnesiafortnight_store",
         "price": "9.99",
         "description": "Buy Amnesia Fortnight 2012 and instantly get 8 game prototypes by Double Fine, DRM-free and on Steam! Soundtrack and production videos included!",
@@ -607,7 +607,33 @@ var games = [
             "steam": "http://steamdb.info/sub/18177/",
             "developer": "http://www.doublefine.com/"
         },
-        "extras": false
+        "notes": "Includes 2 week documentary by 2 Player Productions"
+        "extras": true
+    },
+    {
+        "name": "Amnesia Fortnight 2014",
+        "url": "amnesiafortnight2014_store/vnoru23MK",
+        "price": "9.99",
+        "description": "Buy Amnesia Fortnight 2014 and instantly get 4 game prototypes by Double Fine, DRM-free and on Steam! Soundtrack and production videos included!",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Includes 2 week documentary by 2 Player Productions"
+        "extras": true
     },
     {
         "name": "Amnesia: A Machine for Pigs",
@@ -2234,10 +2260,9 @@ var games = [
         "drm-free": true
     },
     "URL": {
-        "review": "",
-        "steam": "",
-        "desura": "",
-        "developer": ""
+        "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+        "steam": "http://store.steampowered.com/app/232790/",
+        "developer": "http://doublefine.com/"
     },
     "notes": "",
     "extras": false
@@ -2262,19 +2287,45 @@ var games = [
         "drm-free": true
     },
     "URL": {
-        "review": "",
-        "steam": "",
-        "desura": "",
-        "developer": ""
+        "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+        "steam": "http://store.steampowered.com/app/232790/",
+        "developer": "http://doublefine.com/"
     },
     "notes": "",
     "extras": false
 },
     {
+    "name": "Broken Age + Documentary",
+    "url": "brokenage_tier3/Bkdow42",
+    "price": "34.99",
+    "description": "Purchase your copy of Broken Age (DRM-free) and the documentary digital download! Steam key is also included.",
+    "developer": "Double Fine Productions",
+    "platform": {
+        "android": false,
+        "linux": true,
+        "windows": true,
+        "mac": true,
+        "audio": false
+    },
+    "drm": {
+        "steam": true,
+        "desura": false,
+        "gog": false,
+        "drm-free": true
+    },
+    "URL": {
+        "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+        "steam": "http://store.steampowered.com/app/232790/",
+        "developer": "http://doublefine.com/"
+    },
+    "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions",
+    "extras": true
+},
+    {
     "name": "Broken Age + Doc + Soundtrack",
     "url": "brokenage_tier4/Bkdow42",
     "price": "34.99",
-    "description": "Purchase your copy of Broken Age (DRM-free) + Soundtrack! Steam key is also included.",
+    "description": "Purchase your copy of Broken Age (DRM-free) + documentary digital download + soundtrack! Steam key is also included.",
     "developer": "Double Fine Productions",
     "platform": {
         "android": false,
@@ -2290,13 +2341,12 @@ var games = [
         "drm-free": true
     },
     "URL": {
-        "review": "",
-        "steam": "",
-        "desura": "",
-        "developer": ""
+        "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+        "steam": "http://store.steampowered.com/app/232790/",
+        "developer": "http://doublefine.com/"
     },
-    "notes": "",
-    "extras": false
+    "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions",
+    "extras": true
 },
     {
         "name": "Candle",
@@ -8203,6 +8253,33 @@ var games = [
             "developer": "http://www.gooeyblob.com/"
         },
         "notes": "Store page: http://hackslashloot.com/purchase.html",
+        "extras": false
+    },
+    {
+        "name": "Hack 'n' Slash",
+        "url": "hacknslash/Hejei7Feye6ah",
+        "price": "19.99",
+        "description": "Purchase Hack 'n' Slack now! Redeemable on Steam for Windows, Mac, and Linux!",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.polygon.com/2014/3/21/5531492/double-fine-hack-n-slash",
+            "steam": "http://store.steampowered.com/app/246070/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Steam Early Access",
         "extras": false
     },
     {
