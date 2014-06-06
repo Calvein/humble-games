@@ -1289,6 +1289,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Auditorium",
+        "url": "auditorium/OISDHFJhkjlhluiguk",
+        "price": "6.99",
+        "description": "Get Auditorium instantly! Windows and Mac, DRM-free.",
+        "developer": "Cipher Prime Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/auditorium/review",
+            "desura": "http://www.desura.com/games/auditorium",
+            "steam": "http://store.steampowered.com/app/205870/",
+            "developer": "http://www.cipherprime.com/"
+        },
+        "notes": "Store page: http://www.cipherprime.com/mayday",
+        "extras": false
+    },
+    {
         "name": "Avadon: The Black Fortress",
         "url": "avadon_theblackfortress/Sdwodk41",
         "price": "20",
@@ -6963,6 +6991,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Fractal",
+        "url": "fractal/sjadkhjklajklhALKJH",
+        "price": "6.99",
+        "description": "Get Fractal instantly! Cross-platform and DRM-free.",
+        "developer": "Cipher Prime Studios",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/fractal-make-blooms-not-war-review/1900-6348178/",
+            "desura": "http://www.desura.com/games/fractal",
+            "steam": "http://store.steampowered.com/app/61310/",
+            "developer": "http://www.cipherprime.com/"
+        },
+        "notes": "Store page: http://www.cipherprime.com/mayday",
+        "extras": false
+    },
+    {
         "name": "Fractured Soul",
         "url": "fracturedsoul/Fwos56",
         "price": "9.99",
@@ -9443,6 +9499,33 @@ var games = [
             "developer": "http://www.themgames.net/"
         },
         "notes": "Immediate access to early stable builds of the game.\nAndroid version scheduled for later release.\nStore page: http://www.themgames.net/insynch/",
+        "extras": false
+    },
+    {
+        "name": "Intake",
+        "url": "intake/Idkwldk1ke",
+        "price": "9.99",
+        "description": "Get Intake instantly! Windows, Mac, and DRM-free.",
+        "developer": "Cipher Prime Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/intake-review/1900-6415542/",
+            "steam": "http://store.steampowered.com/app/237760/",
+            "developer": "http://www.cipherprime.com/"
+        },
+        "notes": "Store page: http://www.cipherprime.com/mayday",
         "extras": false
     },
     {
@@ -13943,6 +14026,31 @@ var games = [
         }
     },
     {
+        "name": "Pulse: Volume One",
+        "url": "pulse/sjadkhjklajklhALKJH",
+        "price": "2.99",
+        "description": "Get Pulse instantly for Android, DRM-free!",
+        "developer": "Cipher Prime Studios",
+        "platform": {
+            "android": true,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.cipherprime.com/"
+        },
+        "notes": "Store page: http://www.cipherprime.com/mayday",
+        "extras": false
+    },  
+    {
         "name": "Pushcat",
         "url": "pushcat/Pslek2ldkso",
         "price": "4",
@@ -16709,6 +16817,33 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Splice",
+        "url": "splice/wfehlLLAJFHE",
+        "price": "9.99",
+        "description": "Get Splice instantly! Cross-platform and DRM-free.",
+        "developer": "Cipher Prime Studios",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/games/splice/review",
+            "steam": "http://store.steampowered.com/app/209790/",
+            "developer": "http://www.cipherprime.com/"
+        },
+        "notes": "Store page: http://www.cipherprime.com/games/splice#images-649",
+        "extras": false
     },
     {
         "name": "Spud's Quest",
