@@ -604,10 +604,9 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "steam": "http://steamdb.info/sub/18177/",
             "developer": "http://www.doublefine.com/"
         },
-        "notes": "Includes 2 week documentary by 2 Player Productions",
+        "notes": "Includes 2 week documentary by 2 Player Productions.\nStore page: http://www.doublefine.com/fortnight#humble",
         "extras": true
     },
     {
@@ -2260,10 +2259,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+            "review": "http://www.ign.com/articles/2014/01/16/broken-age-act-i-review",
             "steam": "http://store.steampowered.com/app/232790/",
             "developer": "http://doublefine.com/"
         },
+        "notes": "Store page: http://www.brokenagegame.com/buy/",
         "extras": false
     },
     {
@@ -2286,10 +2286,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+            "review": "http://www.ign.com/articles/2014/01/16/broken-age-act-i-review",
             "steam": "http://store.steampowered.com/app/232790/",
             "developer": "http://doublefine.com/"
         },
+        "notes": "Store page: http://www.brokenagegame.com/buy/",
         "extras": false
     },
     {
@@ -2312,11 +2313,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+            "review": "http://www.ign.com/articles/2014/01/16/broken-age-act-i-review",
             "steam": "http://store.steampowered.com/app/232790/",
             "developer": "http://doublefine.com/"
         },
-        "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions",
+        "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions.\nStore page: http://www.brokenagegame.com/buy/",
         "extras": true
     },
     {
@@ -2339,11 +2340,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.metacritic.com/game/pc/broken-age-act-1",
+            "review": "http://www.ign.com/articles/2014/01/16/broken-age-act-i-review",
             "steam": "http://store.steampowered.com/app/232790/",
             "developer": "http://doublefine.com/"
         },
-        "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions",
+        "notes": "Includes the Double Fine Adventure documantary series by 2 Player Productions.\nStore page: http://www.brokenagegame.com/buy/",
         "extras": true
     },
     {
@@ -3465,6 +3466,34 @@ var games = [
             "developer": "http://www.defectivestudios.com/"
         },
         "notes": "Store page: http://www.defectivestudios.com/cosmoknots/#buy",
+        "extras": false
+    },
+    {
+        "name": "Costume Quest",
+        "url": "costumequest/venor32ER",
+        "price": "9.99",
+        "description": "Get Costume Quest instantly DRM-Free! Includes soundtrack and Steam key.",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2011/10/21/costume-quest-pc-review/",
+            "desura": "http://www.desura.com/games/costume-quest",
+            "steam": "http://store.steampowered.com/app/115100/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://www.doublefine.com/games",
         "extras": false
     },
     {
@@ -8249,7 +8278,34 @@ var games = [
             "steam": "http://store.steampowered.com/app/246070/",
             "developer": "http://www.doublefine.com/"
         },
-        "notes": "Steam Early Access",
+        "notes": "Steam Early Access.\nStore page: http://www.hacknslashthegame.com/buy",
+        "extras": false
+    },
+    {
+        "name": "Hack 'n' Slash + Soundtrack",
+        "url": "hacknslash_withsoundtrack/Hejei7Feye6ah",
+        "price": "24.99",
+        "description": "Purchase Hack 'n' Slack now! Redeemable on Steam for Windows, Mac, and Linux! Include the original soundtrack.",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.polygon.com/2014/3/21/5531492/double-fine-hack-n-slash",
+            "steam": "http://store.steampowered.com/app/246070/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Steam Early Access,\nStore page: http://www.hacknslashthegame.com/buy",
         "extras": false
     },
     {
