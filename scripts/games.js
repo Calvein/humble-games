@@ -6896,7 +6896,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": false
@@ -6907,7 +6907,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/45450/",
             "developer": "http://www.nemesys.hu/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.fortix2.com/#blog",
+        "notes": "Store page: http://www.fortix2.com/#blog",
         "extras": false
     },
     {
