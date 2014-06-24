@@ -15465,6 +15465,58 @@ var games = [
         }
     },
     {
+        "name": "Secret Ponchos (Early Access)",
+        "url": "secretponchos",
+        "price": "14.99",
+        "description": "Join Early Access and get Secret Ponchos instantly! DRM-free. *Bonus Early Access Supporters get 1 free DLC character on its release!",
+        "developer": "Switchblade Monkeys Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/265750/",
+            "developer": "http://secretponchos.com/"
+        },
+        "notes": "Store page: http://secretponchos.com/steam-early-access",
+        "extras": true
+    },
+    {
+        "name": "Secret Ponchos - Posse Pack",
+        "url": "secretponchos_possepack",
+        "price": "44.99",
+        "description": "Join Early Access Posse Pack and get Secret Ponchos instantly! DRM-free. Get 4 copies for the price of 3 and give them to your friends.",
+        "developer": "Switchblade Monkeys Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/265750/",
+            "developer": "http://secretponchos.com/"
+        },
+        "notes": "Store page: http://secretponchos.com/steam-early-access",
+        "extras": true
+    },
+    {
         "name": "Secrets of Grindea [Early Access]",
         "url": "secretsofgrindea_tier1/vrk2DVR",
         "price": "15",
