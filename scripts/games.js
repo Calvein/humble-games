@@ -6653,7 +6653,7 @@ var games = [
     {
         "name": "Fancy Skulls",
         "url": "fancyskulls/Fdkwo1ksl",
-        "price": "5.99",
+        "price": "8.99",
         "description": "Get Fancy Skulls alpha instantly! DRM-free for Mac, PC and Linux.",
         "developer": "tequibo",
         "platform": {
@@ -6664,7 +6664,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -6672,7 +6672,7 @@ var games = [
         "URL": {
             "developer": "http://tequibo.com/"
         },
-        "notes": "Currently on sale at 40% off, regular price is $9.99. \n Store page: http://fancyskulls.com/ \n Steam key available if/when the game gets Greenlit",
+        "notes": "Store page: http://fancyskulls.com/",
         "extras": false
     },
     {
@@ -17216,12 +17216,12 @@ var games = [
     {
         "name": "Steam Marines",
         "url": "steammarines/Sdg6Reg5Fs",
-        "price": "9.99",
+        "price": "14.99",
         "description": "Get Steam Marines now for PC/Mac and DRM-free!",
         "developer": "Worthless Bums",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
@@ -17235,8 +17235,10 @@ var games = [
         "URL": {
             "review": "http://indie-love.com/2013/02/06/steam-marines-alpha/",
             "desura": "http://www.desura.com/games/steammarines",
+            "steam": "http://store.steampowered.com/app/253630/",
             "developer": "http://www.worthlessbums.com/"
         },
+        "notes": "Store page: http://www.steammarines.com/",
         "extras": false
     },
     {
@@ -19073,7 +19075,7 @@ var games = [
     {
         "name": "Twin Robots",
         "url": "twinrobots/pO99keikj2o",
-        "price": "4.99",
+        "price": "2.49",
         "description": "Get Twin Robots instantly! Cross-platform and DRM-free!",
         "developer": "Thinice",
         "platform": {
@@ -20173,10 +20175,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "Pre-Order Xenonauts",
+        "name": "Xenonauts",
         "url": "xenonautsstrategicplanetarydefencesimulator?preview=nR8dyC0hW0dE",
-        "price": "19.99",
-        "description": "Pre-Order Xenonauts and instantly get the latest development build as well as a Steam key for Early Access!",
+        "price": "24.99",
+        "description": "Get Xenonauts now! DRM-free and redeemable via Steam. - Mac / Linux versions are WINE wrappers.",
         "developer": "Goldhawk Interactive",
         "platform": {
             "android": false,
@@ -20191,7 +20193,8 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "\"The Mac port should work natively, but the Linux port will function through an in-built Wine wrapper due to our engine\" Store page: http://www.xenonauts.com/pre-order/"
+        "notes": "Store page: http://www.xenonauts.com/pre-order/",
+        "extras": false
     },
     {
         "name": "You Are Not The Hero",
