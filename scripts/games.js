@@ -1638,6 +1638,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Barkley 2: B-Ball Edition",
+        "url": "barkley2_tier1/C6RorDKXtKgd",
+        "price": "10",
+        "description": "Pre-order Barkley 2 now! The game will be released in late 2013 or early 2014. Promise!",
+        "developer": "Tales of Game's Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.talesofgames.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the developer's website.\nStore page: http://www.talesofgames.com/order-barkley-2/",
+        "extras": false
+    },
+    {
+        "name": "Barkley 2: XJAM Edition",
+        "url": "barkley2_tier2/C6RorDKXtKgd",
+        "price": "25",
+        "description": "Pre-order Barkley 2 now! Includes original soundtrack and wallpaper.",
+        "developer": "Tales of Game's Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.talesofgames.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the developer's website.\nStore page: http://www.talesofgames.com/order-barkley-2/",
+        "extras": true
+    },
+    {
+        "name": "Barkley 2: Doom Murder Edition",
+        "url": "barkley2_tier3/C6RorDKXtKgd",
+        "price": "60",
+        "description": "Pre-order Barkley 2 now! Includes original soundtrack and wallpaper.",
+        "developer": "Tales of Game's Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.talesofgames.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the developer's website.\nStore page: http://www.talesofgames.com/order-barkley-2/",
+        "extras": true
+    },
+    {
         "name": "Bastion",
         "url": "bastion",
         "price": "14.99",
