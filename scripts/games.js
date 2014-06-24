@@ -2705,6 +2705,106 @@ var games = [
         "extras": false
     },
     {
+        "name": "Chaos Reborn: Apprentice",
+        "url": "chaosreborn_apprentice/bwywefv873gc81",
+        "price": "20",
+        "description": "Includes the game (cross-platform, DRM-free, Steam key), early access to Alpha/Beta versions, PDF art book, game guide, and music! Pre-order now!",
+        "developer": "Snapshot Games Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.chaos-reborn.com/back-us"
+        },
+        "notes": "Store page: http://www.chaos-reborn.com/back-us",
+        "extras": true
+    },
+    {
+        "name": "Chaos Reborn: Forgemaster",
+        "url": "chaosreborn_forgemaster/cve62bgOEy2",
+        "price": "35",
+        "description": "Includes game (cross-platform, DRM-free, Steam key), Alpha/Beta early access, PDF art book, game guide, music, personalized equipment! (Pre-order)",
+        "developer": "Snapshot Games Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.chaos-reborn.com/back-us"
+        },
+        "notes": "Store page: http://www.chaos-reborn.com/back-us",
+        "extras": true
+    },
+    {
+        "name": "Chaos Reborn: Wizard Lord",
+        "url": "chaosreborn_wizardlord/vxy6evEi2t",
+        "price": "50",
+        "description": "Game, DRM free + Steam key, Alpha/Beta versions, PDF art/game book, music, personalized equipment, Lord status, noble creature skins! (Pre-order)",
+        "developer": "Snapshot Games Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.chaos-reborn.com/back-us"
+        },
+        "notes": "Store page: http://www.chaos-reborn.com/back-us",
+        "extras": true
+    },
+    {
+        "name": "Chaos Reborn: Wizard King",
+        "url": "chaosreborn_wizardking/bvcy6wu27",
+        "price": "100",
+        "description": "Game, DRM free + Steam key, alpha/beta versions, PDF art/game book, music, personalized equipment, King status, royal creature skins! (Pre-order)",
+        "developer": "Snapshot Games Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.chaos-reborn.com/back-us"
+        },
+        "notes": "Store page: http://www.chaos-reborn.com/back-us",
+        "extras": true
+    },
+    {
         "name": "Chasm - Bronze",
         "url": "chasm_bronze?preview=wyr5mV9sPvVd",
         "price": "15",
