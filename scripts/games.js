@@ -14720,6 +14720,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Rebuild: Gangs of Deadsville",
+        "url": "rebuild_gangsofdeadsville/Gkdowks291l",
+        "price": "15",
+        "description": "Pre-order Rebuild now! When it's ready, get the game Cross-platform, DRM-free, and Steam key!",
+        "developer": "Sarah Northway",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/257170/",
+            "developer": "http://www.northwaygames.com/"
+        },
+        "notes": "Store page: http://rebuildgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Rebuild: Gangs of Survivalist Edition",
+        "url": "rebuild_gangssurvivalist/Gkdowks291l",
+        "price": "25",
+        "description": "Pre-order Rebuild 3: Gangs of Deadsville and get bonus desktop versions of Rebuild 1 & 2, plus a PDF artbook, and early Alpha access.",
+        "developer": "Sarah Northway",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/257170/",
+            "developer": "http://www.northwaygames.com/"
+        },
+        "notes": "Store page: http://rebuildgame.com/",
+        "extras": true
+    },
+    {
         "name": "Receiver",
         "url": "receiver",
         "price": "4.99",
@@ -17805,6 +17857,31 @@ var games = [
             "steam": "http://store.steampowered.com/app/212110/",
             "developer": "http://www.turtle-cream.com/"
         }
+    },
+    {
+        "name": "SUNLESS SEA",
+        "url": "sunlesssea/Iwjdkf293lek",
+        "price": "18.99",
+        "description": "Purchase via Humble Bundle",
+        "developer": "Failbetter Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://failbettergames.com/"
+        },
+        "notes": "http://sunlessseagame.com/buy",
+        "extras": false
     },
     {
         "name": "Super Distro Horizons Vs. Galaximo's Army",
