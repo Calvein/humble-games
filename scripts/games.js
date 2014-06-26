@@ -7576,6 +7576,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Galcon Legends",
+        "url": "galconlegends/Gdkwo2",
+        "price": "9.99",
+        "description": "Get Galcon Legends instantly! Cross-platform and DRM-free and on Steam.",
+        "developer": "Hassey Enterprises, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.twinfinite.net/2014/01/20/galcon-legends-review-supersonic-strategy/",
+            "steam": "http://store.steampowered.com/app/201040/",
+            "developer": "http://www.philhassey.com/blog/"
+        },
+        "notes": "Store page: http://www.galcon.com/legends/",
+        "extras": false
+    },
+    {
         "name": "Game Dev Tycoon",
         "url": "gamedevtycoon/Gamdkwo1",
         "price": "9.99",
@@ -10904,6 +10931,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Legends of Eisenwald",
+        "url": "legendsofeisenwald/Ldhe7Tdge6Sg",
+        "price": "15",
+        "description": "Get Legends of Eisenwald beta instantly! Steam keys Early Access and DRM-free.",
+        "developer": "Aterdux Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/legends-of-eisenwald",
+            "steam": "http://store.steampowered.com/app/246760/",
+            "developer": "http://aterdux.com/",
+        },
+        "notes": "Store page: http://www.legendsofeisenwald.com/",
+        "extras": false
+    },
+    {
         "name": "Let There Be Light",
         "url": "lettherebelife/BCeiruwveino",
         "price": "3.99",
@@ -10979,6 +11033,33 @@ var games = [
             "developer": "http://www.supericon.co.uk/",
         },
         "notes": "Store page: http://www.lifeofpixel.co.uk/#buy",
+        "extras": false
+    },
+    {
+        "name": "Lifeless Planet",
+        "url": "lifelessplanet/vre34L",
+        "price": "19.99",
+        "description": "Get Lifeless Planet DRM-Free + Steam instantly!",
+        "developer": "Stage 2 Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.denofgeek.us/games/lifeless-planet/236405/lifeless-planet-review",
+            "steam": "http://store.steampowered.com/app/261530/",
+            "developer": "http://www.stage2studios.com/"
+        },
+        "notes": "Store page: http://www.lifelessplanet.com/",
         "extras": false
     },
     {
