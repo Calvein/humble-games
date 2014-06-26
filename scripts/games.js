@@ -5750,6 +5750,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Dungeonmans",
+        "url": "dungeonmans/ertuyernaudIE40",
+        "price": "15",
+        "description": "Get instant access to Dungeonmans during development and help shape the adventures to come. The monsters are already afraid of you!",
+        "developer": "Adventurepro Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/288120/",
+            "developer": "http://www.dungeonmans.com/"
+        },
+        "notes": "Store page: http://www.dungeonmans.com/?page_id=362",
+        "extras": false
+    },
+    {
+        "name": "Dungeonmans Early Access",
+        "url": "dungeonmans_beta/eriuiuertiuybvEY474",
+        "price": "20",
+        "description": "Charge into Dungeonmans Early Access and play instantly! Includes a digital copy of the soundtrack and a PDF of the Dungeonmans Almanac upon release.",
+        "developer": "Adventurepro Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/288120/",
+            "developer": "http://www.dungeonmans.com/"
+        },
+        "notes": "Store page: http://www.dungeonmans.com/?page_id=362",
+        "extras": true
+    },
+    {
         "name": "Dungeons of Dredmor",
         "url": "dungeonsofdredmor",
         "price": "4.99",
