@@ -3247,15 +3247,15 @@ var games = [
         "extras": false
     },
     {
-        "name": "Cogs",
-        "url": "cogs",
-        "price": "9.99",
-        "description": "Get Cogs instantly! Cross-platform and DRM free.",
-        "developer": "Lazy 8 Studios",
+        "name": "ClusterPuck 99",
+        "url": "clusterpuck99/eDijwkn00jdlk",
+        "price": "7.99",
+        "description": "Get ClusterPuck 99 instantly! Available on Windows/Mac, DRM-free!",
+        "developer": "PHL Collective",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
+            "linux": false,
             "mac": true,
             "audio": false
         },
@@ -3266,11 +3266,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.ign.com/articles/2009/04/27/cogs-review-2",
-            "steam": "http://store.steampowered.com/app/26500/",
-            "desura": "http://www.desura.com/games/cogs",
-            "developer": "http://www.lazy8studios.com"
-        }
+            "developer": "http://phlcollective.com/"
+        },
+        "notes": "Store page: http://clusterpuck99.com/#primary",
+        "extras": false
     },
     {
         "name": "CoBots",
@@ -3298,6 +3297,32 @@ var games = [
         },
         "notes": "Store page: http://www.cobotsgame.com/",
         "extras": false
+    },
+    {
+        "name": "Cogs",
+        "url": "cogs",
+        "price": "9.99",
+        "description": "Get Cogs instantly! Cross-platform and DRM free.",
+        "developer": "Lazy 8 Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2009/04/27/cogs-review-2",
+            "steam": "http://store.steampowered.com/app/26500/",
+            "desura": "http://www.desura.com/games/cogs",
+            "developer": "http://www.lazy8studios.com"
+        }
     },
     {
         "name": "Coin Crypt (Beta Access)",
