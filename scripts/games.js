@@ -16554,6 +16554,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Shutshimi",
+        "url": "shutshimi/wefinerCNEwrvpe",
+        "price": "1",
+        "description": "Get Shutshimi now and defend your home from the terrors of the deep! Fishy smell and DRM-free.",
+        "developer": "Neon Deity Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://mashthosebuttons.com/review/shutshimi-review/",
+            "developer": "http://neondeity.com/"
+        },
+        "notes": "Store page: http://www.shutshimi.com/",
+        "extras": false
+    },
+    {
         "name": "Signs of Life",
         "url": "signsoflife/enkj34NJf",
         "price": "9.99",
