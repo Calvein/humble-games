@@ -14599,7 +14599,7 @@ var games = [
         "developer": "David Amador",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
@@ -14614,7 +14614,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/270050",
             "developer": "http://www.david-amador.com/"
         },
-        "notes": "Linux version coming soon.\nStore page: http://www.questofdungeons.com/#purchase",
+        "notes": "Linux version only available on Steam.\nStore page: http://www.questofdungeons.com/#purchase",
         "extras": false
     },
     {
