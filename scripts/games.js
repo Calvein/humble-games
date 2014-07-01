@@ -18160,6 +18160,81 @@ var games = [
         }
     },
     {
+        "name": "SUPERHOT",
+        "url": "superhot/qwrfdsare45322",
+        "price": "14",
+        "description": "Steam key and DRM-free download for the completed version of SUPERHOT when it's released! + digital goodies and backer-only forum access!",
+        "developer": "SUPERHOT Team",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://superhotgame.com/#team"
+        },
+        "notes": "Store page: http://superhotgame.com/#kickstarter",
+        "extras": true
+    },
+    {
+        "name": "SUPERHOT Special Edition",
+        "url": "superhot_specialedition/BSFAGSRWV835",
+        "price": "25",
+        "description": "Everything in the FULL GAME PREORDER + digital artbook PDF and a digital copy of the game's official soundtrack in FLAC quality!",
+        "developer": "SUPERHOT Team",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://superhotgame.com/#team"
+        },
+        "notes": "Store page: http://superhotgame.com/#kickstarter",
+        "extras": true
+    },
+    {
+        "name": "SUPERHOT Early Bird Access",
+        "url": "superhot_earlybirdaccess/TYIWUWBDG452",
+        "price": "40",
+        "description": "Everything in the SUPERHOT SPECIAL EDITION + access to the exclusive beta version of SUPERHOT and a credit feature of your name!",
+        "developer": "SUPERHOT Team",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://superhotgame.com/#team"
+        },
+        "notes": "Store page: http://superhotgame.com/#kickstarter",
+        "extras": true
+    },
+    {
         "name": "Pre-order SUPERVERSE",
         "url": "astroids/Adkowek3",
         "price": "19.99",
