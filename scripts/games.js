@@ -7298,6 +7298,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Freaking Meatbags - Early Access",
+        "url": "freakingmeatbags_earlyaccess/oMDKn1i93ndk",
+        "price": "9.99",
+        "description": "Get Freaking Meatbags instantly for Early Access on Steam!",
+        "developer": "Wild Factor",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/297060",
+            "developer": "http://www.wildfactor.net/"
+        },
+        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.wildfactor.net/StaticPage/FreakingMeatbags/FreakingMeatbags.htm",
+        "extras": false
+    },
+    {
         "name": "Frogatto",
         "url": "frogatto?preview=thsueWluErTM",
         "price": "9.99",
@@ -16835,6 +16861,31 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Soda Drinker Pro",
+        "url": "sodadrinkerpro/Sdksoqk2ldks",
+        "price": "4.99",
+        "description": "Get Soda Drinker Pro instantly! Cross-platform and DRM-free.",
+        "developer": "Snowrunner Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://sodadrinkerpro.com/"
+        },
+        "notes": "Linux version is most likely available, as in the Humble Store.\nStore page: http://sodadrinkerpro.com/download/",
+        "extras": false
     },
     {
         "name": "Sokobond",
