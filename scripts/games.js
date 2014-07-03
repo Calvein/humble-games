@@ -1612,6 +1612,31 @@ var games = [
         }
     },
     {
+        "name": "Barbarian Brawl",
+        "url": "barbarianbrawl/OIi09iejBDuehs",
+        "price": "9.99",
+        "description": "Pre-order a blood thirsty slice of brawler pie!",
+        "developer": "Thrillion Limited",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.thrillion.co.uk/",
+        },
+        "notes": "Available platforms inferred from Greenlight page.\nNo mention about DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.barbarian-brawl.com/#main",
+        "extras": false
+    },
+    {
         "name": "Bardbarian",
         "url": "bardbarian/uoiwearuHRUE82",
         "price": "6.99",
@@ -12210,82 +12235,107 @@ var games = [
         "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
     },
     {
-    "name": "Mr. Bree+",
-    "url": "mrbree/Mdkwo1k2",
-    "price": "2.99",
-    "description": "Purchase Mr. Bree+ and also get the Original Soundtrack! Cross-platform and DRM-free.",
-    "developer": "TawStudio Entertainment",
-    "platform": {
-        "android": false,
-        "linux": false,
-        "windows": true,
-        "mac": true,
-        "audio": true
+        "name": "Mountain",
+        "url": "mountain/Fdjs0293njs90j",
+        "price": "1",
+        "description": "You are Mountain - You are God",
+        "developer": "David OReilly",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.davidoreilly.com/"
+        },
+        "notes": "No mention about DRM or lack thereof either in the widget or in the game's website.\nStore page: http://mountain-game.com/",
+        "extras": false
     },
-    "drm": {
-        "steam": false,
-        "desura": false,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "review": "http://enemyslime.com/2013/12/review-mr-bree/",
-        "desura": "http://www.desura.com/games/mrbree",
-        "steam": "http://store.steampowered.com/app/264220/",
-        "developer": "http://tawstudio.com/"
+    {
+        "name": "Mr. Bree+",
+        "url": "mrbree/Mdkwo1k2",
+        "price": "2.99",
+        "description": "Purchase Mr. Bree+ and also get the Original Soundtrack! Cross-platform and DRM-free.",
+        "developer": "TawStudio Entertainment",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://enemyslime.com/2013/12/review-mr-bree/",
+            "desura": "http://www.desura.com/games/mrbree",
+            "steam": "http://store.steampowered.com/app/264220/",
+            "developer": "http://tawstudio.com/"
         },
         "notes": "Store page: http://www.mr-bree.com/#humbleOrder",
         "extras": false
     },
     {
-    "name": "Multilytheus",
-    "url": "multilytheus/lskdjO12909dkf",
-    "price": "4.99",
-    "description": "Get Multilytheus instantly! Cross-platform and DRM-free.",
-    "developer": "Astro Assembly",
-    "platform": {
-        "android": false,
-        "linux": false,
-        "windows": true,
-        "mac": true,
-        "audio": false
-    },
-    "drm": {
-        "steam": false,
-        "desura": true,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "review": "http://indiestatik.com/2013/08/20/multilytheus/",
-        "desura": "http://www.desura.com/games/multilytheus",
-        "developer": "http://astroassembly.com/"
+        "name": "Multilytheus",
+        "url": "multilytheus/lskdjO12909dkf",
+        "price": "4.99",
+        "description": "Get Multilytheus instantly! Cross-platform and DRM-free.",
+        "developer": "Astro Assembly",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiestatik.com/2013/08/20/multilytheus/",
+            "desura": "http://www.desura.com/games/multilytheus",
+            "developer": "http://astroassembly.com/"
         },
         "notes": "Store page: http://astroassembly.com/multilytheus/",
         "extras": false
     },
     {
-    "name": "Musquare (sic)",
-    "url": "musquare/vjnNCKJRlkjnve",
-    "price": "2",
-    "description": "Get MuSquare instantly! DRM-free. Soundtrack is included!",
-    "developer": "toby3d",
-    "platform": {
-        "android": false,
-        "linux": false,
-        "windows": true,
-        "mac": false,
-        "audio": true
-    },
-    "drm": {
-        "steam": false,
-        "desura": false,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "desura": "http://www.desura.com/games/musquare",
-        "developer": "http://toby3d.ru/"
+        "name": "Musquare (sic)",
+        "url": "musquare/vjnNCKJRlkjnve",
+        "price": "2",
+        "description": "Get MuSquare instantly! DRM-free. Soundtrack is included!",
+        "developer": "toby3d",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/musquare",
+            "developer": "http://toby3d.ru/"
         },
         "notes": "Store page: http://toby3d.ru/MuSquare/",
         "extras": false
