@@ -16483,6 +16483,31 @@ var games = [
         }
     },
     {
+        "name": "Shattered Planet",
+        "url": "shatteredplanet/zbuESG108he",
+        "price": "14.99",
+        "description": "Pre-order Shattered Planet now! Available on Windows, DRM-free!",
+        "developer": "Kitfox Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/305640",
+            "developer": "http://www.kitfoxgames.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Shelter",
         "url": "shelter/Ssh8Tdu9Ysh",
         "price": "9.99",
