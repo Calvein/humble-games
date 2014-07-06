@@ -1561,6 +1561,34 @@ var games = [
         }
     },
     {
+        "name": "Aztaka",
+        "url": "aztaka/vbirubIYXBesbert",
+        "price": "9.99",
+        "description": "Get Aztaka instantly! Cross-platform and DRM-free.",
+        "developer": "Citeremis",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://gamesareevil.com/2009/08/review-aztaka-pc/",
+            "desura": "http://www.desura.com/games/aztaka",
+            "steam": "http://store.steampowered.com/app/37100/",
+            "developer": "http://www.citeremis.com/"
+        },
+        "notes": "Store page: http://www.citeremis.com/store/",
+        "extras": false
+    },
+    {
         "name": "Bad Hotel",
         "url": "badhotel/Bdwk2o2k",
         "price": "4.99",
