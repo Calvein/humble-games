@@ -11089,6 +11089,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Letter Quest: Grimm's Journey",
+        "url": "letterquest/Flkjsdfoij190sd",
+        "price": "9.99",
+        "description": "Get Early Access (available now)! DRM-free! 8-song soundtrack! A Steam key if Letter Quest gets on Steam! Final release coming soon!",
+        "developer": "Bacon Bandit Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.baconbanditgames.com/",
+        },
+        "notes": "Steam key if/when Greenlit.\nAllegedly working on a Mac OS X version.\nStore page: http://www.letterquestgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Letter Quest: Super Supporter Edition",
+        "url": "letterquest_supersupporteredition/asdfoui32rsa",
+        "price": "50",
+        "description": "Get early access, DRM-free! 8-song soundtrack! A Steam key if Letter Quest gets on Steam! A custom word and definition in the game!",
+        "developer": "Bacon Bandit Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.baconbanditgames.com/",
+        },
+        "notes": "Steam key if/when Greenlit.\nAllegedly working on a Mac OS X version.\nStore page: http://www.letterquestgame.com/#supersupporteredition",
+        "extras": false
+    },
+    {
         "name": "Life Goes On",
         "url": "lifegoeson/Ldh8Ydge5Fh",
         "price": "12.99",
