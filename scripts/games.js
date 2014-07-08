@@ -10336,6 +10336,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Jibs Arcade",
+        "url": "jibsarcade/CDBOUasruviowav",
+        "price": "4.99",
+        "description": "Get Jibs Arcade instantly! DRM-free.",
+        "developer": "Wales Interactive",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/jibs-arcade",
+            "developer": "http://www.walesinteractive.com/"
+        },
+        "notes": "Store page: http://www.walesinteractive.com/#!jibs-arcade/c1yu9",
+        "extras": false
+    },
+    {
         "name": "Jolly Rover",
         "url": "jollyrover",
         "price": "9.99",
