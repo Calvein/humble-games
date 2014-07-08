@@ -17165,26 +17165,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Soul Caster I and II",
-        "url": "soulcasteriii",
-        "price": "4.99",
-        "description": "Purchase Soulcaster I & II for Windows and instantly get it DRM-free.",
-        "developer": "MagicalTimeBean",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "Soul Saga - Basic",
         "url": "soulsaga_basic/skdTlswi1kd9k",
         "price": "20",
@@ -17258,6 +17238,26 @@ var games = [
         },
         "notes": "Store page: http://www.disastercake.com/#preorder",
         "extras": true
+    },
+    {
+        "name": "Soulcaster: Book I & II",
+        "url": "soulcasteriii",
+        "price": "4.99",
+        "description": "Purchase Soulcaster I & II for Windows and instantly get it DRM-free.",
+        "developer": "MagicalTimeBean",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
     },
     {
         "name": "SoundSelf Alpha Access",
@@ -20369,6 +20369,181 @@ var games = [
         },
         "notes": "Store page: http://www.roamingground.com/#item-535f1dd9e4b08cab3cb54bb9",
         "extras": false
+    },
+    {
+        "name": "Unsung Story Basic Package",
+        "url": "unsungstory_basicpackage/3rNOCew",
+        "price": "30",
+        "description": "Receive the Unsung Story Game (PC) and a Unsung Story Digital Wallpaper when the game is released.",
+        "developer": "Playdek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playdekgames.com/index.php"
+        },
+        "notes": "Store page: http://unsungstory.com/wp/donate/",
+        "extras": true
+    },
+    {
+        "name": "Unsung Story Strategic Package",
+        "url": "unsungstory_strategicpackage/3rNOCew",
+        "price": "55",
+        "description": "Unsung Story Game (PC), a Unsung Story Digital Wallpaper, a Digital Strategy Guide, and a Digital Soundtrack.",
+        "developer": "Playdek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playdekgames.com/index.php"
+        },
+        "notes": "Store page: http://unsungstory.com/wp/donate/",
+        "extras": true
+    },
+    {
+        "name": "Unsung Story Basic Collector Kit",
+        "url": "unsungstory_basiccollectorkit/3rNOCew",
+        "price": "85",
+        "description": "Unsung Story Game (PC), a Unsung Story Digital Wallpaper, a Digital Strategy Guide/Soundtrack/Artbook, and 4 Special Characters.",
+        "developer": "Playdek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playdekgames.com/index.php"
+        },
+        "notes": "Store page: http://unsungstory.com/wp/donate/",
+        "extras": true
+    },
+    {
+        "name": "Unsung Story Special Edition Character Package",
+        "url": "unsungstory_specialeditioncharacterpackage/3rNOCew",
+        "price": "15",
+        "description": "Special Kickstarter Edition Character Package (4 characters).",
+        "developer": "Playdek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playdekgames.com/index.php"
+        },
+        "notes": "Store page: http://unsungstory.com/wp/donate/",
+        "extras": true
+    },
+    {
+        "name": "Unsung Story Special Soundtrack",
+        "url": "unsungstory_soundtrack/3rNOCew",
+        "price": "8",
+        "description": "Unsung Story Soundtrack (Digital)",
+        "developer": "Playdek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playdekgames.com/index.php"
+        },
+        "notes": "Store page: http://unsungstory.com/wp/donate/",
+        "extras": false
+    },
+    {
+        "name": "Unsung Story Strategy Guide",
+        "url": "unsungstory_strategyguide/3rNOCew",
+        "price": "20",
+        "description": "Unsung Story Strategy Guide (Digital)",
+        "developer": "Playdek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playdekgames.com/index.php"
+        },
+        "notes": "Store page: http://unsungstory.com/wp/donate/",
+        "extras": true
+    },
+    {
+        "name": "Unsung Story Art Book",
+        "url": "unsungstory_artbook/3rNOCew",
+        "price": "10",
+        "description": "Unsung Story Artbook (Digital)",
+        "developer": "Playdek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.playdekgames.com/index.php"
+        },
+        "notes": "Store page: http://unsungstory.com/wp/donate/",
+        "extras": true
     },
     {
         "name": "Valdis Story: Abyssal City",
