@@ -17185,6 +17185,81 @@ var games = [
         }
     },
     {
+        "name": "Soul Saga - Basic",
+        "url": "soulsaga_basic/skdTlswi1kd9k",
+        "price": "20",
+        "description": "Pre-Order Soul Saga now! When it's ready you will get access to the DRM-free version of the PC, Linux, and Mac versions.",
+        "developer": "Disastercake",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.disastercake.com/"
+        },
+        "notes": "Store page: http://www.disastercake.com/#preorder",
+        "extras": false
+    },
+    {
+        "name": "Soul Saga - Collector's Edition",
+        "url": "soulsaga_collectorsedition/skdTlswi1kd9k",
+        "price": "35",
+        "description": "Pre-Order Soul Saga now! When it's ready you get the PC/Linux/Mac versions of the game, the digital soundtrack, and pdf art book!",
+        "developer": "Disastercake",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.disastercake.com/"
+        },
+        "notes": "Store page: http://www.disastercake.com/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Soul Saga - Guild Master's Edition",
+        "url": "soulsaga_guildmastersedition/skdTlswi1kd9k",
+        "price": "45",
+        "description": "Pre-Order Soul Saga now and help out in the beta! Includes PC/Linux/Mac versions, the digital soundtrack, pdf art book, and beta access!",
+        "developer": "Disastercake",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.disastercake.com/"
+        },
+        "notes": "Store page: http://www.disastercake.com/#preorder",
+        "extras": true
+    },
+    {
         "name": "SoundSelf Alpha Access",
         "url": "soundself_alpha/Sdue5Tha7Ykl",
         "price": "30",
