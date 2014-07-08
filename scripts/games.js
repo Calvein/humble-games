@@ -4241,6 +4241,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Damned Early Access",
+        "url": "damnedearlyaccess/Dkskwo9dskl",
+        "price": "19.99",
+        "description": "Get a Damned beta key instantly! Activate it on Steam now.",
+        "developer": "9heads Game Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/damned",
+            "steam": "http://store.steampowered.com/app/251170/",
+            "developer": "http://www.9heads.com/"
+        },
+        "notes": "Store page: http://www.damned-game.com/",
+        "extras": false
+    },
+    {
         "name": "Danmaku Unlimited 2",
         "url": "danmakuunlimited2/Ddh7Uhs9Sft",
         "price": "4.99",
@@ -13280,6 +13307,32 @@ var games = [
             "developer": "http://www.awesomegamesstudio.com/"
         },
         "notes": "Store page: http://www.awesomegamesstudio.com/index.php/oozi",
+        "extras": false
+    },
+    {
+        "name": "Orbitron: Revolution",
+        "url": "orbitron_revolution/Orkdlwk14ks",
+        "price": "4.99",
+        "description": "Get the intense, side scrolling, action of Orbitron: Revolution with this DRM Free Download!",
+        "developer": "Firebase Industries",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.savingcontent.com/2012/04/18/orbitron-revolution-review/",
+            "developer": "http://firebase.ca/"
+        },
+        "notes": "Store page: http://firebase.ca/orbitron-revolution/",
         "extras": false
     },
     {
