@@ -16978,7 +16978,40 @@ var games = [
             "gog": false,
             "drm-free": false
         },
-        "notes": "Store page: http://skullsoftheshogun.com/buy-it-now/"
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/01/30/skulls-of-the-shogun-review-pc/",
+            "steam": "http://store.steampowered.com/app/228960/",
+            "developer": "http://www.17-bit.com/"
+        },
+        "notes": "Store page: http://skullsoftheshogun.com/buy-it-now/",
+        "extras": false
+    },
+    {
+        "name": "Skulls of the Shogun 4-Pack",
+        "url": "skullsoftheshogun_4pack?preview=H8fsaTdef7djn",
+        "price": "44.99",
+        "description": "Get a 4-pack of Steam keys for Skulls of the Shogun: Bone-A-Fide Edition, instantly!",
+        "developer": "17-BIT, Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/01/30/skulls-of-the-shogun-review-pc/",
+            "steam": "http://store.steampowered.com/app/228960/",
+            "developer": "http://www.17-bit.com/"
+        },
+        "notes": "Store page: http://skullsoftheshogun.com/buy-it-now/",
+        "extras": false
     },
     {
         "name": "Sky Nations",
