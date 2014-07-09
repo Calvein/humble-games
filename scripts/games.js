@@ -15628,9 +15628,34 @@ var games = [
     },
     {
         "name": "Roundabout",
-        "url": "roundabout/Rdhu7Tegh4Sf",
+        "url": "roundabout_standard/BSDfkjw3ne1",
         "price": "14.99",
-        "description": "[33% OFF] EARLY BIRD SALE! Come visit Roundabout: a city with a twist. Pre-order for exclusive digital art book and soundtrack bonuses.",
+        "description": "Pre-order now! Roundabout is an open world puzzle game where you play as a constantly revolving limousine!",
+        "developer": "No Goblin",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.nogoblin.com/"
+        },
+        "notes": "Currently on sale at 20% off for $11.99\nStore page: http://roundaboutgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Roundabout Deluxe Edition",
+        "url": "roundabout/Rdhu7Tegh4Sf",
+        "price": "19.99",
+        "description": "Pre-order the Roundabout Deluxe Edition for the ultimate Georgio Manos experience! Screenplay, art book, early builds, and much more!",
         "developer": "No Goblin",
         "platform": {
             "android": false,
@@ -15648,7 +15673,7 @@ var games = [
         "URL": {
             "developer": "http://www.nogoblin.com/"
         },
-        "notes": "Currently on sale at 33% off for $9.99 \n Store page: http://roundaboutgame.com/",
+        "notes": "Currently on sale at 20% off for $15.99\nStore page: http://roundaboutgame.com/",
         "extras": true
     },
     {
@@ -21087,7 +21112,7 @@ var games = [
         "name": "Whispering Willows",
         "url": "whisperingwillows_noouya/masLSKDJ329s",
         "price": "14.99",
-        "description": "Full game for PC, Mac, and Linux. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father. DRM-Free.",
+        "description": "Full game for PC, Mac, and Linux. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father. DRM-Free. Includes Steam",
         "developer": "Night Light Interactive",
         "platform": {
             "android": false,
@@ -21097,12 +21122,13 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/288060/",
             "developer": "http://nightlightinteractive.com/"
         },
         "notes": "Store page: http://nightlightinteractive.com/product/whispering-willows/",
@@ -21112,7 +21138,7 @@ var games = [
         "name": "Whispering Willows Special Edition",
         "url": "whisperingwillows_se_noouya/InbejD82nhdid",
         "price": "25",
-        "description": "Full game for PC, Mac, and Linux. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father. DRM-Free.",
+        "description": "Full game for PC, Mac, and Linux. Solve puzzles to uncover the secrets of the Willows Mansion and help save Elena's father. DRM-Free. Includes Steam",
         "developer": "Night Light Interactive",
         "platform": {
             "android": false,
@@ -21122,15 +21148,16 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/288060/",
             "developer": "http://nightlightinteractive.com/"
         },
-        "notes": "The Special Edition includes a soundtrack, an art book, and a wallpaper. \n Store page: http://nightlightinteractive.com/product/whispering-willows-se/",
+        "notes": "The Special Edition includes a soundtrack, an art book, and a wallpaper.\nStore page: http://nightlightinteractive.com/product/whispering-willows-se/",
         "extras": true
     },
     {
