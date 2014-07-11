@@ -11141,7 +11141,7 @@ var games = [
         "extras": false
     },
     {
-        "name": "Let There Be Light",
+        "name": "Let There Be Life",
         "url": "lettherebelife/BCeiruwveino",
         "price": "3.99",
         "description": "Let There Be Life is a relaxing puzzle-like game allowing you to create magical trees, protect flowers, and interact with playful wildlife.",
@@ -14802,8 +14802,8 @@ var games = [
     {
         "name": "Quest For Infamy",
         "url": "questforinfamy_preorder/Qdh4Gsue8dj",
-        "price": "15",
-        "description": "Pre-order your copy of Quest For Infamy! Cross Platform (Mac, PC, Linux) and DRM free!",
+        "price": "19.99",
+        "description": "Get Quest For Infamy Now! Cross Platform (Mac, PC, Linux) and DRM free!",
         "developer": "Infamous Quests",
         "platform": {
             "android": false,
@@ -14819,10 +14819,41 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gamezebo.com/2014/07/10/quest-infamy-review-top-shelf-badassery/",
+            "desura": "http://www.desura.com/games/quest-for-infamy",
+            "steam": "http://store.steampowered.com/app/264560/",
             "developer": "http://www.infamous-quests.com/home/index.php"
         },
-        "notes": "Web store: http://www.infamous-quests.com/home/index.php?page=qfi#games",
+        "notes": "Store page: http://www.infamous-quests.com/home/index.php?page=qfi",
         "extras": false
+    },
+    {
+        "name": "Quest For Infamy Deluxe",
+        "url": "questforinfamy_preorderdeluxe/Qdh4Gsue8dj",
+        "price": "25",
+        "description": "Pre-order your copy of Quest For Infamy! Cross Platform and DRM free! Also get access to the Beta & Soundtrack!",
+        "developer": "Infamous Quests",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/2014/07/10/quest-infamy-review-top-shelf-badassery/",
+            "desura": "http://www.desura.com/games/quest-for-infamy",
+            "steam": "http://store.steampowered.com/app/264560/",
+            "developer": "http://www.infamous-quests.com/home/index.php"
+        },
+        "notes": "Store page: http://www.infamous-quests.com/home/index.php?page=qfi",
+        "extras": true
     },
     {
         "name": "Quest of Dungeons",
@@ -14849,31 +14880,6 @@ var games = [
         },
         "notes": "Linux version only available on Steam.\nStore page: http://www.questofdungeons.com/#purchase",
         "extras": false
-    },
-    {
-        "name": "Quest For Infamy Deluxe",
-        "url": "questforinfamy_preorderdeluxe/Qdh4Gsue8dj",
-        "price": "25",
-        "description": "Pre-order your copy of Quest For Infamy! Cross Platform and DRM free! Also get access to the Beta & Soundtrack!",
-        "developer": "Infamous Quests",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.infamous-quests.com/home/index.php"
-        },
-        "notes": "Web store: http://www.infamous-quests.com/home/index.php?page=qfi#games",
-        "extras": true
     },
     {
         "name": "Race the Sun",
@@ -18374,6 +18380,58 @@ var games = [
             "developer": "http://failbettergames.com/"
         },
         "notes": "http://sunlessseagame.com/buy",
+        "extras": false
+    },
+    {
+        "name": "Super Comboman: Struggles Adventures",
+        "url": "supercombomanstrugglesadventures/Suekdow3",
+        "price": "14.99",
+        "description": "Pre-order Super Comboman: Struggles Adventures now! When it is out of the oven, get cross-platform goodness DRM-free.",
+        "developer": "Interabang Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/250280/",
+            "developer": "http://www.interabangent.com/"
+        },
+        "notes": "Store page: http://www.supercomboman.com/#preorder",
+        "extras": false
+    },
+    {
+        "name": "Super Comboman: Struggles Adventures Soundtrack",
+        "url": "supercomboman_soundtrack/Suekdow3",
+        "price": "19.99",
+        "description": "Pre-order Super Comboman: Struggles Adventures OST now! When it is out of the oven, get cross-platform goodness DRM-free.",
+        "developer": "Interabang Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/250280/",
+            "developer": "http://www.interabangent.com/"
+        },
+        "notes": "Store page: http://www.supercomboman.com/#preorder",
         "extras": false
     },
     {
