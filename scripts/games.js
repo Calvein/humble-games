@@ -3334,7 +3334,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -4924,6 +4924,33 @@ var games = [
         "url": "defensegridfullbundle",
         "price": "15.99",
         "description": "Purchase Defense Grid: Full Bundle for Windows and get it instantly on Steam!",
+        "developer": "Hidden Path",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2008/12/22/defense-grid-the-awakening-review-2",
+            "steam": "http://store.steampowered.com/app/18500/",
+            "desura": "http://www.desura.com/games/defense-grid",
+            "developer": "http://www.hiddenpath.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Defense Grid: Containment Bundle",
+        "url": "defensegridcontainmentbundle?preview=SiH5KxZyHe2Q",
+        "price": "19.99",
+        "description": "Purchase the Defense Grid: Containment bundle and get all Defense Grid content to date including Containment instantly on Steam!",
         "developer": "Hidden Path",
         "platform": {
             "android": false,
@@ -10632,8 +10659,8 @@ var games = [
         "name": "Kairo",
         "url": "kairo?preview=QDVkDE58Qv8B",
         "price": "5",
-        "description": "Get Kairo instantly! Cross-platform and DRM-free.",
-        "developer": "Richard Perrin",
+        "description": "Get Kairo instantly! Cross-platform, DRM-free and on Steam.",
+        "developer": "Locked Door Puzzle",
         "platform": {
             "android": true,
             "windows": true,
