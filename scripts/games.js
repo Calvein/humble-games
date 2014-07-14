@@ -21328,7 +21328,32 @@ var games = [
         },
         "notes": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
     },
-   {
+    {
+        "name": "Warp Ball",
+        "url": "warpball/IEnck929fmwoli",
+        "price": "5",
+        "description": "Get Warp Ball instantly! Available for Windows, DRM-free! Note: Requires at least 2 Xinput compatible controllers!",
+        "developer": "Unruly Attractions",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/warp-ball",
+            "developer": "http://unrulyattractions.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Waveform",
         "url": "waveform?preview=pending",
         "price": "6.99",
