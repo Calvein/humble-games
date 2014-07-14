@@ -18410,6 +18410,214 @@ var games = [
         "extras": false
     },
     {
+        "name": "Sunset - ¡AFICIONADO!",
+        "url": "sunset_aficionado/JSDklj239dsa",
+        "price": "15",
+        "description": "You get a digital copy of the game when it is released! For all available platforms (plus a Steam key)!",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "extras": false
+    },
+    {
+        "name": "Sunset - ¡PROPAGANDISTA!",
+        "url": "sunset_propagandista/xjbSKEJhr23",
+        "price": "25",
+        "description": "You get a digital copy of the game. Plus a digital copy of the soundtrack in MP3 and FLAC formats!",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "extras": false
+    },
+    {
+        "name": "Sunset - ¡GUERRILLERO!",
+        "url": "sunset_guerrillero/zjDkfn239usk",
+        "price": "35",
+        "description": "The game and the soundtrack. PLUS a digital art book with sketches, concept art, illustrations, development screenshots and so on!",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "extras": true
+    },
+    {
+        "name": "Sunset - ¡COMPAÑERO!",
+        "url": "sunset_companero/XNkjwfh283j",
+        "price": "40",
+        "description": "The game, plus soundtrack, digital art book and digital music book with sheet music and behind the scenes info!",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "extras": true
+    },
+    {
+        "name": "Sunset - ¡LECTOR!",
+        "url": "sunset_lector/bDfo2jsklas",
+        "price": "50",
+        "description": "Includes the diary of Angela Burnes digital book, digital art book, music book, game, and a digital copy of the soundtrack.",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "extras": true
+    },
+    {
+        "name": "Sunset - ¡HISTORIADOR!",
+        "url": "sunset_historiador/Ghids2o897",
+        "price": "60",
+        "description": "The game, the soundtrack, The Diary of Angela Burnes eBook and the art book. PLUS ALL Tale of Tales games!",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "extras": true
+    },
+    {
+        "name": "Sunset - ¡REVOLUCIONARIO!",
+        "url": "sunset_revolucionario/Ad923hjskl",
+        "price": "100",
+        "description": "The game, the soundtrack, The Diary of Angela Burnes eBook, the art book and the music book. ALL Tale of Tales games and Co-Producer credit!",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "extras": true
+    },
+    {
+        "name": "Sunset - ¡COLECCIONISTA!",
+        "url": "sunset_coleccionista/Eidjasdh0574",
+        "price": "250",
+        "description": "The game, soundtrack, the art book, The Diary of Angela Burnes eBook, ALL released ToT games PLUS the next 10 years of games ToT releases!",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "extras": true
+    },
+    {
         "name": "Super Comboman: Struggles Adventures",
         "url": "supercombomanstrugglesadventures/Suekdow3",
         "price": "14.99",
