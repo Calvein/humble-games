@@ -15088,6 +15088,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Read Only Memories",
+        "url": "readonlymemories/mOIDn20948i1j",
+        "price": "9.99",
+        "description": "Pre-order Read Only Memories now! When available you will get your choice between DRM-free and Steam (Windows/Mac) OR OUYA.",
+        "developer": "MidBoss",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.midboss.com/"
+        },
+        "notes": "Store page: http://midboss.com/#rom_video",
+        "extras": false
+    },
+    {
         "name": "Real World Racing",
         "url": "realworldracing/Rdh7Yshf4Rsd",
         "price": "14.99",
@@ -16046,6 +16071,32 @@ var games = [
             "developer": "http://www.dpadstudio.com/"
         },
         "notes": "Store page: http://savantgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Schein",
+        "url": "schein/mSLDFjh239ijsl",
+        "price": "8.99",
+        "description": "Dive into the swamp right away: Get Schein now! Available for Windows, DRM-free!",
+        "developer": "Zeppelin Studio",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://thenerdingtonpost.com/schein-pcreview/",
+            "developer": "http://zeppelinstudio.net/"
+        },
+        "notes": "Store page: http://scheingame.com/#get_schein",
         "extras": false
     },
     {
@@ -19537,6 +19588,31 @@ var games = [
         },
         "notes": "Store page: http://mysteriouscitiesofgold.vg/",
         "extras": true
+    },
+    {
+        "name": "The Nightmare Cooperative",
+        "url": "thenightmarecooperative/Rfuasdlkj239js",
+        "price": "9.99",
+        "description": "Join the Cooperative! Cross-platform and DRM-free! (Pre-Order)",
+        "developer": "Lucky Frame",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.luckyframe.co.uk/"
+        },
+        "notes": "Store page: http://www.luckyframe.co.uk/nightmare/",
+        "extras": false
     },
     {
         "name": "The Novelist",
