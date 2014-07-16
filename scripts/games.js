@@ -10754,6 +10754,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Kawaii Killer",
+        "url": "kawaiikiller/Piasdflkj1398",
+        "price": "2.99",
+        "description": "Get Kawaii Killer instantly! DRM-free for Android Smartphones and Tablets!",
+        "developer": "Tabemasu Games",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://tabemasu.com/"
+        },
+        "notes": "Store page: http://www.kawaii-killer.com/",
+        "extras": false
+    },
+    {
         "name": "Kentucky Route Zero Complete",
         "url": "kentuckyroutezerocomplete?preview=SjdoA63jSnz",
         "price": "25",
