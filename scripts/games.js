@@ -2000,6 +2000,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bik",
+        "url": "bik/sfaddaauiiuoyYY21",
+        "price": "7.99",
+        "description": "Includes downloads for Windows, Mac, Linux, and Android. All DRM-free.",
+        "developer": "Zotnip LLC",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://readretro.com/reviews/bik/",
+            "developer": "http://zotnip.com/"
+        },
+        "notes": "Store page: http://bikgame.com/store/",
+        "extras": false
+    },
+    {
+        "name": "Bik - Soundtrack Bundle",
+        "url": "bik_soundtrack/nafsdonsdIS74",
+        "price": "9.99",
+        "description": "Includes DRM-Free downloads for Win, Mac, Linux, Android and the soundtrack in FLAC, MP3, and OGG formats!",
+        "developer": "Zotnip LLC",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://readretro.com/reviews/bik/",
+            "developer": "http://zotnip.com/"
+        },
+        "notes": "Store page: http://bikgame.com/store/",
+        "extras": false
+    },
+    {
         "name": "BIT.TRIP RUNNER",
         "url": "bittriprunner",
         "price": "9.99",
