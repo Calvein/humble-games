@@ -19656,6 +19656,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Synthesis",
+        "url": "synthesis/Sdh7Esf3Idh",
+        "price": "15",
+        "description": "Synthesis alpha and all updates through release. Includes original soundtrack.",
+        "developer": "Hart Laboratories LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.synthesisgame.com/"
+        },
+        "notes": "Mac and Linux versions are planned.\nStore page: http://www.synthesisgame.com/buy.html",
+        "extras": false
+    },
+    {
         "name": "Tabletop Simulator",
         "url": "tabletopsimulator/CRvet45",
         "price": "14.99",
@@ -21155,6 +21180,32 @@ var games = [
         }
     },
     {
+        "name": "Turbo Dismount",
+        "url": "turbodismount/OPIDF872B32S",
+        "price": "9.99",
+        "description": "Get your Turbo Dismount Steam key! (PC & Mac) Witness the full spectrum of kinetic choreography! More vehicles, more levels, more obstacles!",
+        "developer": "Secret Exit Ltd.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/263760/",
+            "developer": "http://secretexit.com/"
+        },
+        "notes": "Store page: http://turbodismount.com/#widget-left",
+        "extras": false
+    },
+    {
         "name": "Twin Robots",
         "url": "twinrobots/pO99keikj2o",
         "price": "2.49",
@@ -22406,6 +22457,32 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Worlds",
+        "url": "worlds/wjoipjpdoijASIUODADHISU",
+        "price": "15",
+        "description": "Pre-order Worlds now (25% off)! Coming to Windows and Linux in 2014.",
+        "developer": "Curious Planet",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/worlds",
+            "developer": "http://www.curious-planet.com/home/"
+        },
+        "notes": "Regular price is $20.\nNo mention about DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.worlds.curious-planet.com/#humblewidget",
+        "extras": false
     },
     {
         "name": "Wyv and Keep",
