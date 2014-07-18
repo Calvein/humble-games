@@ -7343,6 +7343,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Fire Hose Games Bundle",
+        "url": "firehosegamesbundle/0GBXOJEzHZ4o",
+        "price": "14.99",
+        "description": "Pre-order the Fire Hose Games Bundle and get Go Home Dinosaurs and Slam Bolt Scrappers on Steam when they're released!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/sub/26277/",
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.firehosegames.com/order/",
+        "extras": false
+    },
+    {
         "name": "FIST OF AWESOME",
         "url": "fistofawesome/Fkdowk3",
         "price": "7.99",
@@ -8310,6 +8336,33 @@ var games = [
             "developer": "http://gnomoria.com"
         },
         "notes": "20% discount during alpha \n Immediate access to alpha",
+        "extras": false
+    },
+    {
+        "name": "Go Home Dinosaurs",
+        "url": "gohomedinosaurs/0GBXOJEzHZ4o",
+        "price": "9.99",
+        "description": "Buy Go Home Dinosaurs and instantly get a Steam key!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/2013/03/21/go-home-dinosaurs-review/",
+            "steam": "http://store.steampowered.com/app/216090/",
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.firehosegames.com/order/",
         "extras": false
     },
     {
@@ -17579,6 +17632,33 @@ var games = [
                 "developer": "http://skynations.net/presskit/index.php"
         },
         "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+        "extras": false
+    },
+    {
+        "name": "Slam Bolt Scrappers",
+        "url": "slamboltscrappers/0GBXOJEzHZ4o",
+        "price": "9.99",
+        "description": "Buy Slam Bolt Scrappers and instantly get a Steam key!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/slam-bolt-scrappers-review/1900-6305297/",
+            "steam": "http://store.steampowered.com/app/96900/",
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.firehosegames.com/order/",
         "extras": false
     },
     {
