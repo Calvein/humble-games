@@ -1869,6 +1869,31 @@ var games = [
         }
     },
     {
+        "name": "Beat Bros",
+        "url": "beatbros/rgjhiudaflhGE84",
+        "price": "6.99",
+        "description": "Beta sale: Get over 50% off! Get Beat Bros instantly, DRM-free!",
+        "developer": "Ultimate Walrus",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://ultimatewalrus.com/"
+        },
+        "notes": "Regular price is $15.\nStore page: http://beatbrosgame.com/#content_pillar",
+        "extras": false
+    },
+    {
         "name": "Beat Hazard Ultra",
         "url": "beathazardultra",
         "price": "12.99",
@@ -3375,6 +3400,31 @@ var games = [
             "desura": "http://www.desura.com/games/cloaks-and-spells",
             "developer": "http://www.cloaksandspells.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Clockwork Empires: EARLIEST ACCESS",
+        "url": "clockworkempires_earliestaccess/mLSKDFj2309ijs",
+        "price": "29.99",
+        "description": "Pre-order the Clockwork Empires EARLIEST Access build now and get it Friday, July 18th! (STEAM KEY)",
+        "developer": "Gaslamp Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.gaslampgames.com/"
+        },
+        "notes": "Store page: http://clockworkempires.com/",
         "extras": false
     },
     {
@@ -6844,6 +6894,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Epic Battle Fantasy 4",
+        "url": "epicbattlefantasy4/nowv23N",
+        "price": "11.99",
+        "description": "Get EBF4 instantly, DRM-free! Includes the soundtrack, and a Steam key!",
+        "developer": "Kupo Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/2013/03/22/epic-battle-fantasy-4-review/",
+            "steam": "http://store.steampowered.com/app/265610/",
+            "developer": "http://kupogames.com/"
+        },
+        "notes": "Store page: http://kupogames.com/709-2/buy-epic-battle-fantasy-4/",
+        "extras": false
+    },
+    {
         "name": "Escape Goat",
         "url": "escapegoat",
         "price": "4.99",
@@ -8801,6 +8878,31 @@ var games = [
             "developer": "http://drinkboxstudios.com/blog/"
         },
         "notes": "Store page: http://guacamelee.com/purchase/",
+        "extras": false
+    },
+    {
+        "name": "Guild of Dungeoneering",
+        "url": "guildofdungeoneering/Gkdlsi1k2k",
+        "price": "9.99",
+        "description": "Pre-order Guild of Dungeoneering now and get the full version on launch day!",
+        "developer": "Gambrinous",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://gambrinous.com/"
+        },
+        "notes": "Pre-order at 50% off. Regular price is $19.99.\nStore page: http://gambrinous.com/games/dungeoneering/",
         "extras": false
     },
     {
@@ -12174,6 +12276,31 @@ var games = [
             "developer": "http://www.midora.net/"
         },
         "notes": "Store page: http://blog.midora.net/post/68408204787/video-demo-campaign",
+        "extras": false
+    },
+    {
+        "name": "Mini Metro",
+        "url": "minimetro/NIUCv54",
+        "price": "3.99",
+        "description": "Pre-order Mini Metro today! Cross-platform, DRM-free, and redeemable on Steam (when available).",
+        "developer": "Dinosaur Polo Club",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://dinopoloclub.com/minimetro/"
+        },
+        "notes": "Pre-order at 20% off. Regular price is $4.99.\nBeta access included, except for Android.\nStore page: http://dinopoloclub.com/minimetro/#pre-order",
         "extras": false
     },
     {
