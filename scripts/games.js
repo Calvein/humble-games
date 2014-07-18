@@ -201,6 +201,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "A Spire To The Gods",
+        "url": "aspiretothegods/brixUOinvroi",
+        "price": "7.99",
+        "description": "Pre-order A Spire To The Gods! Alpha release coming very soon.",
+        "developer": "Be-Rad Entertainment",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.be-rad.com/"
+        },
+        "notes": "Store page: http://www.be-rad.com/games/spire/#attachment_927",
+        "extras": false
+    },
+    {
         "name": "A Story About My Uncle",
         "url": "astoryaboutmyuncle/e029KDJn293",
         "price": "12.99",
@@ -5306,6 +5331,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Diluvion",
+        "url": "diluvion/Poialsdkfj1393",
+        "price": "10",
+        "description": "Pre-order Diluvion now! Help fund the project, and receive the game for 50% off the expected release price! Estimated delivery Fall 2015.",
+        "developer": "Arachnid Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.arachnidgames.com/"
+        },
+        "notes": "No mention about DRM or lack thereof either in the widget or in the game's website.",
+        "extras": false
+    },
+    {
         "name": "Dino Run SE",
         "url": "dinorunse",
         "price": "3",
@@ -6476,6 +6526,31 @@ var games = [
         "URL": {
             "developer": "http://kleientertainment.com"
         },
+        "extras": false
+    },
+    {
+        "name": "Eidolon",
+        "url": "eidolon/Edkwo3",
+        "price": "12.5",
+        "description": "Buy Eidolon in advance for reduced price, and help support the development! Releasing August 1st, 2014!",
+        "developer": "Ice Water Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.icewatergames.com/"
+        },
+        "notes": "Store page: http://www.icewatergames.com/preorder",
         "extras": false
     },
     {
