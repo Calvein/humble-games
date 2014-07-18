@@ -9680,6 +9680,80 @@ var games = [
         "extras": false
     },
     {
+        "name": "Hockey?",
+        "url": "hockey/Hdi7Ydhe6Teg",
+        "price": "8",
+        "description": "Pre-order now and get a prototype where you and your buddies can check a vending machine.",
+        "developer": "Alex and Luke",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.hockeyquestionmark.com/golf/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Hot Tin Roof",
+        "url": "hottinroof/Hdu7Gdyr5RFy",
+        "price": "15",
+        "description": "Pre-order a copy of Hot Tin Roof for PC/Mac/Linux (and Steam key once available).",
+        "developer": "Glass Bottom Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.glassbottomgames.com/"
+        },
+        "notes": "Store page: http://www.glassbottomgames.com/projects/hot-tin-roof/",
+        "extras": false
+    },
+    {
+        "name": "Hot Tin Roof Deluxe",
+        "url": "hottinroof_deluxe/Hdu7Gdyr5RFy",
+        "price": "30",
+        "description": "Pre-order a copy of Hot Tin Roof for PC/Mac/Linux (and Steam key, once available), digital soundtrack, and digital art book.",
+        "developer": "Glass Bottom Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.glassbottomgames.com/"
+        },
+        "notes": "Store page: http://www.glassbottomgames.com/projects/hot-tin-roof/",
+        "extras": true
+    },
+    {
         "name": "Hotline Miami",
         "url": "hotlinemiami?preview=Sj3j2hsozpn",
         "price": "9.99",
@@ -14295,6 +14369,31 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Particle Mace",
+        "url": "particlemace/Pdkwo9",
+        "price": "5",
+        "description": "Particle Mace Alpha and all updates through release. Completely DRM free.",
+        "developer": "Andy Makes",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://andymakes.com/"
+        },
+        "notes": "Steam key available when the game is released.\nStore page: http://andymakes.com/particlemace/#humbleStore",
+        "extras": false
     },
     {
         "name": "Particulars Alpha: Basic Pack",
