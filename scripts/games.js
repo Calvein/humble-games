@@ -13390,6 +13390,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "OCO: Odd Cube Out",
+        "url": "oco_oddcubeout/qpoFNUOiteioe",
+        "price": "3",
+        "description": "Can you solve all 3 puzzles? OCO is DRM-free!",
+        "developer": "Michael Hinder",
+        "platform": {
+                "android": true,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://ocothegame.com/"
+        },
+        "notes": "Store page: http://sites.google.com/site/ocooddcubeout/",
+        "extras": false
+    },
+    {
+        "name": "OCO: Odd Cube Out - Deluxe",
+        "url": "oco_oddcubeout_deluxe/qpoFNUOiteioe",
+        "price": "4.99",
+        "description": "3 challenging puzzles + original soundtrack!",
+        "developer": "Michael Hinder",
+        "platform": {
+                "android": true,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": true
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://ocothegame.com/"
+        },
+        "notes": "Store page: http://sites.google.com/site/ocooddcubeout/",
+        "extras": false
+    },
+    {
         "name": "Octodad: Dadliest Catch",
         "url": "octodad_dadliestcatch/Odkwcch3",
         "price": "14.99",
@@ -15592,6 +15642,56 @@ var games = [
             "drm-free": false
         },
         "notes": "Website: http://www.reusgame.com/\nNot sure if it includes desura key and/or DRM-free\nThe game is currently only available for Windows but Abbey Games also plans to port the game to other popular PC platforms."
+    },
+    {
+        "name": "Rex Rocket",
+        "url": "rexrocket/NUf32onjl",
+        "price": "10",
+        "description": "Pre-order Rex Rocket now! When it's ready get the game DRM-free for Windows and Mac.",
+        "developer": "Castle Pixel, LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.castlepixel.com/"
+        },
+        "notes": "Store page: http://www.castlepixel.com/rexrocket/#preorder",
+        "extras": false
+    },
+    {
+        "name": "Rex Rocket: Special Edition",
+        "url": "rexrocket_specialedition/NUf32onjl",
+        "price": "15",
+        "description": "Pre-order Rex Rocket now! When it's ready get the game DRM-free for Windows and Mac + PDF instruction manual + soundtrack by Saskrotch!",
+        "developer": "Castle Pixel, LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.castlepixel.com/"
+        },
+        "notes": "Store page: http://www.castlepixel.com/rexrocket/#preorder",
+        "extras": true
     },
     {
         "name": "Ring Runner: Flight of the Sages",
@@ -19394,6 +19494,56 @@ var games = [
             "drm-free": true
         },
         "notes": "Currently on sale at 31% off for $8.99."
+    },
+    {
+        "name": "Tengami",
+        "url": "tengami/N04rfWuwryuc",
+        "price": "10",
+        "description": "Pre-order Tengami for Windows & Mac OS. Get exclusive wallpapers, one song from the soundtrack and DIY Tengami pop-up templates now.",
+        "developer": "Nyamyam",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nyamyam.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://nyamyam.com/buyTengami",
+        "extras": true
+    },
+    {
+        "name": "Tengami + Soundtrack",
+        "url": "tengamiandsoundtrack/N04rfWuwryuc",
+        "price": "15",
+        "description": "Pre-order Tengami and the soundtrack now. Get exclusive wallpapers, one song from the soundtrack and DIY Tengami pop-up templates now.",
+        "developer": "Nyamyam",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nyamyam.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://nyamyam.com/buyTengami",
+        "extras": true
     },
     {
         "name": "Teslagrad",
