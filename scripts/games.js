@@ -20500,6 +20500,31 @@ var games = [
         }
     },
     {
+        "name": "Three Fourths Home",
+        "url": "threefourthshome/2DSoij23ksha",
+        "price": "3.99",
+        "description": "Three Fourths Home is a visual short story. The player takes the role of Kelly, a woman in her 20's who has recently moved back to Nebraska.",
+        "developer": "[bracket]games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://bracket-games.com/"
+        },
+        "notes": "Store page: http://www.threefourthshome.com/purchase/",
+        "extras": false
+    },
+    {
         "name": "Tiny & Big in Grandpa's Leftovers",
         "url": "tinybigingrandpasleftovers",
         "price": "12.99",
