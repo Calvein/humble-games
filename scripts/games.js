@@ -126,6 +126,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "10000000",
+        "url": "10000000/Tixfeke3",
+        "price": "4.99",
+        "description": "Buy now and get 10000000 for PC, Mac, Linux and Android DRM free! Includes Steam Key",
+        "developer": "Eighty Eight Games",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/02/14/10000000-review-pc/",
+            "steam": "http://store.steampowered.com/app/227580/",
+            "developer": "http://eightyeightgames.com/"
+        },
+        "notes": "Includes You Must Build A Boat if purchased before its release date",
+        "extras": false
+    },
+    {
         "name": "A Hat in Time",
         "url": "ahatintime/Han5YUef4ds",
         "price": "20",
@@ -19024,7 +19051,7 @@ var games = [
         "name": "SUNLESS SEA",
         "url": "sunlesssea/Iwjdkf293lek",
         "price": "18.99",
-        "description": "Purchase via Humble Bundle",
+        "description": "Purchase via Humble Bundle! Get your Steam Key Instantly!",
         "developer": "Failbetter Games",
         "platform": {
             "android": false,
@@ -19034,15 +19061,16 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/304650/",
             "developer": "http://failbettergames.com/"
         },
-        "notes": "http://sunlessseagame.com/buy",
+        "notes": "Store page: http://www.failbettergames.com/sunless",
         "extras": false
     },
     {
