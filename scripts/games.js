@@ -3965,7 +3965,7 @@ var games = [
         "description": "Support Cosmochoria by pre-ordering the game today! Receive a DRM-free copy upon game release! Available for Windows, Mac and Linux!",
         "developer": "30/30",
         "platform": {
-            "android": true,
+            "android": false,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -3990,7 +3990,7 @@ var games = [
         "description": "Support Cosmochoria by pre-ordering the game + soundtrack today! Receive a DRM-free copy upon game release!",
         "developer": "30/30",
         "platform": {
-            "android": true,
+            "android": false,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -12516,7 +12516,7 @@ var games = [
         "description": "Preorder Midora today and support its development! Cross-platform and DRM-free.",
         "developer": "Epic Minds",
         "platform": {
-            "android": true,
+            "android": false,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -12531,7 +12531,6 @@ var games = [
         "URL": {
             "developer": "http://www.midora.net/"
         },
-        "notes": "Store page: http://blog.midora.net/post/68408204787/video-demo-campaign",
         "extras": false
     },
     {
