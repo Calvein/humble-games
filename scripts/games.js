@@ -1842,6 +1842,33 @@ var games = [
         }
     },
     {
+        "name": "Battle Fleet 2",
+        "url": "battlefleet2/hKDSFjh243orusj",
+        "price": "9.99",
+        "description": "Instantly download Battle Fleet 2, the WW2 naval strategy game. Available for Windows, DRM-free!",
+        "developer": "Capital j Media LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://mousenjoypad.com/reviews/pc/battle-fleet-2-review/",
+            "desura": "http://www.desura.com/games/battle-fleet-2",
+            "developer": "http://www.capitaljmedia.com/"
+        },
+        "notes": "Store page: http://www.battlefleetgame.com/bf2.html",
+        "extras": false
+    },
+    {
         "name": "Battle Group",
         "url": "battlegroup/Mekdowk2",
         "price": "5",
