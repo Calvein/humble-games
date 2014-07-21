@@ -20131,6 +20131,106 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Long Dark - Early Access Edition",
+        "url": "thelongdark_earlyaccess/mISDhk2lnks",
+        "price": "19.99",
+        "description": "Pre-Order Sandbox Mode (Win/Mac) on Steam Early Access + Season One Episodes (Steam or DRM-free download) at launch (Win/Mac/Linux)!",
+        "developer": "Hinterland Studio Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://hinterlandgames.com/"
+        },
+        "notes": "Store page: http://intothelongdark.com/#pre-order",
+        "extras": false
+    },
+    {
+        "name": "The Long Dark - Survivor's Edition",
+        "url": "thelongdark_survivorsedition/i2u3hhsjDsa",
+        "price": "24.99",
+        "description": "Pre-Order Sandbox Mode (Win/Mac) on Steam Early Access + Season One Eps. at launch (Win/Mac/Linux, Steam/DRM-free) + Extra Key + Art Book!",
+        "developer": "Hinterland Studio Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://hinterlandgames.com/"
+        },
+        "notes": "Store page: http://intothelongdark.com/#pre-order",
+        "extras": true
+    },
+    {
+        "name": "The Long Dark - Director's Cut",
+        "url": "thelongdark_directorscut/BCkjdhf9w38",
+        "price": "29.99",
+        "description": "Pre-Order Sandbox (Win/Mac) on Early Access + Season One at launch (Win/Mac/Linux, Steam/DRM-free) + Xtra Key + Art Book + Docu + DVD!",
+        "developer": "Hinterland Studio Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },  
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://hinterlandgames.com/"
+        },
+        "notes": "Store page: http://intothelongdark.com/#pre-order",
+        "extras": true
+    },
+    {
+        "name": "The Long Dark - Soundtrack",
+        "url": "thelongdark_soundtrack/Jsidjkl19jwA",
+        "price": "5.99",
+        "description": "Pre-Order the downloadable Soundtrack to The Long Dark, Season One, by award-winning composers Cris Velasco & Sascha Dikiciyan!",
+        "developer": "Hinterland Studio Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://hinterlandgames.com/"
+        },
+        "notes": "Store page: http://intothelongdark.com/#pre-order",
+        "extras": false
+    },
+    {
         "name": "The Maker's Eden",
         "url": "themakersedenact1?preview=Edkso19sls",
         "price": "4.50",
@@ -22712,6 +22812,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "You Are Not The Hero + Physical Pack",
+        "url": "youarenotthehero_physical/Ydkwok2",
+        "price": "60",
+        "description": "Pre-order You Are Not The Hero. Get a physical box and game with a manual sent straight to you! All digital extras included.",
+        "developer": "ToMorning Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://youarenotthehero.com/"
+        },
+        "notes": "Either a Steam key or a DRM-free download.",
+        "extras": true
+    },
+    {
         "name": "You Still Won't Make It",
         "url": "youstillwontmakeit/SyuF6dauY9b",
         "price": "5",
@@ -22736,31 +22861,6 @@ var games = [
         },
         "notes": "Store page: http://www.vetragames.com/games/you-still-wont-make-it/#post-370",
         "extras": false
-    },
-    {
-        "name": "You Are Not The Hero + Physical Pack",
-        "url": "youarenotthehero_physical/Ydkwok2",
-        "price": "60",
-        "description": "Pre-order You Are Not The Hero. Get a physical box and game with a manual sent straight to you! All digital extras included.",
-        "developer": "ToMorning Productions",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://youarenotthehero.com/"
-        },
-        "notes": "Either a Steam key or a DRM-free download.",
-        "extras": true
     },
     {
         "name": "Yrminsul",
