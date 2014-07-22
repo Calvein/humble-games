@@ -17970,6 +17970,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Son of Nor",
+        "url": "sonofnor/kxwCoiKzUpZ2",
+        "price": "20",
+        "description": "Get a digital copy of Son of Nor as soon as it is released in Q2 2014!",
+        "developer": "stillalive studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/264000",
+            "developer": "http://stillalive-studios.com/"
+        },
+        "notes": "Store page: http://sonofnor.com/buy/",
+        "extras": false
+    },
+    {
+        "name": "Son of Nor: Digital Collector's Edition",
+        "url": "sonofnor_tier2/kxwCoiKzUpZ2",
+        "price": "45",
+        "description": "Get a digital copy of Son of Nor as soon as it is released in Q2 2014! Includes Beta access, soundtrack + more!",
+        "developer": "stillalive studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/264000",
+            "developer": "http://stillalive-studios.com/"
+        },
+        "notes": "Store page: http://sonofnor.com/buy/",
+        "extras": true
+    },
+    {
         "name": "Soul Saga - Basic",
         "url": "soulsaga_basic/skdTlswi1kd9k",
         "price": "20",
@@ -20894,6 +20946,32 @@ var games = [
             "developer": "http://www.svsgames.com/"
         },
         "notes": "Store page: http://www.towerwarsgame.com/store.html",
+        "extras": false
+    },
+    {
+        "name": "Train Fever",
+        "url": "trainfever/Sjkasfd23oijsS",
+        "price": "29.99",
+        "description": "Pre-order Train Fever cross-platform on Steam with purchase!",
+        "developer": "Gambitious",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/304730/",
+            "developer": "http://www.train-fever.com/"
+        },
+        "notes": "Store page: http://www.train-fever.com/buy/",
         "extras": false
     },
     {
