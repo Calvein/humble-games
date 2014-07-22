@@ -1395,6 +1395,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "AutoTileGen",
+        "url": "autotilegen/ODISfljk2398s",
+        "price": "25",
+        "description": "Make 2D tilesets in seconds. Get forty-eight tiles for the effort of three with extras such as dynamic lighting, corner modes and more!",
+        "developer": "Pixelatto",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://android.kul.is/2014/04/autotilegen-tool-for-creating-tilesets.html",
+            "steam": "http://store.steampowered.com/app/305860/",
+            "developer": "http://javicepa.com/"
+        },
+        "notes": "Not actually a game.\nNo mention about DRM or lack thereof either in the widget or in this software's website.\nStore page: http://autotilegen.com/buy/",
+        "extras": false
+    },
+    {
         "name": "Avadon: The Black Fortress",
         "url": "avadon_theblackfortress/Sdwodk41",
         "price": "20",
@@ -18622,9 +18649,38 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://truepcgaming.com/2014/05/27/the-spy-chameleon-rgb-agent-review/",
+            "steam": "http://store.steampowered.com/app/297490/",
             "developer": "http://unfinishedpixel.com/"
         },
         "notes": "Store page: http://www.spychameleon.com/",
+        "extras": false
+    },
+    {
+        "name": "Stained",
+        "url": "stained/Sdje7GHsgy",
+        "price": "9.99",
+        "description": "Stained is a side-scrolling, platforming and combat action game set in an ancient, mysterious castle.",
+        "developer": "RealAxis Software",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://truepcgaming.com/2013/10/18/stained-review/",
+            "steam": "http://store.steampowered.com/app/302870/",
+            "developer": "http://realaxissoftware.com/"
+        },
+        "notes": "No mention about DRM or lack thereof either in the widget or in the game's website.\nStore page: http://stained-thegame.com/buy",
         "extras": false
     },
     {
