@@ -17299,6 +17299,84 @@ var games = [
         "extras": false
     },
     {
+        "name": "Shadowgate: Wayfarer Tier",
+        "url": "shadowgate_wayfarertier/oBWcwiu137thc",
+        "price": "14.99",
+        "description": "Pre-order SHADOWGATE now and save $5! Cross-platform / Steam Key (Windows/Mac)!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/294440/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "Regular price is $19.99.\nStore page: http://www.zojoi.com/wayfarer/",
+        "extras": false
+    },
+    {
+        "name": "Shadowgate: Adventurer Tier",
+        "url": "shadowgate_adventurertier/WQqgfv73g12",
+        "price": "19.99",
+        "description": "Pre-order SHADOWGATE & save $5! Cross-platform / Steam Key (Windows/Mac), Shadowgate & Reaper Wallpapers & 2015 Digital Calendar!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/294440/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "Regular price is $24.99.\nStore page: http://www.zojoi.com/adventurer/",
+        "extras": true
+    },
+    {
+        "name": "Shadowgate: Hero Tier",
+        "url": "shadowgate_herotier/Buw829HSbx",
+        "price": "24.99",
+        "description": "Pre-order SHADOWGATE - Save $5! Cross-platform / Steam Key (Windows/Mac), Wallpapers, Calendar, Soundtrack, Artbook, Early Ship, Tester!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/294440/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "Regular price is $29.99.\nStore page: http://www.zojoi.com/hero/",
+        "extras": true
+    },
+    {
         "name": "Shadowgrounds",
         "url": "shadowgrounds",
         "price": "9.99",
