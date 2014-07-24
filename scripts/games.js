@@ -5344,12 +5344,12 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -5357,8 +5357,10 @@ var games = [
         "URL": {
             "review": "http://www.ign.com/articles/2012/10/09/derrick-the-deathfin-review",
             "desura": "http://www.desura.com/games/derrick-the-deathfin",
-            "developer": "http://derrickthedeathfin.com/"
+            "steam": "http://store.steampowered.com/app/287780/",
+            "developer": "http://differenttuna.com/"
         },
+        "notes": "Store page: http://derrickthedeathfin.com/buy.html",
         "extras": false
     },
     {
