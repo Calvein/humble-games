@@ -536,8 +536,8 @@ var games = [
     {
         "name": "Adventurezator",
         "url": "adventurezator/dksoHsowk23kat",
-        "price": "15",
-        "description": "Pre-order Adventurezator now and get the game cross-platform and DRM-free on release!",
+        "price": "13",
+        "description": "Pre-order Adventurezator now, get a cross-platform Steam key and join the Early Access",
         "developer": "Pigasus Games",
         "platform": {
             "android": false,
@@ -547,15 +547,16 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/300280/",
             "developer": "http://devblog.pigasusgames.com/"
         },
-        "notes": "Store page: http://adventurezator.com/",
+        "notes": "Pre-order at 13% off for. Regular price is $15.\nStore page: http://adventurezator.com/",
         "extras": false
     },
     {
@@ -8239,7 +8240,7 @@ var games = [
     {
         "name": "Generic Space Shooter",
         "url": "genericspaceshooter/Gkdow4",
-        "price": "1",
+        "price": "1.7",
         "description": "Pre-order Generic Space Shooter instantly! When ready, get it DRM-free.",
         "developer": "LionSword",
         "platform": {
@@ -21393,10 +21394,10 @@ var games = [
     "extras": false
     },
     {
-        "name": "Trine",
+        "name": "Trine Enhanced Edition",
         "url": "trine",
-        "price": "9.99",
-        "description": "Get Trine instantly! Cross-platform and DRM free.",
+        "price": "14.99",
+        "description": "Get Trine Enhanced Edition instantly! DRM free for Windows + soundtrack. Mac and Linux coming soon!",
         "developer": "Frozenbyte",
         "platform": {
             "android": false,
