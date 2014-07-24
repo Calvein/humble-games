@@ -16050,6 +16050,32 @@ var games = [
         }
     },
     {
+        "name": "Risen 3: Titan Lords",
+        "url": "risen3_titanlords/lkjLKSD92jkdsa",
+        "price": "49.99",
+        "description": "Pre-order Risen 3: Titan Lords now! Available for Windows on Steam! ",
+        "developer": "Deep Silver",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/249230/",
+            "developer": "http://www.deepsilver.com/home/"
+        },
+        "notes": "Store page: http://shoppage.deepsilver.com/risen3-titan-lords.html",
+        "extras": false
+    },
+    {
         "name": "Risk of Rain",
         "url": "riskofrain_game?preview=Igd1i3ZMVkTg",
         "price": "9.99",
