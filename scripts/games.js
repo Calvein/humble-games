@@ -20298,8 +20298,8 @@ var games = [
         "extras": true
     },
     {
-        "name": "The Journey Down: Chapter One ",
-        "url": "thejourneydownchapterone?preview=SaRQrl5NyWyo",
+        "name": "The Journey Down: Chapter One",
+        "url": "thejourneydownchapterone/SaRQrl5NyWyo",
         "price": "6.99",
         "description": "Get The Journey Down: Chapter One instantly! Keys for Steam and Desura included. Pc + Mac + Linux.",
         "developer": "SkyGoblin",
@@ -20316,7 +20316,39 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Game website: http://skygoblin.com/the-journey-down/ although there's no link to the Humble Store widget there"
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/21332",
+            "desura": "http://www.desura.com/games/the-journey-down-chapter-one",
+            "steam": "http://store.steampowered.com/app/220090/",
+            "developer": "http://www.skygoblin.com/"
+        },
+        "notes": "Store page: http://thejourneydown.com/",
+        "extras": false
+    },
+    {
+        "name": "The Journey Down: Chapters 1 & 2",
+        "url": "thejourneydownchaptersoneandtwo/xWfoweij29sj",
+        "price": "5.99",
+        "description": "Pre-Order Chapter Two of The Journey Down. Chapter One included! Direct download and Steam keys for Windows/Mac/Linux!",
+        "developer": "SkyGoblin",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.skygoblin.com/"
+        },
+        "notes": "Store page: http://thejourneydown.com/",
+        "extras": false
     },
     {
         "name": "The Last Federation",
