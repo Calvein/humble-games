@@ -2741,6 +2741,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Broken Bots",
+        "url": "brokenbots/Tjdkahsodij1",
+        "price": "9.99",
+        "description": "Multiplayer warfare with malfunctioning robots. CRUSH, KILL, MALFUNCTION, DESTROY! (Pre-Order)",
+        "developer": "Bunnycopter",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.bunnycopter.com/"
+        },
+        "notes": "Pre-order at 33% off; regular price is $14.99\nSteam key if/when Greenlit\nStore page: http://www.brokenbotsgame.com/#humblewidget",
+        "extras": false
+    },
+    {
         "name": "Candle",
         "url": "candle/Cdh8Yheg5Ff",
         "price": "15",
@@ -6406,6 +6431,33 @@ var games = [
             "steam": "http://store.steampowered.com/app/202730/",
             "developer": "http://www.galcon.com/dynamitejack/"
         },
+        "extras": false
+    },
+    {
+        "name": "Dynetzzle Extended",
+        "url": "dynetzzleextended/fDhakjsdhy546u",
+        "price": "1",
+        "description": "Get Dynetzzle Extended instantly for Windows!",
+        "developer": "Vishnu Vadakke Pariyarath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/07/22/dynetzzle-extended-review/",
+            "desura": "http://www.desura.com/games/dynetzzle-extended",
+            "developer": "http://www.vishnuvp.in/"
+        },
+        "notes": "Store page: http://www.dynetzzle.com/",
         "extras": false
     },
     {
@@ -20479,9 +20531,9 @@ var games = [
     },
     {
         "name": "The Maker's Eden",
-        "url": "themakersedenact1?preview=Edkso19sls",
-        "price": "4.50",
-        "description": "Get Act 1 of The Maker's Eden as soon as it releases in January! Cross-platform and DRM-free <3 ($4.50) \n Get the Act 1 Soundtrack immediately, and get Act 1 of The Maker's Eden as soon as it releases in January! Cross-platform and DRM-free <3 ($9)",
+        "url": "themakersedenact1/Edkso19sls",
+        "price": "8.99",
+        "description": "Get The Maker's Eden, which includes all 3 acts and bonus mini-episodes, or support our musician by picking up the game plus soundtrack.",
         "developer": "ScrewyLightbulb",
         "platform": {
             "android": false,
@@ -20499,7 +20551,7 @@ var games = [
         "URL": {
             "developer": "http://makerseden.screwylightbulb.com/"
         },
-        "notes": "Pre-order. \n Store page: http://makerseden.screwylightbulb.com/?action=view&url=the-makers-eden-pre-order-and-demo",
+        "notes": "Game + Soundtrack available for $12.99",
         "extras": false
     },
     {
