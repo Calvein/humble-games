@@ -21078,6 +21078,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Timespinner - Backer",
+        "url": "timespinner_backer/tuSDLfkj2309s",
+        "price": "15",
+        "description": "Pre-Order Timespinner now! Receive the game for Win/Mac/Linux + Steam Key + PDF Instruction Manual + Familiar Skin!",
+        "developer": "Lunar Ray Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lunarraygames.com/"
+        },
+        "notes": "Store page: http://www.timespinnergame.com/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Timespinner - Knight Backer",
+        "url": "timespinner_knightbacker/Usdlkf230sksa",
+        "price": "25",
+        "description": "Pre-Order Timespinner now! Receive everything from the Backer tier plus Early Access, Dev-Forum Access, Umbra Orb Weapon, and the OST!",
+        "developer": "Lunar Ray Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lunarraygames.com/"
+        },
+        "notes": "Store page: http://www.timespinnergame.com/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Timespinner - Royal Backer",
+        "url": "timespinner_royalbacker/mSDlfij32rosj",
+        "price": "40",
+        "description": "Pre-Order Timespinner now! Receive everything from the Knight tier plus Beta Access, Merchant Crow Familiar + Skin and a second Steam Key!",
+        "developer": "Lunar Ray Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.lunarraygames.com/"
+        },
+        "notes": "Store page: http://www.timespinnergame.com/#preorder",
+        "extras": true
+    },
+    {
         "name": "Tiny & Big in Grandpa's Leftovers",
         "url": "tinybigingrandpasleftovers",
         "price": "12.99",
