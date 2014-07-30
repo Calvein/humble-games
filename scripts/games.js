@@ -2993,6 +2993,106 @@ var games = [
         "extras": false
     },
     {
+        "name": "Catlateral Damage: House Cat",
+        "url": "catlateraldamage_housecat/alkdnfSDf0947",
+        "price": "12",
+        "description": "Pre-order a cross buy copy of Catlateral Damage for OUYA, Steam, and DRM-free executable! Includes game soundtrack!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
+        "extras": false
+    },
+    {
+        "name": "Catlateral Damage: Backer Cat",
+        "url": "catlateraldamage_backercat/xkjhfD239hdj",
+        "price": "15",
+        "description": "Pre-order a cross buy copy of Catlateral Damage and game soundtrack, get your name in the credits, and a special backer-only PDF!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
+        "extras": true
+    },
+    {
+        "name": "Catlateral Damage: Hipster Cat",
+        "url": "catlateraldamage_hipstercat/CKXjkwehrh83",
+        "price": "20",
+        "description": "Everything in Backer Cat, plus special early access to the game during development (Steam only). This is the only way to play early access!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
+        "extras": true
+    },
+    {
+        "name": "Catlateral Damage: Lolcat",
+        "url": "catlateraldamage_lolcat/74khjsd2sa3",
+        "price": "60",
+        "description": "Everything in Hipster Cat, plus we'll make your cat famous by putting a framed poster or picture of it in game!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
+        "extras": true
+    },
+    {
         "name": "Chaos Reborn: Apprentice",
         "url": "chaosreborn_apprentice/bwywefv873gc81",
         "price": "20",
