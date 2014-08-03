@@ -16579,6 +16579,33 @@ var games = [
         "extras": true
     },  
     {
+        "name": "Sacred 3",
+        "url": "sacred3/iDlkn1329jldks",
+        "price": "49.99",
+        "description": "Pre-order Sacred 3 now! Available for Windows on Steam!",
+        "developer": "Deep Silver",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/08/01/sacred-3-review/",
+            "steam": "http://store.steampowered.com/app/247950/",
+            "developer": "http://www.deepsilver.com/home/"
+        },
+        "notes": "Store page: http://sacred3.deepsilver.com/es/store/",
+        "extras": false
+    },
+    {
         "name": "Samorost2",
         "url": "samorost2",
         "price": "5",
@@ -17485,7 +17512,7 @@ var games = [
         "name": "Shadow Warrior",
         "url": "shadowwarrior",
         "price": "39.99",
-        "description": "Who wants some Wang? Pre-order Shadow Warrior for PC and receive a DRM-free download of the game and a Steam key!",
+        "description": "Who wants some Wang? Purchase Shadow Warrior for PC and receive a DRM-free download of the game and a Steam key!",
         "developer": "Flying Wild Hog",
         "platform": {
             "android": false,
@@ -17501,9 +17528,36 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2013/09/26/wot-i-think-shadow-warrior/",
+            "steam": "http://store.steampowered.com/app/233130/",
             "developer": "http://flyingwildhog.com/"
         },
-        "notes": "Pre-order, no Steam URL available yet.",
+        "notes": "Store page: http://shadowwarrior.com/#HumbleModal",
+        "extras": false
+    },
+    {
+        "name": "Shadowcrypt",
+        "url": "shadowcrypt/8SDfkjh23r9xs",
+        "price": "9.99",
+        "description": "Buy Shadowcrypt and get it for Windows, DRM-free! Steam key will be provided with purchase once it is released!",
+        "developer": "One-bit Punch",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.onebitpunch.com/"
+        },
+        "notes": "Store page: http://www.shadowcrypt.net/",
         "extras": false
     },
     {
@@ -21394,6 +21448,31 @@ var games = [
             "developer": "http://www.train-fever.com/"
         },
         "notes": "Store page: http://www.train-fever.com/buy/",
+        "extras": false
+    },
+    {
+        "name": "Train Valley",
+        "url": "trainvalley/byrohn4guR11",
+        "price": "6.99",
+        "description": "Get the Train Valley early access version instantly! Available on Mac and Windows, DRM-free!",
+        "developer": "Flazm.com",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://flazm.com/"
+        },
+        "notes": "Pre-order it 30% off; regular price is $9.99\nStore page: http://train-valley.com/",
         "extras": false
     },
     {
