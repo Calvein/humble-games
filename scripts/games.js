@@ -9115,6 +9115,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gridlock",
+        "url": "gridlock/oWHbloe92zmx",
+        "price": "1.99",
+        "description": "Get Gridlock instantly! Available on Windows and Mac, DRM-free!",
+        "developer": "Ludometrics",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://superclashgaming.com/2014/06/25/gridlock-quick-look/",
+            "desura": "http://www.desura.com/games/gridlock",
+            "developer": "http://ludometrics.com/"
+        },
+        "notes": "Store page: http://ludometrics.com/game/gridlock/",
+        "extras": false
+    },
+    {
         "name": "Grim Dawn Digital Release",
         "url": "grimdawn-1/J2soPnxhdSxG",
         "price": "24.99",
@@ -16309,6 +16336,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Road Not Taken",
+        "url": "roadnottaken/Mliwdfn0293js",
+        "price": "15",
+        "description": "Get Road Not Taken for Windows/Mac on Steam!",
+        "developer": "Spry Fox",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.joystiq.com/2014/08/05/road-not-taken-review-take-it/",
+            "steam": "http://store.steampowered.com/app/293740",
+            "developer": "http://spryfox.com/"
+        },
+        "notes": "Store page: http://spryfox.com/our-games/road-not-taken/",
+        "extras": false
+    },
+    {
         "name": "Road Redemption (Pre-Order)",
         "url": "roadredemption/vrin923NKC",
         "price": "18",
@@ -20424,6 +20478,33 @@ var games = [
             "steam": "http://store.steampowered.com/app/204240/",
             "developer": "http://thebridgeisblackandwhite.com/"
         }
+    },
+    {
+        "name": "The Counting Kingdom",
+        "url": "thecountingkingdom/YTlkajdf23o11q",
+        "price": "9.99",
+        "description": "Get your spellbook ready! Protect The Counting Kingdom in this tactical math puzzler featuring tower defense gameplay and a colorful cast of characters.",
+        "developer": "Little Worlds Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://pixelkin.org/2014/07/22/review-the-counting-kingdom-math-isnt-scary-after-all/",
+            "steam": "http://store.steampowered.com/app/302750/",
+            "developer": "http://littleworldsinteractive.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website (it is available on Steam, though).\nStore page: http://www.countingkingdomgame.com/#text1-page",
+        "extras": false
     },
     {
         "name": "The Floor is Jelly",
