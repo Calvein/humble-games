@@ -10586,6 +10586,32 @@ var games = [
         "notes": "Store page: http://joewintergreen.com/influx/influxr/influx.html"
     },
     {
+        "name": "Instant Dungeon!",
+        "url": "instantdungeon/MSLKDfh324o58asjd",
+        "price": "1.99",
+        "description": "Get Instant Dungeon instantly for Windows, DRM-free!",
+        "developer": "Flying Interactive",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/instant-dungeon",
+            "developer": "http://flyinginteractive.com/"
+        },
+        "notes": "Store page: http://flyinginteractive.com/instant-dungeon/",
+        "extras": false
+    },
+    {
         "name": "inSynch",
         "url": "insynch/mnvbnbfjhfgEU238",
         "price": "4.99",
@@ -10635,6 +10661,32 @@ var games = [
             "developer": "http://www.cipherprime.com/"
         },
         "notes": "Store page: http://www.cipherprime.com/mayday",
+        "extras": false
+    },
+    {
+        "name": "Into The Gloom",
+        "url": "intothegloom/Ukjasdf938ahj2jl3",
+        "price": "2.99",
+        "description": "Get Into The Gloom instantly for Windows, DRM-free!",
+        "developer": "Flying Interactive",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/into-the-gloom",
+            "developer": "http://flyinginteractive.com/"
+        },
+        "notes": "Store page: http://flyinginteractive.com/intothegloom/",
         "extras": false
     },
     {
@@ -18257,6 +18309,31 @@ var games = [
             "developer": "http://www.firehosegames.com/"
         },
         "notes": "Store page: http://www.firehosegames.com/order/",
+        "extras": false
+    },
+    {
+        "name": "Sleeping Souls",
+        "url": "sleepingsouls/Xlkjadfl987SDKJ",
+        "price": "0.99",
+        "description": "Get Sleeping Souls Now! Available for Windows and Android. Assets Open Source and DRM-free!",
+        "developer": "Team Omni",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://team-omni.com/"
+        },
+        "notes": "Store page: http://team-omni.com/2014/07/19/sleeping-souls-released/",
         "extras": false
     },
     {
