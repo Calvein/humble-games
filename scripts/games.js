@@ -11399,9 +11399,9 @@ var games = [
         "developer": "Chainsawesome Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
