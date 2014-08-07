@@ -4241,6 +4241,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Crawl",
+        "url": "crawl/Oknsdakjflj192",
+        "price": "9.99",
+        "description": "Get Crawl DRM-free! Also redeemable on Steam for Windows, Mac and Linux.",
+        "developer": "Powerhoof",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/293780",
+            "desura": "http://www.desura.com/games/crawl",
+            "developer": "http://www.powerhoof.com/"
+        },
+        "notes": "Store page: http://www.powerhoof.com/crawl/",
+        "extras": false
+    },
+    {
         "name": "Crea Beta",
         "url": "crea_gameonly/aECF9PQKtbeB",
         "price": "14.99",
@@ -7628,6 +7655,31 @@ var games = [
             "developer": "http://ifightbears.co.uk/press/"
         },
         "notes": "Store page: http://fistofawesome.com/",
+        "extras": false
+    },
+    {
+        "name": "Flappy Potato Salad",
+        "url": "flappypotatosalad/oDKJhf23874hs",
+        "price": "4.99",
+        "description": "Pre-order and support the development of this parody game, and make sure you get your copy of it first!",
+        "developer": "Corbomite Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://corporate.corbomitegames.com/"
+        },
+        "notes": "Store page: http://do.odedsharon.com/FlappyPotatoSalad/humble",
         "extras": false
     },
     {
