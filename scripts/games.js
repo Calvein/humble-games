@@ -18397,6 +18397,32 @@ var games = [
         }
     },
     {
+        "name": "Social Justice Warriors",
+        "url": "socialjusticewarriors/noiJDSlfkj1093jdk",
+        "price": "1",
+        "description": "Battle trolls for social justice in a satirical role-playing game about our online interactions! Cross-platform and DRM-free!",
+        "developer": "Nonadecimal Creative",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/social-justice-warriors",
+            "developer": "http://nonadecimal.com/site/"
+        },
+        "notes": "Store page: http://nonadecimal.com/site/socialjusticewarriors/",
+        "extras": false
+    },
+    {
         "name": "Soda Drinker Pro",
         "url": "sodadrinkerpro/Sdksoqk2ldks",
         "price": "4.99",
