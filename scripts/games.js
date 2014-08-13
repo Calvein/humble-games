@@ -9864,6 +9864,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Hearthlands",
+        "url": "hearthlands/EGabsd823ahs",
+        "price": "9.99",
+        "description": "Get Hearthlands for Windows, Mac and Linux, DRM-free! You will also get a Steam key once we get there!",
+        "developer": "Sergio & Simon",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://hearthlands.com/"
+        },
+        "notes": "Store page: http://hearthlands.com/index.php?page=download",
+        "extras": false
+    },
+    {
         "name": "Heavy Bullets",
         "url": "heavybullets/567truggEU3y7",
         "price": "9.99",
@@ -20739,6 +20764,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Deer God",
+        "url": "thedeergod/Zlkjwlekrho38i",
+        "price": "9.99",
+        "description": "Preorder The Deer God! Cross-platform and DRM-free!",
+        "developer": "Crescent Moon Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://crescentmoongames.com/"
+        },
+        "notes": "Store page: http://crescentmoongames.com/wordpress/the-deer-god/",
+        "extras": false
+    },
+    {
         "name": "The Floor is Jelly",
         "url": "thefloorisjelly/Tkdowk4",
         "price": "9.99",
@@ -21216,6 +21266,31 @@ var games = [
             "developer": "http://www.wadjeteyegames.com/"
         },
         "notes": "Store page: http://www.wadjeteyegames.com/games/the-shivah/",
+        "extras": false
+    },
+    {
+        "name": "The Spatials",
+        "url": "thespatials/mSOLib23j2jks",
+        "price": "4.95",
+        "description": "Now available as early access for Windows and Mac! Get The Spatials now and support us on the way to 2.0!",
+        "developer": "Weird and Wry",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://weirdandwry.com/"
+        },
+        "notes": "Store page: http://thespatials.com/#download",
         "extras": false
     },
     {
