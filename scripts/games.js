@@ -2532,6 +2532,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bolt Riley",
+        "url": "boltriley/Gu248ehaojs2",
+        "price": "15",
+        "description": "Pre-order Bolt Riley and help support its development!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": false
+    },
+    {
+        "name": "Bolt Riley + Soundtrack",
+        "url": "boltriley_soundtrack/js223jERUWW",
+        "price": "30",
+        "description": "Pre-order Bolt Riley and help support its development! Includes Bolt Riley soundtrack!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": false
+    },
+    {
         "name": "Botanicula",
         "url": "botanicula",
         "price": "10",
@@ -13980,6 +14030,318 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Nom Nom Galaxy: Pioneer Pack",
+        "url": "nomnomgalaxy_pioneerpack/asdwoei4kolkj",
+        "price": "19",
+        "description": "Early Alpha Access + Wallpaper pack",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/pioneer-pack/",
+        "extras": true
+    },
+    {
+        "name": "Nom Nom Galaxy: PixelJam Pack",
+        "url": "nomnomgalaxy_pixeljampack/asdwoei4kolkj",
+        "price": "29",
+        "description": "Early Alpha Access + Wallpaper pack + Soundtrack",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/pixeljam-pack/",
+        "extras": true
+    },
+    {
+        "name": "Nom Nom Galaxy: Data Pack",
+        "url": "nomnomgalaxy_datapack/asdwoei4kolkj",
+        "price": "49",
+        "description": "Early Alpha Access + Wallpaper pack + Soundtrack + Printable PixelJunk Papercraft pdf, soundtrack cover pdf, and game cover",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/data-pack/",
+        "extras": true
+    },
+    {
+        "name": "Nom Nom Galaxy: Collector's Pack",
+        "url": "nomnomgalaxy_collectorspack/asdwoei4kolkj",
+        "price": "69",
+        "description": "All previous tiers + Steam versions of PixelJunk Monsters, PixelJunk Eden, and PixelJunk Shooter",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/pixeljunk-collectors-pack/",
+        "extras": true
+    },
+    {
+        "name": "Nom Nom Galaxy: Costume Pack",
+        "url": "nomnomgalaxy_costumepack/asdwoei4kolkj",
+        "price": "89",
+        "description": "All previous tiers + Exclusive PixelJunk themed Costume from previous PixelJunk game",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/pixeljunk-costume/",
+        "extras": true
+    },
+    {
+        "name": "Nom Nom Galaxy: Galactic Employee",
+        "url": "nomnomgalaxy_galacticemployee/asdwoei4kolkj",
+        "price": "120",
+        "description": "All previous tiers + Name listed in credits + Nom Nom Galaxy T-shirt",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/galactic-employee/",
+        "extras": true
+    },
+    {
+        "name": "NNG: SSC Chef de Cuisine",
+        "url": "nomnomgalaxy_sscchefdecuisine/asdwoei4kolkj",
+        "price": "499",
+        "description": "All previous tiers + Concept art signed by team + Help design a planet and soup recipes.",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-chef-de-cuisine/",
+        "extras": true
+    },
+    {
+        "name": "NNG: SSC Chief Engineer",
+        "url": "nomnomgalaxy_sscchiefengineer/asdwoei4kolkj",
+        "price": "799",
+        "description": "All previous tiers + Concept art signed by team + Help design robot or a Astroworker costume",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },  
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },  
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },  
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-chief-engineer/",
+        "extras": true
+    },  
+    {
+        "name": "NNG: SSC Head of R&D",
+        "url": "nomnomgalaxy_sscheadofrd/asdwoei4kolkj",
+        "price": "999",
+        "description": "All previous tiers + Concept art signed by team + Help design weapon or vehicle",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-head-of-rd/",
+        "extras": true
+    },
+    {
+        "name": "NNG: SSC Galactic Designer",
+        "url": "nomnomgalaxy_sscgalacticdesigner/asdwoei4kolkj",
+        "price": "1999",
+        "description": "All previous tiers + Help design a planet, a robot helper, and a weapon, tower or vehicle (Max 3) + Custom PixelJunk Sony Pulse Elite Headset",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-galactic-designer/",
+        "extras": true
+    },
+    {
+        "name": "NNG: SSC Galactic Executive",
+        "url": "nomnomgalaxy_sscgalacticexecutive/asdwoei4kolkj",
+        "price": "5999",
+        "description": "All previous tiers + Come to Kyoto Japan for four days to work with NNG team! Includes flight, hotel, and dinner with the team.",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-galactic-executive/",
+        "extras": true
+    },
+    {
+        "name": "Nom Nom Galaxy: Executive Producer",
+        "url": "nomnomgalaxy_executiveproducer/asdwoei4kolkj",
+        "price": "9999",
+        "description": "All previous tiers + Come to Kyoto Japan for four days to work with NNG team! Includes flight, hotel, & dinner with the team + Design a Boss",
+        "developer": "Q-Games, Ltd.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/226100/",
+            "developer": "http://www.q-games.com/"
+        },
+        "notes": "Store page: http://nomnomgalaxy.com/early-access/executive-producer/",
+        "extras": true
     },
     {
         "name": "Not The Robots",
