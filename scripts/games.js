@@ -2080,6 +2080,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bermuda",
+        "url": "bermuda/Bgasd4t9hjsdkl",
+        "price": "7",
+        "description": "Trapped in an alien submarine, will you survive this trial of trust and deceit? Bermuda is a visual novel voiced by veteran actors.",
+        "developer": "Marcus Lam",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.capsulecomputers.com.au/2014/08/bermuda-review/",
+            "developer": "http://invertmouse.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the developer's website.\nStore page: http://bermuda.invertmouse.com/",
+        "extras": false
+    },
+    {
         "name": "Betrayer",
         "url": "betrayer/Bdh7Ts5GLwi",
         "price": "19.99",
@@ -2838,6 +2864,31 @@ var games = [
                 "developer": "http://www.finjigames.com/"
         },
         "notes": "Store page: http://milsci.info/",
+        "extras": false
+    },
+    {
+        "name": "Captain Forever Remix",
+        "url": "captainforeverremix/Biahsdf9382s",
+        "price": "9.99",
+        "description": "Pre-order now to get the lowest pre-launch price and take part in the development process with Steam Early Access! Windows/Mac/Linux + Steam key!",
+        "developer": "Pixelsaurus Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://pixelsaurusgames.tumblr.com/"
+        },
+        "notes": "Pre-order at 50% off - regular price is $19.99\nStore page: http://captainforeverremix.com/#comingsoontext",
         "extras": false
     },
     {
@@ -7975,6 +8026,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Frip and Froop's Logical Labyrinth",
+        "url": "fripandfroopslogicallabyrinth/BSDfkj23r98ahsdj",
+        "price": "4.99",
+        "description": "Pre-order Frip and Froop's Logical Labyrinth now! Cross-platform and DRM-free!",
+        "developer": "Wayward Thoughts Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.waywardthoughtsinteractive.com/"
+        },
+        "notes": "Store page: http://www.waywardthoughtsinteractive.com/?page_id=19",
+        "extras": false
+    },
+    {
         "name": "Frogatto",
         "url": "frogatto?preview=thsueWluErTM",
         "price": "9.99",
@@ -12849,8 +12925,8 @@ var games = [
     {
         "name": "Mini Metro",
         "url": "minimetro/NIUCv54",
-        "price": "3.99",
-        "description": "Pre-order Mini Metro today! Cross-platform, DRM-free, and redeemable on Steam (when available).",
+        "price": "6.99",
+        "description": "Purchase Mini Metro today! Cross-platform, DRM-free, and redeemable on Steam.",
         "developer": "Dinosaur Polo Club",
         "platform": {
             "android": true,
@@ -12866,9 +12942,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/287980/",
             "developer": "http://dinopoloclub.com/minimetro/"
         },
-        "notes": "Pre-order at 20% off. Regular price is $4.99.\nBeta access included, except for Android.\nStore page: http://dinopoloclub.com/minimetro/#pre-order",
+        "notes": "Store page: http://dinopoloclub.com/minimetro/#buy",
         "extras": false
     },
     {
