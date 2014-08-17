@@ -17323,15 +17323,15 @@ var games = [
     },
     {
         "name": "Sanctum 2",
-        "url": "sanctum2?preview=SnbKp2ns7hH",
+        "url": "sanctum2/SnbKp2ns7hH",
         "price": "14.99",
         "description": "Order Sanctum 2 and instantly get a Steam key!",
         "developer": "Coffee Stain Studios",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -17340,19 +17340,25 @@ var games = [
             "gog": false,
             "drm-free": false
         },
-        "notes": "Dev Store: http://coffeestainstudios.com/store"
+        "URL": {
+            "review": "http://www.destructoid.com/review-sanctum-2-253972.phtml",
+            "steam": "http://store.steampowered.com/app/210770/",
+            "developer": "http://coffeestainstudios.com/"
+        },
+        "notes": "Store page: http://coffeestainstudios.com/store",
+        "extras": false
     },
     {
         "name": "Sanctum 2 Season Pass",
-        "url": "sanctum2seasonpass?preview=SnbKp2ns7hH",
+        "url": "sanctum2seasonpass/SnbKp2ns7hH",
         "price": "11.99",
         "description": "Purchase a Sanctum 2 Season Pass and instantly get a Steam key!",
         "developer": "Coffee Stain Studios",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -17361,7 +17367,13 @@ var games = [
             "gog": false,
             "drm-free": false
         },
-        "notes": "Dev Store: http://coffeestainstudios.com/store"
+        "URL": { 
+            "review": "http://www.destructoid.com/review-sanctum-2-253972.phtml",
+            "steam": "http://store.steampowered.com/app/237190/",
+            "developer": "http://coffeestainstudios.com/"
+        },
+        "notes": "Store page: http://coffeestainstudios.com/store",
+        "extras": false
     },
     {
         "name": "Super Sanctum TD",
