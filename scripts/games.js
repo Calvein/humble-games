@@ -4497,6 +4497,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Crunch Time!",
+        "url": "crunchtime/XCl4ruw90jida",
+        "price": "3.99",
+        "description": "Get Crunch Time! instantly! Cross-platform and DRM-free!",
+        "developer": "David Teruel Ledesma",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.crunchtimethegame.com/"
+        },
+        "notes": "Store page: http://www.crunchtimethegame.com/#u818",
+        "extras": false
+    },
+    {
         "name": "Cryptic Sea EP",
         "url": "crypticseaep/Cry0Pe8Usgh",
         "price": "3",
@@ -18143,6 +18168,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Servo Series I: Overclockers",
+        "url": "servoseriesone_overclockers/Tssj29sjs0204s",
+        "price": "2.99",
+        "description": "Get Servo Series I: Overclockers instantly for Windows, DRM-free!",
+        "developer": "Stamper Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/servo-series-i-overclockers",
+            "developer": "http://stampergames.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Shadow Warrior",
         "url": "shadowwarrior",
         "price": "39.99",
@@ -24278,6 +24328,34 @@ var games = [
         }
     },
     {
+        "name": "Zombie Driver HD",
+        "url": "zombiedriverhd/dzrkfauhdidfgiuoECN23",
+        "price": "9.99",
+        "description": "Get Zombie Driver HD instantly! Comes with Windows Steam key version only!",
+        "developer": "EXOR Studios sp. j.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.strategyinformer.com/pc/zombiedriverhd/2040/review.html",
+            "desura": "http://www.desura.com/games/zombie-driver",
+            "steam": "http://store.steampowered.com/app/220820/",
+            "developer": "http://www.exorstudios.com/"
+        },
+        "notes": "Store page: http://www.zombiedriver.com/purchase.html",
+        "extras": false
+    },
+    {
         "name": "Zoo Park",
         "url": "zoopark/Mekdowk2",
         "price": "20",
@@ -24291,14 +24369,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/zoo-park/"
+        "notes": "Store page: http://www.mergegames.com/zoo-park/"
     }
 ]
