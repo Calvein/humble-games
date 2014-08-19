@@ -10886,30 +10886,6 @@ var games = [
         }
     },
     {
-        "name": "Invisible, Inc.",
-        "url": "incognita?preview=Ieu7Gsyhe5Df",
-        "price": "19.99",
-        "description": "Get the Full Game + Soundtrack at launch. Play the Early-Access Alpha immediately! Also includes an extra copy to give to a friend! ($19.99) \n -Get the Full Game at launch -Play the Early-Access Alpha immediately! -Also includes an extra copy to give to a friend! ($16.99)",
-        "developer": "Klei Entertainment",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-            },
-        "URL": {
-            "developer": "http://kleientertainment.com/"
-        },
-        "notes": "Current prices are early access discounts and will increase in future. \n Store page: http://www.incognitagame.com/"
-    },
-    {
         "name": "Ironclad Tactics",
         "url": "ironclad/Ieyh7Fsdw45",
         "price": "14.99",
@@ -18190,6 +18166,31 @@ var games = [
             "desura": "http://www.desura.com/games/servo-series-i-overclockers",
             "developer": "http://stampergames.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Shadow Hunter",
+        "url": "shadowhunter/Shdke3",
+        "price": "5",
+        "description": "Shadow Hunter is a single-player \"Action Board Game\" in an RPG setting. Windows Compatible.",
+        "developer": "Simple Distractions Software",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://simple-distractions.com/"
+        },
+        "notes": "Store page: http://shadowhunter.simple-distractions.com/purchase.php",
         "extras": false
     },
     {
