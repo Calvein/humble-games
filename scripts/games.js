@@ -613,6 +613,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "AI War Collection (2014)",
+        "url": "aiwarcollection_2014/BNlkwejr0923",
+        "price": "16.99",
+        "description": "Humanity has already fought its war against the machines -- and lost. This modern RTS classic blends in 4X and grand strategic elements! (Steam)",
+        "developer": "Arcen Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.pcgamer.com/review/ai-war-review/",
+            "desura": "http://www.desura.com/games/ai-war-fleet-command",
+            "steam": "http://store.steampowered.com/sub/49306/",
+            "developer": "http://arcengames.com/"
+        },
+        "notes": "Store page: http://arcengames.com/ai-war/",
+        "extras": false
+    },
+    {
         "name": "Al Emmo & the Lost Dutchman's Mine",
         "url": "alemmoandthelostdutchmansmine/Aud3",
         "price": "9.99",
@@ -12168,6 +12196,84 @@ var games = [
             "developer": "http://www.backwardpies.com/",
         },
         "notes": "Steam key if/when Greenlit.\nMac and Android versions coming soon.\nStore page: http://www.backwardpies.com/?page_id=388#post-388",
+        "extras": false
+    },
+    {
+        "name": "Lethal League",
+        "url": "lethalleague/Gjlksd34jewoldks",
+        "price": "13.99",
+        "description": "Pre-order Lethal League for Steam!",
+        "developer": "Team Reptile",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/261180/",
+            "developer": "http://www.reptile-games.com/",
+        },
+        "notes": "Will allegedly be only for Windows, as the developers have stated it will be released on 'PC'.\nStore page: http://lethalleague.reptile-games.com/#getgame",
+        "extras": false
+    },
+    {
+        "name": "Lethal League (2-Pack)",
+        "url": "lethalleague_twopack/Tyasldfkj23jlas",
+        "price": "21.99",
+        "description": "Pre-order Lethal League (2-Pack) for Steam!",
+        "developer": "Team Reptile",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/261180/",
+            "developer": "http://www.reptile-games.com/",
+        },
+        "notes": "Will allegedly be only for Windows, as the developers have stated it will be released on 'PC'.\nStore page: http://lethalleague.reptile-games.com/#getgame",
+        "extras": false
+    },
+    {
+        "name": "Lethal League (4-Pack)",
+        "url": "lethalleague_fourpack/Blkjsdf024jdklas",
+        "price": "39.99",
+        "description": "Pre-order Lethal League (4-Pack) for Steam!",
+        "developer": "Team Reptile",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/261180/",
+            "developer": "http://www.reptile-games.com/",
+        },
+        "notes": "Will allegedly be only for Windows, as the developers have stated it will be released on 'PC'.\nStore page: http://lethalleague.reptile-games.com/#getgame",
         "extras": false
     },
     {
