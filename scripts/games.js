@@ -1642,6 +1642,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Avner",
+        "url": "avner/vrbiuG2fnven",
+        "price": "0.01",
+        "description": "Speed and Cunning, do you have what it takes? Pay what you want over one cent! (Cross-platform and DRM-free!).",
+        "developer": "Corbomite Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://corporate.corbomitegames.com"
+        },
+        "notes": "Store page: http://corporate.corbomitegames.com/avner",
+        "extras": false
+    },
+    {
         "name": "Awesomenauts",
         "url": "awesomenauts",
         "price": "9.99",
@@ -3810,6 +3835,31 @@ var games = [
             "developer": "http://www.digitaltunagames.com/"
         },
         "notes": "Store page: http://www.cobotsgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Codemancer",
+        "url": "codemancer/madfinl2934KA",
+        "price": "24.99",
+        "description": "Pre-Order Codemancer Now!",
+        "developer": "Important Little Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://importantlittlegames.com/"
+        },
+        "notes": "Store page: http://codemancergame.com/pre-order/",
         "extras": false
     },
     {
@@ -7677,6 +7727,32 @@ var games = [
             "steam": "http://store.steampowered.com/app/286340/",
             "developer": "http://www.farskygame.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "fault milestone one",
+        "url": "faultmilestoneone/iDKjsnlak39jds",
+        "price": "13",
+        "description": "Pre-order fault milestone one now! Cross-platform and DRM-free!",
+        "developer": "Sekai Project",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/286260/",
+            "developer": "http://sekaiproject.com/"
+        },
+        "notes": "Store page: http://sekaiproject.com/portfolio/#/fault-milestone-one",
         "extras": false
     },
     {
@@ -20984,6 +21060,31 @@ var games = [
             "drm-free": true
         },
         "notes": "Currently on sale at 31% off for $8.99."
+    },
+    {
+        "name": "Temporus",
+        "url": "temporus/Ijsh20ejs02k1",
+        "price": "10",
+        "description": "Pre-order a copy of Temporus today and help support it's development!",
+        "developer": "Firebelly Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.firebelly.net/"
+        },
+        "notes": "Store page: http://www.tempor.us/",
+        "extras": false
     },
     {
         "name": "Tengami",
