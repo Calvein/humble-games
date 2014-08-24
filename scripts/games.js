@@ -5180,6 +5180,32 @@ var games = [
         }
     },
     {
+        "name": "Deep Under the Sky",
+        "url": "deepunderthesky/BSldkjf2309sja",
+        "price": "9.99",
+        "description": "Try life as a strange jellyfish on a remarkable world. Learn to fly through the skies of a psychedelic Venus to explore and flourish!",
+        "developer": "Northway Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/315650/",
+            "developer": "http://northwaygames.com/"
+        },
+        "notes": "Store page: http://deepunderthesky.com/buy.html",
+        "extras": false
+    },
+    {
         "name": "Defender's Quest: Valley of the Forgotten",
         "url": "defendersquest?preview=Snd8dhrbaz",
         "price": "14.99",
@@ -5202,6 +5228,7 @@ var games = [
             "review": "http://www.destructoid.com/review-defender-s-quest-valley-of-the-forgotten-220503.phtml",
             "steam": "http://store.steampowered.com/app/218410/",
             "desura": "http://www.desura.com/games/defenders-quest-valley-of-the-forgotten",
+            "gog": "http://www.gog.com/game/defenders_quest",
             "developer": "http://www.leveluplabs.com/"
         },
         "notes": "Store page: http://www.defendersquest.com/1/",
@@ -5223,7 +5250,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5248,7 +5275,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5273,7 +5300,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5298,7 +5325,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5323,7 +5350,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5348,7 +5375,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5373,7 +5400,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5398,7 +5425,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5423,7 +5450,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -5448,7 +5475,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -6381,13 +6408,14 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://criticalindiegamer.com/2013/05/dungeon-dashers-first-lookpc/",
             "steam": "http://store.steampowered.com/app/252210",
             "desura": "http://www.desura.com/games/Dungeon-Dashers",
+            "gog": "",
             "developer": "http://www.dungeondashers.com"
         },
         "extras": false
@@ -6408,7 +6436,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -6435,7 +6463,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -10364,7 +10392,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         },
         "URL": {
@@ -16723,7 +16751,7 @@ var games = [
         "drm": {
             "steam": true,
             "desura": false,
-            "gog": true,
+            "gog": false,
             "drm-free": true
         }
     },
@@ -17227,8 +17255,8 @@ var games = [
         },
         "drm": {
             "steam": true,
-            "desura": true,
-            "gog": true,
+            "desura": false,
+            "gog": false,
             "drm-free": true
         }
     },
@@ -22055,6 +22083,58 @@ var games = [
         },
         "notes": "Store page: http://bootdiskrevolution.com/",
         "extras": false
+    },
+    {
+        "name": "The Vanishing of Ethan Carter (Steam)",
+        "url": "thevanishingofethancarter/BSkdjfhawir8hsj",
+        "price": "19.99",
+        "description": "Special Pre-Order Edition to download from Steam. Includes Steam key, full Original Soundtrack and other pre-order only extras!",
+        "developer": "The Astronauts",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/258520/",
+            "developer": "http://www.theastronauts.com/"
+        },
+        "notes": "In at least some Euro-using zones the game is being sold for 18.99€, rather than for $19.99.\nStore page: http://ethancartergame.com/",
+        "extras": true
+    },
+    {
+        "name": "The Vanishing of Ethan Carter (GOG)",
+        "url": "thevanishingofethancarter_gog/WSDLjf23sas",
+        "price": "19.99",
+        "description": "Special Pre-Order Edition to download from GOG. Includes GOG key, full Original Soundtrack and other pre-order only extras!",
+        "developer": "The Astronauts",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": true,
+            "drm-free": false
+        },
+        "URL": {
+            "gog": "http://www.gog.com/game/the_vanishing_of_ethan_carter_special_edition",
+            "developer": "http://www.theastronauts.com/"
+        },
+        "notes": "In at least some Euro-using zones the game is being sold for 18.99€, rather than for $19.99.\nStore page: http://ethancartergame.com/",
+        "extras": true
     },
     {
         "name": "There Came An Echo",
