@@ -11396,6 +11396,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Jenny LeClue",
+        "url": "jennyleclue/Msndfhy2839",
+        "price": "15",
+        "description": "Pre-Order Jenny LeClue now!",
+        "developer": "Mografi",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://mografi.com/"
+        },
+        "notes": "Store page: http://www.kickstarter.com/projects/mografi/jenny-leclue-a-handmade-adventure-game",
+        "extras": false
+    },
+    {
+        "name": "Jenny LeClue + Bonus Pack",
+        "url": "jennyleclue_bonuspack/SNLDFj23oris",
+        "price": "30",
+        "description": "Pre-order Jenny LeClue + Bonus Pack now! Upon release, get a digital artbook PDF & OST!",
+        "developer": "Mografi",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://mografi.com/"
+        },
+        "notes": "Store page: http://www.kickstarter.com/projects/mografi/jenny-leclue-a-handmade-adventure-game",
+        "extras": true
+    },
+    {
+        "name": "Jenny LeClue + Beta Buddies",
+        "url": "jennyleclue_betabuddies/Gyasdkjl230",
+        "price": "45",
+        "description": "Pre-order Jenny LeClue now! Includes Beta Access! Upon release, get a digital artbook PDF & OST!",
+        "developer": "Mografi",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://mografi.com/"
+        },
+        "notes": "Store page: http://www.kickstarter.com/projects/mografi/jenny-leclue-a-handmade-adventure-game",
+        "extras": true
+    },
+    {
         "name": "Jibs Arcade",
         "url": "jibsarcade/CDBOUasruviowav",
         "price": "4.99",
@@ -11636,6 +11711,81 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Jotun",
+        "url": "jotun/BSKDJFh23is",
+        "price": "15",
+        "description": "Pre-Order: Our eternal thanks for your support, exclusive digital wallpaper, backer-only forum access and a DRM-free digital copy of Jotun!",
+        "developer": "Thunder Lotus Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+                "developer": "http://jotungame.com/"
+        },
+        "notes": "Store page: http://www.kickstarter.com/projects/682108903/jotun",
+        "extras": true
+    },
+    {
+        "name": "Jotun + Beta Access",
+        "url": "jotun_betaaccess/F89234jssdd",
+        "price": "25",
+        "description": "Pre-Order: Beta access, your name in the credits + all previous rewards!",
+        "developer": "Thunder Lotus Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+                "developer": "http://jotungame.com/"
+        },
+        "notes": "Store page: http://www.kickstarter.com/projects/682108903/jotun",
+        "extras": true
+    },
+    {
+        "name": "Jotun + Alpha + Digital Loot",
+        "url": "jotun_alpha_digitalloot/Ykjasdf2398",
+        "price": "50",
+        "description": "Pre-Order: Alpha access, digital soundtrack, digital art book, an extra DRM-free digital copy of Jotun + all previous rewards!",
+        "developer": "Thunder Lotus Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+                "developer": "http://jotungame.com/"
+        },
+        "notes": "Store page: http://www.kickstarter.com/projects/682108903/jotun",
+        "extras": true
     },
     {
         "name": "Journal",
