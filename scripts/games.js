@@ -2506,6 +2506,32 @@ var games = [
         }
     },
     {
+        "name": "Blob From Space",
+        "url": "blobfromspace/R00SDhflakdj2",
+        "price": "3.99",
+        "description": "Pre-order Blob From Space now! Desura key for easy future updates and DRM-free! There will be updates every month!",
+        "developer": "JosPlays",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/blob-from-space",
+            "developer": "http://www.josweb.info/"
+        },
+        "notes": "Store page: http://www.josweb.info/my-games/",
+        "extras": false
+    },
+    {
         "name": "Block Blocks",
         "url": "blockblocks/Bkdkwo1kdb",
         "price": "2.99",
