@@ -8384,7 +8384,7 @@ var games = [
             "desura": "http://www.desura.com/games/full-bore",
             "developer": "http://www.wholehog-games.com/fullbore/"
         },
-        "notes": "Only Windows version available right now. Linux build expected soon.",
+        "notes": "Store page: http://www.wholehog-games.com/fullbore/#preorder",
         "extras": false
     },
     {
@@ -8401,16 +8401,18 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
-            "desura": false,
+            "steam": true,
+            "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://www.joystiq.com/2012/12/19/the-joystiq-indie-pitch-full-bore/",
+            "steam": "http://store.steampowered.com/app/264060/",
+            "desura": "http://www.desura.com/games/full-bore",
             "developer": "http://www.wholehog-games.com/fullbore/"
         },
-        "notes": "Only Windows version available right now. Linux build expected soon.",
+        "notes": "Store page: http://www.wholehog-games.com/fullbore/#preorder",
         "extras": false
     },
     {
