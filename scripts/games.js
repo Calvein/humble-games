@@ -8373,13 +8373,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
-            "desura": false,
+            "steam": true,
+            "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://www.joystiq.com/2012/12/19/the-joystiq-indie-pitch-full-bore/",
+            "steam": "http://store.steampowered.com/app/264060/",
+            "desura": "http://www.desura.com/games/full-bore",
             "developer": "http://www.wholehog-games.com/fullbore/"
         },
         "notes": "Only Windows version available right now. Linux build expected soon.",
@@ -10796,6 +10798,32 @@ var games = [
             "developer": "http://www.mergegames.com/"
         },
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/imperial-glory/"
+    },
+    {
+        "name": "In Exilium",
+        "url": "inexilium/Qudnawe0r89js",
+        "price": "9.99",
+        "description": "Get In Exilium, a minimal and exploration focused Hack & Slash RPG now! Available on Windows/Mac, DRM-free!",
+        "developer": "Conflux Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/in-exilium",
+            "developer": "http://www.confluxgames.com/"
+        },
+        "notes": "Store page: http://www.exiliumgame.com/",
+        "extras": false
     },
     {
         "name": "In Vivo",
@@ -18410,6 +18438,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "See No Evil",
+        "url": "seenoevil/NBSDFjkl2349s",
+        "price": "15",
+        "description": "Get See No Evil instantly! Available on Steam!",
+        "developer": "Noetic",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://in2gpu.com/2014/08/26/see-evil/",
+            "steam": "http://store.steampowered.com/app/313830/",
+            "developer": "http://www.snegame.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Sentinel",
         "url": "sentinel?preview=xb7qKvL5ES0e",
         "price": "3",
@@ -21002,6 +21056,32 @@ var games = [
             "developer": "http://spikysnail.com/category/spikysnail_blog/"
         },
         "notes": "Linux version only available on Steam. \n Store page: http://spikysnail.com/#watch-headline-title"
+    },
+    {
+        "name": "Super Time Force Ultra",
+        "url": "supertimeforceultra/WBISDFJk2sn",
+        "price": "14.99",
+        "description": "Super Time Force Ultra is an action-packed platformer with a time-travelling twist!",
+        "developer": "Capybara Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/250700/",
+            "developer": "http://www.capybaragames.com/"
+        },
+        "notes": "Store page: http://supertimeforce.com/buy-it/",
+        "extras": false
     },
     {
         "name": "Super Ubie Land",
