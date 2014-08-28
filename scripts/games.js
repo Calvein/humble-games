@@ -1085,6 +1085,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Appointment With F.E.A.R.",
+        "url": "appointmentwithfear/ZXChjwer083",
+        "price": "5.99",
+        "description": "Appointment With F.E.A.R. is a graphic novel where YOU are the hero! Choose your hero's gender and abilities, then fight crime! (Pre-Order)",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/316140",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://fightingfantasyapps.com/books/appointment-with-f-e-a-r/",
+        "extras": false
+    },
+    {
         "name": "Aqua Kitty: Milk Mine Defender",
         "url": "aquakitty_milkminedefender/Adwieiie4",
         "price": "5.99",
@@ -23494,7 +23520,39 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.pcgamer.com/review/universe-sandbox-review/",
+            "steam": "http://store.steampowered.com/app/72200/",
+            "developer": "http://giantarmy.com/"
+        },
+        "notes": "Store page: http://universesandbox.com/buy/",
+        "extras": false
+    },
+    {
+        "name": "Universe Sandbox ²",
+        "url": "universesandbox_squared/BSK3wDJF24hjkes",
+        "price": "24.99",
+        "description": "Get instant access to the Universe Sandbox ² Alpha on Steam and pre-order the finished game!",
+        "developer": "Giant Army",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://giantarmy.com/"
+        },
+        "notes": "Store page: http://universesandbox.com/buy/",
+        "extras": false
     },
     {
         "name": "Unhack",
