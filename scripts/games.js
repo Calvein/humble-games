@@ -8832,6 +8832,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Ghost in the Machine",
+        "url": "ghostinthemachine/tyiuuiyRUIYT487gb",
+        "price": "10",
+        "description": "Get Ghost in the Machine now!",
+        "developer": "Pipeteam Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://mikejmoffitt.com/"
+        },
+        "notes": "Store page: http://mikejmoffitt.com/gitm/#section_purchase",
+        "extras": false
+    },
+    {
         "name": "Ghost Song",
         "url": "ghostsong/noucdONCu",
         "price": "15",
