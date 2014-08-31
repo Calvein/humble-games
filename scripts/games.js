@@ -22496,6 +22496,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Thief Town",
+        "url": "thieftown/nSFdlk23lkja",
+        "price": "4",
+        "description": "Pre-order Thief Town! Cross-platform and DRM-free. Includes OST!",
+        "developer": "Glass Knuckle Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://glassknuckle.com/"
+        },
+        "notes": "Store page: http://glassknuckle.com/ThiefTown/",
+        "extras": false
+    },
+    {
         "name": "Thirty Flights of Loving",
         "url": "thirtyflightsofloving",
         "price": "5",
