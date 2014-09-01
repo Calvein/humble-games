@@ -10316,7 +10316,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -10344,7 +10344,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -10352,9 +10352,37 @@ var games = [
         "URL": {
             "review": "http://www.rockpapershotgun.com/2013/12/11/wot-i-think-hexcells-plus/",
             "steam": "http://store.steampowered.com/app/271900/",
+            "desura": "http://www.desura.com/games/hexcells-plus",
             "developer": "http://www.matthewbrowngames.com/"
         },
         "notes": "Store page: http://www.matthewbrowngames.com/hexcellsplus.html",
+        "extras": false
+    },
+    {
+        "name": "Hexcells Infinite",
+        "url": "hexcellsinfinite/SSDFOIj30w9jd",
+        "price": "5",
+        "description": "Get Hexcells Infinite instantly! Cross-platform and DRM-free!",
+        "developer": "Matthew Brown",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/09/01/hexcells-infinite-review/",
+            "steam": "http://store.steampowered.com/app/304410/",
+            "developer": "http://www.matthewbrowngames.com/"
+        },
+        "notes": "Store page: http://www.matthewbrowngames.com/hexcellsinfinite.html",
         "extras": false
     },
     {
