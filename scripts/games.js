@@ -16676,7 +16676,7 @@ var games = [
         "description": "Get Quest of Dungeons instantly! Cross-platform and DRM-free.",
         "developer": "David Amador",
         "platform": {
-            "android": false,
+            "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
@@ -21667,7 +21667,7 @@ var games = [
         "name": "The Bridge",
         "url": "thebridge?preview=Sj39dhsnNzlx",
         "price": "14.99",
-        "description": "The Bridge is a logic puzzle game in the style of M. C. Escher. Redeemable via Steam for Windows, Mac and Linux.",
+        "description": "The Bridge is a logic puzzle game in the style of M. C. Escher. DRM-Free or redeemable via Steam for Windows, Mac and Linux.",
         "developer": "The Quantum Astrophysicists Guild",
         "platform": {
             "android": false,
@@ -21680,7 +21680,7 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://www.gamespot.com/the-bridge/reviews/the-bridge-review-6404664/",
