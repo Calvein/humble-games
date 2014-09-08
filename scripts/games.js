@@ -13275,26 +13275,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "McDROID",
-        "url": "mcdroid?preview=iuNUFbSKkX4J",
-        "price": "14.99",
-        "description": "Get McDROID instantly! Cross-platform and DRM-free.",
-        "developer": "Elefantopia",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": true,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "McPixel",
         "url": "mcpixel?preview=k96TXIfGhNv5",
         "price": "4.99",
@@ -17427,34 +17407,9 @@ var games = [
         "extras": false
     },
     {
-        "name": "Road Redemption (Pre-Order)",
-        "url": "roadredemption/vrin923NKC",
-        "price": "18",
-        "description": "Preorder the full version of Road Redemption! Cross-platform and DRM-free.",
-        "developer": "DarkSeas Games",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.darkseasinteractive.com/"
-        },
-        "notes": "Store page: http://www.roadredemption.com/#!preorder-checkout/cepp",
-        "extras": false
-    },
-    {
         "name": "Road Redemption (Alpha Access)",
         "url": "roadredemption_alpha/NJf43kv",
-        "price": "33.99",
+        "price": "24.99",
         "description": "Get the Road Redemption Alpha instantly! This also includes access to all future versions as well as other digital rewards. DRM-free.",
         "developer": "DarkSeas Games",
         "platform": {
@@ -17473,7 +17428,7 @@ var games = [
         "URL": {
             "developer": "http://www.darkseasinteractive.com/"
         },
-        "notes": "Store page: http://www.roadredemption.com/#!preorder-checkout/cepp",
+        "notes": "In at least some Euro-using zones the game is being sold for 18.57€, rather than for $24.99. \n Store page: http://www.roadredemption.com/#!alpha-checkout/c1140",
         "extras": true
     },
     {
@@ -17498,7 +17453,7 @@ var games = [
         "URL": {
             "developer": "http://www.darkseasinteractive.com/"
         },
-        "notes": "Store page: http://www.roadredemption.com/#!preorder-checkout/cepp",
+        "notes": "In at least some Euro-using zones the game is being sold for 52.29€, rather than for $70. \n Store page: http://www.roadredemption.com/#!special-edition-checkout/c14j1",
         "extras": true
     },
     {
