@@ -6606,6 +6606,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Dungeon Lurk II - Leona",
+        "url": "dungeonlurktwo_leona/DLfuaowkj4r44",
+        "price": "4.99",
+        "description": "Get Dungeon Lurk II - Leona instantly! Cross-platform and DRM-free!",
+        "developer": "Keys of Nine Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/dungeon-lurk-ii-leona",
+            "developer": "http://keysofnine.com/"
+        },
+        "notes": "Store page: http://www.dungeonlurk.com/buy-now/",
+        "extras": false
+    },
+    {
         "name": "Dungeonmans Early Access",
         "url": "dungeonmans_beta/eriuiuertiuybvEY474",
         "price": "20",
@@ -17501,6 +17527,32 @@ var games = [
         }
     },
     {
+        "name": "ROCKETSROCKETSROCKETS",
+        "url": "rocketsrocketsrockets/tiNSu824jNd",
+        "price": "5",
+        "description": "ROCKETS fire ROCKETS at ROCKETS in this action-arcade, arena-combat festival-of-fireworks! It's dogfighting meets figure-skating in SPACE! (Steam)",
+        "developer": "Radial Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/289760",
+            "developer": "http://www.radialgames.com/"
+        },
+        "notes": "Store page: http://rocketsrocketsrockets.com/",
+        "extras": false
+    },
+    {
         "name": "Rogue Legacy",
         "url": "roguelegacy_final?preview=EXn3mzwCJtTl",
         "price": "15",
@@ -23986,7 +24038,7 @@ var games = [
             "drm-free": true
         }
     },
-        {
+    {
         "name": "Viscera Cleanup Detail",
         "url": "visceracleanupdetail/Vsu7Ysgd3Dg",
         "price": "7.99",
@@ -24032,6 +24084,31 @@ var games = [
             "drm-free": true
         },
         "extras": true
+    },
+    {
+        "name": "Volo Airsport",
+        "url": "voloairsport/Ilkajdsfbn19",
+        "price": "13",
+        "description": "Get Volo Airsport instantly! Cross-platform and DRM-free!",
+        "developer": "Ramjet Anvil",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.ramjetanvil.com/"
+        },
+        "notes": "Linux version coming soon.\nStore page: http://www.volo-airsport.com/#buy",
+        "extras": false
     },
     {
         "name": "Vox",
