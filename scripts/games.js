@@ -12798,6 +12798,31 @@ var games = [
         "extras": true
     },  
     {
+        "name": "Little Cells",
+        "url": "littlecells/Zljksajrf908243u",
+        "price": "4",
+        "description": "Purchase Little Cells now! Cross-platform and DRM-free!",
+        "developer": "Fully Bugged",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.fullybugged.com/"
+        },
+        "notes": "Store page: http://www.fullybugged.com/games/littlecells/Buy_the_Game_Now.html",
+        "extras": false
+    },
+    {
         "name": "Little Inferno",
         "url": "littleinferno",
         "price": "10",
@@ -17650,6 +17675,31 @@ var games = [
         },
         "notes": "Currently on sale at 20% off for $15.99\nStore page: http://roundaboutgame.com/",
         "extras": true
+    },
+    {
+        "name": "Royal Bounty HD",
+        "url": "royalbountyhd/Wkljsd0923jsk",
+        "price": "2",
+        "description": "From the makers of Palm Kingdoms! Pre-order Royal Bounty HD now!",
+        "developer": "Iosoftware",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://blog.palmkingdoms.com/"
+        },
+        "notes": "Store page: http://blog.palmkingdoms.com/post/91347285605/royal-bounty-hd-beta-available",
+        "extras": false
     },
     {
         "name": "rymdkapsel",
