@@ -7813,6 +7813,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Fallen: A2P Protocol",
+        "url": "fallen_a2pprotocol/HJKASdfh2398rs",
+        "price": "15",
+        "description": "Pre-order a digital download of the Beta when available (Steam Key or direct download)!",
+        "developer": "Red Katana",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.redkatana.com/"
+        },
+        "notes": "Store page: http://fallena2p.com/#innerbottom",
+        "extras": false
+    },
+    {
         "name": "Fancy Skulls",
         "url": "fancyskulls/Fdkwo1ksl",
         "price": "8.99",
@@ -9771,8 +9796,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -9797,8 +9822,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         },
         "drm": {
@@ -9823,8 +9848,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         },
         "drm": {
