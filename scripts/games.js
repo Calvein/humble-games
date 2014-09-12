@@ -153,6 +153,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "A Golden Wake",
+        "url": "agoldenwake/XbDJLK23jsd22",
+        "price": "14.99",
+        "description": "Pre-order \"A Golden Wake\" now! On Steam and DRM-free for Windows, Mac or Linux! Includes the soundtrack for a limited time!",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/307570",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/pre-order/golden-wake/",
+        "extras": false
+    },
+    {
         "name": "A Hat in Time",
         "url": "ahatintime/Han5YUef4ds",
         "price": "20",
@@ -10815,6 +10841,33 @@ var games = [
         },
         "notes": "Store page: http://www.heart-machine.com/ \n This is a widget for the game Hyper Light Drifter.",
         "extras": true
+    },
+    {
+        "name": "Hyphen",
+        "url": "hyphen/Fifkajsldk20d",
+        "price": "6.75",
+        "description": "Get Hyphen instantly for Windows, DRM-free!",
+        "developer": "FarSpace Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://criticalindiegamer.com/2014/07/hyphen-review-pc/",
+            "desura": "http://www.desura.com/games/hyphen",
+            "developer": "http://www.farspacestudios.com/"
+        },
+        "notes": "Store page: http://www.farspacestudios.com/games/hyphen/",
+        "extras": false
     },
     {
         "name": "I Get This Call Every Day",
