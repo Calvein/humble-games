@@ -586,6 +586,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Aegis Defenders: Villager Tier",
+        "url": "aegisdefenders_villagertier/BSDKJFh24r9ds",
+        "price": "15",
+        "description": "One copy for Windows/Mac + Crossover skins featuring Lunais from Timespinner, Shovel Knight and Awesomenauts + Goodies! (Pre-Order)",
+        "developer": "GUTS Department",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.aegisthegame.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website (it has been Greenlit).\nStore page: http://www.aegisthegame.com/slackerbacker.html",
+        "extras": true
+    },
+    {
+        "name": "Aegis Defenders: Treasure Seeker Tier",
+        "url": "aegisdefenders_treasureseekertier/WWfhasdjk2380",
+        "price": "30",
+        "description": "One copy for Windows/Mac + Crossover skins featuring Lunais from Timespinner, Shovel Knight and Awesomenauts + Goodies! (Pre-Order)",
+        "developer": "GUTS Department",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.aegisthegame.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website (it has been Greenlit).\nStore page: http://www.aegisthegame.com/slackerbacker.html",
+        "extras": true
+    },
+    {
+        "name": "Aegis Defenders: Digital Domain Tier",
+        "url": "aegisdefenders_digitaldomaintier/HHSDnf238ojdS",
+        "price": "40",
+        "description": "One copy for Windows/Mac + Crossover skins featuring Lunais from Timespinner, Shovel Knight and Awesomenauts + Goodies! (Pre-Order)",
+        "developer": "GUTS Department",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.aegisthegame.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website (it has been Greenlit).\nStore page: http://www.aegisthegame.com/slackerbacker.html",
+        "extras": true
+    },
+    {
         "name": "Aeon Command",
         "url": "aeoncommand/Aekdowk2",
         "price": "2.99",
@@ -17703,6 +17778,31 @@ var games = [
             "drm-free": true
         },
         "notes": "Original webstore: http://www.runestorm.com/rook/buy"
+    },
+    {
+        "name": "Rose: Time Apart",
+        "url": "rose_timeapart/Woeijf2384udS",
+        "price": "9.99",
+        "description": "Pre-order Rose: Time Apart, an 80's horror-adventure game and get early access to the beta. The game is DRM free and Oculus Rift enabled!",
+        "developer": "Corbomite Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://corporate.corbomitegames.com/games"
+        },
+        "notes": "Store page: http://www.kickstarter.com/projects/905533486/rose-time-apart/posts/981599",
+        "extras": false
     },
     {
         "name": "Roundabout",
