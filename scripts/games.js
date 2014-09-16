@@ -66,9 +66,38 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.examiner.com/list/pc-review-1849-by-somasim",
+            "steam": "http://store.steampowered.com/app/290970/",
+            "desura": "http://www.desura.com/games/1849",
             "developer": "http://www.somasim.com/"
         },
         "notes": "Store page: http://www.somasim.com/1849/buy.html",
+        "extras": false
+    },
+    {
+        "name": "1849: Nevada Silver",
+        "url": "1849_nevadasilver/LNhsnDLk23s",
+        "price": "3.99",
+        "description": "Get 1849: Nevada Silver instantly! Available for Windows/Mac on Steam. This expansion pack requires previous Steam purchase of 1849.",
+        "developer": "SomaSim",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/320900/",
+            "developer": "http://www.somasim.com/"
+        },
+        "notes": "Store page: http://www.somasim.com/1849/buy_nevada.html",
         "extras": false
     },
     {
@@ -3819,6 +3848,34 @@ var games = [
         "URL": {
             "developer": "http://www.chromatosegame.net/"
         },
+        "extras": false
+    },
+    {
+        "name": "Circuits",
+        "url": "circuits/wLIEEn30c0iwj",
+        "price": "2.99",
+        "description": "Circuits is a musical puzzle game that requires careful listening to complete each level!",
+        "developer": "Digital Tentacle",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.godisageek.com/2014/05/circuits-review/",
+            "steam": "http://store.steampowered.com/app/282760",
+            "desura": "http://www.desura.com/games/circuits",
+            "developer": "http://digitaltentacle.squarespace.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website.\nStore page: http://digitaltentacle.squarespace.com/circuits#block-yui_3_17_2_1_1403873520036_32199",
         "extras": false
     },
     {
@@ -10351,6 +10408,32 @@ var games = [
             "desura": "http://www.desura.com/games/hermi-max",
             "developer": "http://www.hermimax.com/index.html"
         },
+        "extras": false
+    },
+    {
+        "name": "Hero of Many",
+        "url": "heroofmany/NSLKDFj23o9js",
+        "price": "6.99",
+        "description": "Get Hero of Many and its soundtrack instantly! Available on Windows/Mac, DRM-free and redeemable on Steam!",
+        "developer": "Trickster Arts",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com//app/297370",
+            "developer": "http://www.tricksterarts.com/"
+        },
+        "notes": "Store page: http://heroofmany.com/",
         "extras": false
     },
     {
@@ -22279,6 +22362,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Masterplan (Early Access)",
+        "url": "themasterplan_earlyaccess/KJSDkk1Hhd",
+        "price": "14.99",
+        "description": "Early Access available now! DRM-free versions for Windows/Mac and also redeemable on Steam!",
+        "developer": "Shark Punch",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/313080/",
+            "developer": "http://sharkpunch.com/"
+        },
+        "notes": "Store page: http://themasterplangame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "The Mysterious Cities of Gold: Secret Paths",
         "url": "themysteriouscitiesofgold_secretpaths/sdkIwkd02kdlVm",
         "price": "14.99",
@@ -23097,10 +23206,36 @@ var games = [
         "extras": false
     },
     {
+        "name": "Trail Blazer Time Machine",
+        "url": "trailblazertimemachine/SDFJLwijHFDs",
+        "price": "5",
+        "description": "Get Trail Blazer Time Machine instantly! Available on Windows, Mac, and Linux, DRM free!",
+        "developer": "Bass Flicks Apps",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/trail-blazer-time-machine",
+            "developer": "http://www.bassflicks.com/"
+        },
+        "notes": "Store page: http://www.bassflicks.com/games.html",
+        "extras": false
+    },
+    {
         "name": "Train Fever",
         "url": "trainfever/Sjkasfd23oijsS",
-        "price": "29.99",
-        "description": "Pre-order Train Fever cross-platform on Steam with purchase!",
+        "price": "34.99",
+        "description": "Purchase Train Fever now! Available cross-platform on Steam with purchase!",
         "developer": "Gambitious",
         "platform": {
             "android": false,
@@ -23116,6 +23251,7 @@ var games = [
             "drm-free": false
         },
         "URL": {
+            "review": "http://www.thesixthaxis.com/2014/09/10/train-fever-review-pc/",
             "steam": "http://store.steampowered.com/app/304730/",
             "developer": "http://www.train-fever.com/"
         },
