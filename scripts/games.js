@@ -19303,11 +19303,11 @@ var games = [
         "name": "Shovel Knight",
         "url": "shovelknight?preview=AsWK4zsikgrE",
         "price": "15",
-        "description": "Pre-order Shovel Knight now and instantly get it when it's released!",
+        "description": "Purchase Shovel Knight now! Get the game DRM-free for Windows + a Steam key. Access the Mac and Linux versions once they become available!",
         "developer": "Yacht Club Games",
         "platform": {
             "android": false,
-            "linux": true,
+            "linux": false,
             "windows": true,
             "mac": true,
             "audio": false
@@ -19318,13 +19318,19 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
+        "URL": { 
+            "review": "http://www.ign.com/articles/2014/06/26/shovel-knight-review",
+            "steam": "http://store.steampowered.com/app/250760/",
+            "developer": "http://yachtclubgames.com/"
+        },
+        "notes": "Linux version coming soon.\nStore page: http://yachtclubgames.com/shovel-knight/",
+        "extras": false
     },
     {
         "name": "Shovel Knight Deluxe",
         "url": "shovelknight_deluxe?preview=AsWK4zsikgrE",
         "price": "25",
-        "description": "Pre-order Shovel Knight now and instantly get it when it's released! Includes PDF manual + PDF Artbook.",
+        "description": "Purchase Shovel Knight now! Get the game DRM-free for Windows + a Steam key. Access the Mac and Linux versions once they become available! Includes immediate access to the PDF manual as well as access the PDF artbook once it becomes available",
         "developer": "Yacht Club Games",
         "platform": {
             "android": false,
@@ -19339,7 +19345,13 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page at http://yachtclubgames.com. No mention of DRM (or lack thereof). WiiU/3ds may be available as well, but probably not on humble store (duh)."
+        "URL": {
+            "review": "http://www.ign.com/articles/2014/06/26/shovel-knight-review",
+            "steam": "http://store.steampowered.com/app/250760/",
+            "developer": "http://yachtclubgames.com/"
+        },
+        "notes": "Linux version coming soon.\nStore page: http://yachtclubgames.com/shovel-knight/",
+        "extras": true
     },
     {
         "name": "Shufflepuck Cantina Deluxe",
