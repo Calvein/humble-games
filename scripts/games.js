@@ -12641,6 +12641,26 @@ var games = [
         }
     },
     {
+        "name": "Legend of Grimrock II",
+        "url": "legendofgrimrocktwo/VVjk2498djsfZF",
+        "price": "23.99",
+        "description": "Pre-order Legend of Grimrock 2, the ultimate dungeon crawling role playing game! DRM-free + a Steam key!",
+        "developer": "Almost Human",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        }
+    },
+    {
         "name": "Legends of Aethereus",
         "url": "legendsofaethereus/Sh7sg5Fehv",
         "price": "29.99",
