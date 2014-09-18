@@ -23258,6 +23258,31 @@ var games = [
         "notes": "Buy the first episode and get the rest for free when they are released. Mac port currently in development."
     },
     {
+        "name": "Tiny Plumbers",
+        "url": "tinyplumbers/Khd5TGhy7yu",
+        "price": "5,
+        "description": "Get Tiny Plumbers instantly! For Mac and Windows, DRM-free.",
+        "developer": "Robot Loves Kitty",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://robotloveskitty.com/"
+        },
+        "notes": "Store page: http://robotloveskitty.com/tinyplumbers/",
+        "extras": false
+    },
+    {
         "name": "Together: Amna & Saif",
         "url": "together_amnaandsaif/Hkjhasdf9823j",
         "price": "14.99",
