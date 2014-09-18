@@ -12704,7 +12704,7 @@ var games = [
     },
     {
         "name": "Legend of Grimrock",
-        "url": "legendofgrimrock",
+        "url": "legendofgrimrock/sdfj8sdyhfn",
         "price": "14.99",
         "description": "Purchase Legend of Grimrock for Windows and get it DRM-free and on Steam.",
         "developer": "Almost Human",
@@ -12720,10 +12720,17 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-legend-of-grimrock-225514.phtml",
+            "steam": "http://store.steampowered.com/app/207170/",
+            "developer": "http://www.grimrock.net/"
+        },
+        "notes": "Store page: http://www.grimrock.net/buy/",
+        "extras": false
     },
     {
-        "name": "Legend of Grimrock II",
+        "name": "Legend of Grimrock 2",
         "url": "legendofgrimrocktwo/VVjk2498djsfZF",
         "price": "23.99",
         "description": "Pre-order Legend of Grimrock 2, the ultimate dungeon crawling role playing game! DRM-free + a Steam key!",
@@ -12740,7 +12747,37 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "developer": "http://www.grimrock.net/"
+        },
+        "notes": "Store page: http://www.grimrock.net/buy/",
+        "extras": false
+    },
+    {
+        "name": "Grimrock 1 & 2",
+        "url": "legendofgrimrockoneandtwo/WHGbkw48hjad",
+        "price": "29.99",
+        "description": "Purchase Legend of Grimrock 1 and pre-order Legend of Grimrock 2 at one low-cost price! DRM-free + a Steam key!",
+        "developer": "Almost Human",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.grimrock.net/"
+        },
+        "notes": "Legend of Grimrock 1 also available for Mac and Linux.\nStore page: http://www.grimrock.net/buy/",
+        "extras": false
     },
     {
         "name": "Legends of Aethereus",
@@ -13202,6 +13239,84 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Lords of Xulima - Steam Early Access",
+        "url": "lordsofxulima_steamearlyaccess/BSDfkjh23ruha",
+        "price": "16.99",
+        "description": "Lords of Xulima is a challenging and genuine RPG set on the mythical continent of Xulima. Discover one of the most epic sagas ever told!",
+        "developer": "Numantian Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/296570/",
+            "developer": "http://www.lordsofxulima.com/"
+        },
+        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.lordsofxulima.com/store/",
+        "extras": false
+    },
+    {
+        "name": "Lords of Xulima - Special Boxed Edition",
+        "url": "lordsofxulima_specialboxededition/HFSLDjk23048s",
+        "price": "65",
+        "description": "Get the Special Boxed Edition with the printed poster of the World of Xulima. Deluxe version rewards included!",
+        "developer": "Numantian Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/296570/",
+            "developer": "http://www.lordsofxulima.com/"
+        },
+        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.lordsofxulima.com/store/",
+        "extras": true
+    },
+    {
+        "name": "Lords of Xulima - Collector's Edition",
+        "url": "lordsofxulima_collectorsedition/Mds0823jsasd",
+        "price": "95",
+        "description": "Special Boxed Edition with the hardcover copy of the Bestiary and Mythology book (150 pages+) and the Game Guide book!",
+        "developer": "Numantian Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/296570/",
+            "developer": "http://www.lordsofxulima.com/"
+        },
+        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.lordsofxulima.com/store/",
+        "extras": true
     },
     {
         "name": "Loren The Amazon Princess",
