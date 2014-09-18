@@ -23260,7 +23260,7 @@ var games = [
     {
         "name": "Tiny Plumbers",
         "url": "tinyplumbers/Khd5TGhy7yu",
-        "price": "5,
+        "price": "5",
         "description": "Get Tiny Plumbers instantly! For Mac and Windows, DRM-free.",
         "developer": "Robot Loves Kitty",
         "platform": {
