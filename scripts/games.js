@@ -4551,6 +4551,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Cosmonautica",
+        "url": "cosmonautica/Csokjadsf92D",
+        "price": "9.99",
+        "description": "Pre-order Cosmonautica (Early Access) Steam key. Soundtrack, APK, Cross-Platform save-games, DRM-free and more will follow during development!",
+        "developer": "Chasing Carrots",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/320340",
+            "developer": "http://www.chasing-carrots.com/"
+        },
+        "notes": "Currently on sale at 33% off for $9.99. In at least some Euro-using zones the game is being sold for 9.99€, rather than for $9.99.\nStore page: http://cosmo-nautica.com/getit.html",
+        "extras": false
+    },
+    {
         "name": "Costume Quest",
         "url": "costumequest/venor32ER",
         "price": "9.99",
@@ -6327,7 +6353,7 @@ var games = [
         "name": "Doorways: Chapter 1 & 2",
         "url": "doorways/Ddh8Hsy7SD",
         "price": "9.99",
-        "description": "Get the first two chapters of the Argentinian Survival Horror \"Doorways\" instantly!",
+        "description": "Get the first two chapters of Doorways, DRM-free and also receive a key for Steam",
         "developer": "Saibot Studios",
         "platform": {
             "android": false,
@@ -6343,11 +6369,67 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/25433",
             "steam": "http://store.steampowered.com/app/248470",
             "desura": "http://www.desura.com/games/doorways",
             "developer": "http://www.saibotstudios.com/"
         },
-        "notes": "Store page: http://www.doorwaysgame.com/?s=store",
+        "notes": "Store page: http://www.doorwaysgame.com/?s=store&a=Chapter-1-and-2",
+        "extras": false
+    },
+    {
+        "name": "Doorways: The Underworld",
+        "url": "doorways_theunderworld/SDLF24n5lUW",
+        "price": "9.99",
+        "description": "Get the third chapter of Doorways, DRM-free and also receive a key for Steam!",
+        "developer": "Saibot Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gizorama.com/2014/computer/pc/doorways-the-underworld-review",
+            "steam": "http://store.steampowered.com/app/311250",
+            "desura": "http://www.desura.com/games/doorways-the-underworld",
+            "developer": "http://www.saibotstudios.com/"
+        },
+        "notes": "Store page: http://www.doorwaysgame.com/?s=store&a=Chapter-3",
+        "extras": false
+    },
+    {
+        "name": "Doorways: Chapter 1 to 3 Collection",
+        "url": "doorways_chaptersonetothreecollection/BBhsdlk238usA",
+        "price": "15.99",
+        "description": "Get the first three chapters of Doorways as DRM-free and also receive a key for Steam!",
+        "developer": "Saibot Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/sub/48191/",
+            "desura": "http://www.desura.com/bundle/doorways-chapters-1-to-3-collection",
+            "developer": "http://www.saibotstudios.com/"
+        },
+        "notes": "Store page: http://www.doorwaysgame.com/?s=store&a=Chapters-1-to-3",
         "extras": false
     },
     {
