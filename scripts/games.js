@@ -12650,9 +12650,9 @@ var games = [
     },
     {
         "name": "Legend of Dungeon",
-        "url": "legendofdungeon?preview=SIIUb8tPvGNT",
+        "url": "legendofdungeon/SIIUb8tPvGNT",
         "price": "10",
-        "description": "Buy now and get instant access to the latest pre-release build of Legend of Dungeon for Windows, Mac, and Linux!",
+        "description": "Buy now and get instant access to Legend of Dungeon, cross-platform! Includes Steam key!",
         "developer": "Robot Loves Kitty",
         "platform": {
             "android": false,
@@ -12670,16 +12670,16 @@ var games = [
         "URL": {
             "review": "http://www.gamezebo.com/games/legend-dungeon/review",
             "steam": "http://store.steampowered.com/app/238280",
-            "developer": "http://www.robotloveskitty.com/LoD/"
+            "developer": "http://www.robotloveskitty.com/"
         },
-        "notes": "was on kickstarter. steam keys coming soon.",
+        "notes": "Store page: http://www.robotloveskitty.com/LoD/buy.php",
         "extras": false
     },
     {
         "name": "Legend of Dungeon + Soundtrack",
-        "url": "legendofdungeon-k2?preview=SIIUb8tPvGNT",
+        "url": "legendofdungeon-k2/SIIUb8tPvGNT",
         "price": "15",
-        "description": "Buy now and get instant access to the latest pre-release build of Legend of Dungeon for Windows, Mac, and Linux! Soundtrack included!",
+        "description": "Buy now and get instant access to Legend of Dungeon for Windows, Mac, and Linux! Soundtrack included!",
         "developer": "Robot Loves Kitty",
         "platform": {
             "android": false,
@@ -12697,9 +12697,9 @@ var games = [
         "URL": {
             "review": "http://www.gamezebo.com/games/legend-dungeon/review",
             "steam": "http://store.steampowered.com/app/238280",
-            "developer": "http://www.robotloveskitty.com/LoD/"
+            "developer": "http://www.robotloveskitty.com/"
         },
-        "notes": "was on kickstarter. steam keys coming soon.",
+        "notes": "Store page: http://www.robotloveskitty.com/LoD/buy.php",
         "extras": false
     },
     {
