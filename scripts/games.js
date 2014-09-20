@@ -3504,11 +3504,11 @@ var games = [
         "extras": true
     },
     {
-        "name": "Chasm - Bronze",
-        "url": "chasm_bronze?preview=wyr5mV9sPvVd",
-        "price": "15",
-        "description": "Pre-order Chasm now! Cross-platform and DRM-free. Available May 2014.",
-        "developer": "Discord Games LLC",
+        "name": "Chasm",
+        "url": "chasm_preorder/BSJFLKn4ru89sjd",
+        "price": "14.99",
+        "description": "Pre-order Chasm now! Cross-platform, on Steam, and DRM-free. Available Early 2015.",
+        "developer": "Discord Games, Inc.",
         "platform": {
             "android": false,
             "windows": true,
@@ -3517,21 +3517,23 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "developer": "http://discordgames.com/"
-        }
+        },
+        "notes": "Store page: http://www.chasmgame.com/#preorder",
+        "extras": false
     },
     {
-        "name": "Chasm - Silver",
-        "url": "chasm_silver?preview=Ydh7shJsh4Nkl",
-        "price": "25",
-        "description": "Pre-order Chasm now! Cross-platform and DRM-free. Available May 2014.",
-        "developer": "Discord Games LLC",
+        "name": "Chasm Deluxe",
+        "url": "chasm_silver/Ydh7shJsh4Nkl",
+        "price": "29.99",
+        "description": "Pre-order Chasm Deluxe now! Cross-platform, on Steam and DRM-free. Available Early 2015.",
+        "developer": "Discord Games, Inc.",
         "platform": {
             "android": false,
             "windows": true,
@@ -3540,7 +3542,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -3548,31 +3550,8 @@ var games = [
         "URL": {
             "developer": "http://discordgames.com/"
         },
-        "notes": "Comes with early alpha access, access to the developers' forum and a digital soundtrack."
-    },
-    {
-        "name": "Chasm - Gold",
-        "url": "chasm_gold?preview=ksh8DhjFie9syn",
-        "price": "45",
-        "description": "Pre-order Chasm now! Cross-platform and DRM-free. Available May 2014.",
-        "developer": "Discord Games LLC",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://discordgames.com/"
-        },
-        "notes": "Comes with early alpha access, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits."
+        "notes": "Includes early alpha access on Steam, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits.\nStore page: http://www.chasmgame.com/#preorder",
+        "extras": true
     },
     {
         "name": "Chernobyl Underground",
