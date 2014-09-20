@@ -13021,6 +13021,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Life is Feudal: Your Own",
+        "url": "lifeisfeudal_yourown/YREBc28ehdS",
+        "price": "34.99",
+        "description": "Realistic medieval multiplayer sandbox with terraforming, free building, crafting, no target physics based combat and many other features!",
+        "developer": "BITBOX Ltd",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/290080",
+            "developer": "http://lifeisfeudal.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nMac and Linux versions are planned for later.\nStore page: http://lifeisfeudal.com/LiFYO",
+        "extras": false
+    },
+    {
         "name": "Life of Pixel",
         "url": "lifeofpixel/nDIuh2rni239q",
         "price": "6.99",
@@ -16847,6 +16873,31 @@ var games = [
             "developer": "http://servadacsgamedev.blogspot.se/"
         },
         "notes": "Store page: http://servadacsgamedev.blogspot.se/2014/03/prometheus-fire-thief-is-now-out.html",
+        "extras": false
+    },
+    {
+        "name": "Prophour23",
+        "url": "prophour23/Bklj2384ujoalsk",
+        "price": "10",
+        "description": "Get Prophour23 for Windows, Mac and Linux, DRM-free! You'll get a Steam key as well!",
+        "developer": "The Secret Pie",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.thesecretpie.com/"
+        },
+        "notes": "Steam key when available.\nStore page: http://prophour23.com/",
         "extras": false
     },
     {
@@ -24943,6 +24994,61 @@ var games = [
             "developer": "http://unrulyattractions.com/"
         },
         "extras": false
+    },
+    {
+        "name": "Wasteland",
+        "url": "wasteland/SLNDFkl23r9oijs",
+        "price": "5.99",
+        "description": "For the first time in over 20 years, we are heralding the return of a much loved piece of gaming history with the classic RPG, Wasteland!",
+        "developer": "inXile entertainment",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.escapistmagazine.com/news/view/130293-Good-Old-Reviews-Wasteland",
+            "desura": "http://www.desura.com/games/wasteland-1-the-original-classic",
+            "steam": "http://store.steampowered.com/app/259130/",
+            "developer": "http://www.inxile-entertainment.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website, although it's most probably a Steam key only like in the Humble Store.\nStore page: http://wasteland.inxile-entertainment.com/store",
+        "extras": false
+    },
+    {
+        "name": "Wasteland 2: Digital Deluxe Edition",
+        "url": "wasteland2_deluxe/SBDKFjh23os",
+        "price": "59.99",
+        "description": "Brian Fargo's Wasteland 2 is the long-awaited follow-up to 1998's Wasteland, the grandfather of post-apocalyptic RPGs.",
+        "developer": "inXile entertainment",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/09/19/wasteland-2-review/",
+            "steam": "http://store.steampowered.com/app/240760/",
+            "developer": "http://www.inxile-entertainment.com/"
+        },
+        "notes": "Only found the Digital Deluxe Edition widget. There's probably another one for the regular edition, but it's not on the official page's store.\nStore page: http://wasteland.inxile-entertainment.com/store",
+        "extras": true
     },
     {
         "name": "Waveform",
