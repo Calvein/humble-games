@@ -25447,6 +25447,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Worlds of Magic",
+        "url": "worldsofmagic/SLJDgdgDHb3",
+        "price": "39.99",
+        "description": "Worlds of Magic is a 4X turn-based fantasy strategy game! Redeemable on Steam!
+        "developer": "Wastelands Interactive",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/worlds-of-magic",
+            "steam": "http://store.steampowered.com/app/265970/",
+            "developer": "http://wastelands-interactive.com/"
+        },
+        "notes": "Store page: http://myworldsofmagic.com/humble_bundle.php",
+        "extras": false
+    },
+    {
         "name": "Wyv and Keep",
         "url": "wyvandkeep?preview=q8zXphTV4qAB",
         "price": "9.99",
