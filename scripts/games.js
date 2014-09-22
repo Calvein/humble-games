@@ -25450,7 +25450,7 @@ var games = [
         "name": "Worlds of Magic",
         "url": "worldsofmagic/SLJDgdgDHb3",
         "price": "39.99",
-        "description": "Worlds of Magic is a 4X turn-based fantasy strategy game! Redeemable on Steam!
+        "description": "Worlds of Magic is a 4X turn-based fantasy strategy game! Redeemable on Steam!",
         "developer": "Wastelands Interactive",
         "platform": {
             "android": false,
