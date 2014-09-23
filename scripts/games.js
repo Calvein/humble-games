@@ -2454,8 +2454,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -2537,8 +2537,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -2565,8 +2565,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
