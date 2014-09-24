@@ -2663,6 +2663,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Blobsos",
+        "url": "blobsos/Blaksdfio3HDh",
+        "price": "4.95",
+        "description": "Get Blobsos now! Available on Windows and Linux, DRM-free!",
+        "developer": "Denary Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/blobsos",
+            "developer": "http://www.denarygames.com/"
+        },
+        "notes": "Store page: http://www.denarygames.com/?page_id=34",
+        "extras": false
+    },
+    {
         "name": "Block Blocks",
         "url": "blockblocks/Bkdkwo1kdb",
         "price": "2.99",
@@ -17304,6 +17330,32 @@ var games = [
             "developer": "http://www.hypercanestudios.com/"
         },
         "notes": "Store page: http://ragerunner.hypercanestudios.com/",
+        "extras": false
+    },
+    {
+        "name": "Rainbow Hero",
+        "url": "rainbowhero/WJILj30jslkadh",
+        "price": "9.99",
+        "description": "Get Rainbow Hero instantly! Available on Windows, DRM-free!",
+        "developer": "Pixel Elephant",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/rainbow-hero",
+            "developer": "http://www.pixelelephant.com/"
+        },
+        "notes": "Store page: http://rainbowhero.pixelelephant.com/",
         "extras": false
     },
     {
