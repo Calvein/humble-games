@@ -9495,6 +9495,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Grail to the Thief",
+        "url": "grailtothethief/Ghasdlkj239sj",
+        "price": "5",
+        "description": "Grail to the Thief is an interactive audio adventure that can be played using only sound, without the need for visuals. DRM-free!",
+        "developer": "For All To Play",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/grail-to-the-thief",
+            "developer": "http://www.foralltoplay.com/"
+        },
+        "notes": "Store page: http://www.foralltoplay.com/#buynow",
+        "extras": false
+    },
+    {
         "name": "Grapple Knight",
         "url": "grappleknight/gDkoe3",
         "price": "9.99",
