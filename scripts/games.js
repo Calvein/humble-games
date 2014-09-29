@@ -1190,8 +1190,8 @@ var games = [
     },
     {
         "name": "Apotheon",
-        "url": "apotheon?preview=JUEwMIoTCgFx",
-        "price": "9.99",
+        "url": "apotheon/JUEwMIoTCgFx",
+        "price": "13.5",
         "description": "Preorder Apotheon for Steam! Includes a copy of Capsized (DRM-free and Steam key).",
         "developer": "Alientrap Games",
         "platform": {
@@ -1208,10 +1208,9 @@ var games = [
             "drm-free": false
         },
         "URL": {
-            "review": "http://www.joystiq.com/2012/10/21/first-gameplay-video-of-alientraps-apotheon-is-gorgeous-coming/",
             "developer": "http://www.alientrap.org"
         },
-        "notes": "Currently on sale at 33% off, regular price is $15. \n Store page: http://www.apotheongame.com/#preorderanchor",
+        "notes": "Currently on sale at 10% off, regular price is $15. \n Store page: http://www.apotheongame.com/#preorderanchor",
         "extras": true
     },
     {
@@ -5099,24 +5098,27 @@ var games = [
     },
     {
         "name": "Dark Scavenger",
-        "url": "darkscavenger?preview=Psldkwo109",
+        "url": "darkscavenger/Psldkwo109",
         "price": "4.99",
         "description": "Purchase Dark Scavenger and get it DRM-free for PC and Mac!",
         "developer": "Psydra Games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2012/05/03/wot-i-think-dark-scavenger/",
+            "desura": "http://www.desura.com/games/dark-scavenger",
+            "steam": "http://store.steampowered.com/app/293880/",
             "developer": "http://www.darkscavenger.com/"
         },
         "notes": "Store page: http://www.darkscavenger.com/store/",
@@ -11519,7 +11521,7 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://www.rockpapershotgun.com/2013/09/25/wot-i-think-ironclad-tactics/",
@@ -11527,7 +11529,6 @@ var games = [
             "desura": "http://www.desura.com/games/ironclad-tactics",
             "developer": "http://www.zachtronics.com/"
         },
-        "notes": "Store page: http://ironcladtactics.com/the-extra-extra-bundle/",
         "extras": false
     },
     {
@@ -11552,7 +11553,6 @@ var games = [
         "URL": {
             "developer": "http://www.zachtronics.com/"
         },
-        "notes": "Store page: http://ironcladtactics.com/the-extra-extra-bundle/",
         "extras": true
     },
     {
@@ -11902,7 +11902,7 @@ var games = [
         "URL": {
             "developer": "http://mografi.com/"
         },
-        "notes": "Store page: http://www.kickstarter.com/projects/mografi/jenny-leclue-a-handmade-adventure-game",
+        "notes": "Store page: http://jennyleclue.com/#preorder",
         "extras": false
     },
     {
@@ -11927,7 +11927,7 @@ var games = [
         "URL": {
             "developer": "http://mografi.com/"
         },
-        "notes": "Store page: http://www.kickstarter.com/projects/mografi/jenny-leclue-a-handmade-adventure-game",
+        "notes": "Store page: http://jennyleclue.com/#preorder",
         "extras": true
     },
     {
@@ -11952,7 +11952,7 @@ var games = [
         "URL": {
             "developer": "http://mografi.com/"
         },
-        "notes": "Store page: http://www.kickstarter.com/projects/mografi/jenny-leclue-a-handmade-adventure-game",
+        "notes": "Store page: http://jennyleclue.com/#preorder",
         "extras": true
     },
     {
@@ -25008,8 +25008,8 @@ var games = [
     },
     {
         "name": "War For The Overworld Pre-Order",
-        "url": "warfortheoverworld?preview=ssvsVmAipVnT",
-        "price": "22",
+        "url": "warfortheoverworld/ssvsVmAipVnT",
+        "price": "26.99",
         "description": "Pre-Order War for the Overworld now! Steam Beta coming in May, Cross-platform support and DRM-free coming later.",
         "developer": "Subterranean Games",
         "platform": {
@@ -25025,12 +25025,17 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "DRM-free will be made available at launch. mac and linux are not available yet, but will be available 'soon.' Original URL: https://wftogame.com/preorder.html"
+        "URL": {
+            "steam": "http://store.steampowered.com/app/230190/",
+            "developer": "https://subterraneangames.com/"
+        },
+        "notes": "DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.' Currently on sale at 10% off, regular price is $29.99. \n Store page: https://wftogame.com/preorder.html",
+        "extras": false
     },
     {
         "name": "War For The Overworld Underlord Edition Pre-Order",
-        "url": "warfortheoverworld-special?preview=ssvsVmAipVnT",
-        "price": "35",
+        "url": "warfortheoverworld-special/ssvsVmAipVnT",
+        "price": "35.99",
         "description": "Pre-Order War for the Overworld now! Steam Beta coming in May, Cross-platform support and DRM-free coming later.",
         "developer": "Subterranean Games",
         "platform": {
@@ -25046,7 +25051,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Underlord edition comes with exclusive sovereign dungeon theme and digital companion book. Notes for regular edition also apply."
+        "URL": {
+            "steam": "http://store.steampowered.com/app/230190/",
+            "developer": "https://subterraneangames.com/"
+        },
+        "notes": "Includes exclusive sovereign dungeon theme and digital companion book. DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.' Currently on sale at 10% off, regular price is $39.99. \n Store page: https://wftogame.com/preorder.html",
+        "extras": true
     },
     {
         "name": "Warp Ball",
