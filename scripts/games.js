@@ -12389,6 +12389,32 @@ var games = [
         }
     },
     {
+        "name": "Khet 2.0 - The Laser Game",
+        "url": "khet2_0_thelasergame/cDfh239dlajs",
+        "price": "9.99",
+        "description": "The award-winning board game, Khet 2.0 for Steam! The game that's been described as \"Chess with Lasers\"! Also cross-platform & DRM-free!",
+        "developer": "BlueLine Game Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/312720/",
+            "developer": "http://bluelinegamestudios.com/"
+        },
+        "notes": "Store page: http://bluelinegamestudios.com/khet-game/",
+        "extras": false
+    },
+    {
         "name": "Kinetic Void",
         "url": "kineticvoid?preview=GTvPgrgrOIxD",
         "price": "19.99",
@@ -14716,6 +14742,32 @@ var games = [
         },
         "notes": "Store page: http://www.neverendingnightmares.com/back.html",
         "extras": true
+    },
+    {
+        "name": "Nexionode",
+        "url": "nexionode/Ijsdlfkj239sjas",
+        "price": "6.99",
+        "description": "Board the Nexio Colony Spaceship and access all 150+ puzzles! Cross-platform and DRM-free! Instant access!",
+        "developer": "Big Round Eyes",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/nexionode",
+            "developer": "http://www.bigroundeyes.ca/"
+        },
+        "notes": "Store page: http://www.bigroundeyes.ca/#getit",
+        "extras": false
     },
     {
         "name": "Nidhogg",
@@ -22163,6 +22215,32 @@ var games = [
         "notes": "Currently on sale at 31% off for $8.99."
     },
     {
+        "name": "Team Indie - Preorder",
+        "url": "teamindie_preorder/ZLJKweor823d",
+        "price": "11.11",
+        "description": "Pre-order before the release on October 9th 2014 and save compared to 12.99 USD regular price! Cross-platform and DRM-free.",
+        "developer": "Brightside Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/302850",
+            "developer": "http://www.brightside-games.com/"
+        },
+        "notes": "Store page: http://teamindie.brightside-games.com/#bottom",
+        "extras": false
+    },
+    {
         "name": "Temporus",
         "url": "temporus/Ijsh20ejs02k1",
         "price": "10",
@@ -24368,6 +24446,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Unhack: Destruction",
+        "url": "unhack_destruction/SBDfkj2379sdj",
+        "price": "2",
+        "description": "Get Unhack: Destruction instantly! Cross-platform and DRM-free!",
+        "developer": "Marcus Lam",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://invertmouse.com/"
+        },
+        "notes": "Store page: http://unhack.invertmouse.com/#play.html",
+        "extras": false
+    },
+    {
         "name": "Unrest",
         "url": "unrest/Udg6Ytd8Dfw",
         "price": "14.99",
@@ -25009,7 +25112,7 @@ var games = [
     {
         "name": "War For The Overworld Pre-Order",
         "url": "warfortheoverworld/ssvsVmAipVnT",
-        "price": "26.99",
+        "price": "29.99",
         "description": "Pre-Order War for the Overworld now! Steam Beta coming in May, Cross-platform support and DRM-free coming later.",
         "developer": "Subterranean Games",
         "platform": {
@@ -25029,13 +25132,13 @@ var games = [
             "steam": "http://store.steampowered.com/app/230190/",
             "developer": "https://subterraneangames.com/"
         },
-        "notes": "DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.' Currently on sale at 10% off, regular price is $29.99. \n Store page: https://wftogame.com/preorder.html",
+        "notes": "DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.' \n Store page: https://wftogame.com/preorder.html",
         "extras": false
     },
     {
         "name": "War For The Overworld Underlord Edition Pre-Order",
         "url": "warfortheoverworld-special/ssvsVmAipVnT",
-        "price": "35.99",
+        "price": "39.99",
         "description": "Pre-Order War for the Overworld now! Steam Beta coming in May, Cross-platform support and DRM-free coming later.",
         "developer": "Subterranean Games",
         "platform": {
@@ -25055,7 +25158,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/230190/",
             "developer": "https://subterraneangames.com/"
         },
-        "notes": "Includes exclusive sovereign dungeon theme and digital companion book. DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.' Currently on sale at 10% off, regular price is $39.99. \n Store page: https://wftogame.com/preorder.html",
+        "notes": "Includes exclusive sovereign dungeon theme and digital companion book. DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.' \n Store page: https://wftogame.com/preorder.html",
         "extras": true
     },
     {
