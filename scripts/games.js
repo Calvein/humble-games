@@ -11381,6 +11381,32 @@ var games = [
         "notes": "Store page: http://joewintergreen.com/influx/influxr/influx.html"
     },
     {
+        "name": "Inside The Gear",
+        "url": "insidethegear/Tflkj23089rsjd",
+        "price": "4.99",
+        "description": "Get Inside The Gear instantly! DRM-free!",
+        "developer": "Mykhail Konokh",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/inside-the-gear",
+            "developer": "http://emkeygames.weebly.com/"
+        },
+        "notes": "Store page: http://emkeygames.weebly.com/inside-the-gear.html#705213877624975720",
+        "extras": false
+    },
+    {
         "name": "Instant Dungeon!",
         "url": "instantdungeon/MSLKDfh324o58asjd",
         "price": "1.99",
@@ -18662,6 +18688,32 @@ var games = [
         }
     },
     {
+        "name": "Screencheat - Pre-Order",
+        "url": "screencheat/JNSD93jkJESL",
+        "price": "14.99",
+        "description": "Pre-order SCREENCHEAT now! Includes a Steam key for closed beta access and the final release.",
+        "developer": "Surprise Attack",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/301970/",
+            "developer": "http://www.samuraipunk.com/"
+        },
+        "notes": "Currently on sale at 34% off for $9.89. \n Store page: http://www.samuraipunk.com/screencheat.html",
+        "extras": false
+    },
+    {
         "name": "Secret Ponchos (Early Access)",
         "url": "secretponchos",
         "price": "14.99",
@@ -22923,6 +22975,34 @@ var games = [
             "developer": "http://kittylambda.com/"
         },
         "notes": "Store page: http://therealtexasgame.com/#buynow",
+        "extras": false
+    },
+    {
+        "name": "The Sacred Tears TRUE",
+        "url": "thesacredtearstrue/BSd832jodjDh",
+        "price": "9.99",
+        "description": "This outstanding doujin JRPG follows two young city thieves in pursuit of dreams and adventure in Genoseed City. THE CITY ADVENTURE IS HERE!",
+        "developer": "Nyu Media",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://gamingtrend.com/reviews/playing-choir-sacred-tears-true-review/",
+            "desura": "http://www.desura.com/games/the-sacred-tears-true",
+            "steam": "http://store.steampowered.com/app/316840/",
+            "developer": "http://nyu-media.com/"
+        },
+        "notes": "Store page: http://sacredtearstrue.com/buy",
         "extras": false
     },
     {
