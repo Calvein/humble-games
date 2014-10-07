@@ -6224,6 +6224,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Domestic Dog",
+        "url": "dogsimulator/DonkdJo2h39dni",
+        "price": "2.99",
+        "description": "Survive harsh domestic life. Get Domestic Dog instantly, DRM-free (Steam when available). Free updates/DLC for life!",
+        "developer": "Surreal Distractions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/domesticdog",
+            "developer": "http://sites.google.com/site/surrealdistractions/"
+        },
+        "extras": false
+    },
+    {
         "name": "Dominique Pamplemousse",
         "url": "dominiquepamplemousse/Djwij3",
         "price": "4.99",
@@ -20880,6 +20905,30 @@ var games = [
             "developer": "http://unfinishedpixel.com/"
         },
         "notes": "Store page: http://www.spychameleon.com/",
+        "extras": false
+    },
+    {
+        "name": "Squirrel Adventures",
+        "url": "squirreladventures/Hlkajsdf09238",
+        "price": "4.99",
+        "description": "Coming soon! Pre-order now and get it DRM-free + Steam key (when available)!",
+        "developer": "Surreal Distractions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://sites.google.com/site/surrealdistractions/"
+        },
         "extras": false
     },
     {
