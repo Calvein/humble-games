@@ -17488,6 +17488,84 @@ var games = [
         "extras": false
     },
     {
+        "name": "Ray's The Dead - The Game",
+        "url": "raysthedead_thegame/SDKFJb24riuhs",
+        "price": "15",
+        "description": "Redeemable on Steam for Windows, Mac, and Linux. 25% off retail!",
+        "developer": "Ragtag Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/251650/",
+            "developer": "http://ragtagstudio.com/"
+        },
+        "notes": "Pre-order. \n Store page: http://ragtagstudio.com/?page_id=700",
+        "extras": false
+    },
+    {
+        "name": "Ray's The Dead - Digital Extras + Beta",
+        "url": "raysthedead_digitalextras_beta/WBEbjkf238dad",
+        "price": "30",
+        "description": "One Steam Key, Digital Soundtrack, Digital Artbook and Beta Access!",
+        "developer": "Ragtag Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/251650/",
+            "developer": "http://ragtagstudio.com/"
+        },
+        "notes": "Pre-order. \n Store page: http://ragtagstudio.com/?page_id=700",
+        "extras": true
+    },
+    {
+        "name": "Ray's The Dead - Platinum Extras + Alpha",
+        "url": "raysthedead_platinumextras_alpha/Xxj3UEj239sj",
+        "price": "60",
+        "description": "One Steam Key, all Digital Extras, Platinum Skins and Alpha Access!",
+        "developer": "Ragtag Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/251650/",
+            "developer": "http://ragtagstudio.com/"
+        },
+        "notes": "Pre-order. \n Store page: http://ragtagstudio.com/?page_id=700",
+        "extras": true
+    },
+    {
         "name": "Read Only Memories",
         "url": "readonlymemories/mOIDn20948i1j",
         "price": "9.99",
