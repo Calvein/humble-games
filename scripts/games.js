@@ -951,6 +951,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Amphora (Pre-Order)",
+        "url": "amphora/ZOIwejr83jDdd",
+        "price": "13.99",
+        "description": "Pre-order Amphora now! DRM-free for Windows and Mac!",
+        "developer": "Moondrop",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://moondrop.no/"
+        },
+        "notes": "Store page: http://moondrop.no/amphora",
+        "extras": false
+    },
+    {
         "name": "And Yet It Moves",
         "url": "andyetitmoves",
         "price": "9.99",
@@ -2608,7 +2633,36 @@ var games = [
             "steam": "http://store.steampowered.com/app/225600/",
             "developer": "http://www.punyhumangames.com/"
         },
-        "notes": "Store page: http://www.blade-symphony.com/prerelease/"
+        "notes": "Store page: http://www.blade-symphony.com/prerelease/",
+        "extras": false
+    },
+    {
+        "name": "Blast Em!",
+        "url": "blastem/Bkdkwo1k2lk",
+        "price": "5",
+        "description": "Get Blast Em! on PC, Mac and Linux DRM-free!",
+        "developer": "Xiotex Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiehaven.com/blast-em-review/",
+            "desura": "http://www.desura.com/games/blast-em",
+            "steam": "http://store.steampowered.com/app/257630/",
+            "developer": "http://www.xiotex-studios.com/"
+        },
+        "notes": "Store page: http://blastem-game.com/#game-order",
+        "extras": false
     },
     {
         "name": "Bleed",
@@ -2815,6 +2869,33 @@ var games = [
             "developer": "http://adventuremob.com/"
         },
         "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": false
+    },
+    {
+        "name": "Boot Hill Heroes",
+        "url": "boothillheroes/yturetETYRUyte92",
+        "price": "7.49",
+        "description": "Boot Hill Heroes is an RPG set in the Wild West featuring a compelling story, retro inspired graphics, and up to 4 player co-op!",
+        "developer": "Experimental Gamer",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamezebo.com/2014/06/25/boot-hill-heroes-part-1-review/",
+            "steam": "http://store.steampowered.com/app/313470/",
+            "developer": "http://www.experimentalgamer.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.experimentalgamer.com/boot-hill-heroes/",
         "extras": false
     },
     {
