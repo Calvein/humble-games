@@ -13663,9 +13663,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "desura": "http://www.desura.com/games/lunas-wandering-stars",
             "developer": "http://serenityforge.com/"
         },
-        "notes": "Linux version TBA.\nStore page: http://serenityforge.com/games/lunaswanderingstars.html#featured",
+        "notes": "Linux version TBA.\nStore page: http://serenityforge.com/games/lunaswanderingstars.html#buyluna",
         "extras": false
     },
     {
