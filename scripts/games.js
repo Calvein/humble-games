@@ -3104,27 +3104,29 @@ var games = [
     },
     {
         "name": "Cannon Brawl",
-        "url": "cannonbrawl?preview=Gyyew3NJhmJT",
-        "price": "10",
-        "description": "Get a steam key for Cannon Brawl instantly! Currently only for PC.",
+        "url": "cannonbrawl/Gyyew3NJhmJT",
+        "price": "14.99",
+        "description": "Get a steam key for Cannon Brawl instantly! Available now on Windows, Mac, and Linux!",
         "developer": "Turtle Sandbox LLC",
         "platform": {
-                "android": false,
-                "linux": false,
-                "windows": true,
-                "mac": false,
-                "audio": false
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
         },
         "drm": {
-                "steam": true,
-                "desura": false,
-                "gog": false,
-                "drm-free": false
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
         },
         "URL": {
-                "steam": "http://store.steampowered.com/app/230860/",
-                "developer": "http://turtle-sandbox.com/"
+            "review": "http://www.gamespot.com/reviews/cannon-brawl-review/1900-6415874/",
+            "steam": "http://store.steampowered.com/app/230860/",
+            "developer": "http://turtle-sandbox.com/"
         },
+        "notes": "Store page: http://www.turtle-sandbox.com/website/index.html",
         "extras": false
     },
     {
