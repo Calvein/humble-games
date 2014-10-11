@@ -9322,13 +9322,13 @@ var games = [
         "name": "Goat Simulator",
         "url": "goatsimulator/sjd93hhwozp",
         "price": "9.99",
-        "description": "Beta access when available (Steam key).",
+        "description": "Get Goat Simulator instantly! Steam key for Windows, Mac and Linux!",
         "developer": "Coffee Stain Studios",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -9338,9 +9338,11 @@ var games = [
             "drm-free": false
         },
         "URL": {
+            "review": "http://www.ign.com/articles/2014/04/01/goat-simulator-review",
+            "steam": "http://store.steampowered.com/app/265930/",
             "developer": "http://coffeestainstudios.com/"
         },
-        "notes": "Pre-order. \n Store page: http://www.goat-simulator.com/#shop",
+        "notes": "Store page: http://www.goat-simulator.com/#shop",
         "extras": false
     },
     {
