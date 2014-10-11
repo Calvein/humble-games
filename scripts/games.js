@@ -16105,16 +16105,16 @@ var games = [
         "developer": "Minority Media",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": true
         },
         "drm": {
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://www.technobuffalo.com/reviews/papo-and-yo-review/",
@@ -16122,7 +16122,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/227080",
             "developer": "http://www.weareminority.com/"
         },
-        "notes": "Store page: http://www.weareminority.com/papo-yo/",
+        "notes": "Mac and Linux versions not available on Steam.\nStore page: http://www.weareminority.com/papo-yo/",
         "extras": false
     },
     {
