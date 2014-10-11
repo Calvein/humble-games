@@ -23363,58 +23363,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "The Vanishing of Ethan Carter (Steam)",
-        "url": "thevanishingofethancarter/BSkdjfhawir8hsj",
-        "price": "19.99",
-        "description": "Special Pre-Order Edition to download from Steam. Includes Steam key, full Original Soundtrack and other pre-order only extras!",
-        "developer": "The Astronauts",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/258520/",
-            "developer": "http://www.theastronauts.com/"
-        },
-        "notes": "In at least some Euro-using zones the game is being sold for 18.99€, rather than for $19.99.\nStore page: http://ethancartergame.com/",
-        "extras": true
-    },
-    {
-        "name": "The Vanishing of Ethan Carter (GOG)",
-        "url": "thevanishingofethancarter_gog/WSDLjf23sas",
-        "price": "19.99",
-        "description": "Special Pre-Order Edition to download from GOG. Includes GOG key, full Original Soundtrack and other pre-order only extras!",
-        "developer": "The Astronauts",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": true,
-            "drm-free": false
-        },
-        "URL": {
-            "gog": "http://www.gog.com/game/the_vanishing_of_ethan_carter_special_edition",
-            "developer": "http://www.theastronauts.com/"
-        },
-        "notes": "In at least some Euro-using zones the game is being sold for 18.99€, rather than for $19.99.\nStore page: http://ethancartergame.com/",
-        "extras": true
-    },
-    {
         "name": "There Came An Echo",
         "url": "therecameanecho/mbbhgureURYhJD38",
         "price": "15",
