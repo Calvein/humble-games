@@ -2924,11 +2924,11 @@ var games = [
         "url": "broforce/Bdu7Fsgt3Eds",
         "price": "15",
         "description": "Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing + Steam key (when released) ($15) \n Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing + Steam key (when released) x2 ($25)",
-        "developer": "Free Lives",
+        "developer": "Devolver Digital",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
+            "linux": false,
             "mac": true,
             "audio": false
         },
@@ -2939,10 +2939,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.screwattack.com/shows/heavy-metal-gamer-show/heavy-metal-gamer-bro-force-review",
-            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=93927889",
+            "steam": "http://store.steampowered.com/app/274190/",
             "developer": "http://www.freelives.net/"
-        }
+        },
+        "notes": "Linux version coming soon. \n Store page: http://www.freelives.net/BROFORCE/PREORDER/PreOrders.html",
+        "extras": false
     },
     {
         "name": "Broken Age",
