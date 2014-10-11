@@ -185,7 +185,7 @@ var games = [
         "name": "A Golden Wake",
         "url": "agoldenwake_tiered/Zjlkxcjv3ijs",
         "price": "14.99",
-        "description": "- Get the A Golden Wake game\n- Available DRM-free and on Steam"
+        "description": "- Get the A Golden Wake game\n- Available DRM-free and on Steam",
         "developer": "Wadjet Eye Games",
         "platform": {
             "android": false,
