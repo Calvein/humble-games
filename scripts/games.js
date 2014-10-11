@@ -6830,6 +6830,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Dungeon Lurk II - Leona",
+        "url": "dungeonlurktwo_leona/DLfuaowkj4r44",
+        "price": "4.99",
+        "description": "Get Dungeon Lurk II - Leona instantly! Cross-platform and DRM-free!",
+        "developer": "Keys of Nine Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/dungeon-lurk-ii-leona",
+            "steam": "http://store.steampowered.com/app/322580/",
+            "developer": "http://keysofnine.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Dungeonmans",
         "url": "dungeonmans/ertuyernaudIE40",
         "price": "15",
@@ -6853,32 +6879,6 @@ var games = [
             "developer": "http://www.dungeonmans.com/"
         },
         "notes": "Store page: http://www.dungeonmans.com/?page_id=362",
-        "extras": false
-    },
-    {
-        "name": "Dungeon Lurk II - Leona",
-        "url": "dungeonlurktwo_leona/DLfuaowkj4r44",
-        "price": "4.99",
-        "description": "Get Dungeon Lurk II - Leona instantly! Cross-platform and DRM-free!",
-        "developer": "Keys of Nine Entertainment",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "desura": "http://www.desura.com/games/dungeon-lurk-ii-leona",
-            "developer": "http://keysofnine.com/"
-        },
-        "notes": "Store page: http://www.dungeonlurk.com/buy-now/",
         "extras": false
     },
     {
