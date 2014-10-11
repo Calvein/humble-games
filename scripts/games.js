@@ -183,9 +183,9 @@ var games = [
     },
     {
         "name": "A Golden Wake",
-        "url": "agoldenwake/XbDJLK23jsd22",
+        "url": "agoldenwake_tiered/Zjlkxcjv3ijs",
         "price": "14.99",
-        "description": "Pre-order \"A Golden Wake\" now! On Steam and DRM-free for Windows, Mac or Linux! Includes the soundtrack for a limited time!",
+        "description": "- Get the A Golden Wake game\n- Available DRM-free and on Steam"
         "developer": "Wadjet Eye Games",
         "platform": {
             "android": false,
@@ -201,10 +201,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/10/09/wot-i-think-a-golden-wake/",
             "steam": "http://store.steampowered.com/app/307570",
             "developer": "http://www.wadjeteyegames.com/"
         },
-        "notes": "Store page: http://www.wadjeteyegames.com/pre-order/golden-wake/",
+        "notes": "Tiered widget with which you can also purchase the game and the soundtrack for $16.98.\nStore page: http://www.wadjeteyegames.com/games/golden-wake/",
         "extras": false
     },
     {
