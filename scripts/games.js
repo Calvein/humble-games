@@ -24276,31 +24276,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "TUG Early Access",
-        "url": "tug_seedling/Tudkwo43",
-        "price": "9.99",
-        "description": "Disclaimer: You are purchasing access to a pre-commercial launch Alpha build. It's unstable and it will break at times.",
-        "developer": "Nerd Kingdom",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://www.nerdkingdom.com/index.shtml"
-        },
-        "notes": "According to the developer, the price will increase when the game hits beta. \n Store page: http://www.nerdkingdom.com/early-access/index.shtml",
-        "extras": false
-    },
-    {
         "name": "Tug: A Space Trucker's Odyssey",
         "url": "tug_aspacetruckersodyssey/Tekdowk1ldksl",
         "price": "6.99",
@@ -24324,6 +24299,32 @@ var games = [
             "desura": "http://www.desura.com/games/tug-a-space-truckers-odyssey",
             "developer": "http://mutinous.com/tug"
         },
+        "extras": false
+    },
+    {
+        "name": "TUG: Early Access",
+        "url": "tug_earlyaccess/Isdnfl23j8sjlas",
+        "price": "9.99",
+        "description": "Get Early Access on Steam for TUG instantly!",
+        "developer": "Nerd Kingdom",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/277930/",
+            "developer": "http://www.nerdkingdom.com/index.shtml"
+        },
+        "notes": "Store page: http://www.nerdkingdom.com/early-access/index.shtml",
         "extras": false
     },
     {
