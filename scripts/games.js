@@ -8272,13 +8272,13 @@ var games = [
         "name": "Flappy Potato Salad",
         "url": "flappypotatosalad/oDKJhf23874hs",
         "price": "4.99",
-        "description": "Pre-order and support the development of this parody game, and make sure you get your copy of it first!",
+        "description": "Get your copy and support the development of this indie parody game!",
         "developer": "Corbomite Games",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
