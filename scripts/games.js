@@ -13921,6 +13921,56 @@ var games = [
         "extras": true
     },
     {
+        "name": "Mark of the Old Ones **Pre-Order**",
+        "url": "markoftheoldones/mOINEjb283nds",
+        "price": "10.99",
+        "description": "The price of the pre-order will rise throughout the development of \"Mark of the Old Ones\", so pre-order a DRM-free copy ASAP!",
+        "developer": "Hit the Sticks",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://htssoft.com/"
+        },
+        "notes": "Store page: http://markoftheoldones.com/#main",
+        "extras": false
+    },
+    {
+        "name": "Mark of the Old Ones **Beta Access**",
+        "url": "markoftheoldones_betaaccess/naKDJ39xnzsi",
+        "price": "25.99",
+        "description": "Instant access to Beta Community features and Beta Builds of the game! Talk with us and give us feedback so we can make the game even better!",
+        "developer": "Hit the Sticks",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://htssoft.com/"
+        },
+        "notes": "Store page: http://markoftheoldones.com/#main",
+        "extras": true
+    },
+    {
         "name": "Marvin's Mittens",
         "url": "marvinsmittens/Mdkwo1kd9ks",
         "price": "4.99",
@@ -13945,6 +13995,31 @@ var games = [
             "developer": "http://breakfall.ca/"
         },
         "notes": "Store page: http://breakfall.ca/marvinsmittens#node-55",
+        "extras": false
+    },
+    {
+        "name": "Massive Cleavage vs Zombies",
+        "url": "massivecleavagevszombies/Zlkjasfd239jds",
+        "price": "2.99",
+        "description": "DRM-free version for Windows!",
+        "developer": "Awesome Enterprises",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.awesome-enterprises.com/"
+        },
+        "notes": "Store page: http://www.awesome-enterprises.com/MassiveCleavage/",
         "extras": false
     },
     {
