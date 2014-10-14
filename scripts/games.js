@@ -25813,6 +25813,156 @@ var games = [
         "extras": false
     },
     {
+        "name": "Wild Season (Win/Mac/Linux) (Pre-Order)",
+        "url": "wildseason/LSkdjfoIid93",
+        "price": "26.99",
+        "description": "Get Wild Season for Windows, Mac & Linux!",
+        "developer": "Quickfire Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://quickfire-games.com/"
+        },
+        "notes": "Includes a basic PDF manual and a DLC. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "extras": true
+    },
+    {
+        "name": "Wild Season (Android) (Pre-Order)",
+        "url": "wildseason_android/xxjlksHDhsk972",
+        "price": "26.99",
+        "description": "Get Wild Season for Android!",
+        "developer": "Quickfire Games",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows":false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://quickfire-games.com/"
+        },
+        "notes": "Includes a basic PDF manual and a DLC. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "extras": true
+    },
+    {
+        "name": "Wild Season (Win/Mac/Linux/Android) (Pre-Order)",
+        "url": "wildseason_complete/JXKljsdf923us",
+        "price": "46.99",
+        "description": "Get Wild Season for Windows, Mac, Linux & Android!",
+        "developer": "Quickfire Games",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://quickfire-games.com/"
+        },
+        "notes": "Includes a basic PDF manual and a DLC. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "extras": true
+    },
+    {
+        "name": "Wild Season Special Edition (Win/Mac/Linux) (Pre-Order)",
+        "url": "wildseason_specialedition/bSDlfkj23sdk",
+        "price": "36.99",
+        "description": "Get Wild Season Special Edition for Windows, Mac & Linux!",
+        "developer": "Quickfire Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://quickfire-games.com/"
+        },
+        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "extras": true
+    },
+    {
+        "name": "Wild Season Special Edition (Android) (Pre-Order)",
+        "url": "wildseason_specialedition_android/GHlksdjf29ijd3",
+        "price": "36.99",
+        "description": "Get Wild Season Special Edition for Android!",
+        "developer": "Quickfire Games",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://quickfire-games.com/"
+        },
+        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "extras": true
+    },
+    {
+        "name": "Wild Season Special Edition (Win/Mac/Linux/Android) (Pre-Order)",
+        "url": "wildseason_complete_specialedition/YYdjsklFeoi9",
+        "price": "56.99",
+        "description": "Get Wild Season Special Edition for Windows, Mac, Linux & Android!",
+        "developer": "Quickfire Games",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://quickfire-games.com/"
+        },
+        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "extras": true
+    },
+    {
         "name": "Windforge",
         "url": "windforge/Wkd09",
         "price": "14.99",
