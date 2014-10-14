@@ -16479,6 +16479,81 @@ var games = [
         }
     },
     {
+        "name": "Parkitect",
+        "url": "parkitect/HFBdsnkm38sJD",
+        "price": "15",
+        "description": "Pre-order now! Get Parkitect DRM-free when it's released!",
+        "developer": "Texel Raptor",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.themeparkitect.com/"
+        },
+        "notes": "Mac and Linux versions coming after the Windows one. Steam key if/when Greenlit.",
+        "extras": false
+    },
+    {
+        "name": "Parkitect - Soundtrack Tier",
+        "url": "parkitect_soundtracktier/AAhd39DsaTt",
+        "price": "25",
+        "description": "Pre-order the game, the soundtrack, and some awesome wallpapers!",
+        "developer": "Texel Raptor",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.themeparkitect.com/"
+        },
+        "notes": "Mac and Linux versions coming after the Windows one. Steam key if/when Greenlit.",
+        "extras": true
+    },
+    {
+        "name": "Parkitect - Prototype Tier",
+        "url": "parkitect_prototypetier/TxFJKL34oufhS",
+        "price": "45",
+        "description": "Pre-order the game, get a prototype version before public release, and a curated sound library. Includes soundtrack and wallpapers!",
+        "developer": "Texel Raptor",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.themeparkitect.com/"
+        },
+        "notes": "Mac and Linux versions coming after the Windows one. Steam key if/when Greenlit.",
+        "extras": true
+    },
+    {
         "name": "Particle Mace",
         "url": "particlemace/Pdkwo9",
         "price": "5",
@@ -24244,58 +24319,83 @@ var games = [
         "extras": true
     },
     {
-    "name": "TRI",
-    "url": "tri/TEkskdow12kd",
-    "price": "10",
-    "description": "Train your spatial thinking by preordering TRI! Cross-platform and DRM-free. Includes a lot of triangles.",
-    "developer": "Rat King Entertainment",
-    "platform": {
-        "android": false,
-        "linux": true,
-        "windows": true,
-        "mac": true,
-        "audio": false
-    },
-    "drm": {
-        "steam": false,
-        "desura": true,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "desura": "http://www.desura.com/games/tri",
-        "developer": "http://www.ratking.de/"
-    },
-    "notes": "The Monk Edition. Purchase is for beta access Preorder. Soundtrack edition also available. Desura keys provided with purchase are coming soon. Will be issued Steam keys if Greenlit. Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=181319200",
-    "extras": false
+        "name": "TRI",
+        "url": "tri/TEkskdow12kd",
+        "price": "14.99",
+        "description": "Train your spatial thinking by preordering TRI! Cross-platform and DRM-free. Includes a lot of triangles.",
+        "developer": "Rat King Entertainment",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.twinfinite.net/2014/10/13/tri-friendship-madness-bends-rules-review/",
+            "steam": "http://store.steampowered.com/app/293660/",
+            "developer": "http://www.ratking.de/"
+        },
+        "notes": "Store page: http://www.tri-game.com/buy.html",
+        "extras": false
     },
     {
-    "name": "TRI + OST",
-    "url": "tri_ost/TEkskdow12kd",
-    "price": "15",
-    "description": "Train your spatial thinking by preordering TRI! Crossplatform and DRM-free. This package includes the original soundtrack by Ludwig Hanisch.",
-    "developer": "Rat King Entertainment",
-    "platform": {
-        "android": false,
-        "linux": true,
-        "windows": true,
-        "mac": true,
-        "audio": true
+        "name": "TRI + OST",
+        "url": "tri_ost/TEkskdow12kd",
+        "price": "19.99",
+        "description": "Train your spatial thinking by preordering TRI! Crossplatform and DRM-free. This package includes the original soundtrack by Ludwig Hanisch.",
+        "developer": "Rat King Entertainment",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.twinfinite.net/2014/10/13/tri-friendship-madness-bends-rules-review/",
+            "steam": "http://store.steampowered.com/app/293660/",
+            "developer": "http://www.ratking.de/"
+        },
+        "notes": "Store page: http://www.tri-game.com/buy.html",
+        "extras": false
     },
-    "drm": {
-        "steam": false,
-        "desura": true,
-        "gog": false,
-        "drm-free": true
-    },
-    "URL": {
-        "review": "",
-        "steam": "",
-        "desura": "http://www.desura.com/games/tri",
-        "developer": "http://www.ratking.de/"
-    },
-    "notes": "The Fox Edition. Purchase is for beta access Preorder. Desura keys provided with purchase are coming soon. Will be issued Steam keys if Greenlit. Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=181319200",
-    "extras": false
+    {
+        "name": "Triggerfish Drill Sergeant",
+        "url": "triggerfishdrillsergeant/NVDLK24o9jkas",
+        "price": "4.99",
+        "description": "Purchase Triggerfish Drill Sergeant and get it DRM-free on Windows, Mac, and Linux!",
+        "developer": "Anglerteam Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.anglerteamgames.com/"
+        },
+        "notes": "Store page: http://www.anglerteamgames.com/TriggerfishDrillSergeant_Release/",
+        "extras": false
     },
     {
         "name": "Trine Enhanced Edition",
