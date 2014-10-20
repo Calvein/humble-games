@@ -512,6 +512,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Ababa Boom",
+        "url": "abababoom/NBjk4r7o8djd",
+        "price": "1.99",
+        "description": "Reinvents the classic minesweeper. 24 levels full of emotion and…mines.",
+        "developer": "Trazosoft",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "desura": "http://www.desura.com/games/ababa-boom",
+                "developer": "http://trazosoft.com/"
+        },
+        "notes": "Store page: http://trazosoft.com/abababoomen.html#PC",
+        "extras": false
+    },
+    {
         "name": "Aces Wild: Manic Brawling Action",
         "url": "aceswild?preview=Adh87Yahbe",
         "price": "9.99",
@@ -23039,6 +23065,31 @@ var games = [
             "developer": "http://www.skygoblin.com/"
         },
         "notes": "Store page: http://thejourneydown.com/",
+        "extras": false
+    },
+    {
+        "name": "The Last Dogma",
+        "url": "thelastdogma/xJLKX49iiDjs",
+        "price": "6.99",
+        "description": "Windows only, 32/64-bit compatible, DRM-free!",
+        "developer": "Sasha Darko",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://sashadarko.com/"
+        },
+        "notes": "Store page: http://lastdisbeliever.com/buy-download/",
         "extras": false
     },
     {
