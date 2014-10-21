@@ -17010,6 +17010,33 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/police-simulator-2/"
     },
     {
+        "name": "Poltergeist: A Pixelated Horror",
+        "url": "poltergeist_apixelatedhorror/BLSKDfj238jlss",
+        "price": "7.99",
+        "description": "Have you ever wondered what it feels to be a ghostly being? Have fun and play with the occult... and become a Poltergeist! (Pre-Order)",
+        "developer": "Glitchy Pixel",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.heypoorplayer.com/2014/10/21/boo-poltergeist-pixelated-horror-review/",
+            "steam": "http://store.steampowered.com/app/323700/",
+            "developer": "http://www.glitchypixel.com.co/kirby/en/"
+        },
+        "notes": "Store page: http://poltergeist.glitchypixel.com.co/#humblebundle",
+        "extras": false
+    },
+    {
         "name": "POP: Methodology Experiment One",
         "url": "pop_methodologyexperimentone?preview=Poskdkwk1",
         "price": "3.99",
