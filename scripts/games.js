@@ -18360,15 +18360,15 @@ var games = [
     },
     {
         "name": "Risk of Rain",
-        "url": "riskofrain_game?preview=Igd1i3ZMVkTg",
+        "url": "riskofrain_game/Igd1i3ZMVkTg",
         "price": "9.99",
-        "description": "Buy now and get access to Risk of Rain on release!",
+        "description": "Buy now and get access to Risk of Rain!",
         "developer": "Hopoo Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -18393,9 +18393,9 @@ var games = [
         "developer": "Hopoo Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -19082,10 +19082,10 @@ var games = [
         }
     },
     {
-        "name": "Screencheat - Pre-Order",
+        "name": "Screencheat",
         "url": "screencheat/JNSD93jkJESL",
         "price": "14.99",
-        "description": "Pre-order SCREENCHEAT now! Includes a Steam key for closed beta access and the final release.",
+        "description": "Purchase SCREENCHEAT now! Includes a Steam key for closed beta access and the final release.",
         "developer": "Surprise Attack",
         "platform": {
             "android": false,
@@ -19101,10 +19101,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.ign.com/articles/2014/10/26/screencheat-review",
             "steam": "http://store.steampowered.com/app/301970/",
             "developer": "http://www.samuraipunk.com/"
         },
-        "notes": "Currently on sale at 34% off for $9.89. \n Store page: http://www.samuraipunk.com/screencheat.html",
+        "notes": "Store page: http://www.samuraipunk.com/screencheat.html",
         "extras": false
     },
     {
@@ -24013,8 +24014,8 @@ var games = [
         },
         "notes": "Mac and Linux versions will be available if the Kickstarter stretch goals are reached with the pre-orders.\nSteam key if/when the game gets Greenlit.\nStore page: http://togetherthegame.com/",   
         "extras": false
-    },  
-    {   
+    },
+    {
         "name": "Together: Amna & Saif + Design A Level",
         "url": "together_amnaandsaif_designalevel/wIDj239jsksa",
         "price": "299",
@@ -24041,15 +24042,15 @@ var games = [
     },
     {
         "name": "Tower of Guns",
-        "url": "towerofguns?preview=V3lAICo87Ku2",
+        "url": "towerofguns/V3lAICo87Ku2",
         "price": "14.99",
         "description": "Buy Tower of Guns now and get it DRM-free for Windows!",
         "developer": "Terrible Posture Games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": true
         },
         "drm": {
@@ -24058,7 +24059,13 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Game website: http://www.towerofguns.com/"
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/03/05/wot-i-think-tower-of-guns/",
+            "steam": "http://store.steampowered.com/app/266110/",
+            "developer": "http://www.towerofguns.com/presskit/index.php"
+        },
+        "notes": "Store page: http://www.towerofguns.com/",
+        "extras": false
     },
     {
         "name": "Tower Wars",
@@ -24198,13 +24205,13 @@ var games = [
         "name": "Transistor",
         "url": "transistor/vNOIc34",
         "price": "19.99",
-        "description": "Pre-order Transistor, a sci-fi-themed action RPG from the creators of Bastion. Redeemable via Steam for Windows only (available May 20th)!",
+        "description": "Buy Transistor, a sci-fi-themed action RPG from the creators of Bastion. Redeemable via Steam for Windows only!",
         "developer": "Supergiant Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -24224,13 +24231,13 @@ var games = [
         "name": "Transistor + Soundtrack",
         "url": "transistor_withsoundtrack/vNOIc34",
         "price": "29.98",
-        "description": "Pre-order Transistor, a sci-fi-themed action RPG from the creators of Bastion. Redeemable via Steam for Windows only! Includes Soundtrack.",
+        "description": "Buy Transistor, a sci-fi-themed action RPG from the creators of Bastion. Redeemable via Steam for Windows only! Includes Soundtrack.",
         "developer": "Supergiant Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": true
         },
         "drm": {
