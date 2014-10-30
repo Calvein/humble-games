@@ -9265,6 +9265,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "GamersGoMakers",
+        "url": "gamersgomakers/kjBNVIDbdbE2",
+        "price": "9.99",
+        "description": "Get GamersGoMakers instantly, DRM-free and on Steam!",
+        "developer": "gnifrebel Games UG",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.grabthegames.com/review-gamersgomakers.html",
+            "steam": "http://store.steampowered.com/app/314320/",
+            "developer": "http://www.gamersgomakers.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Gang Beasts (Early Access)",
+        "url": "gangbeasts/SFb12sjsoija",
+        "price": "19.99",
+        "description": "Get Gangbeasts (Early Access) instantly on Steam!",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/285900",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://www.doublefine.com/games",
+        "extras": false
+    },
+    {
         "name": "Gateways",
         "url": "gateways",
         "price": "5",
@@ -14483,6 +14535,32 @@ var games = [
             "developer": "http://dinopoloclub.com/minimetro/"
         },
         "notes": "Store page: http://dinopoloclub.com/minimetro/#buy",
+        "extras": false
+    },
+    {
+        "name": "miniFlake",
+        "url": "miniflake/HGDF87HDGF89",
+        "price": "4.99",
+        "description": "Get miniFlake instantly! Runs on PC, and DRM-free. Frequent updates!",
+        "developer": "Wolfgame",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/miniflake",
+            "developer": "http://wolfgame.com/"
+        },
+        "notes": "Store page: http://wolfgame.com/games/miniflake.html",
         "extras": false
     },
     {
