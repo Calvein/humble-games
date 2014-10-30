@@ -20125,36 +20125,9 @@ var games = [
     },
     {
         "name": "Shovel Knight",
-        "url": "shovelknight?preview=AsWK4zsikgrE",
+        "url": "shovelknight/AsWK4zsikgrE",
         "price": "15",
-        "description": "Purchase Shovel Knight now! Get the game DRM-free for Windows + a Steam key. Access the Mac and Linux versions once they become available!",
-        "developer": "Yacht Club Games",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": { 
-            "review": "http://www.ign.com/articles/2014/06/26/shovel-knight-review",
-            "steam": "http://store.steampowered.com/app/250760/",
-            "developer": "http://yachtclubgames.com/"
-        },
-        "notes": "Linux version coming soon.\nStore page: http://yachtclubgames.com/shovel-knight/",
-        "extras": false
-    },
-    {
-        "name": "Shovel Knight Deluxe",
-        "url": "shovelknight_deluxe?preview=AsWK4zsikgrE",
-        "price": "25",
-        "description": "Purchase Shovel Knight now! Get the game DRM-free for Windows + a Steam key. Access the Mac and Linux versions once they become available! Includes immediate access to the PDF manual as well as access the PDF artbook once it becomes available",
+        "description": "Purchase Shovel Knight now! Get the game DRM-free for Windows, Mac, and Linux + Steam keys!",
         "developer": "Yacht Club Games",
         "platform": {
             "android": false,
@@ -20174,7 +20147,34 @@ var games = [
             "steam": "http://store.steampowered.com/app/250760/",
             "developer": "http://yachtclubgames.com/"
         },
-        "notes": "Linux version coming soon.\nStore page: http://yachtclubgames.com/shovel-knight/",
+        "notes": "Store page: http://yachtclubgames.com/shovel-knight/",
+        "extras": false
+    },
+    {
+        "name": "Shovel Knight Deluxe",
+        "url": "shovelknight_deluxe/AsWK4zsikgrE",
+        "price": "25",
+        "description": "Purchase Shovel Knight now! Get it for Win/Mac/Linux + Steam keys! Includes immediate access to the PDF manual and to the PDF artbook when available!",
+        "developer": "Yacht Club Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2014/06/26/shovel-knight-review",
+            "steam": "http://store.steampowered.com/app/250760/",
+            "developer": "http://yachtclubgames.com/"
+        },
+        "notes": "Store page: http://yachtclubgames.com/shovel-knight/",
         "extras": true
     },
     {
