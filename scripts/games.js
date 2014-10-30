@@ -4064,6 +4064,33 @@ var games = [
         }
     },
     {
+        "name": "Claustrophobia: The Downward Struggle",
+        "url": "claustrophobia_thedownwardstruggle/SJKErhl328OOo",
+        "price": "4.99",
+        "description": "Get Claustrophobia: The Downward Struggle instantly for Windows & Steam Early Access, and help to support development!",
+        "developer": "The Indie Forge",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/claustrophobia-the-downward-struggle",
+            "steam": "http://store.steampowered.com/app/269590",
+            "developer": "http://blog.claustrophobia-game.com/"
+        },
+        "notes": "Store page: http://claustrophobia-game.com/#maintext",
+        "extras": false
+    },
+    {
         "name": "Cloaks and Spells",
         "url": "cloaksandspells/Clsko1k3kd",
         "price": "11.99",
@@ -4241,6 +4268,32 @@ var games = [
             "developer": "http://dumbandfat.com/"
         },
         "notes": "The developer is currently working on a Linux version. \n Store page: http://coincryptgame.com/",
+        "extras": false
+    },
+    {
+        "name": "Collateral",
+        "url": "collateral/Ckdowk1du",
+        "price": "25",
+        "description": "Delve into the action-packed world of New Bedlam today!",
+        "developer": "Dancing Dinosaur Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/collateral",
+            "developer": "http://dancingdinosaurgames.com/"
+        },
+        "notes": "Store page: http://www.collateralthegame.com/collateral/",
         "extras": false
     },
     {
@@ -5128,6 +5181,33 @@ var games = [
             "desura": "http://www.desura.com/games/ctdv",
             "developer": "http://www.apathyworks.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Cyto",
+        "url": "cyto/NAdlkfj3120js",
+        "price": "6",
+        "description": "Get Cyto instantly! Available on Windows, Mac, and Android, DRM-free! Also redeemable on Steam!",
+        "developer": "Room 8 Studio",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.hookedgamers.com/pc/cyto/review/article-1294.html",
+            "steam": "http://store.steampowered.com/app/302650/",
+            "developer": "http://www.room8studio.com/"
+        },
+        "notes": "Store page: http://www.room8studio.com/games/cyto.html",
         "extras": false
     },
     {
