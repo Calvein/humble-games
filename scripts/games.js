@@ -21486,6 +21486,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Sproggiwood",
+        "url": "sproggiwood/7SDkfj23bshaks",
+        "price": "14.99",
+        "description": "Purchase Sproggiwood now!",
+        "developer": "Freehold Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamemag.com/review-sproggiwood-is-a-light-and-fun-roguelike-rpg/",
+            "steam": "http://store.steampowered.com/app/311720/",
+            "developer": "http://www.freeholdgames.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Spud's Quest",
         "url": "spudsquest?preview=Shu7Gyh3Dfgt",
         "price": "8",
@@ -21985,6 +22011,32 @@ var games = [
             "developer": "http://imageform.se/"
         },
         "notes": "Store page: http://steamworldgames.com/dig/",
+        "extras": false
+    },
+    {
+        "name": "Still Not Dead",
+        "url": "stillnotdead/ZNXjkwerf34df",
+        "price": "6.49",
+        "description": "Get Still Not Dead instantly for Windows, DRM-free!",
+        "developer": "Flying Interactive",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/still-not-dead",
+            "developer": "http://flyinginteractive.com/"
+        },
+        "notes": "Store page: http://flyinginteractive.com/stillnotdead/",
         "extras": false
     },
     {
@@ -22798,6 +22850,32 @@ var games = [
             "developer": "http://www.studioevil.com/"
         },
         "notes": "Store page: http://www.syderarcade.com/buy-syder-arcade/",
+        "extras": false
+    },
+    {
+        "name": "Sym",
+        "url": "sym/Skdow1kdl0",
+        "price": "2.99",
+        "description": "Get the beta now, DRM-free for Windows!",
+        "developer": "Atraxgames",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/sym",
+            "developer": "http://www.atraxgames.com/"
+        },
+        "notes": "Store page: http://www.atraxgames.com/sym/#buy",
         "extras": false
     },
     {
