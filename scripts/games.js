@@ -1499,6 +1499,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Artisan: Going Home Again",
+        "url": "artisan_goinghomeagain/8SDThWwh2",
+        "price": "9.99",
+        "description": "To save her childhood home Ellie needs to pursue an unlikely career in the only thing she's actually good at: Art.",
+        "developer": "Unseen Kingdom Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/artisan-going-home-again",
+            "developer": "http://unseenkingdom.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://unseenkingdom.com/sales.htm",
+        "extras": false
+    },
+    {
         "name": "Assault Android Cactus",
         "url": "assaultandroidcactus/Adu7Tsg4Rfs",
         "price": "15",
@@ -3183,6 +3209,31 @@ var games = [
             "developer": "http://www.bunnycopter.com/"
         },
         "notes": "Pre-order at 33% off; regular price is $14.99\nSteam key if/when Greenlit\nStore page: http://www.brokenbotsgame.com/#humblewidget",
+        "extras": false
+    },
+    {
+        "name": "Buildanauts",
+        "url": "buildanauts/436hjkSDhj",
+        "price": "15",
+        "description": "Pre-order now at a low price (reg $30 when finished) & get the Alpha this December, Steam Key when Greenlit, cross-platform and DRM-free!",
+        "developer": "TouchTilt Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://buildanauts.com/"
+        },
+        "notes": "Pre-order at 50% off; regular price is $30\nStore page: http://buildanauts.com/preorder/",
         "extras": false
     },
     {
