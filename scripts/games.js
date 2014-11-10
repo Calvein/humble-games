@@ -8771,7 +8771,7 @@ var games = [
         "name": "FOTONICA",
         "url": "fotonica",
         "price": "9.99",
-        "description": "Purchase FOTONICA and get it DRM-free for Windows, Mac, and Linux!",
+        "description": "Buy FOTONICA and receive the DRM-free and Steam versions for Win, Mac, and Linux!",
         "developer": "Santa Ragione",
         "platform": {
             "android": false,
@@ -8781,7 +8781,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -8789,9 +8789,10 @@ var games = [
         "URL": {
             "review": "http://arstechnica.com/gaming/2011/07/pc-mac-game-fotonica-mixes-primordial-cgi-with-modern-style/",
             "desura": "http://www.desura.com/games/FOTONICA",
+            "steam": "http://store.steampowered.com/app/253290/",
             "developer": "http://www.santaragione.com/"
         },
-        "notes": "Currently on sale at 50% off, regular price is $9.99.",
+        "notes": "Store page: http://fotonica-game.com/#buy",
         "extras": false
     },
     {
