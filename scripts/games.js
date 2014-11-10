@@ -26600,6 +26600,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Winged Sakura: Mindy's Arc",
+        "url": "wingedsakura_mindysarc/BZLkjwe8r23js",
+        "price": "14.99",
+        "description": "A brand new DRM-FREE HD 2D Anime Strategy Defense Game available for Windows, Mac and Linux!",
+        "developer": "WINGED SAKURA GAMES",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/331390/",
+            "developer": "http://www.facebook.com/WingedSakura"
+        },
+        "notes": "Store page: http://www.wingedsakura.com/#Buy",
+        "extras": false
+    },
+    {
+        "name": "Winged Sakura: Mindy's Arc OST",
+        "url": "wingedsakura_mindysarc_ost/Zzekl23u89sjkl",
+        "price": "4.99",
+        "description": "Contains all music used for promotion and the Winged Sakura: Mindy's Arc game. File types: MP3 and FLAC!",
+        "developer": "WINGED SAKURA GAMES",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/331550/",
+            "developer": "http://www.facebook.com/WingedSakura"
+        },
+        "notes": "Store page: http://www.wingedsakura.com/#Buy",
+        "extras": false
+    },
+    {
         "name": "WizFight",
         "url": "wizfight/Wkdkwo1ldksl",
         "price": "3",
