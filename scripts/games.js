@@ -21589,6 +21589,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Splotches",
+        "url": "splotches/wreweiuwhHE32",
+        "price": "5",
+        "description": "Download Splotches and start 'sploding some paint! Available on Windows DRM-Free!",
+        "developer": "Jolly Crouton Media",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://jollycrouton.com/"
+        },
+        "notes": "Store page: http://splotchesgame.com/#buyTable",
+        "extras": false
+    },
+    {
         "name": "Sproggiwood",
         "url": "sproggiwood/7SDkfj23bshaks",
         "price": "14.99",
