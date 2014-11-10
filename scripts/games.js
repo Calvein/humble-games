@@ -538,6 +538,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Abomination Tower",
+        "url": "abominationtower/8JSDFLk328d",
+        "price": "5",
+        "description": "Get Abomination Tower instantly! Available on Windows/Mac, DRM-free!",
+        "developer": "Adrian Sugden",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "desura": "http://www.desura.com/games/abomination-tower",
+                "developer": "http://www.adriansugden.com/"
+        },
+        "notes": "Store page: http://www.adriansugden.com/games/abomination-tower/",
+        "extras": false
+    },
+    {
         "name": "Aces Wild: Manic Brawling Action",
         "url": "aceswild?preview=Adh87Yahbe",
         "price": "9.99",
@@ -2181,6 +2207,31 @@ var games = [
             "steam": "http://store.steampowered.com/app/107100/",
             "developer": "http://supergiantgames.com/"
         }
+    },
+    {
+        "name": "Battle Chef Brigade",
+        "url": "battlechefbrigade/Mm123jDn23ds",
+        "price": "15",
+        "description": "Preorder BATTLE CHEF BRIGADE for Windows, Mac, and Linux! All DRM-free! :)",
+        "developer": "Trinket Studios Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.trinketstudios.com/"
+        },
+        "notes": "Store page: http://www.battlechefbrigade.com/preorder/",
+        "extras": false
     },
     {
         "name": "Battle Fleet 2",
