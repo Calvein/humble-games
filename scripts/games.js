@@ -2975,6 +2975,231 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bolt Riley: Honorable Mention",
+        "url": "boltriley_honorablemention/o4uoDSJKL29",
+        "price": "45",
+        "description": "Other than the game and soundtrack, have your name in the game, visible to everyone who plays it!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
+        "name": "Bolt Riley and Other Games",
+        "url": "boltriley_trenchtownrock/NSDLfk283js",
+        "price": "60",
+        "description": "Also get the art of Bolt Riley, and other Corbomite Games (Star Shipping Inc., Avner, Pizza Morgana & Flappy Potato Salad)!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
+        "name": "Bolt Riley: All Digital, Early Access",
+        "url": "boltriley_alldigitalearlyaccess/SBDFlk3j29sa",
+        "price": "90",
+        "description": "Also get early access to the Beta, and a behind the scenes documentary!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
+        "name": "Bolt Riley: A Shot of the Sheriff",
+        "url": "boltriley_ishotthesheriff/Fjkladfj23jsak",
+        "price": "150",
+        "description": "Also get featured in the game in a yearbook with your name, image, and a description you write (pending our approval)!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
+        "name": "Bolt Riley: Four Twenty",
+        "url": "boltriley_fourtwenty/XBlwkejr30298",
+        "price": "420",
+        "description": "Better placement in yearbook with a physical print, and a piece of one of a kind original artwork used to create the game!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
+        "name": "Bolt Riley: Burn and Loot",
+        "url": "boltriley_burningandlooting/XuwehrHHF388",
+        "price": "1000",
+        "description": "Also get a more impressive original piece or artwork and get an exclusive numbered and signed lithograph!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
+        "name": "Bolt Riley: Become a Wailer",
+        "url": "boltriley_becomeawailer/PPOsnd23is9j",
+        "price": "1500",
+        "description": "An executive producer of the game! Meet Lori and Corey Cole for lunch or dinner at a convention or conference they attend!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
+        "name": "Bolt Riley: The Writing On The Wall",
+        "url": "boltriley_thewritingonthewall/NSXKDLFN2o3i4",
+        "price": "3000",
+        "description": "Also have your name on the wall of the Rude Boy Scene, used as marketing material for the game!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
+        "name": "Bolt Riley: How Lively",
+        "url": "boltriley_livelyupyourself/JClkewrj2jsda",
+        "price": "4200",
+        "description": "Become a character in the game!",
+        "developer": "Adventure Mob",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://adventuremob.com/"
+        },
+        "notes": "Store page: http://adventuremob.com/bolt-riley-slacker-backers/",
+        "extras": true
+    },
+    {
         "name": "Boot Hill Heroes",
         "url": "boothillheroes/yturetETYRUyte92",
         "price": "7.49",
