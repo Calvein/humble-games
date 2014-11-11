@@ -14237,9 +14237,9 @@ var games = [
     },
     {
         "name": "Magnetic By Nature: Standard Edition",
-        "url": "magneticbynature?preview=2LgkTaVbgE3n",
-        "price": "8",
-        "description": "Pre-order Magnetic By Nature now for this special pre-order price! Cross-platform and DRM-free.",
+        "url": "magneticbynature/2LgkTaVbgE3n",
+        "price": "9.99",
+        "description": "Get Magnetic By Nature now! Cross-platform and DRM-free, includes a Steam key!",
         "developer": "Tripleslash Studios",
         "platform": {
             "android": false,
@@ -14249,22 +14249,24 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://whatsyourtagblog.com/2014/09/03/magnetic-by-nature-review/",
+            "steam": "http://store.steampowered.com/app/296510/",
             "developer": "http://www.tripleslashstudios.com/"
         },
-        "notes": "Store page: http://www.magneticbynature.com/",
+        "notes": "Store page: http://www.magneticbynature.com/humble-store/",
         "extras": false
     },
     {
         "name": "Magnetic By Nature: Ultimate Edition",
-        "url": "magneticbynature_silver?preview=2LgkTaVbgE3n",
+        "url": "magneticbynature_silver/2LgkTaVbgE3n",
         "price": "15",
-        "description": "Pre-order Magnetic By Nature, cross-platform and DRM-free, now for a special pre-order price! Includes every DLC pack released for MBN in the future!",
+        "description": "Get Magnetic By Nature, cross-platform and DRM-free! Includes a Steam key and every DLC pack released for MBN in the future!",
         "developer": "Tripleslash Studios",
         "platform": {
             "android": false,
@@ -14274,15 +14276,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://whatsyourtagblog.com/2014/09/03/magnetic-by-nature-review/",
+            "steam": "http://store.steampowered.com/app/296510/",
             "developer": "http://www.tripleslashstudios.com/"
         },
-        "notes": "Store page: http://www.magneticbynature.com/",
+        "notes": "Store page: http://www.magneticbynature.com/humble-store/",
         "extras": true
     },
     {
