@@ -23259,6 +23259,84 @@ var games = [
         "extras": true
     },
     {
+        "name": "TerraTech - Humble Beta Edition",
+        "url": "terratech/uGyS9ThGe1",
+        "price": "30.99",
+        "description": "TerraTech Open Beta + Early Access + Final Game!",
+        "developer": "Payload Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/285920/",
+            "developer": "http://terratechgame.com/"
+        },
+        "notes": "Store page: http://terratechgame.com/support-us/",
+        "extras": false
+    },
+    {
+        "name": "TerraTech - R&D Pack DLC",
+        "url": "terratech_rdpackdlc/Piasdf18Gs",
+        "price": "14.99",
+        "description": "Experimental Blocks + R&D Test Chamber + Forum Access! (Requires Beta Edition of TerraTech to play)",
+        "developer": "Payload Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/285920/",
+            "developer": "http://terratechgame.com/"
+        },
+        "notes": "Store page: http://terratechgame.com/support-us/",
+        "extras": false
+    },
+    {
+        "name": "TerraTech - Humble Beta Deluxe",
+        "url": "terratech_deluxeedition/hBu823hsS",
+        "price": "45.99",
+        "description": "TerraTech Open Beta + R&D Pack DLC + Forum Access + Early Access + Final Game!",
+        "developer": "Payload Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/285920/",
+            "developer": "http://terratechgame.com/"
+        },
+        "notes": "Store page: http://terratechgame.com/support-us/",
+        "extras": false
+    },
+    {
         "name": "Teslagrad",
         "url": "teslagrad/Tdkwo9302",
         "price": "9.99",
