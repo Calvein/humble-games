@@ -16069,6 +16069,156 @@ var games = [
         "extras": true
     },
     {
+        "name": "Nubarron: Reward #2 (Game Copy)",
+        "url": "nubarron_reward2/Nlkx09w3jSDK",
+        "price": "15",
+        "description": "You get a DRM-free copy of the game for Linux, Mac & Windows. If we get into Steam, you'll get a key as well! (Pre-Order)",
+        "developer": "Nastycloud",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nastycloud.com/"
+        },
+        "notes": "Store page: http://unluckygnome.com/",
+        "extras": false
+    },
+    {
+        "name": "Nubarron: Reward #3 (Game + OST)",
+        "url": "nubarron_reward3/zljKDFLKDSj23",
+        "price": "20",
+        "description": "Includes DRM-Free copy + Digital Download of OST! (Pre-Order)",
+        "developer": "Nastycloud",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nastycloud.com/"
+        },
+        "notes": "Store page: http://unluckygnome.com/",
+        "extras": false
+    },
+    {
+        "name": "Nubarron: Reward #4 (Game + Art)",
+        "url": "nubarron_reward4/xnLSDF23js",
+        "price": "20",
+        "description": "Includes DRM-Free copy + Art Book (in PDF Format)! (Pre-Order)",
+        "developer": "Nastycloud",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nastycloud.com/"
+        },
+        "notes": "Store page: http://unluckygnome.com/",
+        "extras": true
+    },
+    {
+        "name": "Nubarron: Reward #5 (Game + Beta)",
+        "url": "nubarron_reward5/Gjsdj398jss",
+        "price": "30",
+        "description": "Beta Access + DRM-Free copy + Digital Download of OST + Art-Book (in PDF format) and your name in the game's credits! (Pre-Order)",
+        "developer": "Nastycloud",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nastycloud.com/"
+        },
+        "notes": "Store page: http://unluckygnome.com/",
+        "extras": true
+    },
+    {
+        "name": "Nubarron: Reward #6 (Digital Bundle)",
+        "url": "nubarron_reward6/bvlKNSD32sj",
+        "price": "40",
+        "description": "Beta Access + TWO DRM-Free copies + Digital OST + Art Book PDF + Nubarron Diaries + Wallpapers + Private Section in the Forum! (Pre-Order)",
+        "developer": "Nastycloud",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nastycloud.com/"
+        },
+        "notes": "Store page: http://unluckygnome.com/",
+        "extras": true
+    },
+    {
+        "name": "Nubarron: Reward #7 (Curator)",
+        "url": "nubarron_reward7/zvGJKDF2389",
+        "price": "50",
+        "description": "Previous rewards + Curate the game with us in a forum where we'll post early content and launch polls where you'll help us decide! (Pre-Order)",
+        "developer": "Nastycloud",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://nastycloud.com/"
+        },
+        "notes": "Store page: http://unluckygnome.com/",
+        "extras": true
+    },
+    {
         "name": "Nuclear Throne",
         "url": "nuclearthrone/Wdhd7Fst4Eds",
         "price": "12.99",
