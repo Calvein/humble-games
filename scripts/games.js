@@ -15295,6 +15295,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Mushroom 11",
+        "url": "mushroom11_preview/TYusdfn28hs",
+        "price": "19.99",
+        "description": "Pre-order Mushroom 11 now! DRM-Free for Win/Mac/Linux + Steam Key. Instant access to 2 Digital Wallpapers and a Playable 1-Level Preview!",
+        "developer": "Untame (Keren Software LLC)",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://untame.com/"
+        },
+        "notes": "Store page: http://untame.com/mushroom11/#widgets",
+        "extras": true
+    },
+    {
+        "name": "Mushroom 11 OST Fungal Bundle",
+        "url": "mushroom11_bundle/WWdjDSgG1",
+        "price": "34.99",
+        "description": "Pre-order Mushroom 11 bundle! DRM-Free + Steam + Digital Sketchbook. Instant access to Future Sound of London OST, Digital Wallpapers & 1-Level Preview!",
+        "developer": "Untame (Keren Software LLC)",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://untame.com/"
+        },
+        "notes": "Store page: http://untame.com/mushroom11/#widgets",
+        "extras": true
+    },
+    {
         "name": "Musquare (sic)",
         "url": "musquare/vjnNCKJRlkjnve",
         "price": "2",
