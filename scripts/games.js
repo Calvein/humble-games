@@ -9046,7 +9046,7 @@ var games = [
     {
         "name": "FOTONICA",
         "url": "fotonica",
-        "price": "4.99",
+        "price": "9.99",
         "description": "Buy FOTONICA and receive the DRM-free and Steam versions for Win, Mac, and Linux!",
         "developer": "Santa Ragione",
         "platform": {
@@ -9068,7 +9068,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/253290/",
             "developer": "http://www.santaragione.com/"
         },
-        "notes": "Currently on sale at 50% off, regular price is $9.99.\nStore page: http://fotonica-game.com/#buy",
+        "notes": "Store page: http://fotonica-game.com/#buy",
         "extras": false
     },
     {
