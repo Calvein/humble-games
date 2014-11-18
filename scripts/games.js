@@ -15295,6 +15295,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Murder in the Hotel Lisbon",
+        "url": "murderinthehotellisbon/PPSdf93jsds",
+        "price": "9.99",
+        "description": "Our awesome crazy videogame! Inspired by the classic point and click adventures from the 80’s and 90’s. GET IT NOW! AHHHGGGG!",
+        "developer": "Nerd Monkeys",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/25843",
+            "desura": "http://www.desura.com/games/murder-in-the-hotel-lisbon",
+            "steam": "http://store.steampowered.com/app/297290",
+            "developer": "http://www.nerdmonkeys.pt/"
+        },
+        "notes": "No mention of DRM or lack thereof either on the widget or the game's website. Just assumed it's a Steam key like in the Humble Store.",
+        "extras": false
+    },
+    {
         "name": "Mushroom 11",
         "url": "mushroom11_preview/TYusdfn28hs",
         "price": "19.99",
@@ -23215,6 +23243,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Super Win the Game",
+        "url": "superwinthegame/S48BbbSJDie",
+        "price": "14.99",
+        "description": "Download Super Win the Game today! DRM-free on Windows, Mac, and Linux. Includes Steam access and the complete soundtrack!",
+        "developer": "Minor Key Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://cueindiereview.blogspot.com.es/2014/10/indie-impressions-super-win-game.html",
+            "steam": "http://store.steampowered.com/app/310700/",
+            "developer": "http://www.minorkeygames.com/"
+        },
+        "notes": "Store page: http://www.superwinthegame.com/#widget",
+        "extras": false
+    },
+    {
         "name": "Superbrothers: Sword and Sworcery EP",
         "url": "swordandsworcery",
         "price": "7.99",
@@ -23359,6 +23414,32 @@ var games = [
             "developer": "http://www.endlessloopstudios.com/"
         },
         "notes": "Store page: http://survivor-squad.com/buy.html",
+        "extras": false
+    },
+    {
+        "name": "Survivor Squad: Gauntlets",
+        "url": "survivorsquad_gauntlets/NSdfyh238Sd",
+        "price": "8.99",
+        "description": "Get Survivor Squad: Gauntlets and redeem the Early Alpha Access on Steam now! (Windows Only)",
+        "developer": "Endless Loop Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/331720",
+            "developer": "http://www.endlessloopstudios.com/"
+        },
+        "notes": "Store page: http://www.survivor-squad.com/gauntlets/buy.html",
         "extras": false
     },
     {
