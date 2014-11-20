@@ -24021,6 +24021,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Depths of Tolagal",
+        "url": "thedepthsoftolagal/Y7f8Jw3hshSA",
+        "price": "9.99",
+        "description": "Get The Depths of Tolagal instantly! Cross-platform and DRM-free!",
+        "developer": "Angry Toad Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.angrytoad.co.uk/",
+        },
+        "notes": "Store page: http://the-depths-of-tolagal.com/",
+        "extras": false
+    },
+    {
         "name": "The Floor is Jelly",
         "url": "thefloorisjelly/Tkdowk4",
         "price": "9.99",
