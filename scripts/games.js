@@ -3992,31 +3992,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Chasm Deluxe",
-        "url": "chasm_silver/Ydh7shJsh4Nkl",
-        "price": "29.99",
-        "description": "Pre-order Chasm Deluxe now! Cross-platform, on Steam and DRM-free. Available Early 2015.",
-        "developer": "Discord Games, Inc.",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://discordgames.com/"
-        },
-        "notes": "Includes early alpha access on Steam, access to the developers' forum, a digital soundtrack, an extended digital soundtrack, a PDF compendium and a thank you in the game's credits.\nStore page: http://www.chasmgame.com/#preorder",
-        "extras": true
-    },
-    {
         "name": "Chernobyl Underground",
         "url": "chernobylunderground/Mekdowk2",
         "price": "10",
