@@ -10689,6 +10689,30 @@ var games = [
         "extras": false
     },
     {
+        "name": "GunWorld",
+        "url": "gunworld/Wud2Eh3Ss",
+        "price": "4.99",
+        "description": "Plant seeds to grow powerful guns in this throwback action-platformer! On Windows, DRM-free!",
+        "developer": "m07games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://m07games.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Guise of the Wolf",
         "url": "guiseofthewolf/Mekdowk2",
         "price": "14.99",
@@ -23242,6 +23266,30 @@ var games = [
             "developer": "http://www.minorkeygames.com/"
         },
         "notes": "Store page: http://www.superwinthegame.com/#widget",
+        "extras": false
+    },
+    {
+        "name": "Super Zombie Poop 2K In Space!!!",
+        "url": "superzombiepoop2kinspace/cbirU43V",
+        "price": "1",
+        "description": "It's the might of your bowels versus the relentless fury of the undead! Get Super Zombie Poop 2K In Space!!! Windows/OSX and DRM-free.",
+        "developer": "m07games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://m07games.com/"
+        },
         "extras": false
     },
     {
