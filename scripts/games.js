@@ -2417,6 +2417,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bedlam - Standard Edition",
+        "url": "bedlam_standardedition/0EhDj38TS",
+        "price": "14.99",
+        "description": "Pre-Order Bedlam Standard Edition!",
+        "developer": "Skyshine Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/261490/",
+            "developer": "http://www.gobedlam.com/skyshine/"
+        },
+        "notes": "Pre-order at 25% off. Regular price is $19.99.\nStore page: http://www.gobedlam.com/preorder/",
+        "extras": false
+    },
+    {
+        "name": "Bedlam - Deluxe Edition",
+        "url": "bedlam_deluxeedition/bLSKFJD23",
+        "price": "29.99",
+        "description": "Pre-Order Bedlam Deluxe Edition! Get the standard game plus more! (see website for details)",
+        "developer": "Skyshine Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/261490/",
+            "developer": "http://www.gobedlam.com/skyshine/"
+        },
+        "notes": "Store page: http://www.gobedlam.com/preorder/",
+        "extras": true
+    },
+    {
         "name": "Bermuda",
         "url": "bermuda/Bgasd4t9hjsdkl",
         "price": "7",
@@ -19606,7 +19658,7 @@ var games = [
         },
         "notes": "Steam key allegedly included, as it is in The Humble Store: http://www.humblebundle.com/store/p/rymdkapsel_storefront",
         "extras": true
-    },  
+    },
     {
         "name": "Sacred 3",
         "url": "sacred3/iDlkn1329jldks",
@@ -19632,6 +19684,32 @@ var games = [
             "developer": "http://www.deepsilver.com/home/"
         },
         "notes": "Store page: http://sacred3.deepsilver.com/es/store/",
+        "extras": false
+    },
+    {
+        "name": "Safe Cracker",
+        "url": "safecracker/TYkjsd19HDg",
+        "price": "5",
+        "description": "Can you crack the vault and grab the secret prize within? Get Safe Cracker instantly! Available on Windows/Mac, DRM-free!",
+        "developer": "Supergonk",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/safe-cracker",
+            "developer": "http://www.supergonk.co.uk/"
+        },
+        "notes": "Store page: http://www.supergonk.co.uk/safecracker/",
         "extras": false
     },
     {
