@@ -24147,6 +24147,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Flame in the Flood",
+        "url": "theflameintheflood/Blwekj2389s",
+        "price": "19.99",
+        "description": "A rogue-lite river journey through the backwaters of a forgotten post-societal America. Forage, craft, evade predators! (Pre-Order)",
+        "developer": "The Molasses Flood, LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.themolassesflood.com/",
+        },
+        "notes": "Store page: http://www.themolassesflood.com/preorder/#page",
+        "extras": false
+    },
+    {
+        "name": "The Flame in the Flood Soundtrack",
+        "url": "theflameintheflood_soundtrack/Xsdfj23hS8s",
+        "price": "10",
+        "description": "The Flame in the Flood soundtrack, by Chuck Ragan featuring The Camaraderie, The Fearless Kin and other special guests! (Pre-Order)",
+        "developer": "The Molasses Flood, LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.themolassesflood.com/",
+        },
+        "notes": "Store page: http://www.themolassesflood.com/preorder/#page",
+        "extras": false
+    },
+    {
+        "name": "FITF Soundtrack and Game Bundle",
+        "url": "theflameintheflood_soundtrackandgamebundle/YTlwjek219s",
+        "price": "29.99",
+        "description": "The game and original soundtrack available as a bundle! (Pre-Order)",
+        "developer": "The Molasses Flood, LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.themolassesflood.com/",
+        },
+        "notes": "Store page: http://www.themolassesflood.com/preorder/#page",
+        "extras": false
+    },
+    {
         "name": "The Floor is Jelly",
         "url": "thefloorisjelly/Tkdowk4",
         "price": "9.99",
