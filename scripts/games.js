@@ -19009,6 +19009,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Retro Déjà Vu",
+        "url": "retro_dejavu/WDSHD2hiX",
+        "price": "2.99",
+        "description": "The classic noir adventure Déjà Vu for both Mac 128k and Apple IIgs!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 40% off; regular price is $4.99.\nStore page: http://www.zojoi.com/retrodejavu/",
+        "extras": false
+    },
+    {
         "name": "Retro City Rampage",
         "url": "retrocityrampagesteam",
         "price": "9.99",
@@ -19071,6 +19096,81 @@ var games = [
             "developer": "http://retrogamecrunch.com/"
         },
         "notes": "Currently on sale at 20% off.",
+        "extras": false
+    },
+    {
+        "name": "Retro Mega Bundle",
+        "url": "zojoi_retromegabundle/pOiSDj2h83s",
+        "price": "6.99",
+        "description": "Three game adventure pack featuring Shadowgate, Uninvited and Déjà Vu (Mac 128k and Apple IIgs) for Windows and Mac!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 46% off; regular price is $12.99.\nStore pages: http://www.zojoi.com/retrodejavu/ http://www.zojoi.com/retroshadowgate/ http://www.zojoi.com/retrouninvited/",
+        "extras": false
+    },
+    {
+        "name": "Retro Shadowgate",
+        "url": "retro_shadowgate/8SLDFkj3hs",
+        "price": "2.99",
+        "description": "The classic fantasy adventure Shadowgate for both Mac 128k and Apple IIgs!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 40% off; regular price is $4.99.\nStore page: http://www.zojoi.com/retroshadowgate/",
+        "extras": false
+    },
+    {
+        "name": "Retro Uninvited",
+        "url": "retro_uninvited/FSDkl23sS1",
+        "price": "2.99",
+        "description": "The classic horror adventure Uninvited for both Mac 128k and Apple IIgs!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 40% off; regular price is $4.99.\nStore page: http://www.zojoi.com/retrouninvited/",
         "extras": false
     },
     {
