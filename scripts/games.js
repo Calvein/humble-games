@@ -21149,6 +21149,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Sherlock Holmes Consulting Detective",
+        "url": "sherlockholmesconsultingdetective/IklSDJ3h8sa",
+        "price": "4.99",
+        "description": "Three Sherlock Holmes video mysteries for Windows and Mac!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/company/zojoi",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "Store page: http://www.zojoi.com/sherlock/",
+        "extras": false
+    },
+    {
         "name": "Shiden",
         "url": "shiden/Shdkwi2",
         "price": "5",
