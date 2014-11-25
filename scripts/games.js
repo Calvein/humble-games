@@ -3919,6 +3919,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Centauri Sector (Early Access)",
+        "url": "centaurisector/B8sdlfkj23hs",
+        "price": "9.99",
+        "description": "Support Centauri Sector by buying the game today! Receive the latest playable build DRM-free and a Steam key when available!",
+        "developer": "LW Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://lw-games.com/"
+        },
+        "notes": "This game is not Greenlit yet.",
+        "extras": false
+    },
+    {
         "name": "Chaos Reborn: Apprentice",
         "url": "chaosreborn_apprentice/bwywefv873gc81",
         "price": "20",
@@ -14512,6 +14537,32 @@ var games = [
         }
     },
     {
+        "name": "Mad Games Tycoon",
+        "url": "madgamestycoon/5SDHFljh32s",
+        "price": "14.99",
+        "description": "Purchase Mad Games Tycoon [Early Access], the ultimate business simulation game! DRM-free!",
+        "developer": "Eggcode Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/mad-games-tycoon",
+            "developer": "http://eggcodegames.com/"
+        },
+        "notes": "Store page: http://eggcodegames.com/?q=madgamestycoon",
+        "extras": false
+    },
+    {
         "name": "Magnetic By Nature: Standard Edition",
         "url": "magneticbynature/2LgkTaVbgE3n",
         "price": "9.99",
@@ -16596,6 +16647,31 @@ var games = [
                 "developer": "http://www.vlambeer.com/"
         },
         "notes": "Store page: http://nuclearthrone.com/humble.html",
+        "extras": false
+    },
+    {
+        "name": "OBEY - 4 Pack",
+        "url": "obey_4pack/Fjkdshf328",
+        "price": "28",
+        "description": "Pre-order OBEY now! Cross-platform and DRM-free! (NOTE: This is an early-access game!)",
+        "developer": "The Lo-Fi Apocalypse, Inc.",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://lfa.com/"
+        },
+        "notes": "Store page: https://www.kickstarter.com/projects/1155733609/obey/posts/1061361",
         "extras": false
     },
     {
