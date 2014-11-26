@@ -27591,6 +27591,54 @@ var games = [
         "extras": false
     },
     {
+        "name": "Windlands",
+        "url": "windlands/7tYFkh3Dss",
+        "price": "20",
+        "description": "Pre-order Windlands. When it's released you will receive the game DRM-free for Win/Mac/Linux!",
+        "developer": "Cyber Fox Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://guardiansofthewind.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Windlands - Beta Access",
+        "url": "windlands_betaaccess/iiFDdH331d",
+        "price": "35",
+        "description": "Pre-order Windlands - Beta Access. When it's released you will receive the game DRM-free for Win/Mac/Linux, Beta Access, Soundtrack!",
+        "developer": "Cyber Fox Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://guardiansofthewind.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Winged Sakura: Mindy's Arc",
         "url": "wingedsakura_mindysarc/BZLkjwe8r23js",
         "price": "14.99",
