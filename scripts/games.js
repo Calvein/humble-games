@@ -2502,7 +2502,7 @@ var games = [
     {
         "name": "Black Ice",
         "url": "blackice/bsadbuiaBB21",
-        "price": "5",
+        "price": "10",
         "description": "Get Black Ice instantly! Cross-platform and DRM-free!",
         "developer": "Garrett Cooper",
         "platform": {
@@ -2513,13 +2513,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://indiegamemag.com/black-ice-review-an-electrifying-cyberpunk-hacking-adventure/",
             "desura": "http://www.desura.com/games/black-ice",
+            "steam": "http://store.steampowered.com/app/311800/",
             "developer": "http://superdupergc.com/"
         },
         "notes": "Store page: http://superdupergc.com/?page_id=396#post-396",
