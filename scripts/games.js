@@ -5798,6 +5798,31 @@ var games = [
         }
     },
     {
+        "name": "Dead Pixels II: Straight to Video",
+        "url": "deadpixels2_straighttovideo/bdfsaifauiNN85",
+        "price": "9.99",
+        "description": "Pre-order today for exclusive beta testing through Steam! Receive a Steam key and DRM-free copy for Windows, Mac and Linux upon release!",
+        "developer": "CSR-Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://csr-studios.com/"
+        },
+        "notes": "Includes a DRM-free copy of Dead Pixels for Windows.\nStore page: http://deadpixels2.com/#preorder",
+        "extras": true
+    },
+    {
         "name": "Dear Esther",
         "url": "dearesther",
         "price": "9.99",
@@ -6407,6 +6432,33 @@ var games = [
             "developer": "http://pixelscopic.com/"
         },
         "notes": "Store page: http://delversdrop.com/preorder/",
+        "extras": false
+    },
+    {
+        "name": "Depth",
+        "url": "depth/HUdfo23Hi",
+        "price": "24.99",
+        "description": "Play as a shark or a diver in a dark aquatic world & overcome your enemies by employing cunning, teamwork, and stealth! For Windows on Steam!",
+        "developer": "Digital Confectioners",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2014/11/12/depth-review",
+            "steam": "http://store.steampowered.com/app/274940",
+            "developer": "http://digitalconfectioners.com/"
+        },
+        "notes": "Store page: http://www.depthgame.com/#contact",
         "extras": false
     },
     {
@@ -8787,6 +8839,32 @@ var games = [
             "developer": "http://polytroncorporation.com/"
         },
         "notes": "Store page: http://polytroncorporation.com/buy-fez",
+        "extras": false
+    },
+    {
+        "name": "Fight the Dragon",
+        "url": "fightthedragon/HAG35453ASF",
+        "price": "14.99",
+        "description": "Fight The Dragon is currently available via Steam [Win/Mac/Linux] Early Access.",
+        "developer": "3 Sprockets",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/250560/",
+            "developer": "http://3sprockets.com/"
+        },
+        "notes": "The game has been fully released on Steam and it is no longer on Early Access.\nStore page: http://fightthedragon.com/",
         "extras": false
     },
     {
