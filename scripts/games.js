@@ -1,5 +1,5 @@
 var games = [
-	
+
     {
         "name": "7 Grand Steps",
         "url": "7grandsteps?preview=o7KrZd0Usmql",
@@ -9238,6 +9238,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Freedom Planet",
+        "url": "freedomplanet/KLISEJrl23k09ujs",
+        "price": "14.99",
+        "description": "Grab Freedom Planet at the speed of NOW! Available on Windows/Mac, DRM-free!",
+        "developer": "GalaxyTrail",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.geeklegacy.com/freedom-planet-review-the-pinnacle-of-character-platformers/",
+            "steam": "http://store.steampowered.com/app/248310",
+            "developer": "http://galaxytrail.com/games/"
+        },
+        "notes": "Store page: http://freedomplanet.galaxytrail.com/",
+        "extras": false
+    },
+    {
         "name": "Frip and Froop's Logical Labyrinth",
         "url": "fripandfroopslogicallabyrinth/BSDfkj23r98ahsdj",
         "price": "4.99",
@@ -10542,7 +10569,7 @@ var games = [
         "name": "Great Permutator",
         "url": "greatpermutator/MPcewpmveior",
         "price": "6.99",
-        "description": "Purchase Great Permutator instantly and get it DRM-free for PC, Mac and Linux! Includes a Desura key!",
+        "description": "Purchase Great Permutator instantly and get it DRM-free for PC, Mac and Linux! Includes Desura and Steam key!",
         "developer": "Ripatti Software",
         "platform": {
             "android": false,
@@ -10552,12 +10579,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://pixelatedparadise.wordpress.com/2014/09/17/great-permutator-review/",
+            "desura": "http://www.desura.com/games/great-permutator",
+            "steam": "http://store.steampowered.com/app/319270/",
             "developer": "http://ripattisoftware.com/"
         },
         "notes": "Store page: http://ripattisoftware.com/greatpermutator/buy_now.php",
@@ -12338,6 +12368,58 @@ var games = [
             "developer": "http://www.zachtronics.com/"
         },
         "extras": true
+    },
+    {
+        "name": "Islanded",
+        "url": "islanded/MhGLSDkj39",
+        "price": "9.99",
+        "description": "At release, get Islanded, DRM-Free, cross-platform + Steam key. Includes Desura key with First Access Multiplayer & Backer forum status! (Pre-Order)",
+        "developer": "Engyne Creations",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/islanded",
+            "developer": "http://www.engynecreations.com/"
+        },
+        "notes": "Store page: http://www.desura.com/news/pre-beta-details-humble-bundle",
+        "extras": false
+    },
+    {
+        "name": "Islanded Supporter",
+        "url": "islanded_supporter/8FDjl23hs1",
+        "price": "20.49",
+        "description": "At release, get Islanded, DRM-Free, cross-platform + Steam key. Includes Desura key with First Access Multiplayer, Soundtrack & forum badge! (Pre-Order)",
+        "developer": "Engyne Creations",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/islanded",
+            "developer": "http://www.engynecreations.com/"
+        },
+        "notes": "Store page: http://www.desura.com/news/pre-beta-details-humble-bundle",
+        "extras": false
     },
     {
         "name": "Isomer",
