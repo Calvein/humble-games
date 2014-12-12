@@ -7976,10 +7976,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "Elegy for a Dead World (Pre-Order)",
-        "url": "elegyforadeadworld/73jSDFj9hhS",
-        "price": "10",
-        "description": "Elegy for a Dead World (Steam key) for Win/Mac/Linux when the full version launches in 2015 + 2 exclusive illustrated wallpapers!",
+        "name": "Elegy for a Dead World",
+        "url": "elegyforadeadworld_gameonly/Redlkj2389s",
+        "price": "14.99",
+        "description": "Get Elegy for a Dead World (Steam key) for Win/Mac/Linux, and get the DRM-Free offline version in March 2015!",
         "developer": "Dejobaan Games",
         "platform": {
             "android": false,
@@ -7995,89 +7995,12 @@ var games = [
             "drm-free": false
         },
         "URL": {
+            "review": "https://www.theverge.com/2014/12/10/7362517/elegy-for-a-dead-world-i-wrote-this-video-game-review-inside-a-video-game",
             "steam": "http://store.steampowered.com/app/252290/",
             "developer": "http://www.dejobaan.com/"
         },
         "notes": "Store page: http://www.dejobaan.com/elegy/#humblewidgets",
-        "extras": true
-    },
-    {
-        "name": "Elegy for a Dead World (Beta+Release)",
-        "url": "elegyforadeadworld_betarelease/WeijD29d31j",
-        "price": "25",
-        "description": "Elegy beta+release Steam key + 12-page Digital Art Book + 2 exclusive illustrated wallpapers! (Pre-Order)",
-        "developer": "Dejobaan Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/252290/",
-            "developer": "http://www.dejobaan.com/"
-        },
-        "notes": "Store page: http://www.dejobaan.com/elegy/#humblewidgets",
-        "extras": true
-    },
-    {
-        "name": "Elegy for a Dead World (+Soundtrack)",
-        "url": "elegyforadeadworld_soundtrack/xZXkjwef39H1",
-        "price": "35",
-        "description": "Elegy beta+release Steam key + 12-page Digital Art Book + 2 exclusive illustrated wallpapers + original soundtrack! (Pre-Order)",
-        "developer": "Dejobaan Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/252290/",
-            "developer": "http://www.dejobaan.com/"
-        },
-        "notes": "Store page: http://www.dejobaan.com/elegy/#humblewidgets",
-        "extras": true
-    },
-    {
-        "name": "Elegy for a Dead World (Mega Pack)",
-        "url": "elegyforadeadworld_megapack/TUalksdf123W",
-        "price": "50",
-        "description": "2 Elegy beta+release Steam keys + 25-page Digital \"Making-of\" Book + 2 exclusive illustrated wallpapers + original soundtrack! (Pre-Order)",
-        "developer": "Dejobaan Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/252290/",
-            "developer": "http://www.dejobaan.com/"
-        },
-        "notes": "Store page: http://www.dejobaan.com/elegy/#humblewidgets",
-        "extras": true
+        "extras": false
     },
     {
         "name": "Element4l",
