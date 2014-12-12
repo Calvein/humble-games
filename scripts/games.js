@@ -26895,15 +26895,15 @@ var games = [
     },
     {
         "name": "Volgarr The Viking",
-        "url": "volgarrtheviking?preview=Hl5o25SJrwbh",
-        "price": "11.99",
+        "url": "volgarrtheviking/Hl5o25SJrwbh",
+        "price": "9.99",
         "description": "Buy Volgarr the Viking and get it instantly, DRM-free! Includes a Steam key & digital manual.",
         "developer": "Crazy Viking Studios",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -26912,6 +26912,12 @@ var games = [
             "gog": false,
             "drm-free": true
         },
+        "URL": {
+            "review": "http://www.eurogamer.net/articles/2014-11-07-volgarr-the-viking-review",
+            "steam": "http://store.steampowered.com/app/247240/",
+            "developer": "http://www.crazyvikingstudios.com/"
+        },
+        "notes": "Store page: http://www.volgarrtheviking.com/",
         "extras": true
     },
     {
