@@ -1530,6 +1530,31 @@ var games = [
         }
     },
     {
+        "name": "Attack of the Labyrinth - Beta",
+        "url": "attackofthelabyrinth_beta/SDF9823h1",
+        "price": "5",
+        "description": "Join the beta now at half price and get all updates (including the full game) free!",
+        "developer": "Timedrop Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://timedropstudios.com/"
+        },
+        "notes": "Store page: http://timedropstudios.com/attack-of-the-labyrinth/atol_buy/",
+        "extras": false
+    },
+    {
         "name": "Attractio - Early Access",
         "url": "attractio/BKcewin3",
         "price": "9.99",
@@ -27985,6 +28010,31 @@ var games = [
             "drm-free": true
         },
         "notes": "Store page: http://www.xenonauts.com/pre-order/",
+        "extras": false
+    },
+    {
+        "name": "Xeodrifter",
+        "url": "xeodrifter/XOkjdf23osjas",
+        "price": "9.99",
+        "description": "Get XEODRIFTER now for Windows on Steam!",
+        "developer": "Renegade Kid",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.renegadekid.com/",
+        },
+        "notes": "Store page: http://www.renegadekid.com/xeodrifter_buy.htm",
         "extras": false
     },
     {
