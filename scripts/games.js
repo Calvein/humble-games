@@ -6622,7 +6622,7 @@ var games = [
         "name": "Distance Beta",
         "url": "distance/Dek8Hsu4Ts",
         "price": "15",
-        "description": "When it's ready get the beta DRM-free cross-platform + Steam key, and instant access to the private forum.",
+        "description": "",
         "developer": "Refract Studios",
         "platform": {
             "android": false,
@@ -6638,17 +6638,43 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=103111305",
-            "developer": "http://www.refractstudios.com/press/index.php"
+            "steam": "http://store.steampowered.com/app/233610/",
+            "developer": "http://refract.com/"
         },
-        "notes": "Pre-order. \n Store page: http://survivethedistance.com/",
-        "extras": true
+        "notes": "This widget no longer appears on the game's website. It's probably a good idea not to purchase the game with it.",
+        "extras": false
+    },
+    {
+        "name": "Distance",
+        "url": "distance_standard/47SDHJFbaasd",
+        "price": "20",
+        "description": "Purchase Distance Beta today! DRM-free for Windows, Mac, and Linux + Steam key!",
+        "developer": "Refract Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/233610/",
+            "developer": "http://refract.com/"
+        },
+        "notes": "Store page: http://survivethedistance.com/",
+        "extras": false
     },
     {
         "name": "Distance Beta Deluxe",
         "url": "distance_deluxe/Dek8Hsu4Ts",
         "price": "25",
-        "description": " When it's ready get the beta DRM-free cross-platform + Steam key, instant access to the private forum, digital artbook, and the soundtrack!",
+        "description": "",
         "developer": "Refract Studios",
         "platform": {
             "android": false,
@@ -6664,10 +6690,36 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=103111305",
-            "developer": "http://www.refractstudios.com/press/index.php"
+             "steam": "http://store.steampowered.com/app/233610/",
+             "developer": "http://refract.com/"
         },
-        "notes": "Pre-order. \n Store page: http://survivethedistance.com/",
+        "notes": "This widget no longer appears on the game's website. It's probably a good idea not to purchase the game with it.",
+        "extras": true
+    },
+    {
+        "name": "Distance Deluxe",
+        "url": "distance_standard_deluxe/VVdf82hejas",
+        "price": "30",
+        "description": "Purchase Distance Beta today! DRM-free for Win/Mac/Linux + Steam key! When they're ready you'll get the soundtrack and digital artbook!",
+        "developer": "Refract Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/233610/",
+            "developer": "http://refract.com/"
+        },
+        "notes": "Store page: http://survivethedistance.com/",
         "extras": true
     },
     {
