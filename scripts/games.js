@@ -19422,7 +19422,7 @@ var games = [
         "name": "Risen 3: Titan Lords",
         "url": "risen3_titanlords/lkjLKSD92jkdsa",
         "price": "49.99",
-        "description": "Pre-order Risen 3: Titan Lords now! Available for Windows on Steam! ",
+        "description": "Purchase Risen 3: Titan Lords now! Available for Windows on Steam!",
         "developer": "Deep Silver",
         "platform": {
             "android": false,
@@ -19441,7 +19441,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/249230/",
             "developer": "http://www.deepsilver.com/home/"
         },
-        "notes": "Store page: http://shoppage.deepsilver.com/risen3-titan-lords.html",
+        "notes": "In at least some Euro-using zones the game is being sold for 49.99€, rather than for $49.99.\nStore page: http://shoppage.deepsilver.com/risen3-titan-lords.html",
         "extras": false
     },
     {
