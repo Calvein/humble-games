@@ -102,19 +102,19 @@ var games = [
     },
     {
         "name": "6180 the moon",
-        "url": "6180themoon?preview=iaopvase",
+        "url": "6180themoon/iaopvase",
         "price": "3.99",
-        "description": "Get 6180 the moon instantly and DRM free!",
+        "description": "Get 6180 the moon instantly on Steam and DRM free!",
         "developer": "Turtle Cream",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -122,26 +122,27 @@ var games = [
         "URL": {
             "review": "http://gameclassy.com/blog/?p=230",
             "desura": "http://www.desura.com/games/6180-the-moon",
+            "steam": "http://store.steampowered.com/app/299660/",
             "developer": "http://www.turtle-cream.com/"
         },
         "notes": "Store page: http://www.turtle-cream.com/",
         "extras": false
     },
     {
-        "name": "6180 the moon (with soundtrack)",
-        "url": "6180themoon_soundtrackedition?preview=wehtranjr",
+        "name": "6180 the moon Deluxe Edition",
+        "url": "6180themoon_soundtrackedition/wehtranjr",
         "price": "5.99",
-        "description": "Get 6180 the moon (and the soundtrack) instantly and DRM free!",
+        "description": "Get 6180 the moon (and the soundtrack) instantly on Steam and DRM free!",
         "developer": "Turtle Cream",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -149,6 +150,7 @@ var games = [
         "URL": {
             "review": "http://gameclassy.com/blog/?p=230",
             "desura": "http://www.desura.com/games/6180-the-moon",
+            "steam": "http://store.steampowered.com/app/299660/",
             "developer": "http://www.turtle-cream.com/"
         },
         "notes": "Store page: http://www.turtle-cream.com/",
