@@ -12098,6 +12098,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Infamous Machine",
+        "url": "kelvinandtheinfamousmachine/O9SEjkh1Sw",
+        "price": "15",
+        "description": "Pre-order Infamous Machine. Upon release you will receive the game DRM-free for Win/Mac/Linux + a Steam key!",
+        "developer": "Blyts",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://blyts.com/"
+        },
+        "notes": "Store page: http://infamousmachine.com/humble/game/",
+        "extras": false
+    },
+    {
+        "name": "Infamous Machine - Bonus Pack",
+        "url": "kelvinandtheinfamousmachine_bonuspack/WElj1k3whs",
+        "price": "35",
+        "description": "Pre-order Infamous Machine + Bonus Pack. Upon release you will receive the game DRM-free + a Steam key + a digital artbook PDF + OST!",
+        "developer": "Blyts",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://blyts.com/"
+        },
+        "notes": "Store page: http://infamousmachine.com/humble/bonus/",
+        "extras": true
+    },
+    {
+        "name": "Infamous Machine + Beta Access",
+        "url": "kelvinandtheinfamousmachine_betaaccess/75SEKLJRQ",
+        "price": "50",
+        "description": "Pre-order Infamous Machine + Beta Access. Upon release you will receive the game DRM-free + a Steam key + digital artbook PDF + OST + Beta Access!",
+        "developer": "Blyts",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://blyts.com/"
+        },
+        "notes": "Store page: http://infamousmachine.com/humble/beta/",
+        "extras": true
+    },
+    {
         "name": "Influent",
         "url": "influent/wrbi43ceVBE",
         "price": "9.99",
@@ -19699,6 +19774,30 @@ var games = [
             "developer": "http://cellardoorgames.com/blog/"
         },
         "notes": "Store page: http://www.roguelegacy.com/",
+        "extras": false
+    },
+    {
+        "name": "ROGUS - Kingdom of The Lost Souls",
+        "url": "rogus_kingdomofthelostsouls/4SDfjlkwhsSg",
+        "price": "7.99",
+        "description": "Get ROGUS instantly for Windows, DRM-free. You will also receive a Steam key when we get Greenlit!",
+        "developer": "IronDrop Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://irondropstudios.com/"
+        },
         "extras": false
     },
     {
