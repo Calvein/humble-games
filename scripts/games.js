@@ -13050,6 +13050,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Job Lozenge",
+        "url": "joblozenge/WoljSKDF82",
+        "price": "5",
+        "description": "Strange work. Strange exploration. Inquire within. (Pre-Order)",
+        "developer": "From Smiling",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://fromsmiling.com/"
+        },
+        "notes": "In spite of the widget description, this game has been already released.\nStore page: http://fromsmiling.com/joblozenge/#humble_purchase",
+        "extras": false
+    },
+    {
         "name": "Jolly Rover",
         "url": "jollyrover",
         "price": "9.99",
