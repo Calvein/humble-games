@@ -7054,7 +7054,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/219740/",
             "developer": "http://kleientertainment.com/"
         },
-        "notes": "Multi-tier widget that also offers the game plus the Reign of Giants DLC, or the complete package: game+DLC+soundtrack.\nStore page: http://www.dontstarvegame.com/blog/landing/rog/complete/b/buy-ds-complete-b.html",
+        "notes": "Multi-tier widget that also offers the game plus the Reign of Giants DLC, two copies of Don't Starve Together on Beta Access, or the complete package: game+DLC+DST+soundtrack.\nStore page: http://www.dontstarvegame.com/blog/landing/rog/complete/b/buy-ds-complete-b.html",
         "extras": false
     },
     {
