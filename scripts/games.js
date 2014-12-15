@@ -5441,6 +5441,156 @@ var games = [
         "extras": false
     },
     {
+        "name": "Curious Expedition - Alpha Access",
+        "url": "curiousexpedition_alphaaccess/FDlkj239shS",
+        "price": "12",
+        "description": "Gain immediate access to the alpha version. The game will be updated regularly until the final release, planned for July 2015",
+        "developer": "Maschinen-Mensch",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://curious-expedition.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://curious-expedition.com/editions#alphaEdition",
+        "extras": false
+    },
+    {
+        "name": "Curious Expedition - Fan Edition",
+        "url": "curiousexpedition_fanedition/Bjlksd923hs",
+        "price": "25",
+        "description": "All the benefits of the alpha-access plus the soundtrack, a digital artbook with exclusive dev diary outtakes and a mention in the credits!",
+        "developer": "Maschinen-Mensch",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://curious-expedition.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://curious-expedition.com/editions#fanEdition",
+        "extras": true
+    },
+    {
+        "name": "Curious Expedition - Explorer Edition",
+        "url": "curiousexpedition_exploreredition/Xwd9SHgWw",
+        "price": "75",
+        "description": "All the benefits of the fan edition plus a handmade pixel portrait of you, with the ability to play your own character in the game!",
+        "developer": "Maschinen-Mensch",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://curious-expedition.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://curious-expedition.com/editions#explorerEdition",
+        "extras": true
+    },
+    {
+        "name": "Curious Expedition - Treasure Creator",
+        "url": "curiousexpedition_treasurecreator/zZlkwe2w2s",
+        "price": "125",
+        "description": "All the benefits of the explorer edition plus the ability to design a unique treasure item together with us!",
+        "developer": "Maschinen-Mensch",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://curious-expedition.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nTier limited to 25 units.\nStore page: http://curious-expedition.com/editions#treasureEdition",
+        "extras": true
+    },
+    {
+        "name": "Curious Expedition - Unit Creator",
+        "url": "curiousexpedition_unitcreator/MSDflkj238s",
+        "price": "300",
+        "description": "All the benefits of the explorer edition plus the ability to design a unique unit type together with us!",
+        "developer": "Maschinen-Mensch",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://curious-expedition.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nTier limited to 5 units.\nStore page: http://curious-expedition.com/editions#unitEdition",
+        "extras": true
+    },
+    {
+        "name": "Curious Expedition - Region Creator",
+        "url": "curiousexpedition_regioncreator/SDFKLJSDs",
+        "price": "750",
+        "description": "All the benefits of the explorer edition plus the ability to design a unique region type together with us!",
+        "developer": "Maschinen-Mensch",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://curious-expedition.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nTier limited to 3 units.\nStore page: http://curious-expedition.com/editions#regionEdition",
+        "extras": true
+    },
+    {
         "name": "Cute Things Dying Violently",
         "url": "cutethingsdyingviolently/Ckdow1k",
         "price": "2.99",
