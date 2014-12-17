@@ -23084,6 +23084,32 @@ var games = [
         }
     },
     {
+        "name": "Starship Rubicon",
+        "url": "starshiprubicon/YTerlkj2340sas",
+        "price": "9.99",
+        "description": "Starship Rubicon is a space shoot-em-up that modernizes the physics of Asteroids combined with elements of FTL. + Steam Key if Greenlit!",
+        "developer": "Cheerful Ghost",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/starship-rubicon",
+            "developer": "http://cheerfulghost.com/"
+        },
+        "notes": "Linux version coming in 2015.\nStore page: http://cheerfulghost.com/game/25575/starship-rubicon",
+        "extras": false
+    },
+    {
         "name": "STARWHAL: Just the Tip",
         "url": "starwhal_justthetip/Hfd73Hei3Gd",
         "price": "9.99",
@@ -23343,6 +23369,32 @@ var games = [
         },
         "notes": "Store page: http://www.strikevector.net/join-the-fight/",
         "extras": false
+    },
+    {
+        "name": "Subnautica: Special Edition",
+        "url": "subnautica/s8eDFJ3sixBs",
+        "price": "35",
+        "description": "Play Subnautica in the earliest stages of development, + get seven DRM-free prototypes, a personalized Hull Plate, and the soundtrack!",
+        "developer": "Unknown Worlds Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/264710/",
+            "developer": "http://unknownworlds.com/"
+        },
+        "notes": "Store page: http://subnauticagame.com/",
+        "extras": true
     },
     {
         "name": "Sugar Cube: Bittersweet Factory",
