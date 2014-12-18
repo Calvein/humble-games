@@ -20004,7 +20004,7 @@ var games = [
         "name": "Roundabout",
         "url": "roundabout_standard/BSDfkjw3ne1",
         "price": "14.99",
-        "description": "Pre-order now! Roundabout is an open world puzzle game where you play as a constantly revolving limousine!",
+        "description": "Roundabout is an open world puzzle game where you play as a constantly revolving limousine!",
         "developer": "No Goblin",
         "platform": {
             "android": false,
@@ -20020,16 +20020,18 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/10/13/review-pc-game-roundabout/",
+            "steam": "http://store.steampowered.com/app/303430/",
             "developer": "http://www.nogoblin.com/"
         },
-        "notes": "Currently on sale at 20% off for $11.99\nStore page: http://roundaboutgame.com/",
+        "notes": "Store page: http://roundaboutgame.com/#moneyzone",
         "extras": false
     },
     {
         "name": "Roundabout Deluxe Edition",
         "url": "roundabout/Rdhu7Tegh4Sf",
         "price": "19.99",
-        "description": "Pre-order the Roundabout Deluxe Edition for the ultimate Georgio Manos experience! Screenplay, art book, early builds, and much more!",
+        "description": "Roundabout Deluxe Edition for the ultimate Georgio Manos experience! Screenplay, art book, early builds, and much more!",
         "developer": "No Goblin",
         "platform": {
             "android": false,
@@ -20045,9 +20047,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/10/13/review-pc-game-roundabout/",
+            "steam": "http://store.steampowered.com/app/303430/",
             "developer": "http://www.nogoblin.com/"
         },
-        "notes": "Currently on sale at 20% off for $15.99\nStore page: http://roundaboutgame.com/",
+        "notes": "Store page: http://roundaboutgame.com/#moneyzone",
         "extras": true
     },
     {
