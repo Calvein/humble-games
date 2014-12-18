@@ -6901,11 +6901,11 @@ var games = [
         "extras": false
     },
     {
-        "name": "Dog Sled Saga",
-        "url": "dogsledsaga?preview=bIcGpLSKftcv",
-        "price": "5",
-        "description": "Preorder Dog Sled Saga! Cross-platform and DRM-free!",
-        "developer": "Dan F. and Lisa B.",
+        "name": "Dog Sled Saga Early Access",
+        "url": "dogsledsaga/bIcGpLSKftcv",
+        "price": "8",
+        "description": "Get Early Access to Dog Sled Saga, cross-platform and DRM-free, including a Steam Early Access key and Android!",
+        "developer": "Trichotomy",
         "platform": {
             "android": true,
             "windows": true,
@@ -6914,42 +6914,18 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.penny-arcade.com/report/article/caring-for-animals-in-the-frozen-north-is-the-heart-of-dog-sled-saga",
-            "developer": "http://www.dogsledsaga.com/preorder"
+            "review": "http://cliqist.com/2014/12/12/dog-sled-saga-early-access-review/",
+            "steam": "http://store.steampowered.com/app/286240/",
+            "developer": "http://trichotomygames.com/"
         },
+        "notes": "Store page: http://www.dogsledsaga.com/",
         "extras": false
-    },
-    {
-        "name": "Dog Sled Saga Beta Access",
-        "url": "dogsledsaga_beta?preview=bIcGpLSKftcv",
-        "price": "10",
-        "description": "Preorder Dog Sled Saga and get beta access RIGHT NOW! OST and concept art coming soon! Cross-platform and DRM-free!",
-        "developer": "Dan F. and Lisa B.",
-        "platform": {
-            "android": true,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.penny-arcade.com/report/article/caring-for-animals-in-the-frozen-north-is-the-heart-of-dog-sled-saga",
-            "developer": "http://www.dogsledsaga.com/preorder"
-        },
-        "notes": "Also includes hi-res art. Game website: http://www.dogsledsaga.com/preorder",
-        "extras": true
     },
     {
         "name": "Domestic Dog",
