@@ -11344,8 +11344,8 @@ var games = [
     {
         "name": "Hearthlands",
         "url": "hearthlands/EGabsd823ahs",
-        "price": "9.99",
-        "description": "Get Hearthlands for Windows, Mac and Linux, DRM-free! You will also get a Steam key once we get there!",
+        "price": "14.99",
+        "description": "Get Hearthlands for Windows, Mac and Linux, DRM-free, as well as a Steam key.",
         "developer": "Sergio & Simon",
         "platform": {
             "android": false,
@@ -11355,15 +11355,18 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://indiegamereviewer.com/preview-hearthlands-artefact-games/",
+            "desura": "http://www.desura.com/games/hearthlands",
+            "steam": "http://store.steampowered.com/app/336300/",
             "developer": "http://hearthlands.com/"
         },
-        "notes": "Store page: http://hearthlands.com/index.php?page=download",
+        "notes": "Currently on sale at 40% off; regular price is $24.99.\nStore page: http://hearthlands.com/index.php?page=download",
         "extras": false
     },
     {
