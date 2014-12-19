@@ -14396,16 +14396,16 @@ var games = [
         }
     },
     {
-        "name": "Lords of Xulima - Steam Early Access",
+        "name": "Lords of Xulima - Steam Edition",
         "url": "lordsofxulima_steamearlyaccess/BSDfkjh23ruha",
-        "price": "16.99",
+        "price": "18.99",
         "description": "Lords of Xulima is a challenging and genuine RPG set on the mythical continent of Xulima. Discover one of the most epic sagas ever told!",
         "developer": "Numantian Games",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -14418,8 +14418,60 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 18.99€, rather than for $18.99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": false
+    },
+    {
+        "name": "Lords of Xulima - Talisman of Golot Edition",
+        "url": "lordsofxulima_talismanofgolotedition/GHdf8tjlekrds",
+        "price": "21.99",
+        "description": "You'll begin your adventure wearing the Talisman of Golot, an awesome divine artifact which can speak with you!",
+        "developer": "Numantian Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/296570/",
+            "developer": "http://www.lordsofxulima.com/"
+        },
+        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 21.99€, rather than for $21.99.\nStore page: http://www.lordsofxulima.com/store/",
+        "extras": true
+    },
+    {
+        "name": "Lords of Xulima - Deluxe Edition",
+        "url": "lordsofxulima_deluxeedition/UIsdh23djslsp",
+        "price": "27.99",
+        "description": "The deluxe version of Lords of Xulima with the Talisman of Golot included and all the special digital rewards!",
+        "developer": "Numantian Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/296570/",
+            "developer": "http://www.lordsofxulima.com/"
+        },
+        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 25.99€, rather than for $27.99.\nStore page: http://www.lordsofxulima.com/store/",
+        "extras": true
     },
     {
         "name": "Lords of Xulima - Special Boxed Edition",
@@ -14444,7 +14496,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 59€, rather than for $65.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -14470,7 +14522,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 89€, rather than for $95.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
