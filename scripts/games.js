@@ -9755,6 +9755,238 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gamebook Adventures 1: An Assassin in Orlandes",
+        "url": "ga1_anassassininorlandes/nj934NU2rve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 1: An Assassin in Orlandes instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/gamebook-adventures-1-an-assassin-in-orlandes",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/an-assassin-in-orlandes/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures 2: Siege of the Necromancer",
+        "url": "ga2_siegeofthenecromancer/nj934NU2rve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 2: Siege of the Necromancer instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/gamebook-adventures-2-siege-of-the-necromancer",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/the-siege-of-the-necromancer/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures 3: Slaves of Rema",
+        "url": "ga3_slavesofrema/brnoi432JNve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 3: Slaves of Rema instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/gamebook-adventures-3-slaves-of-rema",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/slaves-of-rema/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures 4: Revenant Rising",
+        "url": "ga4_revenantrising/brnoi432JNve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 4: Revenant Rising instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/gamebook-adventures-4-revenant-rising",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/revenant-rising/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures 5: Catacombs of the Undercity",
+        "url": "ga5_catacombsoftheundercity/brnoi432JNve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 5: Catacombs of the Undercity instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/gamebook-adventures-5-catacombs-of-the-undercity",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/catacombs-of-the-undercity/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures 6: The Wizard From Tarnath Tor",
+        "url": "ga6_thewizardfromtarnathtor/brnoi432JNve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 6: The Wizard From Tarnath Tor instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/gamebook-adventures-6-the-wizard-from-tarnath-tor",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/the-wizard-from-tarnath-tor/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures 7: Temple of the Spider God",
+        "url": "ga7_templeofthespidergod/brnoi432JNve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 7: Temple of the Spider God instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/gamebook-adventures-7-temple-of-the-spider-god",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/temple-of-the-spider-god/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures 8: Curse of the Assassin",
+        "url": "ga8_curseoftheassassin/brnoi432JNve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 8: Curse of the Assassin instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/curse-of-the-assassin/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures 9: Sultans of Rema",
+        "url": "ga9_sultansofrema/brnoi432JNve",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures 9: Sultans of Rema instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/gamebook-adventures/sultans-of-rema/#bookmain",
+        "extras": false
+    },
+    {
         "name": "GamersGoMakers",
         "url": "gamersgomakers/kjBNVIDbdbE2",
         "price": "9.99",
