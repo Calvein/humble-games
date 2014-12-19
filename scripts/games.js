@@ -2,7 +2,7 @@ var games = [
 
     {
         "name": "7 Grand Steps",
-        "url": "7grandsteps?preview=o7KrZd0Usmql",
+        "url": "7grandsteps/o7KrZd0Usmql",
         "price": "20",
         "description": "Get '7 Grand Steps' instantly. Cross-platform and DRM-free. Make Family History!",
         "developer": "Mousechief Co.",
@@ -441,7 +441,7 @@ var games = [
     },
     {
         "name": "A.N.N.E.",
-        "url": "anne?preview=lmX7v6blw6VX",
+        "url": "anne/lmX7v6blw6VX",
         "price": "14.99",
         "description": "Pre-order A.N.N.E. at a discount, cross-platform and DRM-free!",
         "developer": "Gamesbymo",
@@ -466,7 +466,7 @@ var games = [
     },
     {
         "name": "A.N.N.E. Deluxe Edition",
-        "url": "annedeluxe?preview=lmX7v6blw6VX",
+        "url": "annedeluxe/lmX7v6blw6VX",
         "price": "34.99",
         "description": "Pre-order A.N.N.E. now, cross platform and DRM-free! Includes Beta access, soundtrack, wallpaper and PDF manual.",
         "developer": "Gamesbymo",
@@ -567,7 +567,7 @@ var games = [
     },
     {
         "name": "Aces Wild: Manic Brawling Action",
-        "url": "aceswild?preview=Adh87Yahbe",
+        "url": "aceswild/Adh87Yahbe",
         "price": "9.99",
         "description": "Get Aces Wild for Windows instantly, DRM-free!",
         "developer": "Culture Attack Studio",
@@ -955,7 +955,7 @@ var games = [
     },
     {
         "name": "Amnesia: A Machine for Pigs",
-        "url": "amnesiaamachineforpigs?preview=Skj382hsnblz",
+        "url": "amnesiaamachineforpigs/Skj382hsnblz",
         "price": "20",
         "description": "Pre-order Amnesia: A Machine For Pigs and get it for Windows, Mac, and Linux when it's released. Comes with DRM-free versions and a Steam key.",
         "developer": "Frictional Games",
@@ -1085,7 +1085,7 @@ var games = [
     },
     {
         "name": "Angvik",
-        "url": "angvik?preview=ShDiFHvQDywg",
+        "url": "angvik/ShDiFHvQDywg",
         "price": "2.99",
         "description": "Get Angvik instantly! It's cross-platform and DRM-free.",
         "developer": "Alastair John Jack",
@@ -1112,7 +1112,7 @@ var games = [
     },
     {
         "name": "Anodyne",
-        "url": "anodyne?preview=Sndn9sjSnlz",
+        "url": "anodyne/Sndn9sjSnlz",
         "price": "9",
         "description": "Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Desura and Steam!",
         "developer": "Sean H. and Jon K.",
@@ -1139,7 +1139,7 @@ var games = [
     },
     {
         "name": "Anodyne Premium",
-        "url": "anodyne_soundtrack_edition?preview=Sndn9sjSnlz",
+        "url": "anodyne_soundtrack_edition/Sndn9sjSnlz",
         "price": "12",
         "description": "Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Desura and Steam! Soundtrack included in FLAC and MP3 formats!",
         "developer": "Sean H. and Jon K.",
@@ -1193,7 +1193,7 @@ var games = [
     },
     {
         "name": "Anomaly 2",
-        "url": "anomaly2retail?preview=sS9bbgjShdJ",
+        "url": "anomaly2retail/sS9bbgjShdJ",
         "price": "14.99",
         "description": "Buy Anomaly 2 at 10% off! Get a Steam key for Anomaly 2 + get a DRM-free copy of Anomaly Korea for Windows!",
         "developer": "11 bit studios",
@@ -2750,7 +2750,7 @@ var games = [
     },
     {
         "name": "Bleed",
-        "url": "bleed?preview=kwKWcrUoVvpM",
+        "url": "bleed/kwKWcrUoVvpM",
         "price": "5",
         "description": "Get it instantly and DRM free!",
         "developer": "Ian Campbell",
@@ -2880,7 +2880,7 @@ var games = [
     },
     {
         "name": "Blood of the Werewolf",
-        "url": "bloodofthewerewolf?preview=Wkdow93cskc9",
+        "url": "bloodofthewerewolf/Wkdow93cskc9",
         "price": "10",
         "description": "Pre-Order. Classic monsters meet classic gameplay. Take your turn as human and werewolf in this modernized retro platformer. Game coming soon!",
         "developer": "Scientifically Proven",
@@ -3701,7 +3701,7 @@ var games = [
     },
     {
         "name": "Castle Vox",
-        "url": "castlevox?preview=pending",
+        "url": "castlevox/pending",
         "price": "9.99",
         "description": "Get Castle Vox instantly! Cross-platform and no DRM. Simultaneous-turns team-based strategic conquest!",
         "developer": "Sillysoft Games",
@@ -4324,7 +4324,7 @@ var games = [
     },
     {
         "name": "Clairvoyance",
-        "url": "clairvoyance?preview=WmJbVXW90Ccb",
+        "url": "clairvoyance/WmJbVXW90Ccb",
         "price": "5",
         "description": "Get the Clairvoyance Beta instantly for Windows, Mac, and Linux. 50% off! All future versions of the game are included.",
         "developer": "Erik Svedang",
@@ -4726,7 +4726,7 @@ var games = [
     },
     {
         "name": "Constant C",
-        "url": "constantc?preview=aqLfpSQ7TVzx",
+        "url": "constantc/aqLfpSQ7TVzx",
         "price": "9.99",
         "description": "Get Constant C instantly and DRM free! Includes a Desura key.",
         "developer": "International Games System Co.,LTD.",
@@ -4751,7 +4751,7 @@ var games = [
     },
     {
         "name": "Constant C + Soundtrack",
-        "url": "constantc_soundtrack?preview=aqLfpSQ7TVzx",
+        "url": "constantc_soundtrack/aqLfpSQ7TVzx",
         "price": "12.99",
         "description": "Get Constant C instantly and DRM free! Includes soundtrack and a Desura key.",
         "developer": "International Games System Co.,LTD.",
@@ -4801,7 +4801,7 @@ var games = [
     },
     {
         "name": "Cook, Serve, Delicious!",
-        "url": "cookservedelicious_extracrispyedition?preview=22zqPSbQVw01",
+        "url": "cookservedelicious_extracrispyedition/22zqPSbQVw01",
         "price": "9.99",
         "description": "Get Cook, Serve, Delicious! Extra Crispy Edition instantly! DRM-free, for Windows, Mac, Linux and Android.",
         "developer": "Vertigo Gaming",
@@ -5925,7 +5925,7 @@ var games = [
     },
     {
         "name": "Dead Pixels",
-        "url": "deadpixels?preview=0qeKKdGfNfvO",
+        "url": "deadpixels/0qeKKdGfNfvO",
         "price": "2.99",
         "description": "Purchase Dead Pixels for Windows and instantly get it both DRM free and on Steam.",
         "developer": "CSR-Studios",
@@ -6074,7 +6074,7 @@ var games = [
     },
     {
         "name": "Defender's Quest: Valley of the Forgotten",
-        "url": "defendersquest?preview=Snd8dhrbaz",
+        "url": "defendersquest/Snd8dhrbaz",
         "price": "14.99",
         "description": "Get Defender's Quest instantly! Cross-platform and DRM-free. Soundtrack included!",
         "developer": "Level Up Labs, LLC",
@@ -6407,7 +6407,7 @@ var games = [
     },
     {
         "name": "Defense Grid: Containment Bundle",
-        "url": "defensegridcontainmentbundle?preview=SiH5KxZyHe2Q",
+        "url": "defensegridcontainmentbundle/SiH5KxZyHe2Q",
         "price": "19.99",
         "description": "Purchase the Defense Grid: Containment bundle and get all Defense Grid content to date including Containment instantly on Steam!",
         "developer": "Hidden Path",
@@ -6434,7 +6434,7 @@ var games = [
     },
     {
         "name": "DG2 Kickstarter Digital Bundle",
-        "url": "dgcurrentandfuturedigitalbundle?preview=S4u9nirgMchF",
+        "url": "dgcurrentandfuturedigitalbundle/S4u9nirgMchF",
         "price": "30",
         "description": "Everything digital Defense Grid to date for PC (Steam & Windows), plus the discounted future DG2 when it ships.",
         "developer": "Hidden Path",
@@ -6458,7 +6458,7 @@ var games = [
     },
     {
         "name": "DG2 Kickstarter Swag Bundle (USA)",
-        "url": "dgcurrentandfutureswagbundle?preview=EAqVBJMtuG5W",
+        "url": "dgcurrentandfutureswagbundle/EAqVBJMtuG5W",
         "price": "100",
         "description": "The DG digital bundle above plus a DG T-shirt, poster, Gun Tower USB stick and a Fletcher audio fortune button shipped to you.",
         "developer": "Hidden Path",
@@ -6482,7 +6482,7 @@ var games = [
     },
     {
         "name": "DG2 Kickstarter Swag Bundle (Int'l)",
-        "url": "currentandfutureswagbundleintl?preview=NZoVrI1UgREX",
+        "url": "currentandfutureswagbundleintl/NZoVrI1UgREX",
         "price": "120",
         "description": "INTERNATIONAL PURCHASERS ONLY: DG digital bundle above + a DG T-shirt, poster, Gun Tower USB stick & a Fletcher audio fortune button shipped to you!",
         "developer": "Hidden Path",
@@ -6534,7 +6534,7 @@ var games = [
     },
     {
         "name": "Delver",
-        "url": "delver?preview=UeHXpidPbEAn",
+        "url": "delver/UeHXpidPbEAn",
         "price": "7.99",
         "description": "Support Delver! Pre-purchase now to get early access and to help with development. Comes with DRM-free builds and a Steam key.",
         "developer": "Priority Interrupt",
@@ -6561,7 +6561,7 @@ var games = [
     },
     {
         "name": "Delver's Drop",
-        "url": "delversdrop?preview=P4fpKfKrQ6hl",
+        "url": "delversdrop/P4fpKfKrQ6hl",
         "price": "15",
         "description": "Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access. ($15) \n Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access and soundtrack.",
         "developer": "Pixelscopic",
@@ -6615,7 +6615,7 @@ var games = [
     },
     {
         "name": "Derrick The Deathfin",
-        "url": "derrickthedeathfin?preview=aTlsz8dspm8a",
+        "url": "derrickthedeathfin/aTlsz8dspm8a",
         "price": "7.99",
         "description": "Get Derrick the Deathfin instantly! Cross-platform and DRM-free! Everything in the game is made from a tree!",
         "developer": "Different Tuna",
@@ -6874,7 +6874,7 @@ var games = [
     },
     {
         "name": "DLC Quest",
-        "url": "dlcquest?preview=huaqUZQM85oy",
+        "url": "dlcquest/huaqUZQM85oy",
         "price": "2.99",
         "description": "Purchase DLC Quest and instantly get it for Windows and Mac, DRM free and on Steam!",
         "developer": "Going Loud Studios",
@@ -7060,7 +7060,7 @@ var games = [
     },
     {
         "name": "Don't Starve Soundtrack",
-        "url": "dontstarve_soundtrack?preview=mtcdbvdg",
+        "url": "dontstarve_soundtrack/mtcdbvdg",
         "price": "4.99",
         "description": "Get the official Don't Starve Soundtrack! - MP3 and FLAC format - Get new tracks as they are released in the game",
         "developer": "Klei Entertainment",
@@ -7480,7 +7480,7 @@ var games = [
     },
     {
         "name": "Dungeon Hearts",
-        "url": "dungeonhearts?preview=fvTuzN4QPa1l",
+        "url": "dungeonhearts/fvTuzN4QPa1l",
         "price": "2.99",
         "description": "Get Dungeon Hearts on PC, Mac, and Linux - Steam and DRM-free.",
         "developer": "Cube Roots",
@@ -7770,7 +7770,7 @@ var games = [
     },
     {
         "name": "Dyad",
-        "url": "dyad?preview=7HNqZDJtFsa9",
+        "url": "dyad/7HNqZDJtFsa9",
         "price": "14.99",
         "description": "Get Dyad 100% DRM-Free. Windows only for now. Mac and Linux coming soon!",
         "developer": "][ Games",
@@ -7925,7 +7925,7 @@ var games = [
     },
     {
         "name": "Eador: Genesis",
-        "url": "eadorgenesis?preview=CB0AAFo30PPv",
+        "url": "eadorgenesis/CB0AAFo30PPv",
         "price": "5.99",
         "description": "Get Eador: Genesis! Old school DRM-free TBS/RPG pleasure.",
         "developer": "Snowbird Games",
@@ -7951,7 +7951,7 @@ var games = [
     },
     {
         "name": "Eador: Masters of the Broken World",
-        "url": "mastersofthebrokenworld?preview=Hgu8Fstd6Sre",
+        "url": "mastersofthebrokenworld/Hgu8Fstd6Sre",
         "price": "19.99",
         "description": "Get DRM-free Eador: Masters of the Broken World instantly!",
         "developer": "Snowbird Games",
@@ -8030,7 +8030,7 @@ var games = [
     },
     {
         "name": "Eets Munchies Early-Access Beta",
-        "url": "eetsmunchies?preview=pending",
+        "url": "eetsmunchies/pending",
         "price": "6.99",
         "description": "Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly! - Get an extra copy with your purchase - Redeem it on Steam!",
         "developer": "Klei Entertainment",
@@ -8105,7 +8105,7 @@ var games = [
     },
     {
         "name": "Electronic Super Joy",
-        "url": "electronicsuperjoy?preview=7qU9dGBwFyg0",
+        "url": "electronicsuperjoy/7qU9dGBwFyg0",
         "price": "7.99",
         "description": "Get Electronic Super Joy instantly, with ZERO DRM!",
         "developer": "Michael Todd Games",
@@ -8130,7 +8130,7 @@ var games = [
     },
     {
         "name": "Electronic Super Joy Soundtrack",
-        "url": "electronicsuperjoy_soundtrack?preview=7qU9dGBwFyg0",
+        "url": "electronicsuperjoy_soundtrack/7qU9dGBwFyg0",
         "price": "3.99",
         "description": "Get Electronic Super Joy soundtrack instantly!",
         "developer": "Michael Todd Games",
@@ -8182,7 +8182,7 @@ var games = [
     },
     {
         "name": "Element4l",
-        "url": "element4l?preview=pSE5NoNmTwWL",
+        "url": "element4l/pSE5NoNmTwWL",
         "price": "9.99",
         "description": "Includes a Steam key for Element4l and the complete OST by Mind Tree as high quality MP3's",
         "developer": "I-Illusions",
@@ -9394,7 +9394,7 @@ var games = [
     },
     {
         "name": "Frogatto",
-        "url": "frogatto?preview=thsueWluErTM",
+        "url": "frogatto/thsueWluErTM",
         "price": "9.99",
         "description": "Get Frogatto now! Cross-platform and DRM-free.",
         "developer": "Lost Pixel",
@@ -9470,7 +9470,7 @@ var games = [
     },
     {
         "name": "Full Bore",
-        "url": "fullbore?preview=Fue7He8Fder",
+        "url": "fullbore/Fue7He8Fder",
         "price": "15",
         "description": "",
         "developer": "Whole Hog Games",
@@ -9498,7 +9498,7 @@ var games = [
     },
     {
         "name": "Full Bore + Soundtrack",
-        "url": "fullborewithsoundtrack?preview=Fue7He8Fder",
+        "url": "fullborewithsoundtrack/Fue7He8Fder",
         "price": "21",
         "description": "",
         "developer": "Whole Hog Games",
@@ -10405,7 +10405,7 @@ var games = [
     },
     {
         "name": "Girls Like Robots",
-        "url": "girlslikerobots?preview=sZA9b3TVhPxM",
+        "url": "girlslikerobots/sZA9b3TVhPxM",
         "price": "7",
         "description": "Get Girls Like Robots instantly! Cross-platform and DRM-free.",
         "developer": "Popcannibal",
@@ -10458,7 +10458,7 @@ var games = [
     },
     {
         "name": "Gnomoria",
-        "url": "Gnomoria?preview=ys0QthBAKJ0B",
+        "url": "Gnomoria/ys0QthBAKJ0B",
         "price": "7.99",
         "description": "Get Gnomoria instantly and DRM free!",
         "developer": "Robotronic Games",
@@ -10540,7 +10540,7 @@ var games = [
     },
     {
         "name": "God of Blades",
-        "url": "godofblades?preview=Sjd92h2nXa",
+        "url": "godofblades/Sjd92h2nXa",
         "price": "4.99",
         "description": "Purchase God of Blades and get it instantly for Mac, Windows, and Linux.",
         "developer": "White Whale Games",
@@ -10617,7 +10617,7 @@ var games = [
     },
     {
         "name": "Gone Home",
-        "url": "gonehome?preview=OHFHXxPWMLTy",
+        "url": "gonehome/OHFHXxPWMLTy",
         "price": "19.99",
         "description": "Get Gone Home for Windows, Mac and Linux, all DRM-free. Includes a Steam key!",
         "developer": "The Fullbright Company",
@@ -10643,7 +10643,7 @@ var games = [
     },
     {
         "name": "Gone Home + 4 Albums",
-        "url": "gonehome_andrecordcollection?preview=OHFHXxPWMLTy",
+        "url": "gonehome_andrecordcollection/OHFHXxPWMLTy",
         "price": "41",
         "description": "Download the game + 4 FULL albums: Calculated by Heavens to Betsy, Pottymouth by Bratmobile, The Youngins are Hardcore, and Chris Remo's GH:OST",
         "developer": "The Fullbright Company",
@@ -10669,7 +10669,7 @@ var games = [
     },
     {
         "name": "Just the Music",
-        "url": "gonehome_recordcollection?preview=OHFHXxPWMLTy",
+        "url": "gonehome_recordcollection/OHFHXxPWMLTy",
         "price": "21",
         "description": "4 full albums, with NO game download. Calculated by Heavens to Betsy, Pottymouth by Bratmobile, The Youngins are Hardcore, and Chris Remo's GH:OST",
         "developer": "The Fullbright Company",
@@ -10695,7 +10695,7 @@ var games = [
     },
     {
         "name": "Goscurry",
-        "url": "goscurry?preview=Dne9FfjeSbng",
+        "url": "goscurry/Dne9FfjeSbng",
         "price": "5.99",
         "description": "Get Goscurry instantly! Cross-platform, DRM-free, and powered by eco electro-beat energy!",
         "developer": "Holoville",
@@ -11187,7 +11187,7 @@ var games = [
     },
     {
         "name": "Guacamelee! Gold Edition",
-        "url": "guacamelee_goldedition?preview=Gshd6Dsjw8Y",
+        "url": "guacamelee_goldedition/Gshd6Dsjw8Y",
         "price": "14.99",
         "description": "Buy Guacamelee and get it instantly for Windows, DRM-free! Includes Steam key and the re-mastered soundtrack.",
         "developer": "DrinkBox Studios",
@@ -11287,7 +11287,7 @@ var games = [
     },
     {
         "name": "Gunpoint",
-        "url": "gunpoint?preview=djS894h2nS",
+        "url": "gunpoint/djS894h2nS",
         "price": "9.99",
         "description": "Buy now and get Gunpoint for Windows, DRM-free and a Steam key!",
         "developer": "Suspicious Developments",
@@ -11313,7 +11313,7 @@ var games = [
     },
     {
         "name": "Gunpoint: Special Edition",
-        "url": "gunpoint_specialedition?preview=djS894h2nS",
+        "url": "gunpoint_specialedition/djS894h2nS",
         "price": "19.99",
         "description": "Buy now and get Gunpoint for Windows, DRM-free and a Steam key + soundtrack and in-game developer commentary!",
         "developer": "Suspicious Developments",
@@ -11339,7 +11339,7 @@ var games = [
     },
     {
         "name": "Gunpoint: Exclusive Edition",
-        "url": "gunpoint_exclusiveedition?preview=djS894h2nS",
+        "url": "gunpoint_exclusiveedition/djS894h2nS",
         "price": "29.99",
         "description": "Buy now and get everything in the Special Edition + Making of Gunpoint video, 9 early prototypes, exclusive music tracks, and be on the Secret Beta List!",
         "developer": "Suspicious Developments",
@@ -11447,7 +11447,7 @@ var games = [
     },
     {
         "name": "Hammerwatch",
-        "url": "hammerwatch?preview=Ths7GweR9csa",
+        "url": "hammerwatch/Ths7GweR9csa",
         "price": "7.99",
         "description": "Buy Hammerwatch now! Cross-platform, DRM free, redeemable on Steam and includes the soundtrack.",
         "developer": "Crackshell",
@@ -11473,7 +11473,7 @@ var games = [
     },
     {
         "name": "Hammerwatch 4-Pack",
-        "url": "hammerwatch_4pack?preview=Ths7GweR9csa",
+        "url": "hammerwatch_4pack/Ths7GweR9csa",
         "price": "24",
         "description": "Buy Hammerwatch 4-pack now! Cross-platform, DRM free, redeemable on Steam and includes the soundtrack and giftable keys.",
         "developer": "Crackshell",
@@ -12065,7 +12065,7 @@ var games = [
     },
     {
         "name": "Hotline Miami",
-        "url": "hotlinemiami?preview=Sj3j2hsozpn",
+        "url": "hotlinemiami/Sj3j2hsozpn",
         "price": "9.99",
         "description": "Do you like hurting other people? Well now you can, cross-platform, DRM-free, and also on Steam.",
         "developer": "Dennaton Games",
@@ -12372,7 +12372,7 @@ var games = [
     },
     {
         "name": "I Get This Call Every Day",
-        "url": "igetthiscalleveryday?preview=Sjd8chZkdn",
+        "url": "igetthiscalleveryday/Sjd8chZkdn",
         "price": "2",
         "description": "A personal tale of unwinnable realities. Available instantly, cross-platform and DRM-free.",
         "developer": "David S Gallant",
@@ -12563,7 +12563,7 @@ var games = [
     },
     {
         "name": "Inescapable",
-        "url": "Inescapable?preview=soeDojks0982jdI",
+        "url": "Inescapable/soeDojks0982jdI",
         "price": "4.99",
         "description": "Get Inescapable instantly! Each purchase receives a DRM-free download and a Steam key",
         "developer": "Magnetic Realms",
@@ -12988,7 +12988,7 @@ var games = [
     },
     {
         "name": "It came from space and ate our brains",
-        "url": "itcamefromspaceandateourbrains?preview=Iskdlwk1ldk",
+        "url": "itcamefromspaceandateourbrains/Iskdlwk1ldk",
         "price": "2.99",
         "description": "Get It came from space, and ate our brains instantly! Cross-platform and DRM-free.",
         "developer": "Triangle Studios",
@@ -13434,7 +13434,7 @@ var games = [
     },
     {
         "name": "Jon Shafer's At the Gates (Tier 1)",
-        "url": "jonshafersatthegates?preview=azfqF2CgFxgJ",
+        "url": "jonshafersatthegates/azfqF2CgFxgJ",
         "price": "30",
         "description": "At the Gates for Windows, Mac and Linux.",
         "developer": "Conifer Games",
@@ -13459,7 +13459,7 @@ var games = [
     },
     {
         "name": "Jon Shafer's At the Gates (Tier 2)",
-        "url": "jonshafersatthegates_tier2?preview=azfqF2CgFxgJ",
+        "url": "jonshafersatthegates_tier2/azfqF2CgFxgJ",
         "price": "35",
         "description": "At the Gates for Windows, Mac and Linux, plus a digital copy of the strategy guide and designer notes.",
         "developer": "Conifer Games",
@@ -13484,7 +13484,7 @@ var games = [
     },
     {
         "name": "Jon Shafer's At the Gates (Tier 3)",
-        "url": "jonshafersatthegates_tier3?preview=azfqF2CgFxgJ",
+        "url": "jonshafersatthegates_tier3/azfqF2CgFxgJ",
         "price": "50",
         "description": "At the Gates for Windows, Mac and Linux, plus strategy guide, designer notes, and beta testing invite in Q1 2014.",
         "developer": "Conifer Games",
@@ -13509,7 +13509,7 @@ var games = [
     },
     {
         "name": "Jon Shafer's At the Gates (Tier 4)",
-        "url": "jonshafersatthegates_tier4?preview=azfqF2CgFxgJ",
+        "url": "jonshafersatthegates_tier4/azfqF2CgFxgJ",
         "price": "80",
         "description": "At the Gates for Windows, Mac and Linux, plus strategy guide, designer notes, and alpha testing invite in Q3 2013.",
         "developer": "Conifer Games",
@@ -13534,7 +13534,7 @@ var games = [
     },
     {
         "name": "Jon Shafer's At the Gates (Tier 5)",
-        "url": "jonshafersatthegates_tier5?preview=azfqF2CgFxgJ",
+        "url": "jonshafersatthegates_tier5/azfqF2CgFxgJ",
         "price": "125",
         "description": "At the Gates for Windows, Mac and Linux, plus strategy guide, designer notes, alpha testing invite in Q3 2013, and access to the game's design docs.",
         "developer": "Conifer Games",
@@ -13559,7 +13559,7 @@ var games = [
     },
     {
         "name": "Jon Shafer's At the Gates (Tier 6)",
-        "url": "jonshafersatthegates_tier6?preview=azfqF2CgFxgJ",
+        "url": "jonshafersatthegates_tier6/azfqF2CgFxgJ",
         "price": "200",
         "description": "An autographed boxed copy of At the Gates, plus strategy guide, designer notes, alpha testing invite in Q3 2013, and access to the game's design docs.",
         "developer": "Conifer Games",
@@ -13584,7 +13584,7 @@ var games = [
     },
     {
         "name": "Jones On Fire",
-        "url": "jonesonfire?preview=yVb9lpn5eSL2",
+        "url": "jonesonfire/yVb9lpn5eSL2",
         "price": "2.99",
         "description": "Jones on Fire - a high-speed action game of kitty saving and flame evading, running and jumping, where YOU are the hero! (for Mac and PC)",
         "developer": "Glass Bottom Games",
@@ -13610,7 +13610,7 @@ var games = [
     },
     {
         "name": "Jottobots",
-        "url": "jottobots?preview=mniSTsrmSBKE",
+        "url": "jottobots/mniSTsrmSBKE",
         "price": "1",
         "description": "Get Jottobots instantly! It's DRM-free!",
         "developer": "KPULV",
@@ -13730,7 +13730,7 @@ var games = [
     },
     {
         "name": "Kairo",
-        "url": "kairo?preview=QDVkDE58Qv8B",
+        "url": "kairo/QDVkDE58Qv8B",
         "price": "5",
         "description": "Get Kairo instantly! Cross-platform, DRM-free and on Steam.",
         "developer": "Locked Door Puzzle",
@@ -13801,7 +13801,7 @@ var games = [
     },
     {
         "name": "Kentucky Route Zero Complete",
-        "url": "kentuckyroutezerocomplete?preview=SjdoA63jSnz",
+        "url": "kentuckyroutezerocomplete/SjdoA63jSnz",
         "price": "25",
         "description": "Get Act I for Windows, Mac and Linux now, and the remaining acts as they're released. Also get soundtrack mp3s & our private monthly newsletter.",
         "developer": "Cardboard Computer",
@@ -13847,7 +13847,7 @@ var games = [
     },
     {
         "name": "Kinetic Void",
-        "url": "kineticvoid?preview=GTvPgrgrOIxD",
+        "url": "kineticvoid/GTvPgrgrOIxD",
         "price": "19.99",
         "description": "Pre-order Kinetic Void Now! All pre-orders will receive a Steam activation key.",
         "developer": "Badland Studio",
@@ -13926,7 +13926,7 @@ var games = [
     },
     {
         "name": "Ku: Shroud of the Morrigan",
-        "url": "ku_shroudofthemorrigan?preview=11LHOtGXLhXg",
+        "url": "ku_shroudofthemorrigan/11LHOtGXLhXg",
         "price": "4",
         "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
         "developer": "bitSmith Games",
@@ -13946,7 +13946,7 @@ var games = [
     },
     {
         "name": "Ku: Shroud of the Morrigan for Android",
-        "url": "ku_shroudofthemorrigan_android?preview=11LHOtGXLhXg",
+        "url": "ku_shroudofthemorrigan_android/11LHOtGXLhXg",
         "price": "2",
         "description": "Buy Ku: Shroud of the Morrigan now and instantly get this Celt-Punk Adventure!",
         "developer": "bitSmith Games",
@@ -14296,7 +14296,7 @@ var games = [
     },
     {
         "name": "Legends of Dawn",
-        "url": "legendsofdawn?preview=Dwn7Gde8Khy",
+        "url": "legendsofdawn/Dwn7Gde8Khy",
         "price": "19.99",
         "description": "Buy now and get Legends of Dawn instantly! Includes Steam key.",
         "developer": "Dreamatrix",
@@ -14914,7 +14914,7 @@ var games = [
     },
     {
         "name": "Lost Marbles",
-        "url": "lostmarbles?preview=rDuhp41Eq93l",
+        "url": "lostmarbles/rDuhp41Eq93l",
         "price": "9.99",
         "description": "Get Lost Marbles instantly and DRM-free, for Windows and Mac!",
         "developer": "Binary Takeover",
@@ -15046,7 +15046,7 @@ var games = [
     },
     {
         "name": "Luminesca",
-        "url": "luminesca?preview=UszAaVweVeco",
+        "url": "luminesca/UszAaVweVeco",
         "price": "4.99",
         "description": "This pre-order includes alpha downloads for Windows, Mac and Linux, and they are all DRM-free!\nwebsite description: \nPre-order now to get early access to work-in-progress builds! \n1 of 5 chapters available instantly, with more added at no extra cost when they are released in the future. \nThe current version is subject to change and may contain bugs",
         "developer": "Matt Glanville",
@@ -15427,7 +15427,7 @@ var games = [
     },
     {
         "name": "McPixel",
-        "url": "mcpixel?preview=k96TXIfGhNv5",
+        "url": "mcpixel/k96TXIfGhNv5",
         "price": "4.99",
         "description": "Grab McPixel DRM-Free on now on Windows, Mac, and Linux and also on Steam and Desura!",
         "developer": "SOS",
@@ -15475,7 +15475,7 @@ var games = [
     },
     {
         "name": "Megabyte Punch Special Edition",
-        "url": "megabytepunch?preview=eE71cq1EKzQe",
+        "url": "megabytepunch/eE71cq1EKzQe",
         "price": "20",
         "description": "Get Megabyte Punch Special Edition, DRM-free! Includes soundtrack, wallpapers and extra custom versus levels!",
         "developer": "Reptile Games",
@@ -15529,7 +15529,7 @@ var games = [
     },
     {
         "name": "Mercenary Kings",
-        "url": "mercenarykings?preview=sJs83hwnslzh",
+        "url": "mercenarykings/sJs83hwnslzh",
         "price": "19.99",
         "description": "Buy Mercenary Kings now and get Steam Early Access keys instantly!",
         "developer": "Tribute Games",
@@ -15704,7 +15704,7 @@ var games = [
     },
     {
         "name": "Monaco",
-        "url": "monaco?preview=pending",
+        "url": "monaco/pending",
         "price": "15",
         "description": "Purchase Monaco: What's Yours Is Mine and receive it instantly on Steam and DRM-free!",
         "developer": "Pocketwatch Games",
@@ -15871,7 +15871,7 @@ var games = [
     },
     {
         "name": "Moon Intern",
-        "url": "moonintern?preview=BozUxRTLdel2",
+        "url": "moonintern/BozUxRTLdel2",
         "price": "9.99",
         "description": "Pre-order Moon Intern now and instantly get it when it's released!",
         "developer": "Cosmosaur LLC",
@@ -15892,7 +15892,7 @@ var games = [
     },
     {
         "name": "Moon Intern (Musical Intern)",
-        "url": "moonintern_musical?preview=BozUxRTLdel2",
+        "url": "moonintern_musical/BozUxRTLdel2",
         "price": "14.99",
         "description": "Pre-order Moon Intern + soundtrack now and get them when they're released!",
         "developer": "Cosmosaur LLC",
@@ -15913,7 +15913,7 @@ var games = [
     },
     {
         "name": "Moon Intern (Research Intern)",
-        "url": "moonintern_research?preview=BozUxRTLdel2",
+        "url": "moonintern_research/BozUxRTLdel2",
         "price": "19.99",
         "description": "Buy now and when ready, get the soundtrack, access to early builds, and full Moon Intern release!",
         "developer": "Cosmosaur LLC",
@@ -15934,7 +15934,7 @@ var games = [
     },
     {
         "name": "Moon Intern (Stylish Intern)",
-        "url": "moonintern_stylish?preview=BozUxRTLdel2",
+        "url": "moonintern_stylish/BozUxRTLdel2",
         "price": "24.99",
         "description": "Buy now and when ready, get the soundtrack, access to early builds, and full release! Also comes with an awesome Intern Accessory Pack!",
         "developer": "Cosmosaur LLC",
@@ -15955,7 +15955,7 @@ var games = [
     },
     {
         "name": "Moon Intern (Cozy Intern)",
-        "url": "moonintern_cozy?preview=BozUxRTLdel2",
+        "url": "moonintern_cozy/BozUxRTLdel2",
         "price": "34.99",
         "description": "Buy now and when ready, get the soundtrack, access to early builds, and full release! Also comes with Intern Accessory, Furniture & Pets Packs!",
         "developer": "Cosmosaur LLC",
@@ -15976,7 +15976,7 @@ var games = [
     },
     {
         "name": "Moon Intern (Deluxe  Intern)",
-        "url": "moonintern_deluxe?preview=BozUxRTLdel2",
+        "url": "moonintern_deluxe/BozUxRTLdel2",
         "price": "49.99",
         "description": "When ready, get a soundtrack, early builds access & full release! Also get Intern Accessory, Furniture, Pets, & Garden Packs + a Custom Grave Engravement!",
         "developer": "Cosmosaur LLC",
@@ -17526,7 +17526,7 @@ var games = [
     },
     {
         "name": "Omegalodon",
-        "url": "omegalodon?preview=Odhy6Fst3Hde",
+        "url": "omegalodon/Odhy6Fst3Hde",
         "price": "9.99",
         "description": " Get Omegalodon instantly! Cross-platform and DRM-free.",
         "developer": "North of Earth",
@@ -17554,7 +17554,7 @@ var games = [
     },
     {
         "name": "Oniken",
-        "url": "oniken?preview=Odg6Tdf4RDsa",
+        "url": "oniken/Odg6Tdf4RDsa",
         "price": "5",
         "description": "Get Oniken instantly! Cross-platform and DRM-free.",
         "developer": "JoyMasher",
@@ -17634,7 +17634,7 @@ var games = [
     },
     {
         "name": "Organ Trail: Director's Cut",
-        "url": "organtraildirectorscut?preview=d5Es5HhOLzgI",
+        "url": "organtraildirectorscut/d5Es5HhOLzgI",
         "price": "4.99",
         "description": "Get Organ Trail and the expansion instantly! Cross-platform and DRM-free. Redeemable on Steam and Desura.",
         "developer": "The Men Who Wear Many Hats",
@@ -17804,7 +17804,7 @@ var games = [
     },
     {
         "name": "Pandora: Purge of Pride",
-        "url": "pandorapurgeofpride?preview=rsBHii6ZeZJa",
+        "url": "pandorapurgeofpride/rsBHii6ZeZJa",
         "price": "10",
         "description": "Get Pandora: Purge of Pride instantly! PC, Mac and the soundtrack, all DRM-free!",
         "developer": "High Class Kitsch",
@@ -18063,7 +18063,7 @@ var games = [
     },  
     {
         "name": "Paradise Perfect Boat Rescue",
-        "url": "paradiseperfectboatrescue?preview=F38ahs5Fgfh",
+        "url": "paradiseperfectboatrescue/F38ahs5Fgfh",
         "price": "3.95",
         "description": "Get Paradise Perfect Boat Rescue instantly! Cross-platform and DRM-free.",
         "developer": "Kitty Lambda Games Inc.",
@@ -18114,7 +18114,7 @@ var games = [
     },
     {
         "name": "Paranautical Activity",
-        "url": "paranauticalactivity?preview=Ush6Rdu9Dsa",
+        "url": "paranauticalactivity/Ush6Rdu9Dsa",
         "price": "5.99",
         "description": "Get Paranautical Activity instantly! Cross-platform and DRM-free + Steam key.",
         "developer": "Code Avarice",
@@ -18260,7 +18260,7 @@ var games = [
     },
     {
         "name": "Perfection.",
-        "url": "perfection?preview=oWCaEqcZ7L0Z",
+        "url": "perfection/oWCaEqcZ7L0Z",
         "price": "2.99",
         "description": "Get Perfection. direct from the developer for PC, Mac and Ubuntu, DRM-free and on Desura.",
         "developer": "Dumb and Fat Games",
@@ -18306,7 +18306,7 @@ var games = [
     },
     {
         "name": "Pid",
-        "url": "pid?preview=P0W6nZJkdNg8",
+        "url": "pid/P0W6nZJkdNg8",
         "price": "10",
         "description": "Purchase Pid and instantly get it for Windows and Mac, DRM-free and on Steam!",
         "developer": "Might and Delight",
@@ -18334,7 +18334,7 @@ var games = [
     },
     {
         "name": "Pid (with extras)",
-        "url": "pidwithsoundtrack?preview=P3J6nJZnzNg9",
+        "url": "pidwithsoundtrack/P3J6nJZnzNg9",
         "price": "20",
         "description": "Purchase Pid for Windows and Mac and get it both DRM-free and on Steam! Also comes with a soundtrack and extras!",
         "developer": "Might and Delight",
@@ -18666,7 +18666,7 @@ var games = [
     },
     {
         "name": "POP: Methodology Experiment One",
-        "url": "pop_methodologyexperimentone?preview=Poskdkwk1",
+        "url": "pop_methodologyexperimentone/Poskdkwk1",
         "price": "3.99",
         "description": "You'll receive the game for PC and Mac, plus the soundtrack, plus a headache probably.",
         "developer": "Rob Lach Games",
@@ -18852,7 +18852,7 @@ var games = [
     },
     {
         "name": "Probability 0",
-        "url": "probability0?preview=XE0rD4fbwCkb",
+        "url": "probability0/XE0rD4fbwCkb",
         "price": "7",
         "description": "Probability 0 is a dark and oppressive plunge into procedurally-generated depths. Customize your abilities; discover strange foes; then die again.",
         "developer": "Droqen",
@@ -18877,7 +18877,7 @@ var games = [
     },
     {
         "name": "Probability 0 & Friends",
-        "url": "probability0friends?preview=XE0rD4fbwCkb",
+        "url": "probability0friends/XE0rD4fbwCkb",
         "price": "10",
         "description": "Probability 0, Pirattitude, Fishbane, and Starseed Pilgrim in one happy little bundle.",
         "developer": "Droqen",
@@ -19854,7 +19854,7 @@ var games = [
     },
     {
         "name": "Retro/Grade",
-        "url": "retrograde?preview=Pb1QKoAeVXmk",
+        "url": "retrograde/Pb1QKoAeVXmk",
         "price": "9.99",
         "description": "Get Retro/Grade DRM-free and on Steam!",
         "developer": "24 Caret Games",
@@ -19924,7 +19924,7 @@ var games = [
     },
     {
         "name": "Retrovirus",
-        "url": "retrovirus?preview=Lu4XLfSG1anX",
+        "url": "retrovirus/Lu4XLfSG1anX",
         "price": "19.99",
         "description": "Buy Retrovirus now and get it instantly for Windows, DRM-free!",
         "developer": "Cadenza Interactive",
@@ -19944,7 +19944,7 @@ var games = [
     },
     {
         "name": "Reus",
-        "url": "reus?preview=the9rWluEFi3",
+        "url": "reus/the9rWluEFi3",
         "price": "9.99",
         "description": "Get Reus on Steam instantly!",
         "developer": "Abbey Games",
@@ -20015,7 +20015,7 @@ var games = [
     },
     {
         "name": "Ring Runner: Flight of the Sages",
-        "url": "ringrunner_flightofthesages?preview=Hdkwokd23kld",
+        "url": "ringrunner_flightofthesages/Hdkwokd23kld",
         "price": "9.99",
         "description": "Get Ring Runner instantly; Space Defense League expansion included! DRM-free for Windows.",
         "developer": "Triple.B.Titles",
@@ -20042,7 +20042,7 @@ var games = [
     },
     {
         "name": "RIOT",
-        "url": "riot?preview=mnRfbE8zGvpF",
+        "url": "riot/mnRfbE8zGvpF",
         "price": "10",
         "description": "Pre-order RIOT and download it instantly as soon as it gets released! Cross-platform and DRM-free.",
         "developer": "Team RIOT",
@@ -20315,7 +20315,7 @@ var games = [
     },
     {
         "name": "Rogue Legacy",
-        "url": "roguelegacy_final?preview=EXn3mzwCJtTl",
+        "url": "roguelegacy_final/EXn3mzwCJtTl",
         "price": "15",
         "description": "Buy now and get a DRM-free copy of Rogue Legacy for Windows as well as a free Steam key! Mac and Linux versions coming soon!",
         "developer": "Cellar Door Games",
@@ -20367,7 +20367,7 @@ var games = [
     },
     {
         "name": "Rooks Keep",
-        "url": "rookskeep?preview=4ygk2ZLIOgpL",
+        "url": "rookskeep/4ygk2ZLIOgpL",
         "price": "15",
         "description": "Buy Rooks Keep now, and get the game for Windows-PC and authentication key for multiplayer!",
         "developer": "RuneStorm",
@@ -20745,7 +20745,7 @@ var games = [
     },
     {
         "name": "Super Sanctum TD",
-        "url": "supersanctumtd?preview=SnbKp2ns7hH",
+        "url": "supersanctumtd/SnbKp2ns7hH",
         "price": "3.99",
         "description": "Purchase Super Sanctum TD and instantly get a Steam key!",
         "developer": "Coffee Stain Studios",
@@ -20845,7 +20845,7 @@ var games = [
     },
     {
         "name": "Scoregasm",
-        "url": "scoregasm?preview=ivnewkdsfo",
+        "url": "scoregasm/ivnewkdsfo",
         "price": "4.99",
         "description": "Download Scoregasm now, cross-platform and DRM free!",
         "developer": "Charlie's Games",
@@ -21445,7 +21445,7 @@ var games = [
     },
     {
         "name": "Sentinel",
-        "url": "sentinel?preview=xb7qKvL5ES0e",
+        "url": "sentinel/xb7qKvL5ES0e",
         "price": "3",
         "description": "Get Sentinel instantly! Cross-platform and DRM-free.",
         "developer": "Matthew Brown",
@@ -22067,7 +22067,7 @@ var games = [
     },
     {
         "name": "Sir, You Are Being Hunted",
-        "url": "siryouarebeinghunted?preview=Sjd93hwnsk",
+        "url": "siryouarebeinghunted/Sjd93hwnsk",
         "price": "20",
         "description": "Buy Sir, You Are Being Hunted now and get the game cross-platform and DRM-free + Steam key!",
         "developer": "Big Robot",
@@ -22143,7 +22143,7 @@ var games = [
     },
     {
         "name": "Skullgirls Backer",
-        "url": "skullgirlsbacker?preview=Sjd92hsnzc",
+        "url": "skullgirlsbacker/Sjd92hsnzc",
         "price": "36",
         "description": "Support Skullgirls and get a digital copy of the OST now, plus an exclusive wallpaper pack, Steam beta key, and Steam game key when they're ready!",
         "developer": "Lab Zero Games",
@@ -22163,7 +22163,7 @@ var games = [
     },
     {
         "name": "Skulls of the Shogun",
-        "url": "skullsoftheshogun?preview=H8fsaTdef7djn",
+        "url": "skullsoftheshogun/H8fsaTdef7djn",
         "price": "14.99",
         "description": "Get a Steam key for Skulls of the Shogun: Bone-A-Fide Edition, instantly!",
         "developer": "17-BIT, Inc.",
@@ -22190,7 +22190,7 @@ var games = [
     },
     {
         "name": "Skulls of the Shogun 4-Pack",
-        "url": "skullsoftheshogun_4pack?preview=H8fsaTdef7djn",
+        "url": "skullsoftheshogun_4pack/H8fsaTdef7djn",
         "price": "44.99",
         "description": "Get a 4-pack of Steam keys for Skulls of the Shogun: Bone-A-Fide Edition, instantly!",
         "developer": "17-BIT, Inc.",
@@ -22323,7 +22323,7 @@ var games = [
     },
     {
         "name": "Snapshot",
-        "url": "snapshotthegame?preview=pending",
+        "url": "snapshotthegame/pending",
         "price": "9.99",
         "description": "Get Snapshot instantly for Windows, Mac, and Linux, DRM-free and on Steam!",
         "developer": "Retro Affect",
@@ -22343,7 +22343,7 @@ var games = [
     },
     {
         "name": "Snapshot + Soundtrack",
-        "url": "snapshotgamesoundtrackbundle?preview=pending",
+        "url": "snapshotgamesoundtrackbundle/pending",
         "price": "12.99",
         "description": "Get Snapshot for Windows, Mac and, Linux as well as the Soundtrack, DRM-free and on Steam!",
         "developer": "Retro Affect",
@@ -22363,7 +22363,7 @@ var games = [
     },
     {
         "name": "Snapshot Soundtrack",
-        "url": "snapshotsoundtrack?preview=pending",
+        "url": "snapshotsoundtrack/pending",
         "price": "4.99",
         "description": "100+ Minutes of glorious MP3 tunes, DRM-free and on Steam!",
         "developer": "Retro Affect",
@@ -22460,7 +22460,7 @@ var games = [
     },
     {
         "name": "Solar 2",
-        "url": "solar?preview=GlTZR9Z5E2n4",
+        "url": "solar/GlTZR9Z5E2n4",
         "price": "10",
         "description": "Purchase Solar 2 and get it DRM-free for Windows, Mac and Linux. Steam key included.",
         "developer": "Murudai",
@@ -23085,7 +23085,7 @@ var games = [
     },
     {
         "name": "Spud's Quest",
-        "url": "spudsquest?preview=Shu7Gyh3Dfgt",
+        "url": "spudsquest/Shu7Gyh3Dfgt",
         "price": "8",
         "description": "Get Spud's Quest for Windows PC instantly! -Completely DRM free! ($8) \n Get Spud's Quest for Windows PC Instantly! -Includes the Spud's Quest Soundtrack -Completely DRM free ($16)",
         "developer": "Chris Davis",
@@ -23190,7 +23190,7 @@ var games = [
     },
     {
         "name": "Starbound (Pixel Tier)",
-        "url": "starbound_tier1?preview=4uQR712V5n",
+        "url": "starbound_tier1/4uQR712V5n",
         "price": "15",
         "description": "Starbound Beta (when available) + soundtrack",
         "developer": "Chucklefish",
@@ -23210,7 +23210,7 @@ var games = [
     },
     {
         "name": "Starbound (Pixel Tier) 4 Pack",
-        "url": "starbound_4pack?preview=4uQR712V5n",
+        "url": "starbound_4pack/4uQR712V5n",
         "price": "45",
         "description": "4-Pack of Starbound Beta (when available) + soundtrack",
         "developer": "Chucklefish",
@@ -23230,7 +23230,7 @@ var games = [
     },
     {
         "name": "Starbound (Silver Tier)",
-        "url": "starbound_tier2?preview=4uQR712V5n",
+        "url": "starbound_tier2/4uQR712V5n",
         "price": "20",
         "description": "Starbound Beta (when available) + Soundtrack + forum badge",
         "developer": "Chucklefish",
@@ -23250,7 +23250,7 @@ var games = [
     },
     {
         "name": "Starbound (Silver Tier) 4 Pack",
-        "url": "starbound_4pack_tier2?preview=4uQR712V5n",
+        "url": "starbound_4pack_tier2/4uQR712V5n",
         "price": "60",
         "description": "4-Pack of Starbound Beta (when available) + Soundtrack + forum badge",
         "developer": "Chucklefish",
@@ -23270,7 +23270,7 @@ var games = [
     },
     {
         "name": "Starbound (Gold Tier)",
-        "url": "starbound_tier3?preview=4uQR712V5n",
+        "url": "starbound_tier3/4uQR712V5n",
         "price": "45",
         "description": "Starbound Beta (when available) + Soundtrack + forum badge + name an NPC",
         "developer": "Chucklefish",
@@ -23290,7 +23290,7 @@ var games = [
     },
     {
         "name": "Starbound (Diamond Tier)",
-        "url": "starbound_tier4?preview=4uQR712V5n",
+        "url": "starbound_tier4/4uQR712V5n",
         "price": "75",
         "description": "Starbound Beta (when available) + Soundtrack + forum badge + name an NPC + name in credits",
         "developer": "Chucklefish",
@@ -23310,7 +23310,7 @@ var games = [
     },
     {
         "name": "Starbound (Impervium Tier)",
-        "url": "starbound_tier7?preview=4uQR712V5n",
+        "url": "starbound_tier7/4uQR712V5n",
         "price": "2000",
         "description": "Starbound Beta (when available) + Soundtrack + forum badge + name an NPC + name in credits + personalised statue",
         "developer": "Chucklefish",
@@ -23455,7 +23455,7 @@ var games = [
     },
     {
         "name": "Starseed Pilgrim",
-        "url": "starseedpilgrim?preview=h0FE1AmJJTm7",
+        "url": "starseedpilgrim/h0FE1AmJJTm7",
         "price": "6",
         "description": "A game about tending a symphonic garden, exploring space, and embracing fate. (linux build requires AIR)",
         "developer": "Droqen",
@@ -23639,7 +23639,7 @@ var games = [
     },
     {
         "name": "Stonehearth",
-        "url": "stonehearth?preview=bMe8PkEHJcM7",
+        "url": "stonehearth/bMe8PkEHJcM7",
         "price": "15",
         "description": "Pre-order now and get Stonehearth on release! A sandbox strategy game with town building, crafting, and epic battles!",
         "developer": "Radiant Entertainment",
@@ -24129,7 +24129,7 @@ var games = [
     },
     {
         "name": "Super Hexagon",
-        "url": "superhexagon?preview=sdfj8sdyhfn",
+        "url": "superhexagon/sdfj8sdyhfn",
         "price": "2.99",
         "description": "Get Super Hexagon instantly! Cross-platform (Mac, Windows, and Linux versions included) and DRM-free.",
         "developer": "Terry Cavanagh",
@@ -24179,7 +24179,7 @@ var games = [
     },
     {
         "name": "Super Splatters Pre-Order",
-        "url": "supersplatters?preview=swDZivGKrr3g",
+        "url": "supersplatters/swDZivGKrr3g",
         "price": "7",
         "description": "Pre-order Super Splatters now and receive it instantly once the game is out!",
         "developer": "SpikySnail",
@@ -24205,7 +24205,7 @@ var games = [
     },
     {
         "name": "Super Splatters",
-        "url": "supersplatters_multitier?preview=swDZivGKrr3g",
+        "url": "supersplatters_multitier/swDZivGKrr3g",
         "price": "9.99",
         "description": "Buy now and get both a steam key and the DRM free version instantly! ($9.99) \n Buy now and get both a steam key and the DRM free version instantly + get the amazing original soundtrack by Egozot! ($14.99)",
         "developer": "SpikySnail",
@@ -24454,7 +24454,7 @@ var games = [
     },
     {
         "name": "Survivor Squad",
-        "url": "survivorsquad?preview=OJ9lvwc9uFP3",
+        "url": "survivorsquad/OJ9lvwc9uFP3",
         "price": "8.99",
         "description": "Get Survivor Squad instantly, cross-platform, DRM free, and redeemable on Steam!",
         "developer": "Endless Loop Studios",
@@ -24686,7 +24686,7 @@ var games = [
     },
     {
         "name": "Talisman Prologue",
-        "url": "talismanprologuestandardedition?preview=hTHvuxEBSNCy",
+        "url": "talismanprologuestandardedition/hTHvuxEBSNCy",
         "price": "4.99",
         "description": "Get Talisman Prologue instantly, DRM-free!",
         "developer": "Nomad Games",
@@ -24707,7 +24707,7 @@ var games = [
     },
     {
         "name": "Talisman Prologue Premium Edition",
-        "url": "talismanprologuepremiumedition?preview=hTHvuxEBSNCy",
+        "url": "talismanprologuepremiumedition/hTHvuxEBSNCy",
         "price": "12.99",
         "description": "Get Talisman Prologue instantly, DRM-free. Premium Edition comes with a soundtrack and theme pack!",
         "developer": "Nomad Games",
@@ -25008,7 +25008,7 @@ var games = [
     },
     {
         "name": "The Bridge",
-        "url": "thebridge?preview=Sj39dhsnNzlx",
+        "url": "thebridge/Sj39dhsnNzlx",
         "price": "14.99",
         "description": "The Bridge is a logic puzzle game in the style of M. C. Escher. DRM-Free or redeemable via Steam for Windows, Mac and Linux.",
         "developer": "The Quantum Astrophysicists Guild",
@@ -25211,7 +25211,7 @@ var games = [
     },
     {
         "name": "The Girl and the Robot - Alpha",
-        "url": "thegirlandtherobotalpha?preview=nq7QVIpVWUqe",
+        "url": "thegirlandtherobotalpha/nq7QVIpVWUqe",
         "price": "9",
         "description": "Buying this alpha version at a low price will grant you access to all updates and the final version when it’s finished.",
         "developer": "Flying Carpets",
@@ -25237,7 +25237,7 @@ var games = [
     },
     {
         "name": "The Inner World",
-        "url": "theinnerworld?preview=g5siGE0pP7sW",
+        "url": "theinnerworld/g5siGE0pP7sW",
         "price": "18.99",
         "description": "Buy now and get The Inner World (DRM free), an early prototype, the soundtrack (mp3), a PDF Art booklet \"Encyclopaedia Asposia + a STEAM KEY!",
         "developer": "Studio Fizbin",
@@ -25588,7 +25588,7 @@ var games = [
     },
     {
         "name": "The Novelist",
-        "url": "thenovelist?preview=QKikXp8loEAg",
+        "url": "thenovelist/QKikXp8loEAg",
         "price": "14.99",
         "description": "Get The Novelist, DRM-free on Linux, Mac, and Windows! Steam key included.",
         "developer": "Orthogonal Games",
@@ -25615,7 +25615,7 @@ var games = [
     },
     {
         "name": "The Real Texas",
-        "url": "therealtexas?preview=H8ahfyT6st",
+        "url": "therealtexas/H8ahfyT6st",
         "price": "14.95",
         "description": "Get The Real Texas instantly! Cross-platform and DRM-free.",
         "developer": "Kitty Lambda Games Inc.",
@@ -25670,7 +25670,7 @@ var games = [
     },
     {
         "name": "The Sea Will Claim Everything",
-        "url": "theseawillclaimeverything?preview=Sedjiwo129dkc",
+        "url": "theseawillclaimeverything/Sedjiwo129dkc",
         "price": "10",
         "description": "Get The Sea Will Claim Everything instantly! Completely DRM-free.",
         "developer": "Jonas Kyratzes",
@@ -25820,7 +25820,7 @@ var games = [
     },
     {
         "name": "The Swapper",
-        "url": "theswapper?preview=sdfSHDhe9hs",
+        "url": "theswapper/sdfSHDhe9hs",
         "price": "14.99",
         "description": "Get The Swapper instantly! DRM-free. Direct download and Steam key included.",
         "developer": "Facepalm Games",
@@ -25847,7 +25847,7 @@ var games = [
     },
     {
         "name": "The Swapper + Soundtrack",
-        "url": "theswappersoundtrackedition?preview=sdfSHDhe9hs",
+        "url": "theswappersoundtrackedition/sdfSHDhe9hs",
         "price": "17.99",
         "description": "Get The Swapper + The Swapper Official soundtrack instantly! DRM-free. Direct download and Steam key included.",
         "developer": "Facepalm Games",
@@ -26115,7 +26115,7 @@ var games = [
     },
     {
         "name": "Tiny Barbarian DX",
-        "url": "tinybarbariandx?preview=tME8HJogJF0p",
+        "url": "tinybarbariandx/tME8HJogJF0p",
         "price": "9.99",
         "description": "It's Time to get Tiny! The adventures of our pixel protagonist continue in Tiny Barbarian DX for Windows PC!",
         "developer": "StarQuail Games",
@@ -26962,7 +26962,7 @@ var games = [
     },
     {
         "name": "Two Brothers",
-        "url": "twobrothers?preview=Twd5Fbr8Bsa",
+        "url": "twobrothers/Twd5Fbr8Bsa",
         "price": "15",
         "description": "Pre-order now and get Two Brothers for Less! -Join Us On an Epic Quest for Color!-",
         "developer": "Ackk Studios",
@@ -27012,7 +27012,7 @@ var games = [
     },
     {
         "name": "UFHO2",
-        "url": "ufho2?preview=H8est5RwuSTa",
+        "url": "ufho2/H8est5RwuSTa",
         "price": "9.99",
         "description": "Get UFHO2 instantly, cross-platform and DRM-free.",
         "developer": "Tiny Colossus",
@@ -27645,7 +27645,7 @@ var games = [
     },
     {
         "name": "Vox",
-        "url": "vox?preview=Vdj7Hsh5Rdgy",
+        "url": "vox/Vdj7Hsh5Rdgy",
         "price": "9.99",
         "description": "Get Vox instantly! Includes DRM-Free for Windows and a Steam key!",
         "developer": "AlwaysGeeky Games",
@@ -27685,7 +27685,7 @@ var games = [
     },
     {
         "name": "Voyage to Farland",
-        "url": "voyagetofarland?preview=Vkdkwo1ksla",
+        "url": "voyagetofarland/Vkdkwo1ksla",
         "price": "2.99",
         "description": "Get Voyage to Farland instantly! Cross-platform and DRM-free.",
         "developer": "Peculiar Games",
@@ -27769,7 +27769,7 @@ var games = [
     },
     {
         "name": "Waking Mars",
-        "url": "wakingmars?preview=pending",
+        "url": "wakingmars/pending",
         "price": "9.99",
         "description": "Purchase Waking Mars and get it instantly for Mac, Windows, and Linux.",
         "developer": "Tiger Style",
@@ -27790,7 +27790,7 @@ var games = [
     },
     {
         "name": "Wanderlust: Rebirth",
-        "url": "wanderlustrebirth?preview=Sjd92hdnsSzc",
+        "url": "wanderlustrebirth/Sjd92hdnsSzc",
         "price": "7.99",
         "description": "Buy Wanderlust: Rebirth now and instantly get a Steam key!",
         "developer": "Yeti Trunk",
@@ -27815,7 +27815,7 @@ var games = [
     },
     {
         "name": "Wanderlust: Rebirth 4-pack",
-        "url": "wanderlustrebirth4pack?preview=Sjd92hdnsSzc",
+        "url": "wanderlustrebirth4pack/Sjd92hdnsSzc",
         "price": "24.99",
         "description": "Buy the Wanderlust: Rebirth 4-pack and instantly get 4 Steam keys!",
         "developer": "Yeti Trunk",
@@ -27972,7 +27972,7 @@ var games = [
     },
     {
         "name": "Waveform",
-        "url": "waveform?preview=pending",
+        "url": "waveform/pending",
         "price": "6.99",
         "description": "Purchase Waveform for Windows and instantly get it DRM-free and on Steam.",
         "developer": "Eden Industries",
@@ -28552,7 +28552,7 @@ var games = [
     },
     {
         "name": "Word Realms",
-        "url": "wordrealms?preview=fhuQPfroZc9s",
+        "url": "wordrealms/fhuQPfroZc9s",
         "price": "11",
         "description": "A single-player roleplaying video game where your weapons are words.",
         "developer": "Asymmetric",
@@ -28645,7 +28645,7 @@ var games = [
     },
     {
         "name": "Wyv and Keep",
-        "url": "wyvandkeep?preview=q8zXphTV4qAB",
+        "url": "wyvandkeep/q8zXphTV4qAB",
         "price": "9.99",
         "description": "Ready to play? Get your copy of Wyv and Keep, DRM- free & cross-platform + Desura key instantly! Delivered securely by the Humble Store",
         "developer": "A Jolly Corpse",
@@ -28696,7 +28696,7 @@ var games = [
     },
     {
         "name": "Xenonauts",
-        "url": "xenonautsstrategicplanetarydefencesimulator?preview=nR8dyC0hW0dE",
+        "url": "xenonautsstrategicplanetarydefencesimulator/nR8dyC0hW0dE",
         "price": "24.99",
         "description": "Get Xenonauts now! DRM-free and redeemable via Steam. - Mac / Linux versions are WINE wrappers.",
         "developer": "Goldhawk Interactive",
