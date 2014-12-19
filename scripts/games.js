@@ -9987,6 +9987,133 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gamebook Adventures: Infinite Universe",
+        "url": "ga_infiniteuniverse/asbdbabdfZZ43",
+        "price": "9.99",
+        "description": "Get Gamebook Adventures: Infinite Universe instantly! Cross-platform and DRM-free!",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/infinite-universe/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures: The Complete Sagas of Fire*Wolf",
+        "url": "thecompletesagasoffire_wolf/CjSFB24hdfS",
+        "price": "9.99",
+        "description": "Get The Complete Sagas of Fire*Wolf instantly! Four gamebooks in one! Cross-platform and DRM-free!",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/the-complete-sagas-of-firewolf/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures: The Forest of Doom",
+        "url": "theforestofdoom/Zcxjk230r8usjk",
+        "price": "9.99",
+        "description": "Pre-order The Forest of Doom now! Available cross-platform, DRM-free and on Steam at release!",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/270490/",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://fightingfantasyapps.com/books/forest-of-doom/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures: The Forgotten Spell",
+        "url": "theforgottenspell/vnojNJewive",
+        "price": "5.99",
+        "description": "Get The Forgotten Spell instantly! Cross-platform and DRM-free.",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/spellcaster-the-forgotten-spell",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/the-spellcaster-trilogy/spellcaster-the-forgotten-spell/#bookmain",
+        "extras": false
+    },
+    {
+        "name": "Gamebook Adventures: Zombocalypse Now",
+        "url": "zombocalypsenow/cuEBviu14bSS",
+        "price": "5.99",
+        "description": "Get Zombocalypse Now instantly! Cross-platform and DRM-free!",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/chooseomatic/zombocalypse-now/#bookmain",
+        "extras": false
+    },
+    {
         "name": "GamersGoMakers",
         "url": "gamersgomakers/kjBNVIDbdbE2",
         "price": "9.99",
