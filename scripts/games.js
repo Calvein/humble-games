@@ -25974,6 +25974,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Thimbleweed Park",
+        "url": "thimbleweedpark_tier1/YTl2jk3shAS",
+        "price": "25",
+        "description": "Digital copy of the game in June 2016. Also includes guilt absolution for pirating Maniac Mansion or Monkey Island as a kid! ",
+        "developer": "Terrible Toybox, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grumpygamer.com/"
+        },
+        "notes": "Store page: http://blog.thimbleweedpark.com/backer",
+        "extras": false
+    },
+    {
         "name": "Thirty Flights of Loving",
         "url": "thirtyflightsofloving",
         "price": "5",
