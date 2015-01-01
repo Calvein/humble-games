@@ -19690,7 +19690,7 @@ var games = [
     {
         "name": "Retro Déjà Vu",
         "url": "retro_dejavu/WDSHD2hiX",
-        "price": "2.99",
+        "price": "4.99",
         "description": "The classic noir adventure Déjà Vu for both Mac 128k and Apple IIgs!",
         "developer": "Zojoi LLC.",
         "platform": {
@@ -19709,7 +19709,32 @@ var games = [
         "URL": {
             "developer": "http://www.zojoi.com/"
         },
-        "notes": "On sale at 40% off; regular price is $4.99.\nStore page: http://www.zojoi.com/retrodejavu/",
+        "notes": "Store page: http://www.zojoi.com/retrodejavu/",
+        "extras": false
+    },
+    {
+        "name": "Retro Déjà Vu II",
+        "url": "retro_dejavu_two/XlkJSDo23Y",
+        "price": "4.99",
+        "description": "The sequel to Déjà Vu for both Mac 128k and Apple IIgs!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "Store page: http://www.zojoi.com/retrodejavuii/",
         "extras": false
     },
     {
