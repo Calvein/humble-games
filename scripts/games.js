@@ -1961,6 +1961,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bad Mojo",
+        "url": "badmojo/U8SJDhsgS",
+        "price": "5.99",
+        "description": "Enter a world of perilous puzzles and bizarre perspectives--as a cockroach. (Steam Only)",
+        "developer": "Night Dive Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/17781",
+            "steam": "http://store.steampowered.com/app/255960/",
+            "developer": "http://www.nightdivestudios.com/"
+        },
+        "notes": "Store page: http://www.nightdivestudios.com/games-2/bad-mojo/",
+        "extras": false
+    },
+    {
         "name": "Banished",
         "url": "banished/LKsoiefj092mlks",
         "price": "19.99",
@@ -11651,6 +11678,33 @@ var games = [
             "developer": "http://defiantdev.com/index.php"
         },
         "notes": "Store page: http://defiantdev.com/handoffate.php",
+        "extras": false
+    },
+    {
+        "name": "Harvester",
+        "url": "harvester/9RDLfkj23hw",
+        "price": "5.99",
+        "description": "A strange and twisted world...Harvester! (Steam Only)",
+        "developer": "Night Dive Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.pcgamer.com/harvester-review-december-1996-us-edition/",
+            "steam": "http://store.steampowered.com/app/287020/",
+            "developer": "http://www.nightdivestudios.com/"
+        },
+        "notes": "Store page: http://www.nightdivestudios.com/games-2/harvester/",
         "extras": false
     },
     {
@@ -21819,6 +21873,33 @@ var games = [
             "developer": "http://simple-distractions.com/"
         },
         "notes": "Store page: http://shadowhunter.simple-distractions.com/purchase.php",
+        "extras": false
+    },
+    {
+        "name": "Shadow Man",
+        "url": "shadowman/Uuslkj38whS",
+        "price": "4.99",
+        "description": "He is coming, stalking criminals in the spirit world and the real world. (Steam Only)",
+        "developer": "Night Dive Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/1999/08/27/shadow-man-3",
+            "steam": "http://store.steampowered.com/app/251770/",
+            "developer": "http://www.nightdivestudios.com/"
+        },
+        "notes": "Store page: http://www.nightdivestudios.com/games-2/shadowman/",
         "extras": false
     },
     {
