@@ -22329,6 +22329,59 @@ var games = [
         "extras": false
     },
     {
+        "name": "Sid Meier's Covert Action",
+        "url": "sidmeiers_covertaction/POsdh23Sa",
+        "price": "6.99",
+        "description": "Sid Meier's Covert Action - A Techno-Thriller From the Case Files of Max Remington. (Steam Only)",
+        "developer": "Night Dive Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.escapistmagazine.com/news/view/131451-Good-Old-Reviews-Sid-Meiers-Covert-Action",
+            "steam": "http://store.steampowered.com/app/327390/",
+            "developer": "http://www.nightdivestudios.com/"
+        },
+        "notes": "Store page: http://www.nightdivestudios.com/games-2/sid-meier-covert-action/",
+        "extras": false
+    },
+    {
+        "name": "Sid Meier's Pirates",
+        "url": "sidmeiers_pirates/AhSDf823jw",
+        "price": "6.99",
+        "description": "Ahoy mateys! From the Mind of Sid Meier, The Golden Age of Buccaneering has returned! (Steam Only)",
+        "developer": "Night Dive Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/327380/",
+            "developer": "http://www.nightdivestudios.com/"
+        },
+        "notes": "Store page: http://www.nightdivestudios.com/games-2/sid-meier-pirates-gold/",
+        "extras": false
+    },
+    {
         "name": "Signs of Life",
         "url": "signsoflife/enkj34NJf",
         "price": "9.99",
@@ -24946,6 +24999,33 @@ var games = [
             "developer": "http://www.synthesisgame.com/"
         },
         "notes": "Mac and Linux versions are planned.\nStore page: http://www.synthesisgame.com/buy.html",
+        "extras": false
+    },
+    {
+        "name": "System Shock 2",
+        "url": "systemshock2/QeoijSDK38h",
+        "price": "9.99",
+        "description": "The cult classic sci-fi horror FPS-RPG has returned! (Steam Only)",
+        "developer": "Night Dive Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamerevolution.com/review/system-shock-2",
+            "steam": "http://store.steampowered.com/app/238210/",
+            "developer": "http://www.nightdivestudios.com/"
+        },
+        "notes": "Store page: http://www.nightdivestudios.com/games-2/system-shock-2/",
         "extras": false
     },
     {
