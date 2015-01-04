@@ -18795,6 +18795,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Polyology",
+        "url": "polyology/Adfjlsk11HDs",
+        "price": "4.99",
+        "description": "A lovely block pushing puzzle game with varied and unique mechanics!",
+        "developer": "Gridlock Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://clickbliss.net/post/104527815064/polyology-review",
+            "desura": "http://www.desura.com/games/polyology",
+            "developer": "http://gridlockinteractive.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nMac, Linux, and Android versions planned for the future.\nStore page: http://polyologygame.com/play/",
+        "extras": false
+    },
+    {
         "name": "POP: Methodology Experiment One",
         "url": "pop_methodologyexperimentone/Poskdkwk1",
         "price": "3.99",
@@ -20918,6 +20945,32 @@ var games = [
             "drm-free": false
         },
         "notes": "Dev Store: http://coffeestainstudios.com/store"
+    },
+    {
+        "name": "Santa's Special Delivery",
+        "url": "santasspecialdelivery/OSDFoij52",
+        "price": "2.99",
+        "description": "Get Santa's Special Delivery instantly! On Windows/Mac, DRM-free!",
+        "developer": "Cerulean Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/santas-special-delivery",
+            "developer": "http://www.ceruleangames.com/"
+        },
+        "notes": "Free OST available at the store page.\nStore page: http://www.ceruleangames.com/index.php?option=com_content&view=article&id=41&Itemid=154",
+        "extras": false
     },
     {
         "name": "Saturday Morning RPG",
