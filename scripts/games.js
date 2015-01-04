@@ -3857,7 +3857,7 @@ var games = [
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -3867,10 +3867,89 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "desura": "http://www.desura.com/games/centauri-sector",
             "developer": "http://lw-games.com/"
         },
-        "notes": "This game is not Greenlit yet.",
+        "notes": "This game is not Greenlit yet.\nStore page: http://lw-games.com/buy-centauri-sector.php",
         "extras": false
+    },
+    {
+        "name": "Centauri Sector - Lt. Cmdr Edition",
+        "url": "centaurisector_ltcmdredition/6SDFLKj23h",
+        "price": "19.99",
+        "description": "Centauri Sector DRM-Free + Tier 1 Forum Badge + Omega Corvette MK II Ship!",
+        "developer": "LW Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/centauri-sector",
+            "developer": "http://lw-games.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://lw-games.com/buy-centauri-sector.php",
+        "extras": true
+    },
+    {
+        "name": "Centauri Sector - Commander Edition",
+        "url": "centaurisector_commanderedition/SsDl23hSh1",
+        "price": "59.99",
+        "description": "Centauri Sector DRM-Free + Tier 1 Forum Badge + Omega Corvette MK II Ship + Commander Portrait!",
+        "developer": "LW Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/centauri-sector",
+            "developer": "http://lw-games.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://lw-games.com/buy-centauri-sector.php",
+        "extras": true
+    },
+    {
+        "name": "Centauri Sector - Fleet Commander Edition",
+        "url": "centaurisector_fleetcommanderedition/67SDflkj23h",
+        "price": "149.99",
+        "description": "Centauri Sector DRM-Free + Tier 1 Forum Badge + Omega Corvette MK II Ship + Commander Portrait + Custom Mission Design!",
+        "developer": "LW Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/centauri-sector",
+            "developer": "http://lw-games.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://lw-games.com/buy-centauri-sector.php",
+        "extras": true
     },
     {
         "name": "Chaos Reborn: Apprentice",
