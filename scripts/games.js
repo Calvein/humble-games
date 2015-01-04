@@ -2396,6 +2396,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Beeswing",
+        "url": "beeswing/ElkjER28hsS",
+        "price": "9.50",
+        "description": "Get Beeswing instantly! On Windows/Linux, DRM-free! Includes 17 track soundtrack!",
+        "developer": "Jack King-Spooner",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://flottantpigbit.blogspot.com.es/"
+        },
+        "notes": "Store page: http://beeswinggame.tumblr.com/",
+        "extras": false
+    },
+    {
         "name": "Bermuda",
         "url": "bermuda/Bgasd4t9hjsdkl",
         "price": "7",
@@ -7245,6 +7270,32 @@ var games = [
             "developer": "http://www.saibotstudios.com/"
         },
         "notes": "Store page: http://www.doorwaysgame.com/?s=store&a=Chapters-1-to-3",
+        "extras": false
+    },
+    {
+        "name": "Dr. Green",
+        "url": "drgreen/FresdjR3FGrw",
+        "price": "2.99",
+        "description": "Buy Dr. Green now! Cross-platform and DRM-free!",
+        "developer": "Johan Aronsson",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/340290/",
+            "developer": "http://johan-aronson.squarespace.com/"
+        },
+        "notes": "Store page: http://johan-aronson.squarespace.com/drgreen/#yui_3_17_2_1_1415582433195_7883",
         "extras": false
     },
     {
