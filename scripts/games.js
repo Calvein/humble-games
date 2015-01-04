@@ -23346,6 +23346,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Square Heroes",
+        "url": "squareheroes/LSKDFJo23s",
+        "price": "9.99",
+        "description": "Get Square Heroes and frag your friends instantly! Cross-platform and DRM-free!",
+        "developer": "Gnomic Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://3rd-strike.com/square-heroes-review/",
+            "desura": "http://www.desura.com/games/square-heroes",
+            "developer": "http://www.gnomicstudios.com/"
+        },
+        "notes": "Steam key when available.\nStore page: http://www.squareheroes.com/",
+        "extras": false
+    },
+    {
         "name": "Squirrel Adventures",
         "url": "squirreladventures/Hlkajsdf09238",
         "price": "4.99",
@@ -27701,6 +27728,32 @@ var games = [
         },
         "notes": "Store page: http://unsungstory.com/wp/donate/",
         "extras": true
+    },
+    {
+        "name": "Vagante (Early Access)",
+        "url": "vagante/876JLFk23h",
+        "price": "15",
+        "description": "Get Vagante instantly! Includes a Windows DRM-Free build of Vagante as well as a Steam key! Mac and Linux coming soon!",
+        "developer": "Nuke Nine",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/323220/",
+            "developer": "http://nukenine.com/"
+        },
+        "notes": "Store page: http://vagantegame.com/press#humblewidget",
+        "extras": false
     },
     {
         "name": "Valdis Story: Abyssal City",
