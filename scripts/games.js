@@ -905,13 +905,13 @@ var games = [
         "name": "Always Sometimes Monsters",
         "url": "alwayssometimesmonsters/Aduh8T56sg",
         "price": "9.99",
-        "description": "Pre-order Always Sometimes Monsters DRM-free and also receive a Steam key at launch!",
+        "description": "Order Always Sometimes Monsters DRM-free and also receive a Steam key!",
         "developer": "Vagabond Dog",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -921,10 +921,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.polygon.com/2014/6/5/5765838/always-sometimes-monsters-review-working-class-hero",
             "steam": "http://store.steampowered.com/app/274310/",
             "developer": "http://vagabonddog.com/"
         },
-        "notes": "Store page: http://www.alwayssometimesmonsters.com/",
+        "notes": "Store page: http://www.vagabonddog.com/asm/",
         "extras": false
     },
     {
