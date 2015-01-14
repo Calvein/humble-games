@@ -3815,10 +3815,10 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": true,
+            "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "desura": "http://www.desura.com/games/castle",
