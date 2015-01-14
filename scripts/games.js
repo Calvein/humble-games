@@ -1105,7 +1105,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/237740/",
             "developer": "http://www.screwattack.com/"
         },
-        "notes": "Also available without the soundtrack for $13.49",
+        "notes": "Also available without the soundtrack for $9.99",
         "extras": false
     },
     {
@@ -1402,8 +1402,8 @@ var games = [
     {
         "name": "The Arcadecraft",
         "url": "arcadecraft/Arkdowkd1",
-        "price": "14.99",
-        "description": "Get the Arcadecraft Beta now!",
+        "price": "9.99",
+        "description": "Get the Arcadecraft now! Redeemable via Steam for Windows.",
         "developer": "Firebase Industries",
         "platform": {
             "android": false,
@@ -1413,12 +1413,13 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/297330/",
             "developer": "http://firebase.ca/"
         },
         "notes": "Store page: http://firebase.ca/arcadecraft/",
@@ -2880,8 +2881,8 @@ var games = [
     {
         "name": "Blob From Space",
         "url": "blobfromspace/R00SDhflakdj2",
-        "price": "3.99",
-        "description": "Pre-order Blob From Space now! Desura key for easy future updates and DRM-free! There will be updates every month!",
+        "price": "5.99",
+        "description": "Buy Blob From Space now! Desura key for easy future updates and DRM-free! There will be updates every month!",
         "developer": "JosPlays",
         "platform": {
             "android": false,
@@ -4362,7 +4363,7 @@ var games = [
     {
         "name": "Chocolate Castle",
         "url": "chocolatecastle",
-        "price": "10",
+        "price": "9.99",
         "description": "Get Chocolate Castle instantly! Cross-platform and DRM free.",
         "developer": "Lexaloffle Games",
         "platform": {
@@ -4761,9 +4762,9 @@ var games = [
         }
     },
     {
-        "name": "Coin Crypt (Beta Access)",
+        "name": "Coin Crypt (Direct Download + Steam Key)",
         "url": "coincrypt/Cdkwo1k2l",
-        "price": "4.99",
+        "price": "9.99",
         "description": "Play Coin Crypt now + get all future versions! Cross-platform and DRM-free.",
         "developer": "Dumb and Fat Games",
         "platform": {
@@ -5163,7 +5164,7 @@ var games = [
     {
         "name": "Cosmochoria - Digital Game Pre-Order",
         "url": "cosmochoria/dsrghafsdEU33",
-        "price": "12",
+        "price": "10",
         "description": "Support Cosmochoria by pre-ordering the game today! Receive a DRM-free copy upon game release! Available for Windows, Mac and Linux!",
         "developer": "30/30",
         "platform": {
@@ -5182,13 +5183,13 @@ var games = [
         "URL": {
             "developer": "http://3030.ca/"
         },
-        "notes": "Store page: http://www.cosmochoria.com/",
+        "notes": "Early Access game. \n Store page: http://www.cosmochoria.com/",
         "extras": false
     },
     {
         "name": "Cosmochoria + Soundtrack Pre-Order",
         "url": "cosmochoria_soundtrack/jakhkhjlfad372G",
-        "price": "20",
+        "price": "18",
         "description": "Support Cosmochoria by pre-ordering the game + soundtrack today! Receive a DRM-free copy upon game release!",
         "developer": "30/30",
         "platform": {
@@ -5207,7 +5208,7 @@ var games = [
         "URL": {
             "developer": "http://3030.ca/"
         },
-        "notes": "Store page: http://www.cosmochoria.com/",
+        "notes": "Early Access game. \n Store page: http://www.cosmochoria.com/",
         "extras": false
     },
     {
@@ -5598,7 +5599,7 @@ var games = [
     {
         "name": "Cube & Star: An Arbitrary Love",
         "url": "cubeandstar_anarbitrarylove/Ckdow43",
-        "price": "6.99",
+        "price": "4.99",
         "description": "Get Cube & Star: An Arbitrary Love via Steam and DRM free - now with The Warped Edition!",
         "developer": "Doppler Interactive",
         "platform": {
@@ -5612,9 +5613,10 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
+            "desura": "http://www.desura.com/games/cube-star-an-arbitrary-love",
             "steam": "http://store.steampowered.com/app/261960/",
             "developer": "http://blog.dopplerinteractive.com/"
         },
@@ -6110,7 +6112,7 @@ var games = [
     {
         "name": "David.",
         "url": "david/oiuweroieYT34",
-        "price": "1",
+        "price": "1.99",
         "description": "David.\nis a game. A game about physics and enemies. A game about struggles and life. A game about David.",
         "developer": "Fermenter",
         "platform": {
@@ -6979,7 +6981,7 @@ var games = [
     {
         "name": "Disco Dodgeball",
         "url": "robotroller_derbydiscododgeball_final/beCno324Of",
-        "price": "10",
+        "price": "9.99",
         "description": "Receive one Steam Key for Disco Dodgeball Early Access (Win/Mac/Linux)",
         "developer": "Erik Asmussen",
         "platform": {
@@ -7164,7 +7166,7 @@ var games = [
     {
         "name": "Domestic Dog",
         "url": "dogsimulator/DonkdJo2h39dni",
-        "price": "2.99",
+        "price": "1.99",
         "description": "Survive harsh domestic life. Get Domestic Dog instantly, DRM-free (Steam when available). Free updates/DLC for life!",
         "developer": "Surreal Distractions",
         "platform": {
@@ -7506,7 +7508,7 @@ var games = [
     {
         "name": "Drive to Hell",
         "url": "drivetohell/SDlkwjo4",
-        "price": "3.99",
+        "price": "4.99",
         "description": "Get Drive to Hell instantly! Cross-platform and DRM-free!",
         "developer": "Ghost Crab Games",
         "platform": {
@@ -7787,7 +7789,7 @@ var games = [
         "URL": {
             "developer": "http://frogdice.com/"
         },
-        "notes": "Currently on sale at 50% off, regular price is $19.99. \n Store page: http://frogdice.com/dungeon-of-elements/buy/",
+        "notes": "Store page: http://frogdice.com/dungeon-of-elements/buy/",
         "extras": false
     },
     {
@@ -8315,8 +8317,8 @@ var games = [
     {
         "name": "Eidolon",
         "url": "eidolon/Edkwo3",
-        "price": "12.5",
-        "description": "Buy Eidolon in advance for reduced price, and help support the development! Releasing August 1st, 2014!",
+        "price": "15",
+        "description": "Available now, DRM free plus 1 Steam key, for PC and Mac.",
         "developer": "Ice Water Games",
         "platform": {
             "android": false,
@@ -8332,9 +8334,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/286140/",
             "developer": "http://www.icewatergames.com/"
         },
-        "notes": "Store page: http://www.icewatergames.com/preorder",
+        "notes": "Store page: http://www.icewatergames.com/eidolon/",
         "extras": false
     },
     {
@@ -9129,8 +9132,8 @@ var games = [
     {
         "name": "fault milestone one",
         "url": "faultmilestoneone/iDKjsnlak39jds",
-        "price": "13",
-        "description": "Pre-order fault milestone one now! Cross-platform and DRM-free!",
+        "price": "14.99",
+        "description": "Get fault milestone one now! Cross-platform and DRM-free!",
         "developer": "Sekai Project",
         "platform": {
             "android": false,
@@ -9630,8 +9633,8 @@ var games = [
     {
         "name": "Frip and Froop's Logical Labyrinth",
         "url": "fripandfroopslogicallabyrinth/BSDfkj23r98ahsdj",
-        "price": "4.99",
-        "description": "Pre-order Frip and Froop's Logical Labyrinth now! Cross-platform and DRM-free!",
+        "price": "2.99",
+        "description": "Download Frip and Froop’s Logical Labyrinth now! Cross-platform and DRM-free!",
         "developer": "Wayward Thoughts Interactive",
         "platform": {
             "android": false,
@@ -9647,6 +9650,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "desura": "http://www.desura.com/games/frip-and-froops-logical-labyrinth",
             "developer": "http://www.waywardthoughtsinteractive.com/"
         },
         "notes": "Store page: http://www.waywardthoughtsinteractive.com/?page_id=19",
@@ -11839,7 +11843,7 @@ var games = [
     {
         "name": "HassleHeart",
         "url": "hassleheart/iBelkn62jdkds",
-        "price": "4.99",
+        "price": "4.49",
         "description": "Get HassleHeart beta instantly! When it's released you will receive the full game DRM-free for Windows and Mac!",
         "developer": "Santa Clara Games",
         "platform": {
@@ -11859,6 +11863,7 @@ var games = [
             "desura": "http://www.desura.com/games/hassleheart",
             "developer": "http://www.santaclaragames.com/"
         },
+        "notes": "Currently on sale at 10% off; regular price is $4.99.",
         "extras": false
     },
     {
@@ -12731,7 +12736,7 @@ var games = [
     {
         "name": "Ichi",
         "url": "ichi",
-        "price": "2.99",
+        "price": "4.99",
         "description": "Purchase Ichi and get it instantly for Windows and Mac, DRM-free!",
         "developer": "Stolen Couch Games",
         "platform": {
@@ -13354,8 +13359,8 @@ var games = [
     {
         "name": "Jack Houston: Episode 1",
         "url": "jackhouston_ep1/Jshu6Yhr5Dsf",
-        "price": "9.99",
-        "description": "Jack Houston and the Necronauts Ep. 1: \"Land Of The Saucermen\" (when available) DRM-free for Win & Linux + Wallpapers & Forum!",
+        "price": "14.99",
+        "description": "Jack Houston And The Necronauts (when available) DRM-free for Win & Linux + Wallpapers & Forum!",
         "developer": "Warbird Games",
         "platform": {
             "android": false,
@@ -13529,8 +13534,8 @@ var games = [
     {
         "name": "Jamsouls",
         "url": "jamsouls/Jdkwok10ksl",
-        "price": "2.99",
-        "description": "Purchase Jamsouls for Windows and instantly get it DRM-free!",
+        "price": "3.99",
+        "description": "Purchase Jamsouls for Windows and instantly get it DRM-free and with Steam Key!",
         "developer": "ChromaticDream",
         "platform": {
             "android": false,
@@ -13540,7 +13545,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -13555,7 +13560,7 @@ var games = [
     {
         "name": "Jasper's Journeys",
         "url": "jaspersjourneys",
-        "price": "5",
+        "price": "4.99",
         "description": "Get Jasper's Journeys instantly! Cross-platform and DRM free.",
         "developer": "Lexaloffle Games",
         "platform": {
@@ -14064,7 +14069,7 @@ var games = [
     {
         "name": "KarBOOM",
         "url": "karboom/Kdkwodksl2k3j",
-        "price": "10",
+        "price": "4.99",
         "description": "Get KarBOOM instantly for Windows, Mac & Linux! DRM-free!",
         "developer": "Jibb Smart",
         "platform": {
@@ -14303,10 +14308,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "Last Knight",
+        "name": "Last Knight: Rogue Rider Edition",
         "url": "lastknight/Tkdowk39vd",
-        "price": "5.99",
-        "description": "Get Last Knight instantly! Cross-platform and DRM-free.",
+        "price": "7.99",
+        "description": "Get Last Knight: Rogue Rider Edition instantly! Cross-platform, DRM-free, and on Steam. In English, German, French and Polish!",
         "developer": "Toco Games",
         "platform": {
             "android": false,
@@ -14316,7 +14321,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -14324,6 +14329,7 @@ var games = [
         "URL": {
             "review": "http://www.indiegamemag.com/last-knight-review-full-medieval-throttle/",
             "desura": "http://www.desura.com/games/last-knight",
+            "steam": "http://store.steampowered.com/app/262210/",
             "developer": "http://www.tocogames.com/"
         },
         "notes": "Store page: http://www.lastknightthegame.com/#purchase",
@@ -15002,7 +15008,7 @@ var games = [
     {
         "name": "Little Inferno",
         "url": "littleinferno",
-        "price": "10",
+        "price": "9.99",
         "description": "Buy it now and get it instantly for Windows, Mac, & Linux, DRM-free and on Steam",
         "developer": "Tomorrow Corporation",
         "platform": {
@@ -15890,7 +15896,7 @@ var games = [
     {
         "name": "Micron",
         "url": "micron/Hekwodk2l",
-        "price": "0.99",
+        "price": "4.49",
         "description": "Get Micron instantly! Cross-platform and DRM-free.",
         "developer": "Apparition Games",
         "platform": {
@@ -17005,7 +17011,7 @@ var games = [
     {
         "name": "Nihilumbra",
         "url": "nihilumbra/Nisdko29kdls",
-        "price": "9.99",
+        "price": "7.99",
         "description": "Get Nihilumbra instantly! DRM-free for Windows, Mac and Linux.",
         "developer": "BeautiFun Games",
         "platform": {
@@ -17919,7 +17925,7 @@ var games = [
     {
         "name": "Oniken",
         "url": "oniken/Odg6Tdf4RDsa",
-        "price": "5",
+        "price": "7.99",
         "description": "Get Oniken instantly! Cross-platform and DRM-free.",
         "developer": "JoyMasher",
         "platform": {
@@ -18019,24 +18025,25 @@ var games = [
     {
         "name": "Ossuary",
         "url": "ossuary/Osudkwk1",
-        "price": "5",
-        "description": "Get Ossuary instantly for Windows, DRM-free. Fall into the place of bones.",
+        "price": "9.99",
+        "description": "Get Ossuary instantly for Windows and Mac, DRM-free + a Desura key! Fall into the place of bones.",
         "developer": "Future Proof Games",
         "platform": {
             "android": false,
             "linux": false,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
             "steam": false,
-            "desura": false,
+            "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://www.rockpapershotgun.com/2013/11/29/down-in-the-bonehoard-ossuary/",
+            "desura": "http://www.desura.com/games/ossuary",
             "developer": "http://futureproofgames.com"
         },
         "notes": "Store page: http://futureproofgames.com/games/ossuary/",
@@ -19163,7 +19170,7 @@ var games = [
    {
         "name": "Potatoman Seeks the Troof",
         "url": "potatomanseeksthetroof/S93sdhSDFbx",
-        "price": "3",
+        "price": "3.99",
         "description": "Purchase Potatoman and get it instantly for Windows, Mac, and Linux, DRM-free!",
         "developer": "Pixeljam",
         "platform": {
@@ -19190,7 +19197,7 @@ var games = [
     {
         "name": "Potatoman Seeks the Troof Bundle",
         "url": "potatomanseeksthetroofbundle/S93sdhSDFbx",
-        "price": "5",
+        "price": "5.99",
         "description": "Purchase the bundle and get Potatoman for Windows, Mac, and Linux as well as the soundtrack, all DRM-free!",
         "developer": "Pixeljam",
         "platform": {
@@ -19342,7 +19349,7 @@ var games = [
     {
         "name": "Probably Archery",
         "url": "probablyarchery/Psldkw1lkd",
-        "price": "9.99",
+        "price": "4.99",
         "description": "Purchase Probably Archery, Cross-platform and DRM-free! Also includes Steam key!",
         "developer": "South East Games",
         "platform": {
@@ -20662,7 +20669,7 @@ var games = [
     {
         "name": "Road Redemption (Alpha Access)",
         "url": "roadredemption_alpha/NJf43kv",
-        "price": "24.99",
+        "price": "19.99",
         "description": "Get the Road Redemption Alpha instantly! This also includes access to all future versions as well as other digital rewards. DRM-free.",
         "developer": "DarkSeas Games",
         "platform": {
@@ -20681,7 +20688,7 @@ var games = [
         "URL": {
             "developer": "http://www.darkseasinteractive.com/"
         },
-        "notes": "In at least some Euro-using zones the game is being sold for 18.57€, rather than for $24.99. \n Store page: http://www.roadredemption.com/#!alpha-checkout/c1140",
+        "notes": "In at least some Euro-using zones the game is being sold for 19.99€, rather than for $19.99. \n Store page: http://www.roadredemption.com/#!alpha-checkout/c1140",
         "extras": true
     },
     {
@@ -20736,7 +20743,7 @@ var games = [
     {
         "name": "Rochard",
         "url": "rochard",
-        "price": "19.99",
+        "price": "15.99",
         "description": "Purchase Rochard for Windows and Mac and instantly get it DRM-free and on Steam.",
         "developer": "Recoil Games",
         "platform": {
@@ -22667,14 +22674,14 @@ var games = [
     {
         "name": "Siralim",
         "url": "siralim/PASnei29dmn1",
-        "price": "14.99",
-        "description": "Pre-order Siralim at a reduced price and get the full game when it is released! Always DRM-free! Includes instant beta access!",
+        "price": "9.99",
+        "description": "Cross-platform and DRM free.",
         "developer": "Thylacine Studios",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -22686,7 +22693,7 @@ var games = [
         "URL": {
             "developer": "http://www.thylacinestudios.com/"
         },
-        "notes": "Pre-order it 30% off for $9.99.\nStore page: http://www.siralim.com/purchase.php",
+        "notes": "Store page: http://www.siralim.com/purchase.php",
         "extras": false
     },
     {
@@ -22736,7 +22743,7 @@ var games = [
     {
         "name": "Skulls of the Shogun",
         "url": "skullsoftheshogun/H8fsaTdef7djn",
-        "price": "14.99",
+        "price": "9.99",
         "description": "Get a Steam key for Skulls of the Shogun: Bone-A-Fide Edition, instantly!",
         "developer": "17-BIT, Inc.",
         "platform": {
@@ -22763,7 +22770,7 @@ var games = [
     {
         "name": "Skulls of the Shogun 4-Pack",
         "url": "skullsoftheshogun_4pack/H8fsaTdef7djn",
-        "price": "44.99",
+        "price": "29.99",
         "description": "Get a 4-pack of Steam keys for Skulls of the Shogun: Bone-A-Fide Edition, instantly!",
         "developer": "17-BIT, Inc.",
         "platform": {
@@ -22790,8 +22797,8 @@ var games = [
     {
         "name": "Sky Nations",
         "url": "skynations/Sdh7Tshs64Fs",
-        "price": "5",
-        "description": "Pre-order now to get Sky Nations Alpha! Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore.",
+        "price": "13.99",
+        "description": "Sky Nations is a multiplayer Airship exploration game set in a world of floating isles for you to explore. Includes a Steam key!",
         "developer": "MrBenjammin Games",
         "platform": {
             "android": false,
@@ -22801,44 +22808,44 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": false
         },
         "URL": {
-            "review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
             "desura": "http://www.desura.com/games/sky-nations",
-            "developer": "http://skynations.net/presskit/index.php"
+            "steam": "http://store.steampowered.com/app/310760/",
+            "developer": "http://damaged-games.com/"
         },
-        "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+        "notes": "Store page: http://skynations.net/?page=buy",
         "extras": false
     },
     {
         "name": "Sky Nations 4-Pack",
         "url": "skynations_4pack/Sdh7Tshs64Fs",
-        "price": "15",
+        "price": "39.99",
         "description": "Pre-order now to get the Alpha! This is a multiplayer Airship exploration game in a world of floating isles for you to explore. Includes 3 extra gift keys.",
         "developer": "MrBenjammin Games",
         "platform": {
-                "android": false,
-                "linux": false,
-                "windows": true,
-                "mac": false,
-                "audio": false
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
         },
         "drm": {
-                "steam": false,
-                "desura": false,
-                "gog": false,
-                "drm-free": false
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
         },
         "URL": {
-                "review": "http://www.indiedb.com/games/sky-nations/reviews/466502",
-                "desura": "http://www.desura.com/games/sky-nations",
-                "developer": "http://skynations.net/presskit/index.php"
+            "desura": "http://www.desura.com/games/sky-nations",
+            "steam": "http://store.steampowered.com/app/310760/",
+            "developer": "http://damaged-games.com/"
         },
-        "notes": "Please remember that Sky Nation's is still in development. You will receive all the updates for free as the game progresses to completion.",
+        "notes": "Store page: http://skynations.net/?page=buy",
         "extras": false
     },
     {
@@ -23685,8 +23692,8 @@ var games = [
     {
         "name": "Spy Chameleon - RGB Agent",
         "url": "spychameleon_rgbagent/Sdlkwjeo4",
-        "price": "5.99",
-        "description": "Get Spy Chameleon - RGB Agent instantly! Cross-platform and DRM-free!",
+        "price": "4.99",
+        "description": "Get Spy Chameleon - RGB Agent instantly, cross-platform and DRM-free! Also redeemable via Steam.",
         "developer": "Unfinished Pixel",
         "platform": {
             "android": false,
@@ -23696,7 +23703,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -23737,9 +23744,9 @@ var games = [
         "extras": false
     },
     {
-        "name": "Squirrel Adventures",
+        "name": "Squirreltopia",
         "url": "squirreladventures/Hlkajsdf09238",
-        "price": "4.99",
+        "price": "3.99",
         "description": "Coming soon! Pre-order now and get it DRM-free + Steam key (when available)!",
         "developer": "Surreal Distractions",
         "platform": {
@@ -23750,7 +23757,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -24104,10 +24111,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "STARWHAL: Just the Tip",
+        "name": "STARWHAL",
         "url": "starwhal_justthetip/Hfd73Hei3Gd",
-        "price": "9.99",
-        "description": "Get STARWHAL: Just the Tip (Early Access) instantly, via Steam key!",
+        "price": "14.99",
+        "description": "Get STARWHAL instantly, via Steam key!",
         "developer": "Breakfall",
         "platform": {
             "android": false,
@@ -24160,7 +24167,7 @@ var games = [
     {
         "name": "Steamalot: Epoch's Journey",
         "url": "steamalot_epochsjourney/asfdklhadfsTU12",
-        "price": "4.99",
+        "price": "9.99",
         "description": "Get the medieval steampunk tactical trading card game! Available on Windows and Mac DRM-free!",
         "developer": "Risen Phoenix Studios",
         "platform": {
@@ -24239,8 +24246,8 @@ var games = [
     {
         "name": "Stonehearth",
         "url": "stonehearth/bMe8PkEHJcM7",
-        "price": "15",
-        "description": "Pre-order now and get Stonehearth on release! A sandbox strategy game with town building, crafting, and epic battles!",
+        "price": "30",
+        "description": "Get the Stonehearth Alpha release now, and free updates all the way through final release. A sandbox strategy game with town building, crafting, and epic battles!",
         "developer": "Radiant Entertainment",
         "platform": {
             "android": false,
@@ -24255,7 +24262,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Alpha access also available for $30. \n Store page at http://stonehearth.net/store/"
+        "notes": "Store page at http://stonehearth.net/store/"
     },
     {
         "name": "Stonerid",
@@ -25029,8 +25036,8 @@ var games = [
     {
         "name": "Pre-order SUPERVERSE",
         "url": "astroids/Adkowek3",
-        "price": "19.99",
-        "description": "Pre-order the game to support its development, get early access to alpha game builds and have a chance to influence the final outcome.",
+        "price": "9.99",
+        "description": "Pre-order the game and support its development!",
         "developer": "Industry Entertainment",
         "platform": {
             "android": false,
@@ -25209,7 +25216,7 @@ var games = [
     {
         "name": "Synthesis",
         "url": "synthesis/Sdh7Esf3Idh",
-        "price": "15",
+        "price": "20",
         "description": "Synthesis alpha and all updates through release. Includes original soundtrack.",
         "developer": "Hart Laboratories LLC",
         "platform": {
@@ -25456,7 +25463,7 @@ var games = [
     {
         "name": "TerraTech - Humble Beta Edition",
         "url": "terratech/uGyS9ThGe1",
-        "price": "30.99",
+        "price": "29.99",
         "description": "TerraTech Open Beta + Early Access + Final Game!",
         "developer": "Payload Studios",
         "platform": {
@@ -25482,7 +25489,7 @@ var games = [
     {
         "name": "TerraTech - R&D Pack DLC",
         "url": "terratech_rdpackdlc/Piasdf18Gs",
-        "price": "14.99",
+        "price": "15.99",
         "description": "Experimental Blocks + R&D Test Chamber + Forum Access! (Requires Beta Edition of TerraTech to play)",
         "developer": "Payload Studios",
         "platform": {
@@ -25508,7 +25515,7 @@ var games = [
     {
         "name": "TerraTech - Humble Beta Deluxe",
         "url": "terratech_deluxeedition/hBu823hsS",
-        "price": "45.99",
+        "price": "44.99",
         "description": "TerraTech Open Beta + R&D Pack DLC + Forum Access + Early Access + Final Game!",
         "developer": "Payload Studios",
         "platform": {
@@ -25890,7 +25897,7 @@ var games = [
     {
         "name": "The Journey Down: Chapter One",
         "url": "thejourneydownchapterone/SaRQrl5NyWyo",
-        "price": "6.99",
+        "price": "8.99",
         "description": "Get The Journey Down: Chapter One instantly! Keys for Steam and Desura included. Pc + Mac + Linux.",
         "developer": "SkyGoblin",
         "platform": {
@@ -25910,6 +25917,34 @@ var games = [
             "review": "http://www.adventuregamers.com/articles/view/21332",
             "desura": "http://www.desura.com/games/the-journey-down-chapter-one",
             "steam": "http://store.steampowered.com/app/220090/",
+            "developer": "http://www.skygoblin.com/"
+        },
+        "notes": "Store page: http://thejourneydown.com/",
+        "extras": false
+    },
+    {
+        "name": "The Journey Down: Chapter Two",
+        "url": "thejourneydownchaptertwo/SaRQrl5NyWyo",
+        "price": "10.99",
+        "description": "Get Chapter Two of The Journey Down for Windows, Mac and Linux! Direct download and Steam key included!",
+        "developer": "SkyGoblin",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/27045",
+            "desura": "http://www.desura.com/games/the-journey-down-chapter-two",
+            "steam": "https://store.steampowered.com/app/262850/",
             "developer": "http://www.skygoblin.com/"
         },
         "notes": "Store page: http://thejourneydown.com/",
@@ -25937,7 +25972,7 @@ var games = [
         "URL": {
             "developer": "http://www.skygoblin.com/"
         },
-        "notes": "Store page: http://thejourneydown.com/",
+        "notes": "Widget probably no longer valid after the release of Chapter Two. \n Store page: http://thejourneydown.com/",
         "extras": false
     },
     {
@@ -26190,23 +26225,24 @@ var games = [
     {
         "name": "The Nightmare Cooperative",
         "url": "thenightmarecooperative/Rfuasdlkj239js",
-        "price": "9.99",
+        "price": "5.99",
         "description": "Join the Cooperative! Cross-platform and DRM-free! (Pre-Order)",
         "developer": "Lucky Frame",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/310070/",
             "developer": "http://www.luckyframe.co.uk/"
         },
         "notes": "Store page: http://www.luckyframe.co.uk/nightmare/",
@@ -26236,7 +26272,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/245150/",
             "developer": "http://orthogonalgames.com/"
         },
-        "notes": "Store page: http://www.thenovelistgame.com/",
+        "notes": "In at least some Euro-using zones the game is being sold for 12.99€, rather than for $14.99. \n Store page: http://www.thenovelistgame.com/",
         "extras": false
     },
     {
@@ -26324,7 +26360,7 @@ var games = [
     {
         "name": "The Ship: Murder Party",
         "url": "theshipmurderparty",
-        "price": "20",
+        "price": "9.99",
         "description": "Purchase The Ship: Murder Party for Windows and instantly get it on Steam.",
         "developer": "Blazing Griffin",
         "platform": {
@@ -26371,8 +26407,8 @@ var games = [
     {
         "name": "The Spatials",
         "url": "thespatials/mSOLib23j2jks",
-        "price": "4.95",
-        "description": "Now available as early access for Windows and Mac! Get The Spatials now and support us on the way to 2.0!",
+        "price": "8.99",
+        "description": "Now available as early access for Windows and Mac! Get The Spatials now and support us on the way to version 2!",
         "developer": "Weird and Wry",
         "platform": {
             "android": false,
@@ -26388,6 +26424,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "desura": "http://www.desura.com/games/the-spatials",
             "developer": "http://weirdandwry.com/"
         },
         "notes": "Store page: http://thespatials.com/#download",
@@ -26527,7 +26564,7 @@ var games = [
     {
         "name": "There Came An Echo",
         "url": "therecameanecho/mbbhgureURYhJD38",
-        "price": "15",
+        "price": "19.99",
         "description": "Pre-order There Came an Echo and tell everyone you were there before it was cool! DRM-free copies will be available at launch!",
         "developer": "Iridium Studios",
         "platform": {
@@ -26552,7 +26589,7 @@ var games = [
     {
         "name": "There Came An Echo + Soundtrack Bundle",
         "url": "therecameanecho_soundtrackbundle/uyerdvbBDGF83",
-        "price": "20",
+        "price": "29.99",
         "description": "Alongside a copy of There Came an Echo, pick up the amazing soundtrack for only $5 more! Composed by Ronald Jenkees and Jimmy Hinson!",
         "developer": "Iridium Studios",
         "platform": {
@@ -26577,8 +26614,8 @@ var games = [
     {
         "name": "Thief Town",
         "url": "thieftown/nSFdlk23lkja",
-        "price": "4",
-        "description": "Pre-order Thief Town! Cross-platform and DRM-free. Includes OST!",
+        "price": "3.99",
+        "description": "Thief Town! Cross-platform and DRM-free. Includes OST!",
         "developer": "Glass Knuckle Games",
         "platform": {
             "android": false,
@@ -26594,6 +26631,8 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "desura": "http://www.desura.com/games/thief-town",
+            "steam": "http://store.steampowered.com/app/331220/",
             "developer": "http://glassknuckle.com/"
         },
         "notes": "Store page: http://glassknuckle.com/ThiefTown/",
@@ -26996,7 +27035,7 @@ var games = [
     {
         "name": "Trail Blazer Time Machine",
         "url": "trailblazertimemachine/SDFJLwijHFDs",
-        "price": "5",
+        "price": "2.99",
         "description": "Get Trail Blazer Time Machine instantly! Available on Windows, Mac, and Linux, DRM free!",
         "developer": "Bass Flicks Apps",
         "platform": {
@@ -27725,8 +27764,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -28179,8 +28218,8 @@ var games = [
     {
         "name": "Vertical Drop Heroes HD",
         "url": "verticaldropheroeshd/gvenoCMRObeto",
-        "price": "5",
-        "description": "Buy Vertical Drop Heroes HD! DRM-free for Windows and Mac.",
+        "price": "6.99",
+        "description": "Buy Vertical Drop Heroes HD! DRM-free for Windows and Mac. Also redeemable via Steam!",
         "developer": "Nerdook Productions",
         "platform": {
             "android": false,
@@ -28190,12 +28229,13 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/311480/",
             "developer": "http://nerdook-productions.com/"
         },
         "extras": false
@@ -28249,7 +28289,7 @@ var games = [
     {
         "name": "Viscera Cleanup Detail",
         "url": "visceracleanupdetail/Vsu7Ysgd3Dg",
-        "price": "7.99",
+        "price": "9.99",
         "description": "Buy now and get Viscera Cleanup Detail! Includes an early access build + early access Steam key!",
         "developer": "Runestorm",
         "platform": {
@@ -28266,8 +28306,8 @@ var games = [
             "drm-free": true
         },
         "URL": {
-        "steam": "http://store.steampowered.com/app/246900/",
-        "developer": "http://www.runestorm.com/"
+            "steam": "http://store.steampowered.com/app/246900/",
+            "developer": "http://www.runestorm.com/"
         },
         "notes": "Store page: http://www.runestorm.com/viscera",
         "extras": false
@@ -28347,7 +28387,7 @@ var games = [
     {
         "name": "Voxatron",
         "url": "voxatron",
-        "price": "15",
+        "price": "19.99",
         "description": "Get Voxatron instantly and get access to all future versions! Cross-platform and DRM free.",
         "developer": "Lexaloffle Games",
         "platform": {
@@ -29208,7 +29248,7 @@ var games = [
     {
         "name": "Woodle Tree: Adventures",
         "url": "woodletree_adventures/iureyriuaIEURY73",
-        "price": "2.49",
+        "price": "2.99",
         "description": "An old school platform game with a catchy and unique art style!",
         "developer": "Chubby Pixel",
         "platform": {
@@ -29327,8 +29367,8 @@ var games = [
     {
         "name": "Wyv and Keep",
         "url": "wyvandkeep/q8zXphTV4qAB",
-        "price": "9.99",
-        "description": "Ready to play? Get your copy of Wyv and Keep, DRM- free & cross-platform + Desura key instantly! Delivered securely by the Humble Store",
+        "price": "14.99",
+        "description": "Get your copy of Wyv and Keep, DRM-free & cross-platform + Steam key instantly! Delivered securely by the Humble Widget.",
         "developer": "A Jolly Corpse",
         "platform": {
             "android": false,
@@ -29338,15 +29378,17 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/263960",
             "desura": "http://www.desura.com/games/wyv-and-keep-temple-of-the-lost-idol",
             "developer": "http://www.jollycorpse.com/"
         },
+        "notes": "Store page: http://www.jollycorpse.com/Games/WyvAndKeep",
         "extras": false
     },
     {
@@ -29605,7 +29647,7 @@ var games = [
     {
         "name": "Zen Puzzle Garden",
         "url": "zenpuzzlegarden",
-        "price": "10",
+        "price": "9.99",
         "description": "Get Zen Puzzle Garden instantly! Cross-platform and DRM free.",
         "developer": "Lexaloffle Games",
         "platform": {
