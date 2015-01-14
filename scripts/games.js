@@ -17029,6 +17029,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Nobu: Fat Revenge!",
+        "url": "nobu_fatrevenge/aSFDlkj239s",
+        "price": "9.99",
+        "description": "Get \"Nobu: Fat Revenge!\" instantly! DRM-free!",
+        "developer": "Binary Pig Studio",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/nobu-fat-revenge",
+            "developer": "http://www.binarypigstudio.com/"
+        },
+        "notes": "Store page: http://www.nobufatrevenge.binarypigstudio.com/#widgets",
+        "extras": false
+    },
+    {
         "name": "Noir Syndrome",
         "url": "noirsyndrome/nj23NJ2wv",
         "price": "6.99",
