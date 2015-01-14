@@ -798,6 +798,30 @@ var games = [
         "extras": false
     },
     {
+        "name": "Agent Awesome",
+        "url": "agentawesome/OPSKLErj230",
+        "price": "9.99",
+        "description": "Buy Agent Awesome now! Available on Windows/Mac, DRM-free!",
+        "developer": "Chaos Industries",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.chaosindustries.com.mx/"
+        },
+        "extras": false
+    },
+    {
         "name": "AI War Collection (2014)",
         "url": "aiwarcollection_2014/BNlkwejr0923",
         "price": "16.99",
@@ -1579,6 +1603,32 @@ var games = [
             "developer": "http://www.gamecoderstudios.com/"
         },
         "notes": "Mac version coming later. \n Store page: http://attractio-game.com/shop/",
+        "extras": false
+    },
+    {
+        "name": "Audiosurf 2",
+        "url": "audiosurf2/ONdju19ndkw91",
+        "price": "14.99",
+        "description": "STEAM KEY: Get a key to play Audiosurf 2 on Steam Early Access instantly!",
+        "developer": "Audiosurf, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/235800/",
+            "developer": "http://www.audio-surf.com/"
+        },
+        "notes": "Store page: http://audiosurf2.com/",
         "extras": false
     },
     {
@@ -3310,6 +3360,32 @@ var games = [
             "desura": "http://www.desura.com/games/braid",
             "developer": "http://number-none.com/blow/"
         }
+    },
+    {
+        "name": "Brain Guzzler",
+        "url": "brainguzzler/WyFD9jtT81",
+        "price": "4.78",
+        "description": "Get Brain Guzzler instantly! Guzzle brains in this action packed classic! Cross-platform and DRM-free!",
+        "developer": "Flaming Pumpkin Ltd",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/brain-guzzler",
+            "developer": "http://flamingpumpkin.co.uk/"
+        },
+        "notes": "Store page: http://www.brainguzzler.com/",
+        "extras": false
     },
     {
         "name": "Brandon Must Die!",
