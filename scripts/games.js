@@ -3802,6 +3802,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Castle",
+        "url": "castle/JKLjsdr30289",
+        "price": "4.99",
+        "description": "Get Castle, and become the best castle builder in this original and addictive game!",
+        "developer": "Snails Animation",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/castle",
+            "developer": "http://www.snailsanimation.com/"
+        },
+        "notes": "Store page: http://www.snailsanimation.com/Castle/castle_homepage.html#Buy",
+        "extras": false
+    },
+    {
         "name": "Castle Story beta",
         "url": "castlestory_store",
         "price": "20",
@@ -11180,6 +11206,32 @@ var games = [
             "desura": "http://www.desura.com/games/Gratuitous-Space-Battles",
             "developer": "http://www.positech.co.uk/"
         },
+        "extras": false
+    },
+    {
+        "name": "GRAV",
+        "url": "grav/7SDLfkj1hs",
+        "price": "19.99",
+        "description": "Get GRAV on Steam Early Access instantly!",
+        "developer": "BitMonster, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/332500/",
+            "developer": "http://bitmonstergames.com/"
+        },
+        "notes": "Store page: http://bitmonstergames.com/?page_id=1004",
         "extras": false
     },
     {
