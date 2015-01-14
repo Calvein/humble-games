@@ -11218,8 +11218,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": false
         },
         "drm": {
