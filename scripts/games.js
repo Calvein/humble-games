@@ -17641,10 +17641,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "OBEY - 4 Pack",
-        "url": "obey_4pack/Fjkdshf328",
-        "price": "28",
-        "description": "Pre-order OBEY now! Cross-platform and DRM-free! (NOTE: This is an early-access game!)",
+        "name": "OBEY",
+        "url": "obey/8SFh3gsHJS",
+        "price": "17.99",
+        "description": "OBEY available now! Cross-platform and DRM-free! (NOTE: This is an early-access game!)",
         "developer": "The Lo-Fi Apocalypse, Inc.",
         "platform": {
                 "android": false,
@@ -17662,7 +17662,32 @@ var games = [
         "URL": {
                 "developer": "http://lfa.com/"
         },
-        "notes": "Store page: https://www.kickstarter.com/projects/1155733609/obey/posts/1061361",
+        "notes": "Store page: http://obeygame.com/play/",
+        "extras": false
+    },
+    {
+        "name": "OBEY - 4 Pack",
+        "url": "obey_4pack/Fjkdshf328",
+        "price": "28",
+        "description": "OBEY available now! Cross-platform and DRM-free! (NOTE: This is an early-access game!)",
+        "developer": "The Lo-Fi Apocalypse, Inc.",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://lfa.com/"
+        },
+        "notes": "Store page: http://obeygame.com/play/",
         "extras": false
     },
     {
@@ -18063,7 +18088,57 @@ var games = [
         "URL": {
             "review": "http://www.pockettactics.com/reviews/review-out-there/",
             "developer": "http://www.miclos.com/"
-        },  
+        },
+        "notes": "Store page: http://www.outtheregame.com/",
+        "extras": false
+    },
+    {
+        "name": "Out There: Ω Edition (Pre-order)",
+        "url": "outthere_omegaedition_preorder/vSKjh239uhsj",
+        "price": "10",
+        "description": "Pre-order Out There: Ω Edition for Windows, Mac and Android! Beta access when available! DRM-Free!",
+        "developer": "Mi-Clos Studio",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.miclos.com/"
+        },
+        "notes": "Store page: http://www.outtheregame.com/",
+        "extras": false
+    },
+    {
+        "name": "Out There: Ω + Music Edition (Pre-order)",
+        "url": "outthere_omegaeditionplusmusic_preorder/fSD230jsklks",
+        "price": "15",
+        "description": "Pre-order Out There for PC, Mac and Android + Extended Soundtrack by Siddhartha Barnhoorn. Beta access when available! DRM-Free!",
+        "developer": "Mi-Clos Studio",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.miclos.com/"
+        },
         "notes": "Store page: http://www.outtheregame.com/",
         "extras": false
     },
