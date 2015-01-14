@@ -24733,7 +24733,7 @@ var games = [
         "description": "Get Super Hexagon instantly! Cross-platform (Mac, Windows, and Linux versions included) and DRM-free.",
         "developer": "Terry Cavanagh",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
