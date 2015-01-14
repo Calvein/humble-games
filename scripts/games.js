@@ -27620,8 +27620,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": false
         },
         "drm": {
@@ -27631,9 +27631,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "https://www.facebook.com/AckkStudios"
+            "review": "http://www.destructoid.com/review-two-brothers-269111.phtml",
+            "steam": "http://store.steampowered.com/app/259760/",
+            "developer": "https://ackkstudios.wordpress.com/"
         },
-        "notes": "Store page: http://projecty2k.com/two-brothers-pre-order.html",
+        "notes": "Mac and Linux versions are supposed to follow. \n Store page: http://projecty2k.com/two-brothers-pre-order.html",
         "extras": false
     },
     {
@@ -27645,8 +27647,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": true
         },
         "drm": {
@@ -27656,9 +27658,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "https://www.facebook.com/AckkStudios"
+            "review": "http://www.destructoid.com/review-two-brothers-269111.phtml",
+            "steam": "http://store.steampowered.com/app/259760/",
+            "developer": "https://ackkstudios.wordpress.com/"
         },
-        "notes": "Store page: http://projecty2k.com/two-brothers-pre-order.html",
+        "notes": "Mac and Linux versions are supposed to follow. \n Store page: http://projecty2k.com/two-brothers-pre-order.html",
         "extras": true
     },
     {
