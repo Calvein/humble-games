@@ -13307,7 +13307,7 @@ var games = [
     {
         "name": "It came from space and ate our brains",
         "url": "itcamefromspaceandateourbrains/Iskdlwk1ldk",
-        "price": "2.99",
+        "price": "0.01",
         "description": "Get It came from space, and ate our brains instantly! Cross-platform and DRM-free.",
         "developer": "Triangle Studios",
         "platform": {
