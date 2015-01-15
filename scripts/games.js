@@ -11139,6 +11139,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "Goodbye Deponia (Windows)",
+        "url": "goodbyedeponia_pc/Gdskwodka12k",
+        "price": "19.99",
+        "description": "Get Goodbye Deponia for Windows instantly!",
+        "developer": "Daedalic Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/25607",
+            "steam": "http://store.steampowered.com/app/241910/",
+            "developer": "http://www.daedalic.de/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website. \n Store page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
+        "extras": false
+    },
+    {
+        "name": "Goodbye Deponia (MAC)",
+        "url": "goodbyedeponia_mac/Gdskwodka12k",
+        "price": "19.99",
+        "description": "Get Goodbye Deponia for Mac instantly! Available in multi-languages!",
+        "developer": "Daedalic Entertainment",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/25607",
+            "steam": "http://store.steampowered.com/app/241910/",
+            "developer": "http://www.daedalic.de/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website. \n Store page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
+        "extras": false
+    },
+    {
         "name": "Just the Music",
         "url": "gonehome_recordcollection/OHFHXxPWMLTy",
         "price": "21",
@@ -11735,30 +11789,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "GunWorld",
-        "url": "gunworld/Wud2Eh3Ss",
-        "price": "4.99",
-        "description": "Plant seeds to grow powerful guns in this throwback action-platformer! On Windows, DRM-free!",
-        "developer": "m07games",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://m07games.com/"
-        },
-        "extras": false
-    },
-    {
         "name": "Guise of the Wolf",
         "url": "guiseofthewolf/Mekdowk2",
         "price": "14.99",
@@ -11859,6 +11889,55 @@ var games = [
             "developer": "http://www.suspiciousdevelopments.com/"
         },
         "extras": true
+    },
+    {
+        "name": "Gunslugs",
+        "url": "gunslugs/F8SDflk2us",
+        "price": "3.49",
+        "description": "Get Gunslugs instantly! Cross-platform and DRM-free!",
+        "developer": "Orangepixel",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.orangepixel.net/"
+        },
+        "notes": "Store page: http://www.orangepixel.net/2013/02/18/gunslugs/",
+        "extras": true
+    },
+    {
+        "name": "GunWorld",
+        "url": "gunworld/Wud2Eh3Ss",
+        "price": "4.99",
+        "description": "Plant seeds to grow powerful guns in this throwback action-platformer! On Windows, DRM-free!",
+        "developer": "m07games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://m07games.com/"
+        },
+        "extras": false
     },
     {
         "name": "Hack 'n' Slash",
@@ -14252,6 +14331,56 @@ var games = [
         },
         "notes": "Multiple tier widget that also allows purchase of 3 editions of the game ranging from $10 to $30.",
         "extras": false
+    },
+    {
+        "name": "Kaiju Panic",
+        "url": "kaijupanic/Kdowkdo4",
+        "price": "10",
+        "description": "Preorder a copy of Kaiju Panic at 50% alpha discount. Cross-platform and DRM free!",
+        "developer": "Mechabit",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+                "developer": "http://mechabit.co.uk/"
+        },
+        "notes": "Linux version coming soon. \n Store page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
+        "extras": false
+    },
+    {
+        "name": "Kaiju Panic (Reward Edition)",
+        "url": "kaijupanic_rewardedition/Kdowkdo4",
+        "price": "100",
+        "description": "Preorder a copy of Kaiju Panic. Also includes \"Your face in the game\" reward.",
+        "developer": "Mechabit",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+                "developer": "http://mechabit.co.uk/"
+        },
+        "notes": "Linux version coming soon. \n Store page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
+        "extras": true
     },
     {
         "name": "Kairo",
