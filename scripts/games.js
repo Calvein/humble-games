@@ -13417,6 +13417,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Interstellaria",
+        "url": "interstellaria/bLSDkjf23o4r",
+        "price": "9.99",
+        "description": "Pre-order Interstellaria now! Get a DRM free copy + Steam key! (Est. Release: March 2015)",
+        "developer": "Cold Rice Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://coldricegames.com/"
+        },
+        "notes": "Store page: http://coldricegames.com/interstellar/",
+        "extras": false
+    },
+    {
         "name": "Into The Gloom",
         "url": "intothegloom/Ukjasdf938ahj2jl3",
         "price": "2.99",
@@ -13461,6 +13486,32 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Invisible, Inc.",
+        "url": "invisibleinc/Ieu7Gsyhe5Df",
+        "price": "19.99",
+        "description": "-Get the Full Game + Soundtrack at launch -Play the Early-Access immediately!",
+        "developer": "Klei Entertainment",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://steamcommunity.com/app/243970/",
+            "developer": "http://kleientertainment.com/"
+        },
+        "notes": "Multitier widget which also offers only the game for $15.99. \n Early Access only available for Windows and Mac. \n Store page: http://www.invisibleincgame.com/",
+        "extras": false
     },
     {
         "name": "Ironclad Tactics",
@@ -14523,6 +14574,32 @@ var games = [
             "developer": "http://badlandstudio.com/"
         },
         "notes": "Store page: http://badlandstudio.com/Kinetic-Void/",
+        "extras": false
+    },
+    {
+        "name": "Kingdoms Rise",
+        "url": "kingdomsrise/Mbaue02djhx1",
+        "price": "15",
+        "description": "Get Kingdoms Rise instantly for Windows on Steam!",
+        "developer": "Flyleap Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/248630/",
+            "developer": "http://www.flyleapstudios.com/"
+        },
+        "notes": "Early Access game. \n Store page: http://www.kingdomsrise.com/?page_id=184",
         "extras": false
     },
     {
@@ -19013,6 +19090,31 @@ var games = [
             "steam": "http://store.steampowered.com/app/259470/",
             "developer": "http://www.seethroughstudios.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Path to the Sky",
+        "url": "pathtothesky/SF2398rhJDBbsa",
+        "price": "9.99",
+        "description": "Pre-order! Get your early access Steam key as soon as the beta is available!",
+        "developer": "dek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "https://twitter.com/dekdev"
+        },
+        "notes": "Store page: http://pathtothesky.com/",
         "extras": false
     },
     {
