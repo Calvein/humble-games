@@ -7585,6 +7585,58 @@ var games = [
         "extras": true
     },
     {
+        "name": "Dreamfall Chapters Season Pass",
+        "url": "dreamfallchapters_seasonpass/SLDfkj23WwD",
+        "price": "29.99",
+        "description": "Pre-order the Dreamfall Chapters for Windows, Mac, and Linux and receive all five episodes as they are released! DRM-free + Steam key!",
+        "developer": "Red Thread Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/237850/",
+            "developer": "http://redthreadgames.com/"
+        },
+        "notes": "Pre-order the whole season and start playing Episode 1. \n Store page: http://redthreadgames.com/games/chapters/#post-182",
+        "extras": false
+    },
+    {
+        "name": "Dreamfall Chapters SE Season Pass",
+        "url": "dreamfallchapters_se_seasonpass/klNCvlkjwD22",
+        "price": "34.99",
+        "description": "Special Edition includes DRM-free + Steam key, along with soundtrack, art book, wallpapers, avatar images, & short story collection! (Pre-Order)",
+        "developer": "Red Thread Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/237850/",
+            "developer": "http://redthreadgames.com/"
+        },
+        "notes": "Pre-order the whole season and start playing Episode 1. \n Store page: http://redthreadgames.com/games/chapters/#post-182",
+        "extras": true
+    },
+    {
         "name": "Drifter (Pre-Order)",
         "url": "drifter",
         "price": "12",
@@ -9682,6 +9734,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "FranknJohn",
+        "url": "franknjohn/BSDKJfh23ud93",
+        "price": "15",
+        "description": "Pre-order FranknJohn now! Coming soon to Early Access!",
+        "developer": "bitSmith Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.bitsmithgames.com/"
+        },
+        "notes": "Store page: http://www.bitsmithgames.com/franknjohn",
+        "extras": false
+    },
+    {
         "name": "Freaking Meatbags - Early Access",
         "url": "freakingmeatbags_earlyaccess/oMDKn1i93ndk",
         "price": "9.99",
@@ -10040,6 +10117,32 @@ var games = [
             "review": "http://www.destructoid.com/full-mojo-rampage-revealed-currently-set-for-pc-release-243770.phtml",
             "developer": "http://www.overthetopgames.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Future Perfect: Architect Edition",
+        "url": "futureperfect_architectedition/LSKDfj23hys",
+        "price": "10",
+        "description": "Join Future Perfect development! Future Perfect is about playing games with friends. Create, publish, & play games in a flash! Available for Windows (Steam)!",
+        "developer": "Unknown Worlds Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://steamcommunity.com//app/282370",
+            "developer": "http://unknownworlds.com/"
+        },
+        "notes": "Store page: http://futureperfectgame.com/",
         "extras": false
     },
     {
