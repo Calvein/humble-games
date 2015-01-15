@@ -1853,6 +1853,58 @@ var games = [
         "extras": true
     },
     {
+        "name": "Avernum 2: Crystal Souls",
+        "url": "avernum2_crystalsouls/SFDlkj3s91",
+        "price": "20",
+        "description": "Purchase Avernum 2 now! Enjoy the hit, epic, indie RPG on Windows/Mac, DRM-free!",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/337850/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.avernum.com/avernum2/index.html",
+        "extras": false
+    },
+    {
+        "name": "Avernum 2: Crystal Souls Hint Book",
+        "url": "avernum2_crystalsoulshintbook/FDLjK112e",
+        "price": "8",
+        "description": "Pre-order the Avernum 2 hint book now on Windows/Mac, DRM-free!",
+        "developer": "Spiderweb Software",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/337850/",
+            "developer": "http://www.spiderwebsoftware.com/"
+        },
+        "notes": "Store page: http://www.avernum.com/avernum2/index.html",
+        "extras": true
+    },
+    {
         "name": "Avernum: The Great Trials Trilogy",
         "url": "avernum_thegreattrialstrilogy/Adkfow345j",
         "price": "20",
@@ -2656,6 +2708,32 @@ var games = [
             "developer": "http://superdupergc.com/"
         },
         "notes": "Store page: http://superdupergc.com/?page_id=396#post-396",
+        "extras": false
+    },
+    {
+        "name": "Blackguards 2",
+        "url": "blackguards2/8LSDFk2his",
+        "price": "29.99",
+        "description": "Pre-order Blackguards 2 now!",
+        "developer": "Daedalic Entertainment",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/314830/",
+            "developer": "http://www.daedalic.de/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website. \n In at least some Euro-using zones the game is being sold for 29.99€, rather than for $29.99. \n Store page: http://www.daedalic.de/en/game/Blackguards_2",
         "extras": false
     },
     {
@@ -4260,30 +4338,30 @@ var games = [
         "extras": true
     },
     {
-	"name": "Chivalry: Deadliest Warrior",
-	"url": "chivalrymedievalwarfare_tiered/Chdi8Fst4Rsg",
-	"price": "34.99",
-	"description": "Purchase this bundle and get both Chivalry and Deadliest Warrior for Steam on Windows!",
-	"developer": "Torn Banner Studios Inc.",
-	"platform": {
-		"android": false,
-		"linux": false,
-		"windows": true,
-		"mac": false,
-		"audio": false
-	},
-	"drm": {
-		"steam": true,
-		"desura": false,
-		"gog": false,
-		"drm-free": false
-		},
-	"URL": {
-		"steam": "http://store.steampowered.com/app/219640",
-		"developer": "http://www.tornbanner.com/"
-	},
-	"notes": "Tiered widget for purchasing Chivalry 'Deadliest Warrior' expansion pack. Can be purchased separately or in conjunction with base game. Expansion cost is $14.99, widget defaults to $34.99 joint purchase bundle.",
-	"extras": false
+        "name": "Chivalry: Deadliest Warrior",
+        "url": "chivalrymedievalwarfare_tiered/Chdi8Fst4Rsg",
+        "price": "34.99",
+        "description": "Purchase this bundle and get both Chivalry and Deadliest Warrior for Steam on Windows!",
+        "developer": "Torn Banner Studios Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/219640",
+            "developer": "http://www.tornbanner.com/"
+        },
+        "notes": "Tiered widget for purchasing Chivalry 'Deadliest Warrior' expansion pack. Can be purchased separately or in conjunction with base game. Expansion cost is $14.99, widget defaults to $34.99 joint purchase bundle.",
+        "extras": false
     },
     {
         "name": "Chivalry: Medieval Warfare",
@@ -4580,6 +4658,32 @@ var games = [
             "review": "http://www.pcgamer.com/2012/11/27/clairvoyance-is-an-online-board-game-about-robots-lasers-and-the-future/",
             "developer": "http://eriksvedang.com/"
         }
+    },
+    {
+        "name": "Classroom Aquatic",
+        "url": "classroomaquatic/oDNi2u3b109ndx",
+        "price": "15",
+        "description": "Pre-order Classroom Aquatic! Receive a Cross-Platform, DRM-free copy, or a Steam key!",
+        "developer": "Sunken Places",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/293800",
+            "developer": "http://classroomaquatic.com/"
+        },
+        "notes": "Store page: http://classroomaquatic.com/#widget",
+        "extras": false
     },
     {
         "name": "Claustrophobia: The Downward Struggle",
