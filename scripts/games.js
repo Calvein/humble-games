@@ -20494,6 +20494,58 @@ var games = [
         }
     },
     {
+        "name": "Reflex",
+        "url": "turbopixelstudios_reflex/uSLDR783h",
+        "price": "9.99",
+        "description": "One STEAM key allowing instant EARLY ACCESS!",
+        "developer": "Turbo Pixel Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/328070/",
+            "developer": "http://reflexfps.net/"
+        },
+        "notes": "Store page: http://reflexfps.net/#section-buy-reflex",
+        "extras": false
+    },
+    {
+        "name": "Reflex 4-Pack",
+        "url": "turbopixelstudios_reflex_4pack/m3723SHsaE",
+        "price": "29.99",
+        "description": "Four STEAM keys allowing instant EARLY ACCESS!",
+        "developer": "Turbo Pixel Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/328070/",
+            "developer": "http://reflexfps.net/"
+        },
+        "notes": "Store page: http://reflexfps.net/#section-buy-reflex",
+        "extras": false
+    },
+    {
         "name": "Rehearsals and Returns",
         "url": "rehearsalsandreturns/HGHFGFH87HGH98",
         "price": "3.99",
@@ -21507,6 +21559,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Salt",
+        "url": "salt/hJSDK23usjdweE",
+        "price": "14.99",
+        "description": "Purchase a game key! You'll be able to associate the key with your account to unlock the full version of the game and frequent updates.",
+        "developer": "Lavaboots Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/327860/",
+            "developer": "https://saltthegame.com/pages/aboutlavaboots/"
+        },
+        "notes": "Early Access game. \n Support for more operative systems is planned. \n Store page: https://saltthegame.com/purchasestep1/",
+        "extras": false
+    },
+    {
         "name": "Samorost2",
         "url": "samorost2",
         "price": "5",
@@ -21753,6 +21831,81 @@ var games = [
         },
         "notes": "Store page: http://savantgame.com/",
         "extras": false
+    },
+    {
+        "name": "SCALE",
+        "url": "scale/Sfhe7Gy4Dsr",
+        "price": "15",
+        "description": "A pre-order copy, DRM-free copy of SCALE on Mac/PC/Linux + Steam key. A warm feeling in your cubeheart.",
+        "developer": "Cube Heart Games, LLC",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://cubeheart.com/"
+        },
+        "notes": "Store page: http://www.scale-game.com/",
+        "extras": false
+    },
+    {
+        "name": "SCALE + OST",
+        "url": "scale_soundtrack/Sfhe7Gy4Dsr",
+        "price": "20",
+        "description": "A pre-order copy of SCALE, DRM free, on Mac/PC/Linux + Steam key. A DRM-free copy of Inputting Mac/PC/Linux. 1 copy of the SCALE OST.",
+        "developer": "Cube Heart Games, LLC",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://cubeheart.com/"
+        },
+        "notes": "Store page: http://www.scale-game.com/",
+        "extras": true
+    },
+    {
+        "name": "SCALE ULTIMATE BUNDLE",
+        "url": "scale_deluxe/Sfhe7Gy4Dsr",
+        "price": "40",
+        "description": "A pre-order copy of SCALE, DRM free, on Mac/PC/Linux + Steam key. A DRM-free copy of Inputting Mac/PC/Linux. 1 copy of the SCALE OST, 1 copy of the ‘Inspired by SCALE’ album.",
+        "developer": "Cube Heart Games, LLC",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://cubeheart.com/"
+        },
+        "notes": "Store page: http://www.scale-game.com/",
+        "extras": true
     },
     {
         "name": "Schein",
