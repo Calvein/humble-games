@@ -282,7 +282,7 @@ var games = [
         "URL": {
             "developer": "http://gearsforbreakfast.com/"
         },
-        "notes": "This upgrade requires to have been part of the Kickstarter or to own the standard package. \n Store page: http://hatintime.com/preorder/preorder-upgrade/preorder-upgrade-2/",
+        "notes": "This upgrade requires to have been part of the Kickstarter or to own the standard package.\nStore page: http://hatintime.com/preorder/preorder-upgrade/preorder-upgrade-2/",
         "extras": true
     },
     {
@@ -872,7 +872,7 @@ var games = [
             "desura": "http://www.desura.com/games/al-emmo-and-the-lost-dutchmans-mine",
             "developer": "http://www.himalayastudios.com/index.php"
         },
-        "notes": "Steam key if Greenlit. \n Store page: http://www.himalayastudios.com/alemmo.php",
+        "notes": "Steam key if Greenlit.\nStore page: http://www.himalayastudios.com/alemmo.php",
         "extras": false
     },
     {
@@ -898,7 +898,7 @@ var games = [
             "desura": "http://www.desura.com/games/altitude0",
             "developer": "http://www.gugila.com/"
         },
-        "notes": "Currently on sale at 21% off for $14.99 \n Store page: http://www.altitude0.com/buy",
+        "notes": "Currently on sale at 21% off for $14.99\nStore page: http://www.altitude0.com/buy",
         "extras": false
     },
     {
@@ -1315,7 +1315,7 @@ var games = [
         "URL": {
             "developer": "http://www.alientrap.org"
         },
-        "notes": "Currently on sale at 10% off, regular price is $15. \n Store page: http://www.apotheongame.com/#preorderanchor",
+        "notes": "Currently on sale at 10% off, regular price is $15.\nStore page: http://www.apotheongame.com/#preorderanchor",
         "extras": true
     },
     {
@@ -1604,7 +1604,7 @@ var games = [
         "URL": {
             "developer": "http://www.gamecoderstudios.com/"
         },
-        "notes": "Mac version coming later. \n Store page: http://attractio-game.com/shop/",
+        "notes": "Mac version coming later.\nStore page: http://attractio-game.com/shop/",
         "extras": false
     },
     {
@@ -1713,7 +1713,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/112100/",
             "developer": "http://www.spiderwebsoftware.com/"
         },
-        "notes": "Linux version available at Gameolith: http://www.gameolith.com/game/avadon-black-fortress/ \n Store page: http://www.spiderwebsoftware.com/avadon/index.html",
+        "notes": "Linux version available at Gameolith: http://www.gameolith.com/game/avadon-black-fortress/\nStore page: http://www.spiderwebsoftware.com/avadon/index.html",
         "extras": false
     },
     {
@@ -1741,7 +1741,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/112100/",
             "developer": "http://www.spiderwebsoftware.com/"
         },
-        "notes": "Linux version available at Gameolith: http://www.gameolith.com/game/avadon-black-fortress/ \n Store page: http://www.spiderwebsoftware.com/avadon/index.html",
+        "notes": "Linux version available at Gameolith: http://www.gameolith.com/game/avadon-black-fortress/\nStore page: http://www.spiderwebsoftware.com/avadon/index.html",
         "extras": true
     },
     {
@@ -2733,7 +2733,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/314830/",
             "developer": "http://www.daedalic.de/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website. \n Regional pricing: $22.99 (UK)/€29,99 (Europe). \n Store page: http://www.daedalic.de/en/game/Blackguards_2",
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nRegional pricing: $22.99 (UK)/€29,99 (Europe).\nStore page: http://www.daedalic.de/en/game/Blackguards_2",
         "extras": false
     },
     {
@@ -3084,7 +3084,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/260250",
             "developer": "https://www.facebook.com/scientifically"
         },
-        "notes": "It's coming to Windows/Mac/Linux according to its Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=133210361 \n Widget no longer available on the game's website, so it was probably used with pre-order purposes only.",
+        "notes": "It's coming to Windows/Mac/Linux according to its Greenlight page: http://steamcommunity.com/sharedfiles/filedetails/?id=133210361\nWidget no longer available on the game's website, so it was probably used with pre-order purposes only.",
         "extras": false
     },
     {
@@ -3521,7 +3521,7 @@ var games = [
         "name": "Broforce",
         "url": "broforce/Bdu7Fsgt3Eds",
         "price": "15",
-        "description": "Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing + Steam key (when released) ($15) \n Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing + Steam key (when released) x2 ($25)",
+        "description": "Brace your loins for: Broforce Beta, Online Multiplayer, Level Sharing + Steam key (when released) ($15)\nBrace your loins for: Broforce Beta, Online Multiplayer, Level Sharing + Steam key (when released) x2 ($25)",
         "developer": "Devolver Digital",
         "platform": {
             "android": false,
@@ -3540,7 +3540,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/274190/",
             "developer": "http://www.freelives.net/"
         },
-        "notes": "Linux version coming soon. \n Store page: http://www.freelives.net/BROFORCE/PREORDER/PreOrders.html",
+        "notes": "Linux version coming soon.\nStore page: http://www.freelives.net/BROFORCE/PREORDER/PreOrders.html",
         "extras": false
     },
     {
@@ -3878,7 +3878,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/249380/",
             "developer": "http://www.stainlessgames.com/"
         },
-        "notes": "Early Access on Steam beginning on 27 March. Upon release, the game will be ported to Mac and Linux and a DRM-free version will be made available. \n Store page: http://www.carmageddon.com/preorder",
+        "notes": "Early Access on Steam beginning on 27 March. Upon release, the game will be ported to Mac and Linux and a DRM-free version will be made available.\nStore page: http://www.carmageddon.com/preorder",
         "extras": false
     },
     {
@@ -3930,7 +3930,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/227860/",
             "developer": "http://www.sauropodstudio.com/"
         },
-        "notes": "Also available via Steam Early Access. \n Humble Store purchase provides a Steam key.",
+        "notes": "Also available via Steam Early Access.\nHumble Store purchase provides a Steam key.",
         "extras": false
     },
     {
@@ -4307,7 +4307,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/chernobyl-underground/",
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/chernobyl-underground/",
         "extras": false
     },
     {
@@ -4889,7 +4889,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/264690",
             "developer": "http://dumbandfat.com/"
         },
-        "notes": "The developer is currently working on a Linux version. \n Store page: http://coincryptgame.com/",
+        "notes": "The developer is currently working on a Linux version.\nStore page: http://coincryptgame.com/",
         "extras": false
     },
     {
@@ -4940,7 +4940,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-behind-enemy-lines/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/commandos-behind-enemy-lines/"
     },
     {
         "name": "Commandos: Beyond the Call of Duty",
@@ -4964,7 +4964,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-beyond-the-call-of-duty/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/commandos-beyond-the-call-of-duty/"
     },
     {
         "name": "Commandos 2: Men of Courage",
@@ -4988,7 +4988,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-2-men-of-courage/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/commandos-2-men-of-courage/"
     },
     {
         "name": "Commandos 3: Destination Berlin",
@@ -5012,7 +5012,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-3-destination-berlin/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/commandos-3-destination-berlin/"
     },
     {
         "name": "Commandos: Strike Force",
@@ -5036,7 +5036,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/commandos-strike-force/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/commandos-strike-force/"
     },
     {
         "name": "CONSORTIUM",
@@ -5287,7 +5287,7 @@ var games = [
         "URL": {
             "developer": "http://3030.ca/"
         },
-        "notes": "Early Access game. \n Store page: http://www.cosmochoria.com/",
+        "notes": "Early Access game.\nStore page: http://www.cosmochoria.com/",
         "extras": false
     },
     {
@@ -5312,7 +5312,7 @@ var games = [
         "URL": {
             "developer": "http://3030.ca/"
         },
-        "notes": "Early Access game. \n Store page: http://www.cosmochoria.com/",
+        "notes": "Early Access game.\nStore page: http://www.cosmochoria.com/",
         "extras": false
     },
     {
@@ -5363,7 +5363,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/320340",
             "developer": "http://www.chasing-carrots.com/"
         },
-        "notes": "Currently on sale at 33% off for $9.99. \n Regional pricing: £10.99/€14,99. \n Store page: http://cosmo-nautica.com/getit.html",
+        "notes": "Currently on sale at 33% off for $9.99.\nRegional pricing: £10.99/€14,99.\nStore page: http://cosmo-nautica.com/getit.html",
         "extras": false
     },
     {
@@ -5417,7 +5417,7 @@ var games = [
             "desura": "http://www.desura.com/games/crater-maker",
             "developer": "http://www.pwmgames.com/"
         },
-        "notes": "Game is currently in alpha phase of development. \n Store page: http://www.pwmgames.com/crater-maker/#humble",
+        "notes": "Game is currently in alpha phase of development.\nStore page: http://www.pwmgames.com/crater-maker/#humble",
         "extras": false
     },
     {
@@ -5520,8 +5520,8 @@ var games = [
         },
         "URL": {
             "developer": "http://www.mergegames.com/"
-        },  
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/creatures-exodus/"
+        },
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/creatures-exodus/"
     },
     {
         "name": "Creatures: Village",
@@ -5545,7 +5545,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/creatures-village/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/creatures-village/"
     },
     {
         "name": "Croixleur Sigma",
@@ -6184,7 +6184,7 @@ var games = [
         },
         "URL": {
             "developer": "http://darkestdungeon.com/"
-        },  
+        },
         "notes": "Store page: http://darkestdungeon.com/buy/",
         "extras": true
     },
@@ -6578,7 +6578,7 @@ var games = [
             "linux": true,
             "mac": true,
             "audio": true
-        },  
+        },
         "drm": {
             "steam": true,
             "desura": false,
@@ -6662,10 +6662,10 @@ var games = [
         },
         "URL": {
             "developer": "http://www.leveluplabs.com/"
-        },  
+        },
         "notes": "http://www.defendersquest.com/2/?page=preorder",
         "extras": true
-    },  
+    },
     {
         "name": "Defender's Quest II - Epic Pack of Awesome",
         "url": "defendersquest2_immortal/Dueh7Gst3Sfyt",
@@ -6903,7 +6903,7 @@ var games = [
         "name": "Delver's Drop",
         "url": "delversdrop/P4fpKfKrQ6hl",
         "price": "15",
-        "description": "Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access. ($15) \n Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access and soundtrack.",
+        "description": "Pre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access. ($15)\nPre-order Delver's Drop now and get the game cross-platform and DRM-free upon its release! Includes Beta access and soundtrack.",
         "developer": "Pixelscopic",
         "platform": {
             "android": false,
@@ -7316,7 +7316,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/270310/",
             "developer": "http://www.deirdrakiai.com/"
         },
-        "notes": "It allegedly includes a soundtrack, even though the widget description doesn't mention it. \n Store page: http://www.dominiquepamplemousse.com/#buy-desktop",
+        "notes": "It allegedly includes a soundtrack, even though the widget description doesn't mention it.\nStore page: http://www.dominiquepamplemousse.com/#buy-desktop",
         "extras": false
     },
     {
@@ -7343,7 +7343,7 @@ var games = [
             "desura": "http://www.desura.com/games/dont-move",
             "developer": "http://www.steverichey.com/"
         },
-        "notes": "The desktop version is free, you're basically purchasing the Android version here. \n Store page: http://www.steverichey.com/dontmove/",
+        "notes": "The desktop version is free, you're basically purchasing the Android version here.\nStore page: http://www.steverichey.com/dontmove/",
         "extras": false
     },
     {
@@ -7607,7 +7607,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/237850/",
             "developer": "http://redthreadgames.com/"
         },
-        "notes": "Pre-order the whole season and start playing Episode 1. \n Store page: http://redthreadgames.com/games/chapters/#post-182",
+        "notes": "Pre-order the whole season and start playing Episode 1.\nStore page: http://redthreadgames.com/games/chapters/#post-182",
         "extras": false
     },
     {
@@ -7633,7 +7633,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/237850/",
             "developer": "http://redthreadgames.com/"
         },
-        "notes": "Pre-order the whole season and start playing Episode 1. \n Store page: http://redthreadgames.com/games/chapters/#post-182",
+        "notes": "Pre-order the whole season and start playing Episode 1.\nStore page: http://redthreadgames.com/games/chapters/#post-182",
         "extras": true
     },
     {
@@ -7658,7 +7658,7 @@ var games = [
         "URL": {
             "developer": "http://www.celsiusgs.com"
         },
-        "notes": "Currently on sale at 20% off, regular price is $15. \n Store page: http://celsiusgs.com/drifter/preorder.php",
+        "notes": "Currently on sale at 20% off, regular price is $15.\nStore page: http://celsiusgs.com/drifter/preorder.php",
         "extras": false
     },
     {
@@ -7760,7 +7760,7 @@ var games = [
         "URL": {
             "developer": "http://duelyst.tumblr.com/"
         },
-        "notes": "The other widgets mention a Steam key, but not this one. \n Store page: http://duelyst.com/#pledge",
+        "notes": "The other widgets mention a Steam key, but not this one.\nStore page: http://duelyst.com/#pledge",
         "extras": false
     },
     {
@@ -8678,7 +8678,7 @@ var games = [
             "developer": "http://ansimuz.com/"
         },
         "extras": false,
-        "notes": "Alpha access. \n Store page: http://elliotquest.com/"
+        "notes": "Alpha access.\nStore page: http://elliotquest.com/"
     },
     {
         "name": "Elliot Quest: Deluxe Edition",
@@ -8704,7 +8704,7 @@ var games = [
             "developer": "http://ansimuz.com/"
         },
         "extras": true,
-        "notes": "Alpha access. \n Store page: http://elliotquest.com/"
+        "notes": "Alpha access.\nStore page: http://elliotquest.com/"
     },
     {
         "name": "Emerald",
@@ -9037,7 +9037,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "notes": "Store page http://www.ethan-game.com/buy/\nSteam key if/when it gets Greenlit.\nLinux and Mac versions coming later in 2014.",
         "extras": false
     },
     {
@@ -9059,7 +9059,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "notes": "Store page http://www.ethan-game.com/buy/\nSteam key if/when it gets Greenlit.\nLinux and Mac versions coming later in 2014.",
         "extras": true
     },
     {
@@ -9081,7 +9081,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "notes": "Store page http://www.ethan-game.com/buy/\nSteam key if/when it gets Greenlit.\nLinux and Mac versions coming later in 2014.",
         "extras": true
     },
     {
@@ -9103,7 +9103,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://www.ethan-game.com/buy/ \n Steam key if/when it gets Greenlit. \n Linux and Mac versions coming later in 2014.",
+        "notes": "Store page http://www.ethan-game.com/buy/\nSteam key if/when it gets Greenlit.\nLinux and Mac versions coming later in 2014.",
         "extras": true
     },
     {
@@ -9514,10 +9514,10 @@ var games = [
         "URL": {
             "review": "http://www.gamersftw.co.uk/video-games/review-flip-puzzler-windows-android-new-indie-devs-block/",
             "developer": "http://perroelectrico.com/"
-        },  
+        },
         "notes": "Store page: http://perroelectrico.com/flip/",
         "extras": false
-    },  
+    },
     {
         "name": "Flotilla",
         "url": "flotilla",
@@ -9567,7 +9567,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/football-director/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/football-director/"
     },
     {
         "name": "Fortix 2",
@@ -10744,7 +10744,7 @@ var games = [
         },
         "notes": "Store page: http://www.spiderwebsoftware.com/geneforge5/index.html",
         "extras": false
-    },  
+    },
     {
         "name": "Generic Space Shooter",
         "url": "genericspaceshooter/Gkdow4",
@@ -10952,7 +10952,7 @@ var games = [
             "desura": "http://www.desura.com/games/gnomoria",
             "developer": "http://gnomoria.com"
         },
-        "notes": "20% discount during alpha \n Immediate access to alpha",
+        "notes": "20% discount during alpha\nImmediate access to alpha",
         "extras": false
     },
     {
@@ -11162,7 +11162,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/241910/",
             "developer": "http://www.daedalic.de/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website. \n Store page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
         "extras": false
     },
     {
@@ -11189,7 +11189,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/241910/",
             "developer": "http://www.daedalic.de/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website. \n Store page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
         "extras": false
     },
     {
@@ -11241,7 +11241,7 @@ var games = [
             "review": "http://www.youtube.com/watch?v=CnLB3qp8Mao",
             "developer": "http://www.holoville.com/games/"
         },
-        "notes": "3-tier widget where you can purchase the game ($5.99), the OST ($4.99), and both ($9.99). \n Store page: http://www.goscurry.com/buy.php",
+        "notes": "3-tier widget where you can purchase the game ($5.99), the OST ($4.99), and both ($9.99).\nStore page: http://www.goscurry.com/buy.php",
         "extras": false
     },
     {
@@ -11550,7 +11550,7 @@ var games = [
         "URL": {
             "developer": "http://livelyivy.com/"
         },
-        "notes": "Currently on sale at 33% off, regular price is $14.99. \n Store page: http://gravityghost.com/",
+        "notes": "Currently on sale at 33% off, regular price is $14.99.\nStore page: http://gravityghost.com/",
         "extras": false
     },
     {
@@ -11575,7 +11575,7 @@ var games = [
         "URL": {
             "developer": "http://livelyivy.com/"
         },
-        "notes": "Currently on sale at 40% off, regular price is $4.99. \n Store page: http://gravityghost.com/",
+        "notes": "Currently on sale at 40% off, regular price is $4.99.\nStore page: http://gravityghost.com/",
         "extras": false
     },
     {
@@ -11810,7 +11810,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "The widget says pre-order even though the game has already been released. No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/guise-of-the-wolf/"
+        "notes": "The widget says pre-order even though the game has already been released. No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/guise-of-the-wolf/"
     },
     {
         "name": "Gunpoint",
@@ -12300,7 +12300,7 @@ var games = [
         },
         "URL": {
             "developer": "http://www.aheartfulofgames.com/"
-        },  
+        },
         "notes": "Store page: http://www.aheartfulofgames.com/preorder/",
         "extras": false
     },
@@ -12481,7 +12481,7 @@ var games = [
             "review": "http://indiegamesaaa.com/2013/09/23/heroes-of-loot-review/",
             "developer": "http://orangepixel.net/"
         },
-        "notes": "Java required to run the game. \n Store page: http://www.orangepixel.net/heroesofloot/buy/",
+        "notes": "Java required to run the game.\nStore page: http://www.orangepixel.net/heroesofloot/buy/",
         "extras": false
     },
     {
@@ -12919,7 +12919,7 @@ var games = [
         "URL": {
             "developer": "http://www.heart-machine.com/home1/"
         },
-        "notes": "Store page: http://www.heart-machine.com/ \n This is a widget for the game Hyper Light Drifter.",
+        "notes": "Store page: http://www.heart-machine.com/\nThis is a widget for the game Hyper Light Drifter.",
         "extras": true
     },
     {
@@ -12944,7 +12944,7 @@ var games = [
         "URL": {
             "developer": "http://www.heart-machine.com/home1/"
         },
-        "notes": "Store page: http://www.heart-machine.com/ \n This is a widget for the game Hyper Light Drifter.",
+        "notes": "Store page: http://www.heart-machine.com/\nThis is a widget for the game Hyper Light Drifter.",
         "extras": true
     },
     {
@@ -13087,7 +13087,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/imperial-glory/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/imperial-glory/"
     },
     {
         "name": "In Exilium",
@@ -13163,7 +13163,7 @@ var games = [
         "URL": {
             "developer": "http://www.northwaygames.com/"
         },
-        "notes": "Currently on sale at 33% off, regular price is $14.99. \n Linux version available for free at http://www.incredipede.com/linux.html"
+        "notes": "Currently on sale at 33% off, regular price is $14.99.\nLinux version available for free at http://www.incredipede.com/linux.html"
     },
     {
         "name": "Inescapable",
@@ -13510,7 +13510,7 @@ var games = [
             "steam": "http://steamcommunity.com/app/243970/",
             "developer": "http://kleientertainment.com/"
         },
-        "notes": "Multitier widget which also offers only the game for $15.99. \n Early Access only available for Windows and Mac. \n Store page: http://www.invisibleincgame.com/",
+        "notes": "Multitier widget which also offers only the game for $15.99.\nEarly Access only available for Windows and Mac.\nStore page: http://www.invisibleincgame.com/",
         "extras": false
     },
     {
@@ -13690,8 +13690,8 @@ var games = [
             "steam": "http://store.steampowered.com/app/241320",
             "developer": "http://www.ludosity.com/"
         },
-        "notes": "Linux version will be added to all purchases when it's made available. \n Store page: http://www.ittledew.com/purchase/",
-        "extras": false        
+        "notes": "Linux version will be added to all purchases when it's made available.\nStore page: http://www.ittledew.com/purchase/",
+        "extras": false
     },
     {
         "name": "Jack Houston: Episode 1",
@@ -14405,7 +14405,7 @@ var games = [
         "URL": {
                 "developer": "http://mechabit.co.uk/"
         },
-        "notes": "Linux version coming soon. \n Store page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
+        "notes": "Linux version coming soon.\nStore page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
         "extras": false
     },
     {
@@ -14430,7 +14430,7 @@ var games = [
         "URL": {
                 "developer": "http://mechabit.co.uk/"
         },
-        "notes": "Linux version coming soon. \n Store page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
+        "notes": "Linux version coming soon.\nStore page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
         "extras": true
     },
     {
@@ -14599,7 +14599,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/248630/",
             "developer": "http://www.flyleapstudios.com/"
         },
-        "notes": "Early Access game. \n Store page: http://www.kingdomsrise.com/?page_id=184",
+        "notes": "Early Access game.\nStore page: http://www.kingdomsrise.com/?page_id=184",
         "extras": false
     },
     {
@@ -14632,7 +14632,7 @@ var games = [
         "name": "KRUNCH",
         "url": "krunch/Keus87Sgue",
         "price": "9.99",
-        "description": "Get KRUNCH instantly! Cross-platform and DRM-free. ($9.99) \n Get KRUNCH and the original soundtrack instantly! Cross-platform and DRM-free ($13.99)",
+        "description": "Get KRUNCH instantly! Cross-platform and DRM-free. ($9.99)\nGet KRUNCH and the original soundtrack instantly! Cross-platform and DRM-free ($13.99)",
         "developer": "LeGrudge & Rugged",
         "platform": {
             "android": false,
@@ -15363,7 +15363,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/250030/",
             "developer": "http://geetagames.com/"
         },
-        "notes": "Linux version coming soon. \n Store page: http://geetagames.com/store/",
+        "notes": "Linux version coming soon.\nStore page: http://geetagames.com/store/",
         "extras": false
     },
     {
@@ -15390,9 +15390,9 @@ var games = [
             "steam": "http://store.steampowered.com/app/250030/",
             "developer": "http://geetagames.com/"
         },
-        "notes": "Linux version coming soon. \n Store page: http://geetagames.com/store/",
+        "notes": "Linux version coming soon.\nStore page: http://geetagames.com/store/",
         "extras": true
-    },  
+    },
     {
         "name": "Little Cells",
         "url": "littlecells/Zljksajrf908243u",
@@ -15509,7 +15509,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon. \n Regional pricing: £14.99/€18,99. \n Store page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon.\nRegional pricing: £14.99/€18,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": false
     },
     {
@@ -15535,7 +15535,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon. \n Regional pricing: £16.99/€21,99. \n Store page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon.\nRegional pricing: £16.99/€21,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -15561,7 +15561,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon. \n Regional pricing: £21.99/€25,99. \n Store page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon.\nRegional pricing: £21.99/€25,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -15587,7 +15587,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon. \n Regional pricing: £49/€59. \n Store page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon.\nRegional pricing: £49/€59.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -15613,7 +15613,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon. \n Regional pricing: £69/€89. \n Store page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon.\nRegional pricing: £69/€89.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -15642,7 +15642,7 @@ var games = [
             "developer": "http://www.winterwolves.com/"
         },
         "notes": "Couldn't find the page containing the Humble Store widget. From the price I suppose it includes the Castle Of N'Mar expansion.",
-        "extras": false        
+        "extras": false
     },
     {
         "name": "Lost Marbles",
@@ -15780,7 +15780,7 @@ var games = [
         "name": "Luminesca",
         "url": "luminesca/UszAaVweVeco",
         "price": "4.99",
-        "description": "This pre-order includes alpha downloads for Windows, Mac and Linux, and they are all DRM-free!\nwebsite description: \nPre-order now to get early access to work-in-progress builds! \n1 of 5 chapters available instantly, with more added at no extra cost when they are released in the future. \nThe current version is subject to change and may contain bugs",
+        "description": "This pre-order includes alpha downloads for Windows, Mac and Linux, and they are all DRM-free!\nwebsite description:\nPre-order now to get early access to work-in-progress builds!\n1 of 5 chapters available instantly, with more added at no extra cost when they are released in the future.\nThe current version is subject to change and may contain bugs",
         "developer": "Matt Glanville",
         "platform": {
             "android": false,
@@ -15799,7 +15799,7 @@ var games = [
             "developer": "http://luminesca.blogspot.com",
             "desura": "http://www.desura.com/games/luminesca"
         },
-        "notes": "Currently on sale at 50% off, regular price is $9.99. \n Store page: http://www.luminesca.com/#buy",
+        "notes": "Currently on sale at 50% off, regular price is $9.99.\nStore page: http://www.luminesca.com/#buy",
         "extras": false
     },
     {
@@ -16547,7 +16547,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/monster-truck-destruction-2/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/monster-truck-destruction-2/"
     },
     {
         "name": "Monsters & Medicine",
@@ -16960,7 +16960,7 @@ var games = [
         "URL": {
             "developer": "http://www.schleinzer.com/"
         },
-        "notes": "Linux and Mac versions are currently under development. \n Store page: http://naturalsoccer.com/buy",
+        "notes": "Linux and Mac versions are currently under development.\nStore page: http://naturalsoccer.com/buy",
         "extras": false
     },
     {
@@ -16993,7 +16993,7 @@ var games = [
         "name": "Neocolonialism",
         "url": "neocolonialism/Ndy7Rdg6Drdf",
         "price": "10",
-        "description": "Order Neocolonialism now! \n DRM-free, custom key (Steam-redeemable if it ever gets Greenlit).",
+        "description": "Order Neocolonialism now!\nDRM-free, custom key (Steam-redeemable if it ever gets Greenlit).",
         "developer": "Subaltern Games",
         "platform": {
             "android": false,
@@ -17040,8 +17040,8 @@ var games = [
         },
         "notes": "Store page: http://www.spiderwebsoftware.com/nethergateres/index.html",
         "extras": false
-    },  
-    {   
+    },
+    {
         "name": "Nethergate: Resurrection Hint Book",
         "url": "nethergate_resurrectionhintbook/Adkfow345j",
         "price": "6",
@@ -17241,7 +17241,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
         },
         "notes": "Store page: http://www.nightinthewoods.com/#humble",
         "extras": false
@@ -17266,7 +17266,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
         },
         "notes": "Store page: http://www.nightinthewoods.com/#humble",
         "extras": true
@@ -17291,7 +17291,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
         },
         "notes": "Store page: http://www.nightinthewoods.com/#humble",
         "extras": true
@@ -17316,7 +17316,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
         },
         "notes": "Store page: http://www.nightinthewoods.com/#humble",
         "extras": true
@@ -17341,7 +17341,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
         },
         "notes": "Store page: http://www.nightinthewoods.com/#humble",
         "extras": true
@@ -17366,7 +17366,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
         },
         "notes": "Store page: http://www.nightinthewoods.com/#humble",
         "extras": true
@@ -17391,7 +17391,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
         },
         "notes": "Store page: http://www.nightinthewoods.com/#humble",
         "extras": true
@@ -17416,7 +17416,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://infiniteammo.ca/ \n http://www.bombsfall.com/"
+            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
         },
         "notes": "Store page: http://www.nightinthewoods.com/#humble",
         "extras": true
@@ -17740,20 +17740,20 @@ var games = [
             "windows": true,
             "mac": false,
             "audio": true
-        },  
+        },
         "drm": {
             "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": false
-        },  
+        },
         "URL": {
             "steam": "http://store.steampowered.com/app/226100/",
             "developer": "http://www.q-games.com/"
-        },  
+        },
         "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-chief-engineer/",
         "extras": true
-    },  
+    },
     {
         "name": "NNG: SSC Head of R&D",
         "url": "nomnomgalaxy_sscheadofrd/asdwoei4kolkj",
@@ -17889,7 +17889,7 @@ var games = [
         "name": "NOWHERE",
         "url": "nowhere_alpha/Ndhu8Tgey5Fd",
         "price": "21",
-        "description": "All alpha versions. Final release and Steam key, when available. ($21) \n All alpha versions, paniq album CD. Final release, Steam key, artbook & OST, when available. ($51) \n  All alpha versions, credit mention, paniq album CD. Final release, Steam key, artbook, OST & avatar, when available. ($75) \n All alpha versions, credit mention, paniq album CD. Final release, Steam key, artbook, OST, avatar & exclusive T-Shirt, when available. ($121) \n  Alphas, credit mention, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt & your cosmic bubble as starting world. ($233) \n Alphas, credit mention, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt, your world, DIN A2 calendar & cheat code. ($606) \n Alphas, extra credits, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt, your world, calendar & cheat code. ($2,333) \n Alphas, extra credits, paniq album CD,intro video. Later: Final release, Steam key, art book, OST, avatar, T-Shirt, your world, calendar & cheat code. ($10,100)",
+        "description": "All alpha versions. Final release and Steam key, when available. ($21)\nAll alpha versions, paniq album CD. Final release, Steam key, artbook & OST, when available. ($51)\nAll alpha versions, credit mention, paniq album CD. Final release, Steam key, artbook, OST & avatar, when available. ($75)\nAll alpha versions, credit mention, paniq album CD. Final release, Steam key, artbook, OST, avatar & exclusive T-Shirt, when available. ($121)\nAlphas, credit mention, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt & your cosmic bubble as starting world. ($233)\nAlphas, credit mention, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt, your world, DIN A2 calendar & cheat code. ($606)\nAlphas, extra credits, paniq album CD. Later: Final release, Steam key, artbook, OST, avatar, T-Shirt, your world, calendar & cheat code. ($2,333)\nAlphas, extra credits, paniq album CD,intro video. Later: Final release, Steam key, art book, OST, avatar, T-Shirt, your world, calendar & cheat code. ($10,100)",
         "developer": "Duangle",
         "platform": {
             "android": false,
@@ -17907,7 +17907,7 @@ var games = [
         "URL": {
             "developer": "http://www.duangle.com/"
         },
-        "notes": "The Alpha Tribe tier currently on sale, full price is $35. \n Store page: http://www.duangle.com/nowhere",
+        "notes": "The Alpha Tribe tier currently on sale, full price is $35.\nStore page: http://www.duangle.com/nowhere",
         "extras": true
     },
     {
@@ -18685,7 +18685,7 @@ var games = [
             "desura": "http://www.desura.com/games/paper-dungeons",
             "developer": "http://www.agentmega.net/"
         },
-        "notes": "Mac version coming soon. No mention about DRM or lack thereof neither in the widget nor in the game's website. \n Store page: http://paperdungeons.net/#!/buy-it",
+        "notes": "Mac version coming soon. No mention about DRM or lack thereof neither in the widget nor in the game's website.\nStore page: http://paperdungeons.net/#!/buy-it",
         "extras": false
     },
     {
@@ -18746,7 +18746,7 @@ var games = [
         "name": "Papo & Yo",
         "url": "papoandyo/Pdh6gdey5eh",
         "price": "14.99",
-        "description": "Get Papo & Yo for Windows via Steam key Instantly! ($14.99) \n Get Papo & Yo for Windows via Steam key + Soundtrack Instantly! ($16.99)",
+        "description": "Get Papo & Yo for Windows via Steam key Instantly! ($14.99)\nGet Papo & Yo for Windows via Steam key + Soundtrack Instantly! ($16.99)",
         "developer": "Minority Media",
         "platform": {
             "android": false,
@@ -18891,10 +18891,10 @@ var games = [
         },
         "URL": {
             "developer": "http://www.asthreeworks.com/"
-        },  
+        },
         "notes": "Store page: http://www.asthreeworks.com/games/",
         "extras": true
-    },  
+    },
     {
         "name": "Paradise Perfect Boat Rescue",
         "url": "paradiseperfectboatrescue/F38ahs5Fgfh",
@@ -18918,7 +18918,7 @@ var games = [
             "review": "http://pixelsordeath.com/the-short/not-capsized-a-paradise-perfect-boat-rescue-review",
             "developer": "http://kittylambda.com/"
         },
-        "notes": "Linux version should be coming soon: https://indiegamestand.com/?saleId=87 \n Store page: http://paradiseperfectboatrescue.com/#buynow",
+        "notes": "Linux version should be coming soon: https://indiegamestand.com/?saleId=87\nStore page: http://paradiseperfectboatrescue.com/#buynow",
         "extras": false
     },
     {
@@ -18943,7 +18943,7 @@ var games = [
         "URL": {
             "developer": "http://meteoricgames.com/"
         },
-        "notes": "Mac version coming soon. \n Store page: http://www.paragongame.com/buy/",
+        "notes": "Mac version coming soon.\nStore page: http://www.paragongame.com/buy/",
         "extras": false
     },
     {
@@ -19312,7 +19312,7 @@ var games = [
             "review": "http://www.youtube.com/watch?v=-KbZ27G2j-M",
             "developer": "http://pixelboygame.com/about/"
         },
-        "notes": "Steam and Desura keys coming when the game is released on those platforms. \n Store page: http://pixelboygame.com/",
+        "notes": "Steam and Desura keys coming when the game is released on those platforms.\nStore page: http://pixelboygame.com/",
         "extras": false
     },
     {
@@ -19362,7 +19362,7 @@ var games = [
         "URL": {
             "developer": "http://double11.co.uk/"
         },
-        "notes": "PixelJunk Eden not available on Linux. \n Store page: http://double11.co.uk/paypal-promo/",
+        "notes": "PixelJunk Eden not available on Linux.\nStore page: http://double11.co.uk/paypal-promo/",
         "extras": false
     },
     {
@@ -19470,7 +19470,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/police-simulator/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/police-simulator/"
     },
     {
         "name": "Police Simulator 2",
@@ -19494,7 +19494,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/police-simulator-2/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/police-simulator-2/"
     },
     {
         "name": "Poltergeist: A Pixelated Horror",
@@ -19574,7 +19574,7 @@ var games = [
             "desura": "http://www.desura.com/games/pop-methodology-experiment-one",
             "developer": "http://www.popme1.com/"
         },
-        "notes": "Linux version, when greenlit. \n Greenlight: http://steamcommunity.com/sharedfiles/filedetails/?id=93935251",
+        "notes": "Linux version, when greenlit.\nGreenlight: http://steamcommunity.com/sharedfiles/filedetails/?id=93935251",
         "extras": false
     },
     {
@@ -19706,7 +19706,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/praetorians/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/praetorians/"
     },
     {
         "name": "Primordia",
@@ -19924,7 +19924,7 @@ var games = [
         },
         "notes": "Store page: http://www.cipherprime.com/mayday",
         "extras": false
-    },  
+    },
     {
         "name": "Pushcat",
         "url": "pushcat/Pslek2ldkso",
@@ -20211,7 +20211,7 @@ var games = [
         "URL": {
             "developer": "http://flippfly.com/"
         },
-        "notes": "Steam key included via Flippfly account. \n Store page: http://flippfly.com/paypal/",
+        "notes": "Steam key included via Flippfly account.\nStore page: http://flippfly.com/paypal/",
         "extras": true
     },
     {
@@ -20315,7 +20315,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/251650/",
             "developer": "http://ragtagstudio.com/"
         },
-        "notes": "Pre-order. \n Store page: http://ragtagstudio.com/?page_id=700",
+        "notes": "Pre-order.\nStore page: http://ragtagstudio.com/?page_id=700",
         "extras": false
     },
     {
@@ -20341,7 +20341,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/251650/",
             "developer": "http://ragtagstudio.com/"
         },
-        "notes": "Pre-order. \n Store page: http://ragtagstudio.com/?page_id=700",
+        "notes": "Pre-order.\nStore page: http://ragtagstudio.com/?page_id=700",
         "extras": true
     },
     {
@@ -20367,7 +20367,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/251650/",
             "developer": "http://ragtagstudio.com/"
         },
-        "notes": "Pre-order. \n Store page: http://ragtagstudio.com/?page_id=700",
+        "notes": "Pre-order.\nStore page: http://ragtagstudio.com/?page_id=700",
         "extras": true
     },
     {
@@ -21228,7 +21228,7 @@ var games = [
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it. \n Store page: http://www.mergegames.com/roaming-fortress/"
+        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/roaming-fortress/"
     },
     {
         "name": "Rochard",
@@ -21581,7 +21581,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/327860/",
             "developer": "https://saltthegame.com/pages/aboutlavaboots/"
         },
-        "notes": "Early Access game. \n Support for more operative systems is planned. \n Store page: https://saltthegame.com/purchasestep1/",
+        "notes": "Early Access game.\nSupport for more operative systems is planned.\nStore page: https://saltthegame.com/purchasestep1/",
         "extras": false
     },
     {
@@ -21724,7 +21724,7 @@ var games = [
             "gog": false,
             "drm-free": false
         },
-        "URL": { 
+        "URL": {
             "review": "http://www.destructoid.com/review-sanctum-2-253972.phtml",
             "steam": "http://store.steampowered.com/app/237190/",
             "developer": "http://coffeestainstudios.com/"
@@ -23669,7 +23669,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "desura": "http://www.desura.com/games/somyeol-hd", 
+            "desura": "http://www.desura.com/games/somyeol-hd",
             "developer": "http://www.somyeol.com/"
         },
         "extras": false
@@ -23943,7 +23943,7 @@ var games = [
         "URL": {
             "developer": "http://www.ent3rgaming.co.uk/"
         },
-        "notes": "No mention about DRM or lack thereof neither in the widget nor in the game's website. \n Store page: http://ent3rgaming.proboards.com/page/Purchase",
+        "notes": "No mention about DRM or lack thereof neither in the widget nor in the game's website.\nStore page: http://ent3rgaming.proboards.com/page/Purchase",
         "extras": false
     },
     {
@@ -24257,7 +24257,7 @@ var games = [
         "name": "Spud's Quest",
         "url": "spudsquest/Shu7Gyh3Dfgt",
         "price": "8",
-        "description": "Get Spud's Quest for Windows PC instantly! -Completely DRM free! ($8) \n Get Spud's Quest for Windows PC Instantly! -Includes the Spud's Quest Soundtrack -Completely DRM free ($16)",
+        "description": "Get Spud's Quest for Windows PC instantly! -Completely DRM free! ($8)\nGet Spud's Quest for Windows PC Instantly! -Includes the Spud's Quest Soundtrack -Completely DRM free ($16)",
         "developer": "Chris Davis",
         "platform": {
             "android": false,
@@ -24277,7 +24277,7 @@ var games = [
             "desura": "http://www.desura.com/games/spuds-quest",
             "developer": "http://www.spudsquest.com/"
         },
-        "notes": "Store page: http://www.spudsquest.com/ \n Steam and GOG keys if the game is accepted on those stores",
+        "notes": "Store page: http://www.spudsquest.com/\nSteam and GOG keys if the game is accepted on those stores",
         "extras": false
     },
     {
@@ -25424,13 +25424,13 @@ var games = [
             "steam": "http://store.steampowered.com/app/95000",
             "developer": "http://spikysnail.com/category/spikysnail_blog/"
         },
-        "notes": "The game has been released long ago, so it's not clear whether this 30% off pre-order widget is still working. \n Linux version only available on Steam."
+        "notes": "The game has been released long ago, so it's not clear whether this 30% off pre-order widget is still working.\nLinux version only available on Steam."
     },
     {
         "name": "Super Splatters",
         "url": "supersplatters_multitier/swDZivGKrr3g",
         "price": "9.99",
-        "description": "Buy now and get both a steam key and the DRM free version instantly! ($9.99) \n Buy now and get both a steam key and the DRM free version instantly + get the amazing original soundtrack by Egozot! ($14.99)",
+        "description": "Buy now and get both a steam key and the DRM free version instantly! ($9.99)\nBuy now and get both a steam key and the DRM free version instantly + get the amazing original soundtrack by Egozot! ($14.99)",
         "developer": "SpikySnail",
         "platform": {
             "android": false,
@@ -25450,7 +25450,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/95000",
             "developer": "http://spikysnail.com/category/spikysnail_blog/"
         },
-        "notes": "Linux version only available on Steam. \n Store page: http://spikysnail.com/#watch-headline-title"
+        "notes": "Linux version only available on Steam.\nStore page: http://spikysnail.com/#watch-headline-title"
     },
     {
         "name": "Super Time Force Ultra",
@@ -26639,7 +26639,7 @@ var games = [
         "URL": {
             "developer": "http://www.skygoblin.com/"
         },
-        "notes": "Widget probably no longer valid after the release of Chapter Two. \n Store page: http://thejourneydown.com/",
+        "notes": "Widget probably no longer valid after the release of Chapter Two.\nStore page: http://thejourneydown.com/",
         "extras": false
     },
     {
@@ -26756,7 +26756,7 @@ var games = [
             "windows": true,
             "mac": true,
             "audio": false
-        },  
+        },
         "drm": {
             "steam": true,
             "desura": false,
@@ -27119,7 +27119,7 @@ var games = [
         "URL": {
             "developer": "http://www.thespiritage.com/"
         },
-        "notes": "Allegedly being developed only for Windows, as the game's FAQ only mentions PC. \n Store page: http://www.thespiritage.com/preorder",
+        "notes": "Allegedly being developed only for Windows, as the game's FAQ only mentions PC.\nStore page: http://www.thespiritage.com/preorder",
         "extras": false
     },
     {
@@ -27145,7 +27145,7 @@ var games = [
             "review": "http://www.destructoid.com/review-the-sun-at-night-269964.phtml",
             "developer": "http://minicorestudios.com/"
         },
-        "notes": "Store page: http://minicorestudios.com/shop/digital-downloads \n The game is supposed to be released for Mac and Linux at some point.",
+        "notes": "Store page: http://minicorestudios.com/shop/digital-downloads\nThe game is supposed to be released for Mac and Linux at some point.",
         "extras": false
     },
     {
@@ -27585,10 +27585,10 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "URL": { 
+        "URL": {
             "developer": "http://blog.mountolymp.us/"
         },
-        "notes": "Mac and Linux versions will be available if the Kickstarter stretch goals are reached with the pre-orders.\nSteam key if/when the game gets Greenlit.\nStore page: http://togetherthegame.com/",   
+        "notes": "Mac and Linux versions will be available if the Kickstarter stretch goals are reached with the pre-orders.\nSteam key if/when the game gets Greenlit.\nStore page: http://togetherthegame.com/",
         "extras": false
     },
     {
@@ -27851,7 +27851,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-1/",
+        "notes": "Steam key when released.\nStore page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-1/",
         "extras": true
     },
     {
@@ -27876,7 +27876,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-2/",
+        "notes": "Steam key when released.\nStore page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-2/",
         "extras": true
     },
     {
@@ -27901,7 +27901,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-3/",
+        "notes": "Steam key when released.\nStore page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-3/",
         "extras": true
     },
     {
@@ -27926,7 +27926,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-4/",
+        "notes": "Steam key when released.\nStore page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-4/",
         "extras": true
     },
     {
@@ -27951,7 +27951,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-5/",
+        "notes": "Steam key when released.\nStore page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-5/",
         "extras": true
     },
     {
@@ -27976,7 +27976,7 @@ var games = [
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when released. \n Store page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-6/",
+        "notes": "Steam key when released.\nStore page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-6/",
         "extras": true
     },
     {
@@ -28132,7 +28132,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "URL": { 
+        "URL": {
             "review": "http://www.destructoid.com/review-trine-2-217848.phtml",
             "desura": "http://www.desura.com/games/trine-2",
             "developer": "http://frozenbyte.com/"
@@ -28159,7 +28159,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "URL": { 
+        "URL": {
             "review": "http://www.destructoid.com/review-trine-2-217848.phtml",
             "steam": "http://store.steampowered.com/app/35720/",
             "developer": "http://frozenbyte.com/"
@@ -28341,7 +28341,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/259760/",
             "developer": "https://ackkstudios.wordpress.com/"
         },
-        "notes": "Mac and Linux versions are supposed to follow. \n Store page: http://projecty2k.com/two-brothers-pre-order.html",
+        "notes": "Mac and Linux versions are supposed to follow.\nStore page: http://projecty2k.com/two-brothers-pre-order.html",
         "extras": false
     },
     {
@@ -28368,7 +28368,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/259760/",
             "developer": "https://ackkstudios.wordpress.com/"
         },
-        "notes": "Mac and Linux versions are supposed to follow. \n Store page: http://projecty2k.com/two-brothers-pre-order.html",
+        "notes": "Mac and Linux versions are supposed to follow.\nStore page: http://projecty2k.com/two-brothers-pre-order.html",
         "extras": true
     },
     {
@@ -29274,7 +29274,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/230190/",
             "developer": "https://subterraneangames.com/"
         },
-        "notes": "DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.' \n Store page: https://wftogame.com/preorder.html",
+        "notes": "DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.'\nStore page: https://wftogame.com/preorder.html",
         "extras": false
     },
     {
@@ -29300,7 +29300,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/230190/",
             "developer": "https://subterraneangames.com/"
         },
-        "notes": "Includes exclusive sovereign dungeon theme and digital companion book. DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.' \n Store page: https://wftogame.com/preorder.html",
+        "notes": "Includes exclusive sovereign dungeon theme and digital companion book. DRM-free will be made available at launch. Mac and Linux are not available yet, but will be available 'soon.'\nStore page: https://wftogame.com/preorder.html",
         "extras": true
     },
     {
