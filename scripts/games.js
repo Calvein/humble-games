@@ -751,7 +751,7 @@ var games = [
         "description": "Get Aeon Command instantly! Cross-platform and DRM free!",
         "developer": "Bat Country Games",
         "platform": {
-            "android": false,
+            "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
@@ -766,6 +766,7 @@ var games = [
         "URL": {
             "review": "http://indiegamehq.com/review/aeon-command-by-bat-country-games/",
             "desura": "http://www.desura.com/games/aeon-command",
+            "steam": "http://store.steampowered.com/app/304670/",
             "developer": "http://www.aeoncommand.com/"
         },
         "notes": "Store page: http://www.aeoncommand.com/#humblewidget",
@@ -1030,16 +1031,16 @@ var games = [
         "extras": false
     },
     {
-        "name": "Amphora (Pre-Order)",
+        "name": "Amphora",
         "url": "amphora/ZOIwejr83jDdd",
         "price": "13.99",
-        "description": "Pre-order Amphora now! DRM-free for Windows and Mac!",
+        "description": "Purchase Amphora now! DRM-free for Windows!",
         "developer": "Moondrop",
         "platform": {
             "android": false,
             "linux": false,
             "windows": true,
-            "mac": true,
+            "mac": false,
             "audio": false
         },
         "drm": {
@@ -1139,10 +1140,10 @@ var games = [
         "name": "Anodyne",
         "url": "anodyne/Sndn9sjSnlz",
         "price": "9",
-        "description": "Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Desura and Steam!",
-        "developer": "Sean H. and Jon K.",
+        "description": "Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Steam!",
+        "developer": "Analgesic Productions L.L.C.",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -1150,7 +1151,7 @@ var games = [
         },
         "drm": {
             "steam": true,
-            "desura": true,
+            "desura": false,
             "gog": false,
             "drm-free": true
         },
@@ -1160,16 +1161,17 @@ var games = [
             "desura": "http://www.desura.com/games/anodyne",
             "developer": "http://www.anodynegame.com/"
         },
+        "notes": "Store page: http://www.anodynegame.com/#purchase",
         "extras": false
     },
     {
         "name": "Anodyne Premium",
         "url": "anodyne_soundtrack_edition/Sndn9sjSnlz",
         "price": "12",
-        "description": "Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Desura and Steam! Soundtrack included in FLAC and MP3 formats!",
-        "developer": "Sean H. and Jon K.",
+        "description": "Buy Anodyne now for Windows, Mac and Linux and get it DRM-free and redeem it on Steam! Soundtrack included in FLAC and MP3 formats!",
+        "developer": "Analgesic Productions L.L.C.",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -1187,6 +1189,7 @@ var games = [
             "desura": "http://www.desura.com/games/anodyne",
             "developer": "http://www.anodynegame.com/"
         },
+        "notes": "Store page: http://www.anodynegame.com/#purchase",
         "extras": false
     },
     {
@@ -1223,7 +1226,7 @@ var games = [
         "description": "Buy Anomaly 2 at 10% off! Get a Steam key for Anomaly 2 + get a DRM-free copy of Anomaly Korea for Windows!",
         "developer": "11 bit studios",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -1592,7 +1595,7 @@ var games = [
             "android": false,
             "windows": true,
             "linux": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -1604,7 +1607,7 @@ var games = [
         "URL": {
             "developer": "http://www.gamecoderstudios.com/"
         },
-        "notes": "Mac version coming later.\nStore page: http://attractio-game.com/shop/",
+        "notes": "Store page: http://attractio-game.com/shop/",
         "extras": false
     },
     {
@@ -2295,17 +2298,17 @@ var games = [
         "name": "Battle Fleet 2",
         "url": "battlefleet2/hKDSFjh243orusj",
         "price": "9.99",
-        "description": "Instantly download Battle Fleet 2, the WW2 naval strategy game. Available for Windows, DRM-free!",
+        "description": "Instantly download Battle Fleet 2, the WW2 naval strategy game. Available for Windows and Mac. Comes with DRM-free and Steam key.",
         "developer": "Capital j Media LLC",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -2934,18 +2937,18 @@ var games = [
         "name": "Bleed",
         "url": "bleed/kwKWcrUoVvpM",
         "price": "5",
-        "description": "Get it instantly and DRM free!",
+        "description": "Buy now and get Bleed instantly and DRM free! Includes a Steam key. ",
         "developer": "Ian Campbell",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": true
         },
         "drm": {
             "steam": true,
-            "desura": true,
+            "desura": false,
             "gog": false,
             "drm-free": true
         },
@@ -4846,7 +4849,7 @@ var games = [
         "description": "Get Cogs instantly! Cross-platform and DRM free.",
         "developer": "Lazy 8 Studios",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -6907,7 +6910,7 @@ var games = [
         "developer": "Pixelscopic",
         "platform": {
             "android": false,
-            "linux": true,
+            "linux": false,
             "windows": true,
             "mac": true,
             "audio": true
@@ -6923,7 +6926,7 @@ var games = [
             "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=124366711",
             "developer": "http://pixelscopic.com/"
         },
-        "notes": "Store page: http://delversdrop.com/preorder/",
+        "notes": "Linux and Android versions coming later.\nStore page: http://delversdrop.com/preorder/",
         "extras": false
     },
     {
@@ -9022,44 +9025,44 @@ var games = [
         "name": "Ethan: Meteor Hunter",
         "url": "ethanmeteorhunter/Met6Ger7Had",
         "price": "9.90",
-        "description": "Get Ethan: Meteor Hunter instantly! And DRM-free.",
+        "description": "Get Ethan: Meteor Hunter instantly! And DRM-free. Also includes a Steam key!",
         "developer": "Seaven Studio",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://www.ethan-game.com/buy/\nSteam key if/when it gets Greenlit.\nLinux and Mac versions coming later in 2014.",
+        "notes": "Linux and Mac versions coming later.\nStore page: http://www.ethan-game.com/buy/",
         "extras": false
     },
     {
         "name": "Ethan: Meteor Hunter Deluxe",
         "url": "ethanmeteorhunter_deluxe/Met6Ger7Had",
         "price": "14.90",
-        "description": "Get Ethan: Meteor Hunter with soundtrack, wallpapers, artbook & game guide! All DRM-free.",
+        "description": "Get Ethan: Meteor Hunter with soundtrack, wallpapers, artbook & game guide! All DRM-free. Also includes a Steam key!",
         "developer": "Seaven Studio",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://www.ethan-game.com/buy/\nSteam key if/when it gets Greenlit.\nLinux and Mac versions coming later in 2014.",
+        "notes": "Linux and Mac versions coming later.\nStore page: http://www.ethan-game.com/buy/",
         "extras": true
     },
     {
@@ -9071,17 +9074,17 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://www.ethan-game.com/buy/\nSteam key if/when it gets Greenlit.\nLinux and Mac versions coming later in 2014.",
+        "notes": "Linux and Mac versions coming later.\nWidget no longer available on the game's website; it was probably only used for pre-ordering purposes.",
         "extras": true
     },
     {
@@ -9093,17 +9096,17 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
-        "notes": "Store page http://www.ethan-game.com/buy/\nSteam key if/when it gets Greenlit.\nLinux and Mac versions coming later in 2014.",
+        "notes": "Linux and Mac versions coming later.\nWidget no longer available on the game's website; it was probably only used for pre-ordering purposes.",
         "extras": true
     },
     {
@@ -9863,16 +9866,16 @@ var games = [
         "extras": false
     },
     {
-        "name": "FRONTIERS (Pre-Order)",
+        "name": "FRONTIERS (Early Access)",
         "url": "frontiers/xqfFWtyrgio184gVD",
         "price": "15",
-        "description": "Missed the Kickstarter? Here's your chance to support FRONTIERS! Cross-platform and DRM-free! Pre-order now!",
+        "description": "Here's your chance to support FRONTIERS (Early Access)!",
         "developer": "AAD Productions",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
-            "mac": true,
+            "linux": false,
+            "mac": false,
             "audio": false
         },
         "drm": {
@@ -9882,9 +9885,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/293480",
             "developer": "http://aadgames.blogspot.com.es/"
         },
-        "notes": "Store page: http://explore-frontiers.com/#post-31",
+        "notes": "Widget no longer available at the game's website; it was probably only used for pre-ordering purposes.",
         "extras": true
     },
     {
@@ -10672,8 +10676,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -10688,7 +10692,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/80310/",
             "developer": "http://www.wadjeteyegames.com/"
         },
-        "notes": "It probably includes Mac and Linux builds as well, since it was part of a Humble Bundle.\nStore page: http://www.wadjeteyegames.com/games/gemini-rue/",
+        "notes": "Store page: http://www.wadjeteyegames.com/games/gemini-rue/",
         "extras": false
     },
     {
@@ -12000,7 +12004,7 @@ var games = [
         "description": "Get Hack, Slash, Loot instantly! Cross-platform and DRM-free.",
         "developer": "David Williamson",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -12211,7 +12215,7 @@ var games = [
         "description": "Get HDF instantly! Cross-platform and DRM-free.",
         "developer": "Binary Cocoa",
         "platform": {
-            "android": false,
+            "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
@@ -12613,7 +12617,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://www.hockeyquestionmark.com/golf/"
+            "developer": "http://www.hockeyquestionmark.com/"
         },
         "extras": false
     },
@@ -12998,7 +13002,7 @@ var games = [
         "name": "Icebound",
         "url": "icebound/Isldkw10dk",
         "price": "14.99",
-        "description": "Buy Icebound now! Download the game for PC, Mac and Linux.",
+        "description": "Buy Icebound now! Download the game for PC, Mac and Linux. Comes with Desura Key.",
         "developer": "Fastermind Games",
         "platform": {
             "android": false,
@@ -13009,11 +13013,12 @@ var games = [
         },
         "drm": {
             "steam": false,
-            "desura": false,
+            "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "desura": "http://www.desura.com/games/icebound",
             "developer": "http://www.fastermind.net/"
         },
         "notes": "Store page: http://iceboundgame.com/",
@@ -15188,52 +15193,56 @@ var games = [
     {
         "name": "Letter Quest: Grimm's Journey",
         "url": "letterquest/Flkjsdfoij190sd",
-        "price": "9.99",
-        "description": "Get Early Access (available now)! DRM-free! 8-song soundtrack! A Steam key if Letter Quest gets on Steam! Final release coming soon!",
+        "price": "7.99",
+        "description": "Get Letter Quest DRM-free for PC and Mac instantly + 8-song soundtrack + a Steam key + wallpapers + avatars!",
         "developer": "Bacon Bandit Games",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
-            "developer": "http://www.baconbanditgames.com/",
+            "review": "http://www.rockpapershotgun.com/2014/08/07/letter-quest-review/",
+            "steam": "http://store.steampowered.com/app/328730/",
+            "developer": "http://www.baconbanditgames.com/"
         },
-        "notes": "Steam key if/when Greenlit.\nAllegedly working on a Mac OS X version.\nStore page: http://www.letterquestgame.com/",
-        "extras": false
+        "notes": "Store page: http://www.letterquestgame.com/",
+        "extras": true
     },
     {
         "name": "Letter Quest: Super Supporter Edition",
         "url": "letterquest_supersupporteredition/asdfoui32rsa",
         "price": "50",
-        "description": "Get early access, DRM-free! 8-song soundtrack! A Steam key if Letter Quest gets on Steam! A custom word and definition in the game!",
+        "description": "Letter Quest PC/Mac DRM-free + soundtrack + Steam key + wallpapers + avatars + custom word and definition in game!",
         "developer": "Bacon Bandit Games",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
-            "developer": "http://www.baconbanditgames.com/",
+            "review": "http://www.rockpapershotgun.com/2014/08/07/letter-quest-review/",
+            "steam": "http://store.steampowered.com/app/328730/",
+            "developer": "http://www.baconbanditgames.com/"
         },
-        "notes": "Steam key if/when Greenlit.\nAllegedly working on a Mac OS X version.\nStore page: http://www.letterquestgame.com/#supersupporteredition",
-        "extras": false
+        "notes": "Store page: http://www.letterquestgame.com/#supersupporteredition",
+        "extras": true
     },
     {
         "name": "Life Goes On",
@@ -15858,17 +15867,17 @@ var games = [
         "name": "Luxuria Superbia",
         "url": "luxuriasuperbia/Ldkwodk1k2j",
         "price": "6.99",
-        "description": "Get Luxuria Superbia instantly! Cross-platform and DRM-free.",
+        "description": "Get Luxuria Superbia instantly! Cross-platform and DRM-free. Includes a Steam key!",
         "developer": "Tale of Tales",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -15876,6 +15885,7 @@ var games = [
         "URL": {
             "review": "http://www.indiegamemag.com/luxuria-superbia-lots-of-luxury-not-as-much-superb/",
             "desura": "http://www.desura.com/games/luxuria-superbia",
+            "steam": "http://store.steampowered.com/app/269150/",
             "developer": "http://tale-of-tales.com/"
         },
         "notes": "Store page: http://luxuria-superbia.com/",
@@ -16363,7 +16373,7 @@ var games = [
         "description": "Purchase Mini Metro today! Cross-platform, DRM-free, and redeemable on Steam.",
         "developer": "Dinosaur Polo Club",
         "platform": {
-            "android": true,
+            "android": false,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -16377,7 +16387,7 @@ var games = [
         },
         "URL": {
             "steam": "http://store.steampowered.com/app/287980/",
-            "developer": "http://dinopoloclub.com/minimetro/"
+            "developer": "http://dinopoloclub.com/"
         },
         "notes": "Store page: http://dinopoloclub.com/minimetro/#buy",
         "extras": false
@@ -16550,16 +16560,16 @@ var games = [
         "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/monster-truck-destruction-2/"
     },
     {
-        "name": "Monsters & Medicine",
+        "name": "Monsters and Medicine",
         "url": "monstersandmedicine/mal2923ndjyyq",
         "price": "4.99",
-        "description": "Get Monsters & Medicine now! Available on Windows and Linux, DRM-free!",
+        "description": "Get Monsters and Medicine now! Available on Windows, Mac and Linux, DRM-free!",
         "developer": "Clockwork Acorn",
         "platform": {
             "android": false,
             "windows": true,
             "linux": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -16571,7 +16581,7 @@ var games = [
         "URL": {
             "developer": "http://clockworkacorn.com/"
         },
-        "notes": "Pre-order at 20% off and get the development version immediately.\nStore page: http://clockworkacorn.com/games/monsters-and-medicine/#buy",
+        "notes": "Store page: http://clockworkacorn.com/games/monsters-and-medicine/#buy",
         "extras": false
     },
     {
@@ -17198,13 +17208,13 @@ var games = [
         "name": "Nidhogg",
         "url": "nidhogg/Ndy7Teh6Sjo",
         "price": "14.99",
-        "description": "Buy Nidhogg and get it instantly for Windows via Steam key!",
+        "description": "Buy Nidhogg and get it instantly for Windows/Mac via Steam key!",
         "developer": "Messhof",
         "platform": {
             "android": false,
             "linux": false,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -18672,7 +18682,7 @@ var games = [
             "android": false,
             "windows": true,
             "linux": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -18683,9 +18693,10 @@ var games = [
         },
         "URL": {
             "desura": "http://www.desura.com/games/paper-dungeons",
+            "steam": "http://store.steampowered.com/app/283040/",
             "developer": "http://www.agentmega.net/"
         },
-        "notes": "Mac version coming soon. No mention about DRM or lack thereof neither in the widget nor in the game's website.\nStore page: http://paperdungeons.net/#!/buy-it",
+        "notes": "No mention about DRM or lack thereof neither in the widget nor in the game's website.\nStore page: http://paperdungeons.net/#!/buy-it",
         "extras": false
     },
     {
@@ -18960,11 +18971,13 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": true,
+            "steam": false,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "notes": "The game was removed from Steam, so the included key is no use.",
+        "extras": false
     },
     {
         "name": "Parkitect",
@@ -19136,7 +19149,7 @@ var games = [
             "gog": false,
             "drm-free": true
         },
-        "notes": "Says Ubuntu instead of Linux but will work on any distribution"
+        "notes": "Says Ubuntu instead of Linux but will work on any distribution."
     },
     {
         "name": "Pharaoh's Dance",
@@ -19303,16 +19316,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
             "review": "http://www.youtube.com/watch?v=-KbZ27G2j-M",
+            "steam": "http://store.steampowered.com/app/263080/",
             "developer": "http://pixelboygame.com/about/"
         },
-        "notes": "Steam and Desura keys coming when the game is released on those platforms.\nStore page: http://pixelboygame.com/",
+        "notes": "Store page: http://pixelboygame.com/",
         "extras": false
     },
     {
@@ -20422,13 +20436,13 @@ var games = [
         "extras": false
     },
     {
-        "name": "Rebuild: Gangs of Deadsville",
+        "name": "Rebuild 3: Gangs of Deadsville",
         "url": "rebuild_gangsofdeadsville/Gkdowks291l",
         "price": "15",
         "description": "Pre-order Rebuild now! When it's ready, get the game Cross-platform, DRM-free, and Steam key!",
         "developer": "Sarah Northway",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": false,
             "mac": true,
@@ -20448,7 +20462,7 @@ var games = [
         "extras": false
     },
     {
-        "name": "Rebuild: Gangs of Survivalist Edition",
+        "name": "Rebuild 3: Gangs of Survivalist Edition",
         "url": "rebuild_gangssurvivalist/Gkdowks291l",
         "price": "25",
         "description": "Pre-order Rebuild 3: Gangs of Deadsville and get bonus desktop versions of Rebuild 1 & 2, plus a PDF artbook, and early Alpha access.",
@@ -20685,7 +20699,7 @@ var games = [
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -20705,7 +20719,7 @@ var games = [
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -22924,13 +22938,13 @@ var games = [
         "name": "Shattered Planet",
         "url": "shatteredplanet/zbuESG108he",
         "price": "14.99",
-        "description": "Pre-order Shattered Planet now! Available on Windows, DRM-free!",
+        "description": "Purchase Shattered Planet now! Available on Windows, DRM-free!",
         "developer": "Kitfox Games",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -22940,6 +22954,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gamezebo.com/2014/03/27/shattered-planet-review/",
             "steam": "http://store.steampowered.com/app/305640",
             "developer": "http://www.kitfoxgames.com/"
         },
@@ -23320,7 +23335,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
+            "linux": false,
             "mac": false,
             "audio": true
         },
@@ -25803,7 +25818,7 @@ var games = [
         "url": "syderarcade/Sdu8Fs5TFgh",
         "price": "11.99",
         "description": "Get Syder Arcade instantly! Cross-platform and DRM-free.",
-        "developer": "Studio Evil S.r.l.",
+        "developer": "Studio Evil",
         "platform": {
             "android": true,
             "linux": true,
@@ -27474,22 +27489,21 @@ var games = [
         "name": "Tiny Barbarian DX",
         "url": "tinybarbariandx/tME8HJogJF0p",
         "price": "9.99",
-        "description": "It's Time to get Tiny! The adventures of our pixel protagonist continue in Tiny Barbarian DX for Windows PC!",
+        "description": "It's Time to get Tiny! The adventures of our pixel protagonist continue in Tiny Barbarian DX for Windows & Mac! Steam Key included!",
         "developer": "StarQuail Games",
         "platform": {
             "android": false,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        },
-        "notes": "Buy the first episode and get the rest for free when they are released. Mac port currently in development."
+        }
     },
     {
         "name": "Tiny Plumbers",
@@ -29100,7 +29114,7 @@ var games = [
         "name": "Voyage to Farland",
         "url": "voyagetofarland/Vkdkwo1ksla",
         "price": "2.99",
-        "description": "Get Voyage to Farland instantly! Cross-platform and DRM-free.",
+        "description": "Get Voyage to Farland instantly! The cute but hardcore graphical roguelike game. Cross-platform and DRM-free. Requires Java 1.6 or newer.",
         "developer": "Peculiar Games",
         "platform": {
             "android": true,
@@ -29117,11 +29131,9 @@ var games = [
         },
         "URL": {
             "review": "http://www.wraithkal.info/voyage-to-farland-review/",
-            "steam": "",
             "desura": "http://www.desura.com/games/voyage-to-farland",
             "developer": "http://www.peculiar-games.com/"
         },
-        "notes": "Also available on itch.io at:\nhttp://peculiargames.itch.io/voyage-to-farland",
         "extras": false
     },
     {
@@ -29187,7 +29199,7 @@ var games = [
         "description": "Purchase Waking Mars and get it instantly for Mac, Windows, and Linux.",
         "developer": "Tiger Style",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -29198,8 +29210,7 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        },
-        "notes": "The frame shows an Android icon, but neither the description nor the game site confirms you'll get the Android version purchasing the game at the Humble Store."
+        }
     },
     {
         "name": "Wanderlust: Rebirth",
@@ -29342,7 +29353,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": false
@@ -29353,7 +29364,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/259130/",
             "developer": "http://www.inxile-entertainment.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website, although it's most probably a Steam key only like in the Humble Store.\nStore page: http://wasteland.inxile-entertainment.com/store",
+        "notes": "Assumed it provides a Steam key only like in the Humble Store.\nStore page: http://wasteland.inxile-entertainment.com/store",
         "extras": false
     },
     {
