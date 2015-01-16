@@ -2733,7 +2733,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/314830/",
             "developer": "http://www.daedalic.de/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website. \n In at least some Euro-using zones the game is being sold for 29.99€, rather than for $29.99. \n Store page: http://www.daedalic.de/en/game/Blackguards_2",
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website. \n Regional pricing: $22.99 (UK)/€29,99 (Europe). \n Store page: http://www.daedalic.de/en/game/Blackguards_2",
         "extras": false
     },
     {
@@ -5363,7 +5363,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/320340",
             "developer": "http://www.chasing-carrots.com/"
         },
-        "notes": "Currently on sale at 33% off for $9.99. In at least some Euro-using zones the game is being sold for 9.99€, rather than for $9.99.\nStore page: http://cosmo-nautica.com/getit.html",
+        "notes": "Currently on sale at 33% off for $9.99. \n Regional pricing: £10.99/€14,99. \n Store page: http://cosmo-nautica.com/getit.html",
         "extras": false
     },
     {
@@ -15509,7 +15509,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 18.99€, rather than for $18.99.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon. \n Regional pricing: £14.99/€18,99. \n Store page: http://www.lordsofxulima.com/store/",
         "extras": false
     },
     {
@@ -15535,7 +15535,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 21.99€, rather than for $21.99.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon. \n Regional pricing: £16.99/€21,99. \n Store page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -15561,7 +15561,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 25.99€, rather than for $27.99.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon. \n Regional pricing: £21.99/€25,99. \n Store page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -15587,7 +15587,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 59€, rather than for $65.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon. \n Regional pricing: £49/€59. \n Store page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -15613,7 +15613,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nIn at least some Euro-using zones the widget is sold for 89€, rather than for $95.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Linux version coming soon. \n Regional pricing: £69/€89. \n Store page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -21046,7 +21046,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/249230/",
             "developer": "http://www.deepsilver.com/home/"
         },
-        "notes": "In at least some Euro-using zones the game is being sold for 49.99€, rather than for $49.99.\nStore page: http://shoppage.deepsilver.com/risen3-titan-lords.html",
+        "notes": "Regional pricing: £39.99/€49,99.\nStore page: http://shoppage.deepsilver.com/risen3-titan-lords.html",
         "extras": false
     },
     {
@@ -21178,7 +21178,7 @@ var games = [
         "URL": {
             "developer": "http://www.darkseasinteractive.com/"
         },
-        "notes": "In at least some Euro-using zones the game is being sold for 19.99€, rather than for $19.99. \n Store page: http://www.roadredemption.com/#!alpha-checkout/c1140",
+        "notes": "Regional pricing: £14.99/€19,99.\nStore page: http://www.roadredemption.com/#!alpha-checkout/c1140",
         "extras": true
     },
     {
@@ -21203,7 +21203,7 @@ var games = [
         "URL": {
             "developer": "http://www.darkseasinteractive.com/"
         },
-        "notes": "In at least some Euro-using zones the game is being sold for 52.29€, rather than for $70. \n Store page: http://www.roadredemption.com/#!special-edition-checkout/c14j1",
+        "notes": "Regional pricing: £41.17/€52,29.\nStore page: http://www.roadredemption.com/#!special-edition-checkout/c14j1",
         "extras": true
     },
     {
@@ -21529,7 +21529,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/247950/",
             "developer": "http://www.deepsilver.com/home/"
         },
-        "notes": "Store page: http://sacred3.deepsilver.com/es/store/",
+        "notes": "Regional pricing: £39.99/€49,99.\nStore page: http://sacred3.deepsilver.com/es/store/",
         "extras": false
     },
     {
@@ -26939,7 +26939,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/245150/",
             "developer": "http://orthogonalgames.com/"
         },
-        "notes": "In at least some Euro-using zones the game is being sold for 12.99€, rather than for $14.99. \n Store page: http://www.thenovelistgame.com/",
+        "notes": "Regional pricing: £9.99/€12,99.\nStore page: http://www.thenovelistgame.com/",
         "extras": false
     },
     {
@@ -28444,7 +28444,7 @@ var games = [
         "URL": {
             "developer": "http://cowardlycreations.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website (it has been Greenlit). \n Regional pricing: £5.99/€6.99 \n Store page: http://cowardlycreations.com/uncannyvalley.html",
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nRegional pricing: £5.99/€6,99.\nStore page: http://cowardlycreations.com/uncannyvalley.html",
         "extras": false
     },
     {
