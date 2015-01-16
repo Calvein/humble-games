@@ -24963,6 +24963,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Sub Rosa",
+        "url": "subrosa/Skdo34",
+        "price": "19.99",
+        "description": "Pre-order Sub Rosa! Sub Rosa is a multiplayer FPS about tense deals, double-crosses and car chases. Available DRM-free and Steam at beta.",
+        "developer": "Cryptic Sea",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/272230/",
+            "developer": "http://www.crypticsea.com/"
+        },
+        "notes": "Store page: http://www.subrosagame.com/success",
+        "extras": false
+    },
+    {
         "name": "Subnautica: Special Edition",
         "url": "subnautica/s8eDFJ3sixBs",
         "price": "35",
@@ -25647,6 +25673,56 @@ var games = [
             "developer": "http://indus3.org/"
         },
         "notes": "Store page: http://superverse-game.com/#preorder\nLinux version coming soon: http://www.gamingonlinux.com/articles/are-you-ready-to-face-the-astroids.3004",
+        "extras": false
+    },
+    {
+        "name": "Survive the Nights (Pre-Order)",
+        "url": "survivethenights/JLJnm33kw",
+        "price": "24.99",
+        "description": "Pre-order Survive the Nights now and receive a Steam key on launch! You'll also be eligible to take place in pre-alpha stress tests!",
+        "developer": "a2z Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://survivethenights.net/aboutus/"
+        },
+        "notes": "Store page: http://survivethenights.net/pre-order/",
+        "extras": false
+    },
+    {
+        "name": "4x Survive the Nights (Pre-Order)",
+        "url": "4x_survivethenights/baljSJbhCH2",
+        "price": "74.99",
+        "description": "Pre-order Survive the Nights now and receive 4 Steam keys on launch! You'll also be eligible to take place in pre-alpha stress tests!",
+        "developer": "a2z Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://survivethenights.net/aboutus/"
+        },
+        "notes": "Store page: http://survivethenights.net/pre-order/",
         "extras": false
     },
     {
@@ -28344,6 +28420,31 @@ var games = [
             "developer": "http://darkfalzx.blogspot.com.es/"
         },
         "notes": "Store page: http://darkfalzx.blogspot.com.es/p/games.html#goog_255478544",
+        "extras": false
+    },
+    {
+        "name": "Uncanny Valley",
+        "url": "uncannyvalley/7FHDj24bndd",
+        "price": "8.99",
+        "description": "Pre-purchase Uncanny Valley at a lower price and help support the developers!",
+        "developer": "Cowardly Creations",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://cowardlycreations.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website (it has been Greenlit). \n Regional pricing: £5.99/€6.99 \n Store page: http://cowardlycreations.com/uncannyvalley.html",
         "extras": false
     },
     {
