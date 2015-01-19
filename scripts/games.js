@@ -4896,6 +4896,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Cold Contract",
+        "url": "coldcontract/78Dkfj23hs",
+        "price": "4.99",
+        "description": "Turn-based tactics game with real-time strategy components, in procedurally generated environments and with high level of customization.",
+        "developer": "Ferius",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/cold-contract",
+            "developer": "http://www.coldcontract.com/"
+        },
+        "notes": "Store page: http://www.coldcontract.com/index.php?shop=buy",
+        "extras": false
+    },
+    {
         "name": "Collateral",
         "url": "collateral/Ckdowk1du",
         "price": "25",
