@@ -2581,6 +2581,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Besiege",
+        "url": "besiege/LhDFBNSDlk39s",
+        "price": "6.99",
+        "description": "Support Besiege by getting the alpha version today! Cross-platform, DRM-free!",
+        "developer": "Spiderling Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://spiderlinggames.co.uk/"
+        },
+        "notes": "Store page: http://www.besiege.spiderlinggames.co.uk/index.html#BuyAlphaPoint",
+        "extras": false
+    },
+    {
         "name": "Betrayer",
         "url": "betrayer/Bdh7Ts5GLwi",
         "price": "19.99",
@@ -7663,6 +7688,81 @@ var games = [
             "developer": "http://redthreadgames.com/"
         },
         "notes": "Pre-order the whole season and start playing Episode 1.\nStore page: http://redthreadgames.com/games/chapters/#post-182",
+        "extras": true
+    },
+    {
+        "name": "Drift Stage: Player Tier",
+        "url": "driftstage_playertier/8SDlfk2hsa",
+        "price": "10",
+        "description": "One DRM-free download for Windows, Mac, and Linux + Steam key. (Pre-Order)",
+        "developer": "Super Systems Softworks LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.driftstagegame.com/"
+        },
+        "notes": "Store page: http://www.driftstagegame.com/backer.html",
+        "extras": false
+    },
+    {
+        "name": "Drift Stage: Tester Tier",
+        "url": "driftstage_testertier/FfljKDS82s",
+        "price": "15",
+        "description": "Beta Access + Digital Game Manual + One DRM-free download for Windows, Mac, and Linux + Steam key. (Pre-Order)",
+        "developer": "Super Systems Softworks LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.driftstagegame.com/"
+        },
+        "notes": "Store page: http://www.driftstagegame.com/backer.html",
+        "extras": true
+    },
+    {
+        "name": "Drift Stage: Groupie Tier",
+        "url": "driftstage_groupietier/Wwelk238sI",
+        "price": "25",
+        "description": "Full Soundtrack Download + Beta Access + Digital Game Manual + One DRM-free download for Windows, Mac, and Linux + Steam key. (Pre-Order)",
+        "developer": "Super Systems Softworks LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.driftstagegame.com/"
+        },
+        "notes": "Store page: http://www.driftstagegame.com/backer.html",
         "extras": true
     },
     {
@@ -30188,9 +30288,36 @@ var games = [
             "drm-free": false
         },
         "URL": {
-            "developer": "http://www.renegadekid.com/",
+            "developer": "http://www.renegadekid.com/"
         },
         "notes": "Store page: http://www.renegadekid.com/xeodrifter_buy.htm",
+        "extras": false
+    },
+    {
+        "name": "Yelaxot",
+        "url": "yelaxot/asidfh239uojSDK",
+        "price": "11.99",
+        "description": "Purchase Yelaxot for Windows!",
+        "developer": "Barkalar Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/340820/",
+            "desura": "http://www.desura.com/games/yelaxot",
+            "developer": "http://www.barkalar-games.com/"
+        },
+        "notes": "Store page: http://www.barkalar-games.com/yelaxot",
         "extras": false
     },
     {
