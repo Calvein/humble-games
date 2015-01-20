@@ -13773,31 +13773,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "It came from space and ate our brains",
-        "url": "itcamefromspaceandateourbrains/Iskdlwk1ldk",
-        "price": "0.01",
-        "description": "Get It came from space, and ate our brains instantly! Cross-platform and DRM-free.",
-        "developer": "Triangle Studios",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=188743383",
-            "developer": "http://www.triangle-studios.com"
-        },
-        "extras": false
-    },
-    {
         "name": "Ittle Dew",
         "url": "ittledew/Ldu7Tdg8Hwy",
         "price": "9.99",
