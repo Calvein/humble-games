@@ -818,6 +818,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "desura": "http://www.desura.com/games/agent-awesome",
             "developer": "http://www.chaosindustries.com.mx/"
         },
         "extras": false
@@ -6113,6 +6114,32 @@ var games = [
         "URL": {
             "developer": "http://doragongames.com/"
         }
+    },
+    {
+        "name": "Dark Quest",
+        "url": "darkquest/df982kLSIodo9s",
+        "price": "4.99",
+        "description": "Dark Quest, it’s a game of your imagination! Get it now for WINDOWS!",
+        "developer": "Brain Seal Ltd",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/342860/",
+            "developer": "http://www.brainseal.com/"
+        },
+        "notes": "Store page: http://dark-quest.com/Humble.aspx",
+        "extras": false
     },
     {
         "name": "Dark Scavenger",
