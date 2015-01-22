@@ -6138,7 +6138,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/342860/",
             "developer": "http://www.brainseal.com/"
         },
-        "notes": "Store page: http://dark-quest.com/Humble.aspx",
+        "notes": "No mention about DRM or lack thereof either in the widget or in the game's website.\nStore page: http://dark-quest.com/Humble.aspx",
         "extras": false
     },
     {
