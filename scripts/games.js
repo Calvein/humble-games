@@ -11764,6 +11764,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Grey Goo",
+        "url": "greygoo/2308uJShD",
+        "price": "49.99",
+        "description": "FIGHT THE CHAOS OR HARNESS ITS POWER! Grey Goo for Windows on Steam now!",
+        "developer": "Grey Box",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://arstechnica.com/gaming/2015/01/grey-goo-review-a-real-time-strategy-throwback-that-moves-forward/",
+            "steam": "http://store.steampowered.com/app/290790/",
+            "developer": "https://www.greybox.com/"
+        },
+        "notes": "Regional pricing: £33.99/€39,99.\nStore page: https://www.greybox.com/greygoo/en/buy-now/",
+        "extras": false
+    },
+    {
         "name": "Gridlock",
         "url": "gridlock/oWHbloe92zmx",
         "price": "1.99",
@@ -19185,8 +19212,8 @@ var games = [
     {
         "name": "Particle Mace",
         "url": "particlemace/Pdkwo9",
-        "price": "5",
-        "description": "Particle Mace Alpha and all updates through release. Completely DRM free.",
+        "price": "8.99",
+        "description": "A space game about swinging trash into things and dying for 1-4 players. Completely DRM free",
         "developer": "Andy Makes",
         "platform": {
             "android": false,
@@ -19202,9 +19229,36 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/295690/",
             "developer": "http://andymakes.com/"
         },
-        "notes": "Steam key available when the game is released.\nStore page: http://andymakes.com/particlemace/#humbleStore",
+        "notes": "Store page: http://andymakes.com/particlemace/",
+        "extras": false
+    },
+    {
+        "name": "Particle Mace + OST",
+        "url": "particlemace_ost/FSD82j3hs",
+        "price": "12.99",
+        "description": "A space game about swinging trash into things and dying. Completely DRM free + Original Soundtrack by Nathaniel Chambers.",
+        "developer": "Andy Makes",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/295690/",
+            "developer": "http://andymakes.com/"
+        },
+        "notes": "Store page: http://andymakes.com/particlemace/",
         "extras": false
     },
     {
