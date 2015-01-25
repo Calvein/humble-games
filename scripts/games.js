@@ -184,6 +184,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "A Druid's Duel",
+        "url": "adruidsduel/BUve45",
+        "price": "8.99",
+        "description": "Pre-Order now for A Druid's Duel on Mac, Windows, or Ubuntu Linux (v10+). DRM-Free and at a discounted price, just for getting in early!",
+        "developer": "Thoughtshelter Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.thoughtshelter.com/"
+        },
+        "notes": "Store page: http://www.druidsduel.com/#paxpreorder",
+        "extras": false
+    },
+    {
         "name": "A Golden Wake",
         "url": "agoldenwake_tiered/Zjlkxcjv3ijs",
         "price": "14.99",
@@ -1245,6 +1270,81 @@ var games = [
             "desura": "http://www.desura.com/games/anomaly-2",
             "developer": "http://www.11bitstudios.com/"
         },
+        "extras": true
+    },
+    {
+        "name": "Another Castle (Alpha)",
+        "url": "anothercastle/Akdw3",
+        "price": "9.99",
+        "description": "Get Another Castle DRM free for Windows, Mac, Linux, and Android.",
+        "developer": "Uncade LLC",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.uncade.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://www.anothercastlethegame.com/",
+        "extras": false
+    },
+    {
+        "name": "Another Castle + Soundtrack",
+        "url": "anothercastle_soundtrack/Akdw3",
+        "price": "14.99",
+        "description": "Get Another Castle DRM free for Windows, Mac, Linux, and Android. Soundtrack included!",
+        "developer": "Uncade LLC",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.uncade.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://www.anothercastlethegame.com/",
+        "extras": false
+    },
+    {
+        "name": "Another Castle (Alpha Supporter)",
+        "url": "anothercastle_alphasupporter/Akdw3",
+        "price": "25",
+        "description": "Get your name included in the credits as a supporter, scholar, and all around swell person. Plus the game and soundtrack!",
+        "developer": "Uncade LLC",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.uncade.com/"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://www.anothercastlethegame.com/",
         "extras": true
     },
     {
