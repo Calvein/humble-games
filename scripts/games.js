@@ -3647,6 +3647,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Broadside",
+        "url": "broadside/33LDfkj23h",
+        "price": "14.99",
+        "description": "Get Broadside instantly! Cross-platform and DRM-free!",
+        "developer": "Duct Tape Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/broadside",
+            "developer": "http://www.ducttapegames.com/"
+        },
+        "notes": "Store page: http://www.ducttapegames.com/#!Store",
+        "extras": false
+    },
+    {
         "name": "Broforce",
         "url": "broforce/Bdu7Fsgt3Eds",
         "price": "15",
@@ -7160,6 +7186,32 @@ var games = [
             "developer": "http://differenttuna.com/"
         },
         "notes": "Store page: http://derrickthedeathfin.com/buy.html",
+        "extras": false
+    },
+    {
+        "name": "Destiny Of The Cubes",
+        "url": "destinyofthecubes/xxIjlk12hSe",
+        "price": "7.99",
+        "description": "Access to the full Alpha version of Destiny Of the Cubes now and the full game when its release!",
+        "developer": "DOTC Team",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/destiny-of-the-cubes",
+            "developer": "http://destinyofthecubes.com/en/index.php"
+        },
+        "notes": "Store page: http://destinyofthecubes.com/en/buy.php",
         "extras": false
     },
     {
