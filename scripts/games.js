@@ -8672,7 +8672,7 @@ var games = [
         "URL": {
                 "developer": "http://www.flixinteractive.com/"
         },
-        "notes": "Currently on sale at 50% off, regular price is $30.",
+        "notes": "Warning: this widget has been removed from the game's website, so buy at your own risk.\nCurrently on sale at 50% off, regular price is $30.",
         "extras": false
     },
     {
@@ -11788,8 +11788,8 @@ var games = [
     {
         "name": "Gravity Ghost",
         "url": "gravityghost/Gdy6sth8Ftg",
-        "price": "9.99",
-        "description": "Preorder Gravity Ghost today! Cross-platform and DRM-free",
+        "price": "14.99",
+        "description": "Get Gravity Ghost today! Cross-platform and DRM-free.",
         "developer": "Ivy Games LLC",
         "platform": {
             "android": false,
@@ -11805,16 +11805,18 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.savingcontent.com/2015/01/26/gravity-ghost-review/",
+            "steam": "http://store.steampowered.com/app/251490/",
             "developer": "http://livelyivy.com/"
         },
-        "notes": "Currently on sale at 33% off, regular price is $14.99.\nStore page: http://gravityghost.com/",
+        "notes": "Store page: http://gravityghost.com/",
         "extras": false
     },
     {
         "name": "Gravity Ghost Soundtrack",
         "url": "gravityghost_soundtrack/Gdy6sth8Ftg",
-        "price": "2.99",
-        "description": "Preorder the Gravity Ghost soundtrack today",
+        "price": "4.99",
+        "description": "Preorder the Gravity Ghost soundtrack today!",
         "developer": "Ivy Games LLC",
         "platform": {
             "android": false,
@@ -11830,9 +11832,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/343510/",
             "developer": "http://livelyivy.com/"
         },
-        "notes": "Currently on sale at 40% off, regular price is $4.99.\nStore page: http://gravityghost.com/",
+        "notes": "Store page: http://gravityghost.com/",
         "extras": false
     },
     {
