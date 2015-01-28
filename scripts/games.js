@@ -11999,6 +11999,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Grim Fandango Remastered",
+        "url": "grimfandango/7345lkSHDh",
+        "price": "14.99",
+        "description": "Get Grim Fandango Remastered instantly! Cross-platform on Steam and DRM-free!",
+        "developer": "Double Fine Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.polygon.com/2015/1/27/7874999/grim-fandango-remastered-review-pc-ps4-playstation-4-vita-windows-mac",
+            "steam": "http://store.steampowered.com/app/316790/",
+            "developer": "http://doublefine.com/"
+        },
+        "notes": "Store page: http://grimremastered.com/#preorder",
+        "extras": false
+    },
+    {
         "name": "Groundskeeper 2",
         "url": "groundskeeper2/pmjkpjmpEIue399",
         "price": "5",
