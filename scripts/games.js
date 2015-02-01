@@ -2786,6 +2786,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "bit Dungeon II",
+        "url": "bitdungeonii/7SJDFh34dfjks",
+        "price": "5",
+        "description": "Get bit Dungeon II instantly! Available on Android (DRM-Free) or Windows/Mac on Steam!",
+        "developer": "Kinto Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.modvive.com/2014/12/16/bit-dungeon-ii-review-bits-never-dungeoned-good/",
+            "steam": "http://store.steampowered.com/app/331440/",
+            "developer": "http://kintogames.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "BIT.TRIP RUNNER",
         "url": "bittriprunner",
         "price": "9.99",
@@ -24106,6 +24132,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Soul Axiom",
+        "url": "soulaxiom/Gljksdfh2s23",
+        "price": "19.99",
+        "description": "Get Soul Axiom Early Access instantly! Cross-platform on Steam!",
+        "developer": "Wales Interactive",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/279900",
+            "developer": "http://www.walesinteractive.com/"
+        },
+        "notes": "Store page: http://www.walesinteractive.com/#!soul-axiom/c1q1m",
+        "extras": false
+    },
+    {
         "name": "Soul Saga - Basic",
         "url": "soulsaga_basic/skdTlswi1kd9k",
         "price": "20",
@@ -25027,6 +25079,33 @@ var games = [
             "developer": "http://www.juggernaut-games.com/"
         },
         "notes": "Store page: http://starcrawlers.com/store/",
+        "extras": false
+    },
+    {
+        "name": "Stardust Vanguards",
+        "url": "stardustvanguards/8SHDFkj23sdA",
+        "price": "9.99",
+        "description": "Stardust Vanguards is a local 4-player mecha dueling game where players summon reinforcements in fast-paced and randomized space battles!",
+        "developer": "Zanrai Interactive",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamemag.com/stardust-vanguards-review-it-was-fun-while-it-lasted/",
+            "steam": "http://store.steampowered.com/app/341530/",
+            "developer": "http://zanrai.com/"
+        },
+        "notes": "Store page: http://zanrai.com/#Map",
         "extras": false
     },
     {
