@@ -10896,6 +10896,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gamebook Adventures: To Be or Not To Be",
+        "url": "tobeornottobe/8Sldfkj2hsa",
+        "price": "11.99",
+        "description": "Ryan North presents Hamlet as a choosable-path adventure! Cross-platform and DRM-free! Includes a Steam key!",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/324710/",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://gamebookadventures.com/gamebooks/to-be-or-not-to-be/#bookmain",
+        "extras": false
+    },
+    {
         "name": "Gamebook Adventures: Zombocalypse Now",
         "url": "zombocalypsenow/cuEBviu14bSS",
         "price": "5.99",
@@ -29435,6 +29461,33 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Victory At Sea",
+        "url": "victoryatsea/IDjflakr489hJbb",
+        "price": "25",
+        "description": "Buy now to enter into World War II naval combat on a global scale!",
+        "developer": "Evil Twin Artworks",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamewatcher.com/reviews/victory-at-sea-review/8699",
+            "steam": "http://store.steampowered.com/app/298480/",
+            "developer": "http://www.eviltwinartworks.com/"
+        },
+        "notes": "Store page: http://www.victoryatseagame.com/buy/",
+        "extras": false
     },
     {
         "name": "Viscera Cleanup Detail",
