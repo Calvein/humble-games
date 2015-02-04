@@ -10093,16 +10093,16 @@ var games = [
         "extras": false
     },
     {
-        "name": "Freaking Meatbags - Early Access",
+        "name": "Freaking Meatbags",
         "url": "freakingmeatbags_earlyaccess/oMDKn1i93ndk",
         "price": "9.99",
-        "description": "Get Freaking Meatbags instantly for Early Access on Steam!",
+        "description": "Get Freaking Meatbags instantly on Steam!",
         "developer": "Wild Factor",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -10112,10 +10112,11 @@ var games = [
             "drm-free": false
         },
         "URL": {
+            "review": "http://www.shouldyouplaythisgame.com/freaking-meatbags-review/",
             "steam": "http://store.steampowered.com/app/297060",
             "developer": "http://www.wildfactor.net/"
         },
-        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.wildfactor.net/StaticPage/FreakingMeatbags/FreakingMeatbags.htm",
+        "notes": "Store page: http://www.wildfactor.net/StaticPage/FreakingMeatbags/FreakingMeatbags.htm",
         "extras": false
     },
     {
