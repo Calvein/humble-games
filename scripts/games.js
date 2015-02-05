@@ -24872,6 +24872,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Star Shipping Inc.",
+        "url": "starshippinginc/Sdje3",
+        "price": "3.99",
+        "description": "Get Star Shipping Inc. Instantly! Cross-platform and DRM-free.",
+        "developer": "Corbomite Games",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://corporate.corbomitegames.com/"
+        },
+        "notes": "Store page: http://starshipping.corbomitegames.com/buy/",
+        "extras": false
+    },
+    {
         "name": "Starbound (Pixel Tier)",
         "url": "starbound_tier1/4uQR712V5n",
         "price": "15",
