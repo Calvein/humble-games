@@ -2759,6 +2759,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bezier",
+        "url": "bezier/6SLDfk23h",
+        "price": "2.99",
+        "description": "Bezier is a dual stick blaster set inside a vast computer built deep underground. Powered by the BezierSynth.",
+        "developer": "Niine.Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/niinegamesbezier",
+            "developer": "http://niinegames.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://niinegames.com/bezier/#widgets",
+        "extras": false
+    },
+    {
         "name": "Bik",
         "url": "bik/sfaddaauiiuoyYY21",
         "price": "5.99",
@@ -17126,6 +17152,56 @@ var games = [
             "drm-free": false
         },
         "notes": "Original website: http://www.moonintern.com/\nNo mention made fo distribution or DRM, kickstarter says PC/Mac & Linux"
+    },
+    {
+        "name": "Moonman (Pre-order)",
+        "url": "moonman/6SWEf23h",
+        "price": "8",
+        "description": "Pre-order Moonman and help fund development! Cross-platform and DRM-free!",
+        "developer": "Ben Porter",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://bp.io/"
+        },
+        "notes": "Store page: http://moonman.io/#main",
+        "extras": false
+    },
+    {
+        "name": "Moonman (Pre-order + Alpha + OST)",
+        "url": "moonman_alpha_ost/FF23lkhss",
+        "price": "20",
+        "description": "Get access to the alpha when it's ready and also get the game (cross-platform, DRM-free) and the OST on release!",
+        "developer": "Ben Porter",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://bp.io/"
+        },
+        "notes": "Store page: http://moonman.io/#main",
+        "extras": false
     },
     {
         "name": "Mountain",
