@@ -19804,6 +19804,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Pillar",
+        "url": "pillar/SKDLfj32js9",
+        "price": "10",
+        "description": "Get Pillar instantly: DRM-free and includes the game's soundtrack, concept art, wallpapers, an album of bonus tracks and more!",
+        "developer": "MichaelArts",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": true
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://michaelarts.net"
+        },
+        "notes": "Store page: http://michaelarts.net/pillar/index.html#buystuff",
+        "extras": true
+    },
+    {
         "name": "Pineapple Smash Crew",
         "url": "pineapplesmashcrew",
         "price": "9.99",
