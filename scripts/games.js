@@ -4191,6 +4191,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Catacomb Kids (Alpha Access)",
+        "url": "catacombkids/Ckdowk4",
+        "price": "15.99",
+        "description": "Enter unto the Catacomb darkness and face your mortality. Come journey with me as I finish this game.",
+        "developer": "FourbitFriday",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com//app/315840",
+            "developer": "http://www.fourbitfriday.com/"
+        },
+        "notes": "Store page: http://www.ckgame.net/humble.php",
+        "extras": false
+    },
+    {
         "name": "Catlateral Damage: House Cat",
         "url": "catlateraldamage_housecat/alkdnfSDf0947",
         "price": "12",
@@ -12234,8 +12260,35 @@ var games = [
         "URL": {
             "developer": "http://www.orangepixel.net/"
         },
-        "notes": "Store page: http://www.orangepixel.net/2013/02/18/gunslugs/",
+        "notes": "Store page: http://www.gunslugs.com/gunslugs/#content",
         "extras": true
+    },
+    {
+        "name": "Gunslugs 2",
+        "url": "gunslugs2/Poisdfj328",
+        "price": "4.99",
+        "description": "Get Gunslugs 2 right now! Cross-platform and DRM-free!",
+        "developer": "Orangepixel",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://criticalindiegamer.com/2015/01/gunslugs-2-review/",
+            "steam": "http://store.steampowered.com/app/340750",
+            "developer": "http://www.orangepixel.net/"
+        },
+        "notes": "Store page: http://www.gunslugs.com/gunslugs/#content",
+        "extras": false
     },
     {
         "name": "GunWorld",
@@ -12678,6 +12731,31 @@ var games = [
         },
         "notes": "Store page: http://heavybullets.com/",
         "extras": false
+    },
+    {
+        "name": "Her Story",
+        "url": "herstory/78SLDKfh1",
+        "price": "4.99",
+        "description": "Pre-order the game and get your name in the credits! Cross-platform and DRM-free!",
+        "developer": "Sam Barlow",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://twitter.com/mrsambarlow"
+        },
+        "notes": "Store page: http://www.herstorygame.com/#primary",
+        "extras": true
     },
     {
         "name": "Hermi & Max",
@@ -20831,6 +20909,32 @@ var games = [
             "developer": "http://www.playstos.com/"
         },
         "notes": "Store page: http://www.realworldracing.com/",
+        "extras": false
+    },
+    {
+        "name": "Reassembly",
+        "url": "reassembly/Tysdljk893as",
+        "price": "15",
+        "description": "Purchase Reassembly, DRM-free!",
+        "developer": "Anisoptera Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/329130/",
+            "developer": "http://www.anisopteragames.com/"
+        },
+        "notes": "Mac version most probably also included as the game is available for this OS on Steam.\nStore page: http://www.anisopteragames.com/#content",
         "extras": false
     },
     {
