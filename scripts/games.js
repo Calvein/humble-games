@@ -13122,12 +13122,12 @@ var games = [
     {
         "name": "Hyper Light Drifter",
         "url": "hyperlightdrifter/sdfIwldkGh12k",
-        "price": "15",
-        "description": "Pre-order Hyper Light Drifter. When it's released you will receive the game DRM-free for Win/Mac/Linux + a Steam key!",
+        "price": "16.99",
+        "description": "Pre-order Hyper Light Drifter. When it's released you will receive the game via a Steam key on your platform of choice (Win + Mac)!",
         "developer": "Heart Machine",
         "platform": {
             "android": false,
-            "linux": true,
+            "linux": false,
             "windows": true,
             "mac": true,
             "audio": false
@@ -13136,23 +13136,23 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
             "developer": "http://www.heart-machine.com/home1/"
         },
-        "notes": "Store page: http://www.heart-machine.com/",
+        "notes": "Currently on sale at 15% off; regular price is $19.99\nStore page: http://www.heart-machine.com/",
         "extras": false
     },
     {
-        "name": "Hyper Light Drifter + Bonus Pack (Early Access)",
+        "name": "Hyper Light Drifter - Limited Preview Access",
         "url": "hyperlightdrifter_bonuspack/sdfIwldkGh12k",
         "price": "25",
         "description": "Pre-order Hyper Light Drifter (early access). When released you'll receive the game DRM-free for Win/Mac/Linux, Steam key, Art Book & Manual PDFs.",
         "developer": "Heart Machine",
         "platform": {
             "android": false,
-            "linux": true,
+            "linux": false,
             "windows": true,
             "mac": true,
             "audio": false
@@ -13166,39 +13166,14 @@ var games = [
         "URL": {
             "developer": "http://www.heart-machine.com/home1/"
         },
-        "notes": "Store page: http://www.heart-machine.com/",
+        "notes": "Widget no longer appears on the game's website, so it may be no longer available for sale.",
         "extras": true
     },
     {
-        "name": "Hyper Light Drifter + Ultimate Bundle",
-        "url": "hyperlightdrifter_ultimatebundle/sdfIwldkGh12k",
-        "price": "40",
-        "description": "Pre-order Hyper Light Drifter. When ready get it DRM-free for Win/Mac/Linux, a Steam key, PDF Art Book, PDF manual, OST, Golden Goods & Beta Access.",
-        "developer": "Heart Machine",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.heart-machine.com/home1/"
-        },
-        "notes": "Store page: http://www.heart-machine.com/",
-        "extras": true
-    },
-    {
-        "name": "Hyper Light Drifter Soundtrack",
+        "name": "Hyper Light Drifter OST (Pre-Order)",
         "url": "hyperlightdrifter_ost/sdfIwldkGh12k",
         "price": "5",
-        "description": "The wonderful digital OST by Disasterpeace, and various other contribution artists!",
+        "description": "The wonderful digital OST by Disasterpeace, and various other contribution artists! Delivered on game release.",
         "developer": "Heart Machine",
         "platform": {
             "android": false,
@@ -13227,7 +13202,7 @@ var games = [
         "developer": "Heart Machine",
         "platform": {
             "android": false,
-            "linux": true,
+            "linux": false,
             "windows": true,
             "mac": true,
             "audio": false
@@ -13236,12 +13211,12 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
             "developer": "http://www.heart-machine.com/home1/"
         },
-        "notes": "Store page: http://www.heart-machine.com/\nThis is a widget for the game Hyper Light Drifter.",
+        "notes": "This is a widget for the game Hyper Light Drifter. The widget does no longer appear on the game's website, so it may be no longer available for sale.",
         "extras": true
     },
     {
@@ -13266,7 +13241,7 @@ var games = [
         "URL": {
             "developer": "http://www.heart-machine.com/home1/"
         },
-        "notes": "Store page: http://www.heart-machine.com/\nThis is a widget for the game Hyper Light Drifter.",
+        "notes": "This is a widget for the game Hyper Light Drifter. The widget does no longer appear on the game's website, so it may be no longer available for sale.",
         "extras": true
     },
     {
