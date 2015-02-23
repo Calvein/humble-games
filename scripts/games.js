@@ -3120,7 +3120,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": true
         },
@@ -3135,7 +3135,9 @@ var games = [
             "steam": "http://store.steampowered.com/app/239800",
             "desura": "http://www.desura.com/games/bleed",
             "developer": "http://bootdiskrevolution.com/"
-        }
+        },
+        "notes": "Store page: http://www.bootdiskrevolution.com/bleed/",
+        "extras": false
     },
     {
         "name": "Blob From Space",
