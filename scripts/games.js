@@ -21411,12 +21411,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://greenlitgaming.com/retrobooster-review/",
+            "desura": "http://www.desura.com/games/retrobooster",
+            "steam": "http://store.steampowered.com/app/310830/",
             "developer": "http://www.reallyslick.com/index.html"
         },
         "notes": "Store page: http://www.reallyslick.com/retrobooster/",
@@ -21436,12 +21439,15 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://greenlitgaming.com/retrobooster-review/",
+            "desura": "http://www.desura.com/games/retrobooster",
+            "steam": "http://store.steampowered.com/app/310830/",
             "developer": "http://www.reallyslick.com/index.html"
         },
         "notes": "Store page: http://www.reallyslick.com/retrobooster/",
