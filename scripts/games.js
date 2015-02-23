@@ -25666,6 +25666,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Sunset",
+        "url": "sunset/FD8123lkhs",
+        "price": "14.99",
+        "description": "Pre-order Sunset! On launch day you will get the game cross-platform and DRM-free + Steam Key!",
+        "developer": "Tale of Tales",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/287600",
+            "developer": "http://tale-of-tales.com/"
+        },
+        "notes": "Currently on sale at 25% off; regular price is $19.99.\nRegional pricing: £9.99/€12,99.\nStore page: http://tale-of-tales.com/Sunset/",
+        "extras": false
+    },
+    {
         "name": "Sunset - ¡AFICIONADO!",
         "url": "sunset_aficionado/JSDklj239dsa",
         "price": "15",
@@ -25688,7 +25714,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "notes": "Widget no longer shown on the game's website; may be no longer available.",
         "extras": false
     },
     {
@@ -25714,7 +25740,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "notes": "Widget no longer shown on the game's website; may be no longer available.",
         "extras": false
     },
     {
@@ -25740,7 +25766,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "notes": "Widget no longer shown on the game's website; may be no longer available.",
         "extras": true
     },
     {
@@ -25766,7 +25792,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "notes": "Widget no longer shown on the game's website; may be no longer available.",
         "extras": true
     },
     {
@@ -25792,7 +25818,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "notes": "Widget no longer shown on the game's website; may be no longer available.",
         "extras": true
     },
     {
@@ -25818,7 +25844,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "notes": "Widget no longer shown on the game's website; may be no longer available.",
         "extras": true
     },
     {
@@ -25844,7 +25870,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "notes": "Widget no longer shown on the game's website; may be no longer available.",
         "extras": true
     },
     {
@@ -25870,7 +25896,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Store page: http://tale-of-tales.com/Sunset/pledge.html",
+        "notes": "Widget no longer shown on the game's website; may be no longer available.",
         "extras": true
     },
     {
