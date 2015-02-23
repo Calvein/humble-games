@@ -27933,6 +27933,156 @@ var games = [
         "extras": false
     },
     {
+        "name": "Thimbleweed Park Soundtrack",
+        "url": "thimbleweedpark_soundtrack/ALkJDFD12",
+        "price": "35",
+        "description": "Digital Thimbleweed Park sound track, liner notes and printable cassette tape and CD covers + digital game (June 2016)",
+        "developer": "Terrible Toybox, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grumpygamer.com/"
+        },
+        "notes": "Store page: http://blog.thimbleweedpark.com/backer",
+        "extras": true
+    },
+    {
+        "name": "Thimbleweed Park Poster",
+        "url": "thimbleweedpark_poster/MSDFlk3n2",
+        "price": "150",
+        "description": "A glorious full size poster for Thimbleweed Park + digital game (June 2016)",
+        "developer": "Terrible Toybox, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grumpygamer.com/"
+        },
+        "notes": "Store page: http://blog.thimbleweedpark.com/backer",
+        "extras": true
+    },
+    {
+        "name": "Thimbleweed Park T-Shirt",
+        "url": "thimbleweedpark_tshirt/7FSDLKfhs",
+        "price": "150",
+        "description": "A Thimbleweed Park T-Shirt suitable for casual and formal situations + digital game (June 2016)",
+        "developer": "Terrible Toybox, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grumpygamer.com/"
+        },
+        "notes": "Store page: http://blog.thimbleweedpark.com/backer",
+        "extras": true
+    },
+    {
+        "name": "Thimbleweed Park Collector's Edition",
+        "url": "thimbleweedpark_collectorsedition/SGSDflkjH4",
+        "price": "150",
+        "description": "A collector's edition boxed copy of Thimbleweed Park + digital game (Sept 2016)",
+        "developer": "Terrible Toybox, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grumpygamer.com/"
+        },
+        "notes": "Store page: http://blog.thimbleweedpark.com/backer",
+        "extras": true
+    },
+    {
+        "name": "Thimbleweed Park Signed Poster",
+        "url": "thimbleweedpark_signedposter/LKSjdfh83",
+        "price": "250",
+        "description": "A glorious full size poster for Thimbleweed Park signed by Ron and Gary + digital game (June 2016)",
+        "developer": "Terrible Toybox, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grumpygamer.com/"
+        },
+        "notes": "Store page: http://blog.thimbleweedpark.com/backer",
+        "extras": true
+    },
+    {
+        "name": "Thimbleweed Park Box, Poster and T-Shirt",
+        "url": "thimbleweedpark_boxposterandtshirt/XSDfk32wS",
+        "price": "350",
+        "description": "A collectors edition boxed copy of Thimbleweed Park + t-shirt + signed poster + digital game (Sept 2016)",
+        "developer": "Terrible Toybox, Inc.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grumpygamer.com/"
+        },
+        "notes": "Store page: http://blog.thimbleweedpark.com/backer",
+        "extras": true
+    },
+    {
         "name": "Thirty Flights of Loving",
         "url": "thirtyflightsofloving",
         "price": "5",
