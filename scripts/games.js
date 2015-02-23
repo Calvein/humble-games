@@ -27115,31 +27115,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "The Journey Down: Chapters 1 & 2",
-        "url": "thejourneydownchaptersoneandtwo/xWfoweij29sj",
-        "price": "5.99",
-        "description": "Pre-Order Chapter Two of The Journey Down. Chapter One included! Direct download and Steam keys for Windows/Mac/Linux!",
-        "developer": "SkyGoblin",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.skygoblin.com/"
-        },
-        "notes": "Widget probably no longer valid after the release of Chapter Two.\nStore page: http://thejourneydown.com/",
-        "extras": false
-    },
-    {
         "name": "The Last Dogma",
         "url": "thelastdogma/xJLKX49iiDjs",
         "price": "6.99",
