@@ -3218,6 +3218,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Block Legend DX",
+        "url": "blocklegenddx/8DLSFKj23h",
+        "price": "4.99",
+        "description": "Get Block Legend DX instantly! On Windows, Mac, and Linux DRM-free and with Steam key!",
+        "developer": "Dot Warrior Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/345640/",
+            "developer": "http://dotwarriorgames.com/"
+        },
+        "notes": "Store page: http://dotwarriorgames.com/?page=blocklegend#humble-widget",
+        "extras": false
+    },
+    {
         "name": "Blocks That Matter",
         "url": "blocksthatmatter",
         "price": "4.99",
