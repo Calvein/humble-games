@@ -5306,6 +5306,84 @@ var games = [
         "extras": false
     },
     {
+        "name": "Commander Cool 2: Tier I",
+        "url": "commandercool2_tier1/HSDLFk23h",
+        "price": "7.99",
+        "description": "2D-Arcade-Platformer with oldschool jump and run action. (Pre-Order)",
+        "developer": "Orlyapps",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/commander-cool-2",
+            "developer": "http://commander-cool.com/blog"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://commander-cool.com/#preorder",
+        "extras": false
+    },
+    {
+        "name": "Commander Cool 2: Tier II (Cool Pack)",
+        "url": "commandercool2_tier2/WDSftY3w",
+        "price": "12.99",
+        "description": "2D-Arcade-Platformer with oldschool jump and run action. (Pre-Order)",
+        "developer": "Orlyapps",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/commander-cool-2",
+            "developer": "http://commander-cool.com/blog"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://commander-cool.com/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Commander Cool 2: Tier III (Fan Pack)",
+        "url": "commandercool2_tier3/OPJWErkh2",
+        "price": "39.99",
+        "description": "2D-Arcade-Platformer with oldschool jump and run action. (Pre-Order)",
+        "developer": "Orlyapps",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/commander-cool-2",
+            "developer": "http://commander-cool.com/blog"
+        },
+        "notes": "Steam key if/when Greenlit.\nStore page: http://commander-cool.com/#preorder",
+        "extras": true
+    },
+    {
         "name": "Commandos: Behind Enemy Lines",
         "url": "commandos_behindenemylines/Mekdowk2",
         "price": "5",
