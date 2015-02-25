@@ -25456,6 +25456,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "Starr Mazer",
+        "url": "starrmazer/NlKDSFwu3",
+        "price": "15",
+        "description": "Pre order Starr Mazer at a 25% discount! Cross-platform (Windows, Mac, and Linux) and DRM-free. Expected to deliver in April of 2016.",
+        "developer": "Imagos Softworks",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.imagossoftworks.com/"
+        },
+        "notes": "Currently on sale at 25% off; regular price is $20.\nStore page: http://www.starrmazer.com/#c2canvasdiv",
+        "extras": false
+    },
+    {
+        "name": "Starr Mazer + Beta Access",
+        "url": "starrmazer_betaaccess/GhDKFn3w2",
+        "price": "25",
+        "description": "Pre order Starr Mazer at a 25% discount! Cross-platform (Windows, Mac, and Linux) and DRM-free. Includes early beta access!",
+        "developer": "Imagos Softworks",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.imagossoftworks.com/"
+        },
+        "notes": "Currently on sale at 25% off; regular price is $33.33.\nStore page: http://www.starrmazer.com/#c2canvasdiv",
+        "extras": false
+    },
+    {
+        "name": "STARR COMMANDER Bundle",
+        "url": "starrmazer_commanderbundle/xxSDFkl2j3kr",
+        "price": "40",
+        "description": "Pre order Starr Mazer at a 25% discount! Cross-platform (Windows/Mac/Linux) and DRM-free. Includes early beta access, digital soundtrack composed by Alex Mauer, and the concept book!",
+        "developer": "Imagos Softworks",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.imagossoftworks.com/"
+        },
+        "notes": "Currently on sale at 25% off; regular price is $53.33.\nStore page: http://www.starrmazer.com/#c2canvasdiv",
+        "extras": false
+    },
+    {
         "name": "Starseed Pilgrim",
         "url": "starseedpilgrim/h0FE1AmJJTm7",
         "price": "6",
