@@ -4624,6 +4624,81 @@ var games = [
         "extras": true
     },
     {
+        "name": "Children of Morta - Friend",
+        "url": "childrenofmorta_friend/NBlksh23g2",
+        "price": "15",
+        "description": "DRM Free, Steam or Console digital game plus the digital booklet! (Pre-Order)",
+        "developer": "Dead Mage",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://deadmage.com/"
+        },
+        "notes": "Store page: http://www.childrenofmorta.com/",
+        "extras": true
+    },
+    {
+        "name": "Children of Morta - Guardian",
+        "url": "childrenofmorta_guardian/YdFil23kjhs",
+        "price": "45",
+        "description": "Exclusive Playable Character, Digital Artbook, Game OST, Private Game Early Access (Steam), Your name in game credits, Mount Morta Map, Exclusive Divine Relic, Game Instruction Booklet! (Pre-Order)",
+        "developer": "Dead Mage",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://deadmage.com/"
+        },
+        "notes": "Store page: http://www.childrenofmorta.com/",
+        "extras": true
+    },
+    {
+        "name": "Children of Morta - Techno Mage",
+        "url": "childrenofmorta_technomage/6SDFLk23h",
+        "price": "65",
+        "description": "Includes all digital rewards! (Pre-Order)",
+        "developer": "Dead Mage",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://deadmage.com/"
+        },
+        "notes": "Store page: http://www.childrenofmorta.com/",
+        "extras": true
+    },
+    {
         "name": "Chivalry: Deadliest Warrior",
         "url": "chivalrymedievalwarfare_tiered/Chdi8Fst4Rsg",
         "price": "34.99",
