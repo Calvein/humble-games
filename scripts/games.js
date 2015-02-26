@@ -877,6 +877,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Airships Early Access",
+        "url": "airships_earlyaccess/4r89NJ",
+        "price": "9.99",
+        "description": "Cross-platform and DRM-free. Includes Steam key.",
+        "developer": "David Stark",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/airships",
+            "steam": "http://store.steampowered.com/app/342560/",
+            "developer": "http://zarkonnen.com/"
+        },
+        "notes": "Store page: http://www.zarkonnen.com/airships/",
+        "extras": false
+    },
+    {
         "name": "Al Emmo & the Lost Dutchman's Mine",
         "url": "alemmoandthelostdutchmansmine/Aud3",
         "price": "9.99",
@@ -19074,6 +19101,33 @@ var games = [
         }
     },
     {
+        "name": "Oscura: Lost Light",
+        "url": "oscura_lostlight/SDFlj23khs",
+        "price": "9.99",
+        "description": "Get Oscura: Lost Light instantly! Available on Windows/Mac, DRM-free!",
+        "developer": "Surprise Attack",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/02/26/impressions-oscura-lost-light/",
+            "steam": "http://store.steampowered.com/app/320520/",
+            "developer": "http://surpriseattackgames.com/"
+        },
+        "notes": "Store page: http://oscuragame.com/app/oscura-lost-light/",
+        "extras": false
+    },
+    {
         "name": "Ossuary",
         "url": "ossuary/Osudkwk1",
         "price": "9.99",
@@ -21315,6 +21369,32 @@ var games = [
             "developer": "http://frogdice.com/"
         },
         "notes": "Store page: http://frogdice.com/reignmaker/buy/",
+        "extras": false
+    },
+    {
+        "name": "Republique Remastered",
+        "url": "republique_remastered/7DSkfj23g",
+        "price": "24.99",
+        "description": "Purchase Republique Remastered! Purchase includes all 5 episodes!",
+        "developer": "Camouflaj",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/317100/",
+            "developer": "http://www.camouflaj.com/"
+        },
+        "notes": "Linux version probably coming soon.",
         "extras": false
     },
     {
