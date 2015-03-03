@@ -24238,7 +24238,7 @@ var games = [
     {
         "name": "Social Justice Warriors",
         "url": "socialjusticewarriors/noiJDSlfkj1093jdk",
-        "price": "3",
+        "price": "7.99",
         "description": "Battle trolls for social justice in a satirical role-playing game about our online interactions! Cross-platform and DRM-free!",
         "developer": "Nonadecimal Creative",
         "platform": {
@@ -24257,9 +24257,9 @@ var games = [
         "URL": {
             "review": "http://rgz.ca/gaming/social-justice-warriors-review-smite-trolls-with-divine-power/",
             "desura": "http://www.desura.com/games/social-justice-warriors",
+            "steam": "http://store.steampowered.com/app/348270/",
             "developer": "http://nonadecimal.com/site/"
         },
-        "notes": "Store page: http://nonadecimal.com/site/socialjusticewarriors/",
         "extras": false
     },
     {
