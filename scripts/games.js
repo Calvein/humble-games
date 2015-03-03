@@ -6503,6 +6503,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Damnation City of Death",
+        "url": "damnationcityofdeath/9SDFk23h1",
+        "price": "7.95",
+        "description": "Get access to Damnation City of Death instantly! It's DRM-free! Also includes a Desura key!",
+        "developer": "Antiproto",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/damnationcityofdeath",
+            "steam": "http://store.steampowered.com/app/346800/",
+            "developer": "http://www.antiproto.com/"
+        },
+        "notes": "Store page: http://www.damnationgame.net/buy/humble-bundle/",
+        "extras": false
+    },
+    {
         "name": "Damned Early Access",
         "url": "damnedearlyaccess/Dkskwo9dskl",
         "price": "19.99",
