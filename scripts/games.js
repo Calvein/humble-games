@@ -28714,6 +28714,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Toxikk",
+        "url": "toxikk/RpOEo23hX",
+        "price": "18.99",
+        "description": "Get a Toxikk Steam key for Windows now!",
+        "developer": "Reakktor",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/324810/",
+            "developer": "http://reakktor.com/"
+        },
+        "notes": "Early Access game.\nRegional pricing: €18,99.\nStore page: http://www.2-tainment.com/portfolio-view/toxikk/",
+        "extras": false
+    },
+    {
         "name": "Trail Blazer Time Machine",
         "url": "trailblazertimemachine/SDFJLwijHFDs",
         "price": "2.99",
