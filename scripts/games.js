@@ -9638,7 +9638,7 @@ var games = [
         "developer": "Shiro Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": true
@@ -9654,7 +9654,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/233470/",
             "developer": "http://shirogames.com/"
         },
-        "notes": "Store page: http://evoland.shirogames.com/",
+        "notes": "Linux version only available through Steam.\nStore page: http://evoland.shirogames.com/",
         "extras": false
     },
     {
