@@ -877,6 +877,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Air Guardians",
+        "url": "airguardians/T9DSfji11s",
+        "price": "4.99",
+        "description": "Get Air Guardians instantly! Available on Windows, DRM-free!",
+        "developer": "Lazy Bum Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamereviewer.com/review-air-guardians-3d-artist-develops-game-solo/",
+            "desura": "http://www.desura.com/games/air-guardians",
+            "steam": "http://store.steampowered.com/app/342230/",
+            "developer": "https://twitter.com/airguardians"
+        },
+        "notes": "Store page: http://airguardians.com/",
+        "extras": false
+    },
+    {
         "name": "Airships Early Access",
         "url": "airships_earlyaccess/4r89NJ",
         "price": "9.99",
@@ -23657,6 +23685,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Shelter 2",
+        "url": "shelter2/6SDLFkj32h",
+        "price": "14.99",
+        "description": "Pre-purchase Shelter 2 NOW!!!",
+        "developer": "Might and Delight",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/03/09/shelter-2-review/",
+            "steam": "http://store.steampowered.com/app/275100/",
+            "developer": "http://mightanddelight.com/"
+        },
+        "notes": "Store page: http://mightanddelight.com/index.php?page=store",
+        "extras": false
+    },
+    {
         "name": "Sherlock Holmes Consulting Detective",
         "url": "sherlockholmesconsultingdetective/IklSDJ3h8sa",
         "price": "4.99",
@@ -27170,6 +27225,33 @@ var games = [
         }
     },
     {
+        "name": "The Blue Flamingo",
+        "url": "theblueflamingo/67SDFklj23hs",
+        "price": "4.99",
+        "description": "Get The Blue Flamingo instantly for Steam!",
+        "developer": "Might and Delight",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.thatvideogameblog.com/2014/12/07/review-blue-flamingo-pc/",
+            "steam": "http://store.steampowered.com/app/302010/",
+            "developer": "http://mightanddelight.com/"
+        },
+        "notes": "Store page: http://mightanddelight.com/index.php?page=store",
+        "extras": false
+    },
+    {
         "name": "The Bridge",
         "url": "thebridge/Sj39dhsnNzlx",
         "price": "14.99",
@@ -28601,6 +28683,34 @@ var games = [
             "developer": "http://blog.mountolymp.us/"
         },
         "notes": "Mac and Linux versions will be available if the Kickstarter stretch goals are reached with the pre-orders.\nSteam key if/when the game gets Greenlit.\nStore page: http://togetherthegame.com/",
+        "extras": false
+    },
+    {
+        "name": "Tormentum - Dark Sorrow",
+        "url": "tormentum_darksorrow/POdFUlwekj8",
+        "price": "11.99",
+        "description": "Pre-order Tormentum - Dark Sorrow now! Available on Windows/Mac, DRM-free! Includes a Steam key!",
+        "developer": "OhNoo Studio",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/03/04/tormentum-dark-sorrow-review/",
+            "desura": "http://www.desura.com/games/tormentum-dark-sorrow",
+            "steam": "http://store.steampowered.com/app/335000/",
+            "developer": "http://www.ohnoo.com/"
+        },
+        "notes": "Store page: http://www.ohnoo.com/tormentum.html",
         "extras": false
     },
     {
