@@ -236,6 +236,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "A Good Snowman Is Hard To Build",
+        "url": "agoodsnowmanishardtobuild/6SDFkl23h",
+        "price": "12",
+        "description": "Buy A Good Snowman Is Hard To Build and get the game DRM-free for Win/Mac/Linux. Includes a Steam key!",
+        "developer": "Draknek",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamingonlinux.com/articles/adorable-sokobanlike-puzzler-a-good-snowman-is-hard-to-build-released-today-a-musthave-for-puzzle-enthusiasts.5012",
+            "steam": "http://store.steampowered.com/app/316610/",
+            "developer": "http://draknek.org/"
+        },
+        "notes": "Store page: http://agoodsnowman.com/",
+        "extras": false
+    },
+    {
         "name": "A Hat in Time",
         "url": "ahatintime/Han5YUef4ds",
         "price": "20",
