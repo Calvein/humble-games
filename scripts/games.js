@@ -16876,6 +16876,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Mine Dudes",
+        "url": "minedudes/mM89SJ23h",
+        "price": "4.90",
+        "description": "Get Mine Dudes instantly! For Windows, DRM-free!",
+        "developer": "Irreverent Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/mine-dudes",
+            "developer": "http://irreverent-software.site11.com/"
+        },
+        "notes": "Includes some wallpapers, concept art drawings, and a making of video.\nStore page: http://irreverent-software.site11.com/mine-dudes.html",
+        "extras": false
+    },
+    {
         "name": "Mini Metro",
         "url": "minimetro/NIUCv54",
         "price": "6.99",
@@ -26343,6 +26369,31 @@ var games = [
             "steam": "http://store.steampowered.com/app/40800/",
             "developer": "http://supermeatboy.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Super Space Meltdown",
+        "url": "superspacemeltdown/F7DSFlk23h",
+        "price": "3.99",
+        "description": "A Sci-Fi/Top down/Strategy/Shooter - You are a lone wolf Space Trooper sent into space to save humanity's space station. On Windows/Mac, DRM-free!",
+        "developer": "4DX Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://4dxgames.com/"
+        },
+        "notes": "Early Access game.\nAndroid and iOS versions coming soon.\nStore page: http://4dxgames.com/super-space-meltdown/",
         "extras": false
     },
     {
