@@ -29672,7 +29672,7 @@ var games = [
         "URL": {
             "developer": "http://cowardlycreations.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nRegional pricing: £5.99/€6,99.\nStore page: http://cowardlycreations.com/uncannyvalley.html",
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nCurrently on sale at 10% off; regular price is $9.99 (regional pricing: €9,99).\nStore page: http://cowardlycreations.com/uncannyvalley.html",
         "extras": false
     },
     {
