@@ -29664,7 +29664,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": false
@@ -29672,7 +29672,7 @@ var games = [
         "URL": {
             "developer": "http://cowardlycreations.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nCurrently on sale at 10% off; regular price is $9.99 (regional pricing: €9,99).\nStore page: http://cowardlycreations.com/uncannyvalley.html",
+        "notes": "Currently on sale at 10% off; regular price is $9.99 (regional pricing: €9,99).\nStore page: http://cowardlycreations.com/uncannyvalley.html",
         "extras": false
     },
     {
