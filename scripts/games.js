@@ -14082,6 +14082,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Into the Stars",
+        "url": "intothestars/HGlksdfn32y",
+        "price": "20",
+        "description": "Pre-Order Into the Stars! Available on Windows/Mac, DRM-free!",
+        "developer": "Fugitive Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.fugitive-games.com/"
+        },
+        "notes": "Store page: http://www.fugitive-games.com/#!development/c24vq",
+        "extras": false
+    },
+    {
         "name": "Intrusion 2",
         "url": "intrusion2",
         "price": "10",
