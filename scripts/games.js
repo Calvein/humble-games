@@ -12399,6 +12399,31 @@ var games = [
         "notes": "The widget says pre-order even though the game has already been released. No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/guise-of-the-wolf/"
     },
     {
+        "name": "Gunman Taco Truck",
+        "url": "gunmantacotruck/88DLFk23hs",
+        "price": "4.99",
+        "description": "You are the last surviving Mexican in the USA. You must save the family business. You are Gunman Taco Truck. For Windows/Mac, DRM-free! (Pre-Order)",
+        "developer": "Romero Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://gunmantacotruck.com/category/development/"
+        },
+        "notes": "Store page: http://gunmantacotruck.com/",
+        "extras": false
+    },
+    {
         "name": "Gunpoint",
         "url": "gunpoint/djS894h2nS",
         "price": "9.99",
@@ -18754,6 +18779,33 @@ var games = [
                 "developer": "http://lfa.com/"
         },
         "notes": "Store page: http://obeygame.com/play/",
+        "extras": false
+    },
+    {
+        "name": "Oceanhorn: Monster of Uncharted Seas",
+        "url": "oceanhorn/BSDFlkj23ss",
+        "price": "14.99",
+        "description": "Buy the remastered version of Oceanhorn from here and support the development of our next game! For Windows on Steam!",
+        "developer": "Cornfox & Bros",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": false
+        },
+        "drm": {
+                "steam": true,
+                "desura": false,
+                "gog": false,
+                "drm-free": false
+        },
+        "URL": {
+                "review": "http://mousenjoypad.com/reviews/pc/oceanhorn-monster-of-uncharted-seas-review/",
+                "steam": "http://store.steampowered.com/app/339200/",
+                "developer": "http://www.cornfox.com/"
+        },
+        "notes": "Mac version coming soon.\nStore page: http://oceanhorn.blogspot.com.es/2015/03/oceanhorn-steam-out-now.html",
         "extras": false
     },
     {
