@@ -19008,6 +19008,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Ominous!",
+        "url": "ominous/44SDlfk2j3hs",
+        "price": "3",
+        "description": "\"How did my life get to this?\" Guide Murphy through his faulty memory or his doom in this comedic adventure! Get it DRM-free!",
+        "developer": "Dusty Tome",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/ominous",
+            "developer": "http://dustytomestudios.com/"
+        },
+        "notes": "Store page: http://dustytomestudios.com/ominous.html",
+        "extras": false
+    },
+    {
         "name": "Oniken",
         "url": "oniken/Odg6Tdf4RDsa",
         "price": "7.99",
@@ -21623,6 +21649,32 @@ var games = [
             "developer": "http://www.zojoi.com/"
         },
         "notes": "On sale at 40% off; regular price is $4.99.\nStore page: http://www.zojoi.com/retroshadowgate/",
+        "extras": false
+    },
+    {
+        "name": "Reversi",
+        "url": "reversi/bSDFLkj11",
+        "price": "9.99",
+        "description": "The classic strategy game comes to Steam! Reversi is an ageless game that is simple to learn and hard to master. Cross-platform on Steam!",
+        "developer": "BlueLine Game Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/307430/",
+            "developer": "http://bluelinegamestudios.com/"
+        },
+        "notes": "Store page: http://bluelinegamestudios.com/reversi-game/",
         "extras": false
     },
     {
