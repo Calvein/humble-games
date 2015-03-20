@@ -20710,6 +20710,31 @@ var games = [
         }
     },
     {
+        "name": "PULSAR: Lost Colony (Alpha)",
+        "url": "pulsar_lostcolony_alpha/Pdlwkdo2k3k",
+        "price": "25",
+        "description": "Get immediate access to the PULSAR: Lost Colony Alpha! Cross-platform and DRM-free. Includes Digital Soundtrack (when released) and a Steam Key",
+        "developer": "Leafy Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://leafygames.com/"
+        },
+        "notes": "Store page: http://pulsarlostcolony.com/",
+        "extras": false
+    },
+    {
         "name": "Pulse: Volume One",
         "url": "pulse/sjadkhjklajklhALKJH",
         "price": "2.99",
