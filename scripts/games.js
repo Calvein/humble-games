@@ -21827,7 +21827,7 @@ var games = [
         "developer": "Castle Pixel, LLC",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
@@ -21839,9 +21839,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.denkiphile.com/2014/08/11/game-review-rex-rocket-pc/",
+            "steam": "http://store.steampowered.com/app/288020/",
             "developer": "http://www.castlepixel.com/"
         },
-        "notes": "Store page: http://www.castlepixel.com/rexrocket/#preorder",
+        "notes": "Store page: http://www.castlepixel.com/rexrocket/",
         "extras": false
     },
     {
@@ -21852,7 +21854,7 @@ var games = [
         "developer": "Castle Pixel, LLC",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": true
@@ -21864,9 +21866,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.denkiphile.com/2014/08/11/game-review-rex-rocket-pc/",
+            "steam": "http://store.steampowered.com/app/288020/",
             "developer": "http://www.castlepixel.com/"
         },
-        "notes": "Store page: http://www.castlepixel.com/rexrocket/#preorder",
+        "notes": "Store page: http://www.castlepixel.com/rexrocket/",
         "extras": true
     },
     {
