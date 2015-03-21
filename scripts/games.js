@@ -28633,23 +28633,26 @@ var games = [
     {
         "name": "Three Fourths Home",
         "url": "threefourthshome/2DSoij23ksha",
-        "price": "3.99",
+        "price": "6.99",
         "description": "Three Fourths Home is a visual short story. The player takes the role of Kelly, a woman in her 20's who has recently moved back to Nebraska.",
         "developer": "[bracket]games",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
-            "desura": false,
+            "steam": true,
+            "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gameskinny.com/9x0s9/three-fourths-home-review-its-genres-game-of-the-year",
+            "desura": "http://www.desura.com/games/three-fourths-home",
+            "steam": "http://store.steampowered.com/app/344500/",
             "developer": "http://bracket-games.com/"
         },
         "notes": "Store page: http://www.threefourthshome.com/purchase/",
