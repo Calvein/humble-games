@@ -6248,6 +6248,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Crystal Rift",
+        "url": "crystalrift/7SDFlk23h1",
+        "price": "20",
+        "description": "Pre-Order Crystal Rift for Windows or Mac, Oculus Rift and Non VR versions included!",
+        "developer": "Psytec Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.psytecgames.com/"
+        },
+        "notes": "Store page: http://www.crystalrift.com/",
+        "extras": false
+    },
+    {
         "name": "Cube & Star: An Arbitrary Love",
         "url": "cubeandstar_anarbitrarylove/Ckdow43",
         "price": "4.99",
@@ -11454,6 +11479,33 @@ var games = [
             "developer": "http://www.phobicstudios.com/"
         },
         "notes": "Store page: http://www.glaregame.com/",
+        "extras": false
+    },
+    {
+        "name": "Glorkian Warrior: The Trials of Glork",
+        "url": "glorkianwarrior_thetrialsofglork/9HTuWwshiW",
+        "price": "3.99",
+        "description": "Get your Glork on! Available on Windows/Mac, DRM-free!",
+        "developer": "Noodlecake Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://jayisgames.com/review/glorkian-warrior.php",
+            "steam": "http://store.steampowered.com/app/341120/",
+            "developer": "http://www.noodlecake.com/"
+        },
+        "notes": "Store page: http://www.glorkianwarrior.com/",
         "extras": false
     },
     {
@@ -24474,6 +24526,33 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Soccertron",
+        "url": "soccertron/7SDFLk22",
+        "price": "9.99",
+        "description": "Includes Soccertron for Windows/Linux/Mac on Steam - Go and practice sports the way they are meant to be played: On your couch!",
+        "developer": "Erosa Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://sirusgaming.info/soccertron-review/",
+            "steam": "http://store.steampowered.com/app/334620/",
+            "developer": "http://www.erosagames.com/"
+        },
+        "notes": "Store page: http://www.soccertrongame.com/",
+        "extras": false
     },
     {
         "name": "Social Justice Warriors",
