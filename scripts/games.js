@@ -21048,7 +21048,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/270050",
             "developer": "http://www.david-amador.com/"
         },
-        "notes": "Linux version only available on Steam.\nStore page: http://www.questofdungeons.com/#purchase",
+        "notes": "Store page: http://www.questofdungeons.com/#purchase",
         "extras": false
     },
     {
