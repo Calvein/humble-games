@@ -18584,6 +18584,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Not without my donuts",
+        "url": "notwithoutmydonuts/TyDSflk3bh",
+        "price": "2.99",
+        "description": "Pre-order Not without my donuts now! Available for Windows, DRM-free!",
+        "developer": "Different Donut",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/not-without-my-donuts",
+            "developer": "http://differentdonut.com/"
+        },
+        "notes": "Store page: http://differentdonut.com/not-without-my-donuts.html#u1494",
+        "extras": false
+    },
+    {
         "name": "NOWHERE",
         "url": "nowhere_alpha/Ndhu8Tgey5Fd",
         "price": "21",
