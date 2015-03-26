@@ -19843,12 +19843,44 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
-        "notes": "The game was removed from Steam, so the included key is no use.",
+        "URL": {
+            "review": "http://www.technologytell.com/gaming/143157/paranautical-activity-review-sinking-ship/",
+            "desura": "http://www.desura.com/games/paranautical-activity",
+            "steam": "http://store.steampowered.com/app/250580",
+            "developer": "http://www.codeavarice.com/"
+        },
+        "notes": "Store page: http://www.codeavarice.com/store.html",
+        "extras": false
+    },
+    {
+        "name": "Parcel",
+        "url": "parcel/7SDfilk23h",
+        "price": "9.99",
+        "description": "Get a cross-platform Parcel Steam Key! We will try to deliver DRM free versions as soon as possible!",
+        "developer": "Polar Bunny",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/316080/",
+            "developer": "http://www.polarbunny.net/"
+        },
+        "notes": "DRM-free downloads coming soon.\nStore page: http://parcelthegame.com/",
         "extras": false
     },
     {
