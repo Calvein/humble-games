@@ -23888,7 +23888,33 @@ var games = [
             "steam": "http://store.steampowered.com/app/294440/",
             "developer": "http://www.zojoi.com/"
         },
-        "notes": "Regular price is $19.99.\nStore page: http://www.zojoi.com/wayfarer/",
+        "notes": "Pre-order at 25% off; regular price is $19.99.\nThis widget no longer appears on the game's website. Buy with caution.",
+        "extras": false
+    },
+    {
+        "name": "Shadowgate: Ranger Tier",
+        "url": "shadowgate_rangertier/TtuSDf329ds",
+        "price": "15.99",
+        "description": "Get SHADOWGATE now! Cross-platform / Steam Key (Windows/Mac)!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/294440/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 20% off; regular price is $19.99.\nStore page: http://www.zojoi.com/ranger/",
         "extras": false
     },
     {
@@ -23914,7 +23940,33 @@ var games = [
             "steam": "http://store.steampowered.com/app/294440/",
             "developer": "http://www.zojoi.com/"
         },
-        "notes": "Regular price is $24.99.\nStore page: http://www.zojoi.com/adventurer/",
+        "notes": "Pre-order at 20% off; regular price is $24.99.\nThis widget no longer appears on the game's website. Buy with caution.",
+        "extras": true
+    },
+    {
+        "name": "Shadowgate: Warlock Tier",
+        "url": "shadowgate_warlocktier/FjfDSH38sA",
+        "price": "23.99",
+        "description": "Get SHADOWGATE now! Cross-platform / Steam Key (Windows/Mac), Soundtrack, Wallpapers, Artbook, Digital Calendar!",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/294440/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 20% off; regular price is $29.99.\nStore page: http://www.zojoi.com/warlock/",
         "extras": true
     },
     {
@@ -23940,7 +23992,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/294440/",
             "developer": "http://www.zojoi.com/"
         },
-        "notes": "Regular price is $29.99.\nStore page: http://www.zojoi.com/hero/",
+        "notes": "Pre-order at 17% off; regular price is $29.99.\nThis widget no longer appears on the game's website. Buy with caution.",
         "extras": true
     },
     {
