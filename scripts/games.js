@@ -9969,6 +9969,84 @@ var games = [
         "extras": false
     },
     {
+        "name": "Flamberge",
+        "url": "flamberge/USdlfkj238S",
+        "price": "7",
+        "description": "Receive Flamberge upon release! Estimated Q1 2015! (Pre-Order)",
+        "developer": "Hydezeke",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/355420/",
+            "developer": "http://www.hydezeke.com/"
+        },
+        "notes": "Store page: http://www.hydezeke.com/allpurchase.html",
+        "extras": false
+    },
+    {
+        "name": "Flamberge + Alpha Builds",
+        "url": "flamberge_alphabuilds/WlwekjrD243",
+        "price": "10",
+        "description": "Receive Flamberge upon release! Also receive alpha builds during the development! (Pre-Order)",
+        "developer": "Hydezeke",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/355420/",
+            "developer": "http://www.hydezeke.com/"
+        },
+        "notes": "Store page: http://www.hydezeke.com/allpurchase.html",
+        "extras": false
+    },
+    {
+        "name": "Flamberge + Alpha + Soundtrack",
+        "url": "flamberge_alpha_soundtrack/FfD2HDoIu",
+        "price": "15",
+        "description": "Receive Flamberge upon release, all alpha builds, as well as the original soundtrack! (Pre-Order)",
+        "developer": "Hydezeke",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/355420/",
+            "developer": "http://www.hydezeke.com/"
+        },
+        "notes": "Store page: http://www.hydezeke.com/allpurchase.html",
+        "extras": false
+    },
+    {
         "name": "Flappy Potato Salad",
         "url": "flappypotatosalad/oDKJhf23874hs",
         "price": "4.99",
