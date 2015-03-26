@@ -19039,6 +19039,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Odallus: The Dark Call",
+        "url": "odallus_thedarkcall/TuSDflk32j83",
+        "price": "14.99",
+        "description": "Odallus is a classic exploration/action game, inspired by Ghosts’n Goblins, Demon’s Crest and Castlevania. (Pre-Order)",
+        "developer": "JoyMasher",
+        "platform": {
+                "android": false,
+                "linux": false,
+                "windows": true,
+                "mac": false,
+                "audio": false
+        },
+        "drm": {
+                "steam": false,
+                "desura": false,
+                "gog": false,
+                "drm-free": false
+        },
+        "URL": {
+                "developer": "http://joymasher.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website.\nStore page: http://joymasher.com/odalluspreorder/#contentwrap",
+        "extras": false
+    },
+    {
         "name": "Offspring Fling",
         "url": "offspringfling",
         "price": "7.99",
