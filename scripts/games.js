@@ -19084,6 +19084,31 @@ var games = [
         }
     },
     {
+        "name": "Olympia Rising",
+        "url": "olympiarising/7SLDK23hss",
+        "price": "4.99",
+        "description": "Get the DRM-free digital download of Olympia Rising for Windows, Mac, and Linux!",
+        "developer": "Paleozoic",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://paleozoic.com/"
+        },
+        "notes": "Store page: http://or.paleozoic.com/buy/",
+        "extras": false
+    },
+    {
         "name": "Omegalodon",
         "url": "omegalodon/Odhy6Fst3Hde",
         "price": "9.99",
