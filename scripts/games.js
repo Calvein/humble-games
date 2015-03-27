@@ -4806,32 +4806,6 @@ var games = [
         "extras": true
     },
     {
-        "name": "Chivalry: Deadliest Warrior",
-        "url": "chivalrymedievalwarfare_tiered/Chdi8Fst4Rsg",
-        "price": "34.99",
-        "description": "Purchase this bundle and get both Chivalry and Deadliest Warrior for Steam on Windows!",
-        "developer": "Torn Banner Studios Inc.",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/219640",
-            "developer": "http://www.tornbanner.com/"
-        },
-        "notes": "Tiered widget for purchasing Chivalry 'Deadliest Warrior' expansion pack. Can be purchased separately or in conjunction with base game. Expansion cost is $14.99, widget defaults to $34.99 joint purchase bundle.",
-        "extras": false
-    },
-    {
         "name": "Chivalry: Medieval Warfare",
         "url": "chivalrymedievalwarfare",
         "price": "24.99",
@@ -4840,8 +4814,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -4865,8 +4839,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -4905,6 +4879,32 @@ var games = [
             "steam": "http://store.steampowered.com/app/219640",
             "developer": "http://www.tornbanner.com/"
         }
+    },
+    {
+        "name": "Chivalry: Deadliest Warrior",
+        "url": "chivalrymedievalwarfare_tiered/Chdi8Fst4Rsg",
+        "price": "34.99",
+        "description": "Purchase this bundle and get both Chivalry and Deadliest Warrior for Steam on Windows!",
+        "developer": "Torn Banner Studios Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/219640",
+            "developer": "http://www.tornbanner.com/"
+        },
+        "notes": "Tiered widget for purchasing Chivalry 'Deadliest Warrior' expansion pack. Can be purchased separately or in conjunction with base game. Expansion cost is $14.99, widget defaults to $34.99 joint purchase bundle.",
+        "extras": false
     },
     {
         "name": "Chocolate Castle",
