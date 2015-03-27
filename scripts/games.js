@@ -4052,7 +4052,7 @@ var games = [
         "developer": "Xtase Studios",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": false,
             "audio": false
@@ -4066,7 +4066,6 @@ var games = [
         "URL": {
             "developer": "http://www.xtasestudios.com/"
         },
-        "notes": "Store page: http://www.xtasestudios.com/portfolio/butsbal",
         "extras": false
     },
     {
