@@ -13619,31 +13619,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Hyper Light Drifter - Limited Preview Access",
-        "url": "hyperlightdrifter_bonuspack/sdfIwldkGh12k",
-        "price": "25",
-        "description": "Pre-order Hyper Light Drifter (early access). When released you'll receive the game DRM-free for Win/Mac/Linux, Steam key, Art Book & Manual PDFs.",
-        "developer": "Heart Machine",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.heart-machine.com/home1/"
-        },
-        "notes": "Widget no longer appears on the game's website, so it may be no longer available for sale.",
-        "extras": true
-    },
-    {
         "name": "Hyper Light Drifter OST (Pre-Order)",
         "url": "hyperlightdrifter_ost/sdfIwldkGh12k",
         "price": "5",
