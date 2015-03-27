@@ -15081,31 +15081,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Kaiju Panic (Reward Edition)",
-        "url": "kaijupanic_rewardedition/Kdowkdo4",
-        "price": "100",
-        "description": "Preorder a copy of Kaiju Panic. Also includes \"Your face in the game\" reward.",
-        "developer": "Mechabit",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-                "developer": "http://mechabit.co.uk/"
-        },
-        "notes": "Linux version coming soon.\nStore page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
-        "extras": true
-    },
-    {
         "name": "Kairo",
         "url": "kairo/QDVkDE58Qv8B",
         "price": "5",
