@@ -16146,7 +16146,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -16160,7 +16160,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nRegional pricing: £14.99/€18,99.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Regional pricing: £14.99/€18,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": false
     },
     {
@@ -16172,7 +16172,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -16186,7 +16186,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nRegional pricing: £16.99/€21,99.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Regional pricing: £16.99/€21,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -16198,7 +16198,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": true
         },
@@ -16212,7 +16212,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nRegional pricing: £21.99/€25,99.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Regional pricing: £21.99/€25,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -16224,7 +16224,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": false,
             "audio": true
         },
@@ -16238,7 +16238,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nRegional pricing: £49/€59.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "This widget no longer appears on the game's website: buy with caution.\nRegional pricing: £49/€59",
         "extras": true
     },
     {
@@ -16250,7 +16250,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": false,
             "audio": true
         },
@@ -16264,7 +16264,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Linux version coming soon.\nRegional pricing: £69/€89.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "This widget no longer appears on the game's website: buy with caution.\nRegional pricing: £69/€89",
         "extras": true
     },
     {
