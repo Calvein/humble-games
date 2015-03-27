@@ -27894,7 +27894,7 @@ var games = [
         "developer": "Studio Fizbin",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": true
@@ -27907,6 +27907,7 @@ var games = [
         },
         "URL": {
             "review": "http://ilovegamereviews.blogspot.com.es/2013/07/the-inner-world-review-best-daedalic.html",
+            "steam": "http://store.steampowered.com/app/251430/",
             "developer": "http://www.studio-fizbin.de/"
         },
         "notes": "Store page: http://www.theinnerworld.de/buy.html",
