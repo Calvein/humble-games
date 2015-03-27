@@ -4148,8 +4148,8 @@ var games = [
     {
         "name": "Captain Forever Remix",
         "url": "captainforeverremix/Biahsdf9382s",
-        "price": "9.99",
-        "description": "Pre-order now to get the lowest pre-launch price and take part in the development process with Steam Early Access! Windows/Mac/Linux + Steam key!",
+        "price": "12.74",
+        "description": "Captain Forever Remix is the spaceship builder roguelike. Voyage across the Solar System and blast apart randomly-generated enemies for spare parts.",
         "developer": "Pixelsaurus Games",
         "platform": {
             "android": false,
@@ -4162,12 +4162,13 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/298560/",
             "developer": "http://pixelsaurusgames.tumblr.com/"
         },
-        "notes": "Pre-order at 50% off - regular price is $19.99\nStore page: http://captainforeverremix.com/#comingsoontext",
+        "notes": "Store page: http://captainforeverremix.com/",
         "extras": false
     },
     {
