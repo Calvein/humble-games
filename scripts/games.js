@@ -25193,31 +25193,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Space Corp Tycoon",
-        "url": "spacecorptycoon/Nf4jlnD3",
-        "price": "10",
-        "description": "Space Corp Tycoon is a Space Themed Text and Integer management Sim, Spread Your Corporation across the stars and colonize galaxies.",
-        "developer": "Ent3rGaming",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://www.ent3rgaming.co.uk/"
-        },
-        "notes": "No mention about DRM or lack thereof neither in the widget nor in the game's website.\nStore page: http://ent3rgaming.proboards.com/page/Purchase",
-        "extras": false
-    },
-    {
         "name": "Space Hulk",
         "url": "spacehulk/Sh8Yhe5Rdf",
         "price": "29.99",
