@@ -11826,6 +11826,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Just the Music",
+        "url": "gonehome_recordcollection/OHFHXxPWMLTy",
+        "price": "21",
+        "description": "4 full albums, with NO game download. Calculated by Heavens to Betsy, Pottymouth by Bratmobile, The Youngins are Hardcore, and Chris Remo's GH:OST",
+        "developer": "The Fullbright Company",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2013/08/15/gone-home-review",
+            "steam": "http://store.steampowered.com/app/232430/",
+            "developer": "http://thefullbrightcompany.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Goodbye Deponia (Windows)",
         "url": "goodbyedeponia_pc/Gdskwodka12k",
         "price": "19.99",
@@ -11877,32 +11903,6 @@ var games = [
             "developer": "http://www.daedalic.de/"
         },
         "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
-        "extras": false
-    },
-    {
-        "name": "Just the Music",
-        "url": "gonehome_recordcollection/OHFHXxPWMLTy",
-        "price": "21",
-        "description": "4 full albums, with NO game download. Calculated by Heavens to Betsy, Pottymouth by Bratmobile, The Youngins are Hardcore, and Chris Remo's GH:OST",
-        "developer": "The Fullbright Company",
-        "platform": {
-            "android": false,
-            "windows": false,
-            "linux": false,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.ign.com/articles/2013/08/15/gone-home-review",
-            "steam": "http://store.steampowered.com/app/232430/",
-            "developer": "http://thefullbrightcompany.com/"
-        },
         "extras": false
     },
     {
@@ -12505,31 +12505,6 @@ var games = [
             "developer": "http://drinkboxstudios.com/blog/"
         },
         "notes": "Store page: http://guacamelee.com/purchase/",
-        "extras": false
-    },
-    {
-        "name": "Guild of Dungeoneering",
-        "url": "guildofdungeoneering/Gkdlsi1k2k",
-        "price": "9.99",
-        "description": "Pre-order Guild of Dungeoneering now and get the full version on launch day!",
-        "developer": "Gambrinous",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://gambrinous.com/"
-        },
-        "notes": "Pre-order at 50% off. Regular price is $19.99.\nStore page: http://gambrinous.com/games/dungeoneering/",
         "extras": false
     },
     {
