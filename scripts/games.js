@@ -23954,7 +23954,7 @@ var games = [
         "developer": "Zojoi LLC.",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
@@ -23980,7 +23980,7 @@ var games = [
         "developer": "Zojoi LLC.",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
@@ -24006,7 +24006,7 @@ var games = [
         "developer": "Zojoi LLC.",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
@@ -24032,7 +24032,7 @@ var games = [
         "developer": "Zojoi LLC.",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": true
@@ -24058,7 +24058,7 @@ var games = [
         "developer": "Zojoi LLC.",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": true
