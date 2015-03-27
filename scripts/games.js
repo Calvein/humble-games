@@ -6021,6 +6021,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Crayon Physics Deluxe",
+        "url": "crayonphysicsdeluxe/SDLfj93jsa1",
+        "price": "19.95",
+        "description": "Get Crayon Physics Deluxe DRM-free for Windows, Mac, Linux and on Steam!",
+        "developer": "Kloonigames",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/destructoid-review-crayon-physics-deluxe-116655.phtml",
+            "steam": "http://store.steampowered.com/app/26900/",
+            "desura": "http://www.desura.com/games/crayon-physics-deluxe",
+            "developer": "http://www.kloonigames.com/"
+        },
+        "notes": "Store page: http://www.crayonphysics.com/",
+        "extras": false
+    },
+    {
         "name": "Crea Beta",
         "url": "crea_gameonly/aECF9PQKtbeB",
         "price": "14.99",
