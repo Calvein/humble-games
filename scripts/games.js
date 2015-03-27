@@ -21400,12 +21400,12 @@ var games = [
         "name": "Read Only Memories",
         "url": "readonlymemories/mOIDn20948i1j",
         "price": "9.99",
-        "description": "Pre-order Read Only Memories now! When available you will get your choice between DRM-free and Steam (Windows/Mac) OR OUYA.",
+        "description": "Pre-order Read Only Memories now! At launch you will get your choice between DRM-free, Steam key or OUYA.",
         "developer": "MidBoss",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -21418,8 +21418,58 @@ var games = [
         "URL": {
             "developer": "http://www.midboss.com/"
         },
-        "notes": "Store page: http://midboss.com/#rom_video",
+        "notes": "Store page: http://midboss.com/rom/",
         "extras": false
+    },
+    {
+        "name": "Read Only Memories + Original Soundtrack",
+        "url": "readonlymemories_ost/94HSDfjh23",
+        "price": "19.99",
+        "description": "Pre-order now! You will get your choice between DRM-free, Steam or OUYA at launch, as well as a full soundtrack composed by 2 Mello!",
+        "developer": "MidBoss",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.midboss.com/"
+        },
+        "notes": "Store page: http://midboss.com/rom/",
+        "extras": false
+    },
+    {
+        "name": "Read Only Memories + OST + Digital Art Book",
+        "url": "readonlymemories_ost_artbook/3LSKdh2h1",
+        "price": "24.99",
+        "description": "Pre-order now! You will get your choice between DRM-free, Steam or OUYA at launch, original soundtrack and digital art book!",
+        "developer": "MidBoss",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.midboss.com/"
+        },
+        "notes": "Store page: http://midboss.com/rom/",
+        "extras": true
     },
     {
         "name": "Real World Racing",
