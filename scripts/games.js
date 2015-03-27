@@ -545,25 +545,27 @@ var games = [
         "name": "Aaru's Awakening",
         "url": "aarusawakening/Akdlsk1oek",
         "price": "14.99",
-        "description": "Be the first to get Aaru's Awakening by pre-ordering now. You can even win special pre-order prize!",
+        "description": "Get Aaru's Awakening now. Includes a Steam key!",
         "developer": "Lumenox Games",
         "platform": {
                 "android": false,
-                "linux": false,
+                "linux": true,
                 "windows": true,
                 "mac": true,
                 "audio": false
         },
         "drm": {
-                "steam": false,
+                "steam": true,
                 "desura": false,
                 "gog": false,
-                "drm-free": true
+                "drm-free": false
         },
         "URL": {
+                "review": "http://www.pcgamer.com/aarus-awakening-review/",
+                "steam": "http://store.steampowered.com/app/294060/",
                 "developer": "http://www.lumenoxgames.com/"
         },
-        "extras": true
+        "extras": false
     },
     {
         "name": "Ababa Boom",
