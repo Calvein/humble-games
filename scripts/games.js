@@ -31247,6 +31247,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Will Fight for Food: SAS: GOTH",
+        "url": "willfightforfood_redux/8SDFkj23hs1",
+        "price": "5.99",
+        "description": "Buy the role playing brawler with a sense of humor, cross-platform on Steam!",
+        "developer": "Pyrodactyl Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/will-fight-for-food",
+            "steam": "http://store.steampowered.com/app/307210/",
+            "developer": "http://pyrodactyl.com/#buy"
+        },
+        "notes": "Pre-order. Available on April 22, 2015.\nStore page: http://pyrodactyl.com/#buy",
+        "extras": false
+    },
+    {
         "name": "Windforge",
         "url": "windforge/Wkd09",
         "price": "14.99",
