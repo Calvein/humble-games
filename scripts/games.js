@@ -20195,6 +20195,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Pavel Quest",
+        "url": "pavelquest/7SDFKj2haa",
+        "price": "5",
+        "description": "Play as Pavel in this puzzle platformer as he attempts to escape his castle prison and free himself from the island of Meniok.",
+        "developer": "ElevenSeventy",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/pavel-quest",
+            "developer": "http://elevenseventy.com/"
+        },
+        "notes": "Store page: http://elevenseventy.com/index/purchase/",
+        "extras": false
+    },
+    {
         "name": "Perfection.",
         "url": "perfection/oWCaEqcZ7L0Z",
         "price": "2.99",
