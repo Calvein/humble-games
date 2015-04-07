@@ -4121,6 +4121,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Cadence (Pre-Order)",
+        "url": "cadence/bSGDflkj23",
+        "price": "9.99",
+        "description": "Pre-order and get a copy of the game when it’s released on Windows/Mac (Steam & DRM-free). You'll also get a special patronage forum badge!",
+        "developer": "Made With Monster Love",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.madewithmonsterlove.com/"
+        },
+        "notes": "Store page: http://www.madewithmonsterlove.com/games/cadence/noodlestarter/#rewards",
+        "extras": false
+    },
+    {
+        "name": "Cadence (Beta Program)",
+        "url": "cadence_betaprogram/FBlksd23n",
+        "price": "14.99",
+        "description": "Pre-order and get beta builds (+ iPad beta waitlist), completed game on Windows/Mac (Steam/DRM-free), your content in the game + beta backer forum badge!",
+        "developer": "Made With Monster Love",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.madewithmonsterlove.com/"
+        },
+        "notes": "Store page: http://www.madewithmonsterlove.com/games/cadence/noodlestarter/#rewards",
+        "extras": true
+    },
+    {
         "name": "Candle",
         "url": "candle/Cdh8Yheg5Ff",
         "price": "15",
