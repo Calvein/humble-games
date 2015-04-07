@@ -2224,6 +2224,31 @@ var games = [
         }
     },
     {
+        "name": "Axes and Arrows",
+        "url": "axesandarrows/Txlkasdjf23",
+        "price": "9.99",
+        "description": "Buy now and get a DRM-free copy of Axes and Arrows for Windows, Mac and Linux as well as a free Steam key upon being Greenlit!",
+        "developer": "The Net Champs",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.thenetchamps.com/"
+        },
+        "notes": "Store page: http://www.axesandarrows.com/download.html",
+        "extras": false
+    },
+    {
         "name": "Aztaka",
         "url": "aztaka/vbirubIYXBesbert",
         "price": "9.99",
