@@ -4072,6 +4072,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bunker Punks",
+        "url": "bunkerpunks/9okjSjg23j",
+        "price": "14.99",
+        "description": "Shoot, Loot, Build & Recruit. Pre-order now and receive instant access to three songs, the Zero kHz digital zine and exclusive desktop images.",
+        "developer": "Ninja Robot Dinosaur",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://nrdland.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://bunkerpunks.com/pre-order/",
+        "extras": false
+    },
+    {
         "name": "Butsbal",
         "url": "butsbal/WWdKLfj23",
         "price": "5.99",
