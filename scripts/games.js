@@ -15471,6 +15471,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Lakeview Cabin Collection",
+        "url": "lakeviewcabincollection/11DKf32hs",
+        "price": "9.99",
+        "description": "Get the first episode and access to all of the upcoming episodes (when released) for Windows, DRM-free!",
+        "developer": "Roope Tamminen",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://twitter.com/Hypnohustler"
+        },
+        "notes": "Store page: http://www.lakeviewcabingame.com/buy#block-yui_3_17_2_2_1427217498498_12045",
+        "extras": false
+    },
+    {
         "name": "Last Knight: Rogue Rider Edition",
         "url": "lastknight/Tkdowk39vd",
         "price": "7.99",
