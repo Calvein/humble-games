@@ -2531,6 +2531,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Barony",
+        "url": "barony/F7DY23ljhs",
+        "price": "6.99",
+        "description": "Get Barony now for Windows, Mac, & Linux. (DRM free!)",
+        "developer": "Turning Wheel",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://twitter.com/Turning_Wheel"
+        },
+        "notes": "Store page: http://baronygame.com/",
+        "extras": false
+    },
+    {
         "name": "Bastion",
         "url": "bastion",
         "price": "14.99",
