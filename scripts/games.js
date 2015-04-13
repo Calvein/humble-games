@@ -338,6 +338,56 @@ var games = [
         "extras": true
     },
     {
+        "name": "A Slow Year",
+        "url": "aslowyear/aSldkwo1",
+        "price": "4.99",
+        "description": "Get A Slow Year instantly! Cross-platform and DRM-free, with DRM-free ebook.",
+        "developer": "Ian Bogost",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://bogost.com/"
+        },
+        "notes": "Store page: http://bogost.com/games/aslowyear/#buy",
+        "extras": true
+    },
+    {
+        "name": "A Slow Year Limited Edition Set",
+        "url": "aslowyearlimitededitionset/SDf098BdnD",
+        "price": "5000",
+        "description": "The very last copy of A Slow Year Limited Edition for Atari as a numbered, signed, boxed limited edition with cartridge and leatherbound hardcover book.",
+        "developer": "Ian Bogost",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://bogost.com/"
+        },
+        "notes": "Widget only temporarily available.\nStore page: http://bogost.com/games/aslowyear/#buy",
+        "extras": false
+    },
+    {
         "name": "A Spire To The Gods",
         "url": "aspiretothegods/brixUOinvroi",
         "price": "7.99",
