@@ -26178,6 +26178,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Starship Traveller",
+        "url": "starshiptraveller/MnO123Hsf",
+        "price": "9.99",
+        "description": "Get Starship Traveller instantly! Cross-platform, DRM-free and on Steam!",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/348180/",
+            "developer": "http://tinmangames.com.au/blog/"
+        },
+        "notes": "Store page: http://fightingfantasyapps.com/books/starship-traveller/",
+        "extras": false
+    },
+    {
         "name": "STARWHAL",
         "url": "starwhal_justthetip/Hfd73Hei3Gd",
         "price": "14.99",
