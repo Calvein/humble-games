@@ -13668,6 +13668,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "House of Caravan",
+        "url": "houseofcaravan/NbSDlfkj23",
+        "price": "6.99",
+        "description": "Get House of Caravan for Windows, DRM-free. Includes a Steam key!",
+        "developer": "Rosebud Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.geekchicelite.com/gamingreviews/house-caravan-review/",
+            "desura": "http://www.desura.com/games/house-of-caravan",
+            "steam": "http://store.steampowered.com/app/353550/",
+            "developer": "http://www.rosebudgames.com/"
+        },
+        "notes": "Store page: http://www.houseofcaravangame.com/",
+        "extras": false
+    },
+    {
         "name": "Humans Must Answer",
         "url": "humansmustanswer/Hum6Dah9K",
         "price": "10",
