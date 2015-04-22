@@ -5889,6 +5889,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Convoy + Soundtrack (Tier $25)",
+        "url": "convoy_soundtrack/FF9SJD23h",
+        "price": "25",
+        "description": "Presented in pixel art and set in a future post-apocalyptic setting, Convoy is a squad based tactical roguelike-like!",
+        "developer": "Convoy Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/04/21/convoy-review-pc/",
+            "steam": "http://store.steampowered.com/app/318230",
+            "developer": "http://convoy-games.com/"
+        },
+        "notes": "Linux version coming soon.\nStore page: http://convoy-games.com/index.php/buy-convoy/",
+        "extras": false
+    },
+    {
         "name": "Cook, Serve, Delicious!",
         "url": "cookservedelicious_extracrispyedition/22zqPSbQVw01",
         "price": "9.99",
