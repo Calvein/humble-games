@@ -2608,6 +2608,32 @@ var games = [
         }
     },
     {
+        "name": "Battle Brothers (Early Access)",
+        "url": "battlebrothers/bSFDlkj4df",
+        "price": "19.99",
+        "description": "Get Battle Brothers (Early Access) now for Windows, redeemable on Steam! Support the development and help us in making a great game!",
+        "developer": "Overhype Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/365360/",
+            "developer": "http://battlebrothersgame.com/"
+        },
+        "notes": "Store page: http://battlebrothersgame.com/buy-battle-brothers/",
+        "extras": false
+    },
+    {
         "name": "Battle Chef Brigade",
         "url": "battlechefbrigade/Mm123jDn23ds",
         "price": "15",
@@ -24425,6 +24451,60 @@ var games = [
             "gog": false,
             "drm-free": true
         }
+    },
+    {
+        "name": "Shadowrun Chronicles: Lockdown",
+        "url": "shadowchronicles_bostonlockdown/hSDF823jrl",
+        "price": "39.99",
+        "description": "Get Shadowrun Chronicles: Lockdown instantly! Cross-platform on Steam!",
+        "developer": "Cliffhanger Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-shadowrun-chronicles-boston-lockdown-290948.phtml",
+            "steam": "http://store.steampowered.com/app/267750/",
+            "developer": "http://www.cliffhanger-productions.com/"
+        },
+        "notes": "Regional pricing: €39,99.\nStore page: http://www.shadowrun.com/shadowrun-online/donate/",
+        "extras": false
+    },
+    {
+        "name": "Shadowrun Chronicles: Lockdown (Deluxe)",
+        "url": "shadowchronicles_bostonlockdown_deluxe/WWddhf3jrl",
+        "price": "59.99",
+        "description": "Get Shadowrun Chronicles: Lockdown (Deluxe) instantly! Cross-platform on Steam!",
+        "developer": "Cliffhanger Productions",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-shadowrun-chronicles-boston-lockdown-290948.phtml",
+            "steam": "http://store.steampowered.com/app/267750/",
+            "developer": "http://www.cliffhanger-productions.com/"
+        },
+        "notes": "Includes an extra set of in-game items, a soundtrack, a pre-order for the first campaign update of the game, and the Quick Start Rules and the Boston Lockdown scenario for the original Shadowrun tabletop game.\nRegional pricing: €59,99.\nStore page: http://www.shadowrun.com/shadowrun-online/donate/",
+        "extras": true
     },
     {
         "name": "Shatter",
