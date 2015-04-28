@@ -14548,32 +14548,6 @@ var games = [
         }
     },
     {
-        "name": "Invisible, Inc.",
-        "url": "invisibleinc/Ieu7Gsyhe5Df",
-        "price": "19.99",
-        "description": "-Get the Full Game + Soundtrack at launch -Play the Early-Access immediately!",
-        "developer": "Klei Entertainment",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://steamcommunity.com/app/243970/",
-            "developer": "http://kleientertainment.com/"
-        },
-        "notes": "Multitier widget which also offers only the game for $15.99.\nEarly Access only available for Windows and Mac.\nStore page: http://www.invisibleincgame.com/",
-        "extras": false
-    },
-    {
         "name": "Ironclad Tactics",
         "url": "ironclad/Ieyh7Fsdw45",
         "price": "14.99",
