@@ -25264,6 +25264,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Sol",
+        "url": "sol/6TSLDrkj3",
+        "price": "14.99",
+        "description": "Get Sol for Windows (32-bit) and Linux (64-bit), DRM-free and with source code included!",
+        "developer": "Azura Sun",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "https://www.gamingonlinux.com/articles/sol-a-platformer-with-retro-sensibilities-released-and-reviewed.5297",
+            "developer": "http://www.azurasun.com/"
+        },
+        "notes": "Store page: http://sol.azurasun.com/buy",
+        "extras": true
+    },
+    {
         "name": "Solar 2",
         "url": "solar/GlTZR9Z5E2n4",
         "price": "10",
@@ -28658,6 +28684,34 @@ var games = [
             "developer": "http://orthogonalgames.com/"
         },
         "notes": "Regional pricing: £9.99/€12,99.\nStore page: http://www.thenovelistgame.com/",
+        "extras": false
+    },
+    {
+        "name": "The Perils of Man",
+        "url": "theperilsofman/vgSDLFk3ns",
+        "price": "9.99",
+        "description": "Get The Perils of Man instantly! Cross-platform on Steam!",
+        "developer": "Vertigo Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.incgamers.com/2015/04/perils-of-man-review",
+            "desura": "http://www.desura.com/games/the-perils-of-man",
+            "steam": "http://store.steampowered.com/app/347710",
+            "developer": "http://if-games.com/"
+        },
+        "notes": "Store page: http://www.perilsofman.com/#trailer",
         "extras": false
     },
     {
