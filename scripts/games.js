@@ -28853,7 +28853,7 @@ var games = [
         "developer": "Weird and Wry",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
