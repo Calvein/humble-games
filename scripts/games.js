@@ -4179,8 +4179,8 @@ var games = [
     {
         "name": "Buildanauts",
         "url": "buildanauts/436hjkSDhj",
-        "price": "15",
-        "description": "Pre-order now at a low price (reg $30 when finished) & get the Alpha this December, Steam Key when Greenlit, cross-platform and DRM-free!",
+        "price": "12",
+        "description": "Get the DRM-free pre-alpha build now at a discounted price and a Steam Key when Buildanauts is in Early Access.",
         "developer": "TouchTilt Games",
         "platform": {
             "android": false,
@@ -4198,7 +4198,7 @@ var games = [
         "URL": {
             "developer": "http://buildanauts.com/"
         },
-        "notes": "Pre-order at 50% off; regular price is $30\nStore page: http://buildanauts.com/preorder/",
+        "notes": "Get it at 40% off; regular price is $20\nStore page: http://buildanauts.com/preorder/",
         "extras": false
     },
     {
