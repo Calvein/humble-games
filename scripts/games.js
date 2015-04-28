@@ -27477,9 +27477,9 @@ var games = [
         "developer": "Endless Loop Studios",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
