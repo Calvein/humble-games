@@ -2727,7 +2727,7 @@ var games = [
         },
         "drm": {
             "steam": false,
-            "desura": false,
+            "desura": true,
             "gog": false,
             "drm-free": true
         },
@@ -2735,7 +2735,9 @@ var games = [
             "review": "http://toucharcade.com/2011/07/21/beans-quest-review-a-fun-five-minutes/",
             "desura": "http://www.desura.com/games/beans-quest",
             "developer": "http://www.kumobius.com/"
-        }
+        },
+        "notes": "Store page: http://kumobius.com/beansquest/#desktop-store",
+        "extras": false
     },
     {
         "name": "Beat Bros",
@@ -28847,7 +28849,7 @@ var games = [
         "name": "The Spatials",
         "url": "thespatials/mSOLib23j2jks",
         "price": "8.99",
-        "description": "Now available as early access for Windows and Mac! Get The Spatials now and support us on the way to version 2!",
+        "description": "It's the year 5781 -- and you have been chosen to build and lead a space station in a wild corner of the galaxy! Attract visitors and explore hundreds of planets to fund your station.",
         "developer": "Weird and Wry",
         "platform": {
             "android": false,
@@ -28857,16 +28859,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://moargeek.com/2015/03/30/spatials-review-conquer-final-frontier-one-tourist-trap-time/",
             "desura": "http://www.desura.com/games/the-spatials",
+            "steam": "http://store.steampowered.com/app/346420/",
             "developer": "http://weirdandwry.com/"
         },
-        "notes": "Store page: http://thespatials.com/#download",
         "extras": false
     },
     {
@@ -31738,7 +31741,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/307210/",
             "developer": "http://pyrodactyl.com/#buy"
         },
-        "notes": "Pre-order. Available on April 22, 2015.\nStore page: http://pyrodactyl.com/#buy",
+        "notes": "Store page: http://pyrodactyl.com/#buy",
         "extras": false
     },
     {
