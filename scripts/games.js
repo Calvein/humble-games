@@ -27141,7 +27141,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/95000",
             "developer": "http://spikysnail.com/category/spikysnail_blog/"
         },
-        "notes": "The game has been released long ago, so it's not clear whether this 30% off pre-order widget is still working.\nLinux version only available on Steam."
+        "notes": "The game has been released long ago, so it's not clear whether this 30% off pre-order widget is still working."
     },
     {
         "name": "Super Splatters",
@@ -27167,7 +27167,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/95000",
             "developer": "http://spikysnail.com/category/spikysnail_blog/"
         },
-        "notes": "Linux version only available on Steam.\nStore page: http://spikysnail.com/#watch-headline-title"
+        "notes": "Store page: http://spikysnail.com/"
     },
     {
         "name": "Super Time Force Ultra",
@@ -28106,7 +28106,7 @@ var games = [
         "name": "The Deer God",
         "url": "thedeergod/Zlkjwlekrho38i",
         "price": "9.99",
-        "description": "Preorder The Deer God! Cross-platform and DRM-free!",
+        "description": "Preorder The Deer God! Cross-platform and DRM-free! Early Access Steam key included once available.",
         "developer": "Crescent Moon Games",
         "platform": {
             "android": false,
@@ -28116,7 +28116,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -28124,7 +28124,7 @@ var games = [
         "URL": {
             "developer": "http://crescentmoongames.com/"
         },
-        "notes": "Store page: http://crescentmoongames.com/wordpress/the-deer-god/",
+        "notes": "The game has been already released and this widget is no longer available at the game's website, so it's not clear whether it is still working or not. Buy with caution",
         "extras": false
     },
     {
