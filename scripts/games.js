@@ -17246,6 +17246,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Metamorphabet",
+        "url": "metamorphabet/HGLSKdfn4s",
+        "price": "4.99",
+        "description": "Metamorphabet is a playful, interactive alphabet for all ages. For Windows/Mac, DRM-free + Steam!",
+        "developer": "Vectorpark",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/04/29/metamorphabet-review/",
+            "steam": "http://store.steampowered.com/app/353280/",
+            "developer": "http://vectorpark.com/"
+        },
+        "notes": "Store page: http://metamorphabet.com/#igf",
+        "extras": false
+    },
+    {
         "name": "Micron",
         "url": "micron/Hekwodk2l",
         "price": "4.49",
