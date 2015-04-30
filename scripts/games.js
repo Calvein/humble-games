@@ -26102,6 +26102,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Starbound",
+        "url": "starbound/6SDLFk32h",
+        "price": "14.99",
+        "description": "Includes the Starbound Early Access game (cross-platform on Steam) and the soundtrack!",
+        "developer": "Chucklefish",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/211820/",
+            "developer": "http://chucklefish.org/"
+        },
+        "notes": "Store page: http://playstarbound.com/store/?tier=tier1",
+        "extras": false
+    },
+    {
+        "name": "Starbound 4 Pack",
+        "url": "starbound_4pack/4uQR712V5n",
+        "price": "44.99",
+        "description": "Includes 4 copies of Starbound Early Access Game (cross-platform on Steam) and the soundtrack!",
+        "developer": "Chucklefish",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/211820/",
+            "developer": "http://chucklefish.org/"
+        },
+        "notes": "Store page: http://playstarbound.com/store/?tier=tier1",
+        "extras": false
+    },
+    {
         "name": "Starbound (Pixel Tier)",
         "url": "starbound_tier1/4uQR712V5n",
         "price": "15",
@@ -26119,27 +26171,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
-    },
-    {
-        "name": "Starbound (Pixel Tier) 4 Pack",
-        "url": "starbound_4pack/4uQR712V5n",
-        "price": "45",
-        "description": "4-Pack of Starbound Beta (when available) + soundtrack",
-        "developer": "Chucklefish",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
         },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
+        "URL": {
+            "steam": "http://store.steampowered.com/app/211820/",
+            "developer": "http://chucklefish.org/"
+        },
+        "notes": "Widget no longer available at the game's website. Buy at your own risk.",
+        "extras": false
     },
     {
         "name": "Starbound (Silver Tier)",
@@ -26159,7 +26197,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/211820/",
+            "developer": "http://chucklefish.org/"
+        },
+        "notes": "Widget no longer available at the game's website. Buy at your own risk.",
+        "extras": true
     },
     {
         "name": "Starbound (Silver Tier) 4 Pack",
@@ -26179,7 +26223,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/211820/",
+            "developer": "http://chucklefish.org/"
+        },
+        "notes": "Widget no longer available at the game's website. Buy at your own risk.",
+        "extras": true
     },
     {
         "name": "Starbound (Gold Tier)",
@@ -26199,7 +26249,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/211820/",
+            "developer": "http://chucklefish.org/"
+        },
+        "notes": "Widget no longer available at the game's website. Buy at your own risk.",
+        "extras": true
     },
     {
         "name": "Starbound (Diamond Tier)",
@@ -26219,7 +26275,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/211820/",
+            "developer": "http://chucklefish.org/"
+        },
+        "notes": "Widget no longer available at the game's website. Buy at your own risk.",
+        "extras": true
     },
     {
         "name": "Starbound (Impervium Tier)",
@@ -26239,7 +26301,13 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/211820/",
+            "developer": "http://chucklefish.org/"
+        },
+        "notes": "Widget no longer available at the game's website. Buy at your own risk.",
+        "extras": true
     },
     {
         "name": "Stardust Vanguards",
