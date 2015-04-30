@@ -3077,6 +3077,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Biodrone Battle",
+        "url": "biodronebattle/WhlSKDFJ23",
+        "price": "7.99",
+        "description": "Get Biodrone Battle! Cross-platform and DRM-free!",
+        "developer": "voodoosoft",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/biodrone-battle",
+            "developer": "http://www.voodoosoft.de/"
+        },
+        "notes": "Store page: http://www.biodronebattle.com/downloads.html",
+        "extras": false
+    },
+    {
         "name": "bit Dungeon II",
         "url": "bitdungeonii/7SJDFh34dfjks",
         "price": "5",
