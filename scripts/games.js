@@ -697,6 +697,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "About Love, Hate and the other ones",
+        "url": "aboutlovehateandtheotherones/WElk2h55",
+        "price": "6.99",
+        "description": "Purchase About Love, Hate and the other ones and get it DRM-free on Windows, Mac, and Linux. Also redeem it on Steam!",
+        "developer": "Black Pants Game Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.madeforgaming.com/about-love-hate-and-the-other-ones-review/",
+            "steam": "http://store.steampowered.com/app/277680/",
+            "developer": "http://www.blackpants.de/"
+        },
+        "notes": "Store page: http://www.blackpants.de/store/",
+        "extras": false
+    },
+    {
         "name": "Aces Wild: Manic Brawling Action",
         "url": "aceswild/Adh87Yahbe",
         "price": "9.99",
