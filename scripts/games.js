@@ -21338,6 +21338,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Project Druid",
+        "url": "projectdruid/W8SD22dj",
+        "price": "5",
+        "description": "Get it instantly and DRM-free on Windows, Linux and Android!",
+        "developer": "Shortcircuit Design",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/project-druid/",
+            "developer": "http://www.shortcircuit.co.nr/"
+        },
+        "notes": "Store page: http://shortcircuit.byethost18.com/store.htm",
+        "extras": false
+    },
+    {
         "name": "Prometheus - The Fire Thief",
         "url": "prometheus_thefirethief/BVruwbveiae",
         "price": "4.99",
