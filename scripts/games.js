@@ -14627,6 +14627,33 @@ var games = [
         }
     },
     {
+        "name": "Invisible, Inc.",
+        "url": "invisibleinc/Ieu7Gsyhe5Df",
+        "price": "17.99",
+        "description": "-Play immediately!",
+        "developer": "Klei Entertainment",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/05/12/invisible-inc-review/",
+            "steam": "http://store.steampowered.com/app/243970/",
+            "developer": "http://kleientertainment.com/"
+        },
+        "notes": "Currently on sale at 10% off; regular price: $19.99.\nStore page: http://www.invisibleincgame.com/",
+        "extras": false
+    },
+    {
         "name": "Ironclad Tactics",
         "url": "ironclad/Ieyh7Fsdw45",
         "price": "14.99",
