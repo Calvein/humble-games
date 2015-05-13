@@ -13106,6 +13106,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Hadean Lands",
+        "url": "hadeanlands/LKS23rioh9",
+        "price": "5",
+        "description": "Purchase Hadean Lands as a cross-platform, portable game file. (Free interpreter download required)",
+        "developer": "Zarfhome Software Consulting",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/27566",
+            "developer": "http://zarfhome.com/"
+        },
+        "notes": "Store page: http://hadeanlands.com/",
+        "extras": false
+    },
+    {
         "name": "Hammerwatch",
         "url": "hammerwatch/Ths7GweR9csa",
         "price": "7.99",
