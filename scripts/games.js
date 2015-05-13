@@ -23047,32 +23047,6 @@ var games = [
         }
     },
     {
-        "name": "ROCKETSROCKETSROCKETS",
-        "url": "rocketsrocketsrockets/tiNSu824jNd",
-        "price": "5",
-        "description": "ROCKETS fire ROCKETS at ROCKETS in this action-arcade, arena-combat festival-of-fireworks! It's dogfighting meets figure-skating in SPACE! (Steam)",
-        "developer": "Radial Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/289760",
-            "developer": "http://www.radialgames.com/"
-        },
-        "notes": "Store page: http://rocketsrocketsrockets.com/",
-        "extras": false
-    },
-    {
         "name": "Rogue Legacy",
         "url": "roguelegacy_final/EXn3mzwCJtTl",
         "price": "15",
