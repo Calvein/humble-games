@@ -17250,6 +17250,32 @@ var games = [
         }
     },
     {
+        "name": "Mech n Missiles",
+        "url": "mechnmissiles/uYsldfkj23s",
+        "price": "5",
+        "description": "Fast paced RTS, no resource gathering and micro management. Just build and attack!",
+        "developer": "Lowpolygon Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/mech-n-missile",
+            "developer": "http://www.lowpolygongames.com/"
+        },
+        "notes": "Store page: http://www.lowpolygongames.com/purchasemechnmissile.html",
+        "extras": false
+    },
+    {
         "name": "Megabyte Punch",
         "url": "megabytepunch_standard/eE71cq1EKzQe",
         "price": "15",
