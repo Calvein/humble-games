@@ -21687,6 +21687,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Quarries of Scred",
+        "url": "quarriesofscred/7Sffkh23",
+        "price": "5.99",
+        "description": "Get Quarries of Scred on Windows now! Play via Steam!",
+        "developer": "Surprise Attack",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/08/04/wot-i-think-quarries-of-scred/",
+            "steam": "http://store.steampowered.com/app/346770/",
+            "developer": "http://www.surpriseattackgames.com/"
+        },
+        "notes": "Store page: http://www.quarriesofscred.com/#download-prompt",
+        "extras": false
+    },
+    {
         "name": "Quest For Infamy",
         "url": "questforinfamy_preorder/Qdh4Gsue8dj",
         "price": "19.99",
