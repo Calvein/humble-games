@@ -16121,6 +16121,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Lemma",
+        "url": "lemma/JJFlk32h",
+        "price": "14.99",
+        "description": "Get Lemma now! Includes a Steam key for Windows!",
+        "developer": "Evan Todd",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamingenthusiast.net/review/lemma-review-beginnings/",
+            "steam": "http://store.steampowered.com/app/300340/",
+            "developer": "http://et1337.com/",
+        },
+        "notes": "Store page: http://lemmagame.com/buy/",
+        "extras": false
+    },
+    {
         "name": "Let There Be Life",
         "url": "lettherebelife/BCeiruwveino",
         "price": "3.99",
