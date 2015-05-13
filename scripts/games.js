@@ -31331,14 +31331,14 @@ var games = [
     {
         "name": "Vertiginous Golf",
         "url": "vertiginousgolf/Vkdowk4",
-        "price": "14.99",
+        "price": "19.99",
         "description": "Get Vertiginous Golf instantly and DRM-free. Includes all Beta updates and final release + Steam key, once released on Steam!",
         "developer": "Kinelco & Lone Elk Creative",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -31348,6 +31348,7 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gamespot.com/reviews/vertiginous-golf-review/1900-6416129/",
             "steam": "http://store.steampowered.com/app/272890/",
             "developer": "http://surpriseattackgames.com/"
         },
