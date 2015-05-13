@@ -28131,6 +28131,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Technobabylon",
+        "url": "technobabylon/7S7234hsdf",
+        "price": "14.99",
+        "description": "Pre-order \"Technobabylon\" now! For Windows, DRM-free! Includes the soundtrack, concept art, posters & more for a limited time!",
+        "developer": "Wadjet Eye Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/307580/",
+            "developer": "http://www.wadjeteyegames.com/"
+        },
+        "notes": "Store page: http://www.wadjeteyegames.com/pre-order/technobabylon/",
+        "extras": true
+    },
+    {
         "name": "Temporus",
         "url": "temporus/Ijsh20ejs02k1",
         "price": "10",
