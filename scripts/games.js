@@ -26837,6 +26837,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Steredenn",
+        "url": "steredenn/7SDLfk23hw",
+        "price": "8.99",
+        "description": "Pre-order Steredenn on Steam for Windows, Mac and Linux! With beta access.",
+        "developer": "Pixelnest Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/347160",
+            "developer": "http://pixelnest.io/"
+        },
+        "notes": "Store page: http://steredenn.pixelnest.io/#buy",
+        "extras": false
+    },
+    {
         "name": "Still Not Dead",
         "url": "stillnotdead/ZNXjkwerf34df",
         "price": "6.49",
