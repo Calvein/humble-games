@@ -19848,6 +19848,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "OTTTD",
+        "url": "otttd/fFSdl234rsla",
+        "price": "9.99",
+        "description": "Get OTTTD instantly! Cross-platform, DRM-free!",
+        "developer": "Surprise Attack",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.hookedgamers.com/pc/otttd/review/article-1310.html",
+            "desura": "http://www.desura.com/games/otttd",
+            "steam": "http://store.steampowered.com/app/312630/",
+            "developer": "http://smgstudio.com/"
+        },
+        "notes": "Store page: http://otttd.td/",
+        "extras": false
+    },
+    {
         "name": "Our Darker Purpose",
         "url": "ourdarkerpurpose/RkjsI28Kd89",
         "price": "15",
