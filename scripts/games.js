@@ -21661,6 +21661,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "quadrant",
+        "url": "quadrant/uSDFLkh4s",
+        "price": "3.99",
+        "description": "Get quadrant instantly! Cross-platform, open source, DRM-free and get a Steam key!",
+        "developer": "undef",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/365500/",
+            "developer": "https://twitter.com/undefdev"
+        },
+        "notes": "Store page: http://quadrantgame.com/",
+        "extras": false
+    },
+    {
         "name": "Quest For Infamy",
         "url": "questforinfamy_preorder/Qdh4Gsue8dj",
         "price": "19.99",
