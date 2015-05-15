@@ -13139,8 +13139,8 @@ var games = [
         "description": "Purchase Hadean Lands as a cross-platform, portable game file. (Free interpreter download required)",
         "developer": "Zarfhome Software Consulting",
         "platform": {
-            "android": false,
-            "linux": false,
+            "android": true,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
@@ -13155,7 +13155,7 @@ var games = [
             "review": "http://www.adventuregamers.com/articles/view/27566",
             "developer": "http://zarfhome.com/"
         },
-        "notes": "Store page: http://hadeanlands.com/",
+        "notes": "Additional software is needed to play the game on Linux or on Android: http://hadeanlands.com/how/\nStore page: http://hadeanlands.com/",
         "extras": false
     },
     {
