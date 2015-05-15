@@ -24777,6 +24777,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "Shallow Space: Insurgency",
+        "url": "shallowspace_insurgency/1123dwede3",
+        "price": "14.99",
+        "description": "",
+        "developer": "Special Circumstances",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://specialcircumstancegames.com/"
+        },
+        "notes": "Pre-order.\nEarly Access expected for August 2015.\nStore page: http://shallow.space/preorder-shallow-space-insurgency-now/",
+        "extras": false
+    },
+    {
         "name": "Shatter",
         "url": "shatter",
         "price": "9.99",
