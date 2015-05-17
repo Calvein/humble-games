@@ -26133,6 +26133,33 @@ var games = [
         }
     },
     {
+        "name": "Spirits of Xanadu",
+        "url": "spiritsofxanadu/SDHFlk23jrs",
+        "price": "14.99",
+        "description": "Get Spirits of Xanadu instantly! Cross-platform and DRM-free + Steam!",
+        "developer": "Night Dive Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.onlysp.com/spirits-xanadu-review/",
+            "steam": "http://store.steampowered.com/app/312230/",
+            "developer": "http://www.nightdivestudios.com/"
+        },
+        "notes": "Regional pricing: \nStore page: http://www.spiritsofxanadu.com/",
+        "extras": false
+    },
+    {
         "name": "Splice",
         "url": "splice/wfehlLLAJFHE",
         "price": "9.99",
