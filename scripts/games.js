@@ -957,6 +957,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Age of Castles: Warlords",
+        "url": "ageofcastles_warlords/Xilkwd023js",
+        "price": "9.99",
+        "description": "Play Age of Castles: Warlords right now! Build the ultimate kingdom, wage total war on your enemies, and conquer the realm!",
+        "developer": "Anarchy Enterprises",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/371710/",
+            "developer": "http://www.playanarchygames.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.playanarchygames.com/aoc/",
+        "extras": false
+    },
+    {
         "name": "Agent Awesome",
         "url": "agentawesome/OPSKLErj230",
         "price": "9.99",
@@ -9022,6 +9048,32 @@ var games = [
             "steam": "http://store.steampowered.com/sub/15933/",
             "developer": "http://www.gaslampgames.com/"
         },
+        "extras": false
+    },
+    {
+        "name": "Dustbowl",
+        "url": "dustbowl/Mnsdlf11Bs",
+        "price": "8.99",
+        "description": "Dustbowl, a retro RPG adventure set in a bleak post apocalyptic world! (Pre-Order)",
+        "developer": "Cloak & Dagger Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/367110/",
+            "developer": "http://www.dustbowl-adventure.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.dustbowl-adventure.com/#e10",
         "extras": false
     },
     {
