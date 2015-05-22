@@ -20572,6 +20572,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Parallax",
+        "url": "parallax/bSDLfkj232",
+        "price": "10",
+        "description": "Weave back & forth between black & white dimensions as you use switches, boosters & gravity to help you reach the exit. Cross-platform, DRM-free + Steam!",
+        "developer": "Toasty Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/03/16/parallax-review/",
+            "steam": "http://store.steampowered.com/app/325060/",
+            "developer": "http://toastygames.com/"
+        },
+        "notes": "Store page: http://toastygames.com/parallax/buy",
+        "extras": false
+    },
+    {
         "name": "Paranautical Activity",
         "url": "paranauticalactivity/Ush6Rdu9Dsa",
         "price": "5.99",
