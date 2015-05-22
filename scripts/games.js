@@ -14662,6 +14662,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Interloper",
+        "url": "interloper/Bkjf2348jsaa",
+        "price": "11.99",
+        "description": "Interloper is a fast-paced real-time strategy game with matches that take only 5 minutes (Cross-platform and DRM-free).",
+        "developer": "Monogon Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/356420/",
+            "developer": "http://www.monogongames.com/"
+        },
+        "notes": "Store page: http://interlopergame.com/",
+        "extras": false
+    },
+    {
         "name": "Interstellaria",
         "url": "interstellaria/bLSDkjf23o4r",
         "price": "9.99",
