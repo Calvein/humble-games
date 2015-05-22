@@ -18373,6 +18373,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "NEON STRUCT",
+        "url": "neonstruct/145ljsdf9",
+        "price": "17.99",
+        "description": "",
+        "developer": "Minor Key Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://ftg.operationsupplydrop.org/2015/05/21/neon-struct-review-pc/",
+            "steam": "http://store.steampowered.com/app/310740/",
+            "developer": "http://minorkeygames.com/"
+        },
+        "notes": "Store page: http://neonstruct.com/",
+        "extras": false
+    },
+    {
+        "name": "NEON STRUCT (Deluxe Edition)",
+        "url": "neonstruct_deluxeedition/1123s54",
+        "price": "24.99",
+        "description": "",
+        "developer": "Minor Key Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://ftg.operationsupplydrop.org/2015/05/21/neon-struct-review-pc/",
+            "steam": "http://store.steampowered.com/app/310740/",
+            "developer": "http://minorkeygames.com/"
+        },
+        "notes": "Store page: http://neonstruct.com/",
+        "extras": false
+    },
+    {
         "name": "Nethergate: Ressurection (sic)",
         "url": "nethergate_resurrection/Adkfow345j",
         "price": "10",
