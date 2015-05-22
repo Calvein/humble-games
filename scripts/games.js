@@ -1143,6 +1143,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Alum",
+        "url": "alum/1234fer667",
+        "price": "11.99",
+        "description": "",
+        "developer": "Crashable Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/338420/",
+            "developer": "http://www.crashablestudios.com/"
+        },
+        "notes": "Mac and Linux versions only available on Steam.\nStore page: http://www.crashablestudios.com/p/pre-order.html",
+        "extras": false
+    },
+    {
         "name": "Always Sometimes Monsters",
         "url": "alwayssometimesmonsters/Aduh8T56sg",
         "price": "9.99",
