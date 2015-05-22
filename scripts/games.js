@@ -8681,6 +8681,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Drive Any Track",
+        "url": "driveanytrack/34jfd98",
+        "price": "15.99",
+        "description": "",
+        "developer": "FOAM Entertainment Ltd",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/351990/",
+            "developer": "http://www.foamlondon.com/"
+        },
+        "notes": "Store page: http://www.driveanytrack.com/",
+        "extras": false
+    },
+    {
         "name": "Drive to Hell",
         "url": "drivetohell/SDlkwjo4",
         "price": "4.99",
