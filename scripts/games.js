@@ -16715,6 +16715,33 @@ var games = [
         }
     },
     {
+        "name": "LOOP: A Tranquil Puzzle Game",
+        "url": "loop_atranquilpuzzlegame/11LDfkj2hs",
+        "price": "5",
+        "description": "Get LOOP instantly! Cross-platform and DRM-free!",
+        "developer": "John Cullen",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/05/22/loop-review/",
+            "steam": "http://store.steampowered.com/app/370150/",
+            "developer": "http://loopthegame.com/"
+        },
+        "notes": "Store page: http://loopthegame.com/#contact",
+        "extras": false
+    },
+    {
         "name": "Lords of Xulima - Steam Edition",
         "url": "lordsofxulima_steamearlyaccess/BSDfkjh23ruha",
         "price": "18.99",
