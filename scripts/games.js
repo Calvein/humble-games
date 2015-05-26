@@ -973,13 +973,13 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "steam": "http://store.steampowered.com/app/371710/",
             "developer": "http://www.playanarchygames.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.playanarchygames.com/aoc/",
+        "notes": "Store page: http://www.playanarchygames.com/aoc/",
         "extras": false
     },
     {
@@ -2048,14 +2048,14 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://android.kul.is/2014/04/autotilegen-tool-for-creating-tilesets.html",
             "steam": "http://store.steampowered.com/app/305860/",
             "developer": "http://javicepa.com/"
         },
-        "notes": "Not actually a game.\nNo mention about DRM or lack thereof either in the widget or in this software's website.\nStore page: http://autotilegen.com/buy/",
+        "notes": "Not actually a game.\nStore page: http://autotilegen.com/buy/",
         "extras": false
     },
     {
@@ -2524,7 +2524,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": false
@@ -2532,7 +2532,7 @@ var games = [
         "URL": {
             "developer": "http://www.thrillion.co.uk/",
         },
-        "notes": "Available platforms inferred from Greenlight page.\nNo mention about DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.barbarian-brawl.com/#main",
+        "notes": "Store page: http://www.barbarian-brawl.com/#main",
         "extras": false
     },
     {
@@ -3016,13 +3016,13 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://www.capsulecomputers.com.au/2014/08/bermuda-review/",
             "developer": "http://invertmouse.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widgets or in the developer's website.\nStore page: http://bermuda.invertmouse.com/",
+        "notes": "Store page: http://bermuda.invertmouse.com/",
         "extras": false
     },
     {
@@ -5381,7 +5381,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": false
@@ -5392,7 +5392,7 @@ var games = [
             "desura": "http://www.desura.com/games/circuits",
             "developer": "http://digitaltentacle.squarespace.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website.\nStore page: http://digitaltentacle.squarespace.com/circuits#block-yui_3_17_2_1_1403873520036_32199",
+        "notes": "Store page: http://digitaltentacle.squarespace.com/circuits#block-yui_3_17_2_1_1403873520036_32199",
         "extras": false
     },
     {
@@ -7094,13 +7094,13 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "steam": "http://store.steampowered.com/app/342860/",
             "developer": "http://www.brainseal.com/"
         },
-        "notes": "No mention about DRM or lack thereof either in the widget or in the game's website.\nStore page: http://dark-quest.com/Humble.aspx",
+        "notes": "Store page: http://dark-quest.com/Humble.aspx",
         "extras": false
     },
     {
@@ -12312,14 +12312,14 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://www.adventuregamers.com/articles/view/25607",
             "steam": "http://store.steampowered.com/app/241910/",
             "developer": "http://www.daedalic.de/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
+        "notes": "Store page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
         "extras": false
     },
     {
@@ -12339,14 +12339,14 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://www.adventuregamers.com/articles/view/25607",
             "steam": "http://store.steampowered.com/app/241910/",
             "developer": "http://www.daedalic.de/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
+        "notes": "Store page: http://www.daedalic.de/en/game/Goodbye_Deponia#coda-nav-1",
         "extras": false
     },
     {
@@ -19796,12 +19796,12 @@ var games = [
                 "steam": false,
                 "desura": false,
                 "gog": false,
-                "drm-free": false
+                "drm-free": true
         },
         "URL": {
                 "developer": "http://joymasher.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website.\nStore page: http://joymasher.com/odalluspreorder/#contentwrap",
+        "notes": "Store page: http://joymasher.com/odalluspreorder/#contentwrap",
         "extras": false
     },
     {
@@ -20327,17 +20327,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "desura": "http://www.desura.com/games/paper-dungeons",
             "steam": "http://store.steampowered.com/app/283040/",
             "developer": "http://www.agentmega.net/"
         },
-        "notes": "No mention about DRM or lack thereof neither in the widget nor in the game's website.\nStore page: http://paperdungeons.net/#!/buy-it",
+        "notes": "Store page: http://paperdungeons.net/#!/buy-it",
         "extras": false
     },
     {
@@ -25156,7 +25156,7 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "desura": "http://www.desura.com/company/zojoi",
@@ -26597,14 +26597,14 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://truepcgaming.com/2013/10/18/stained-review/",
             "steam": "http://store.steampowered.com/app/302870/",
             "developer": "http://realaxissoftware.com/"
         },
-        "notes": "No mention about DRM or lack thereof either in the widget or in the game's website.\nStore page: http://stained-thegame.com/buy",
+        "notes": "Store page: http://stained-thegame.com/buy",
         "extras": false
     },
     {
@@ -28794,17 +28794,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://pixelkin.org/2014/07/22/review-the-counting-kingdom-math-isnt-scary-after-all/",
             "steam": "http://store.steampowered.com/app/302750/",
             "developer": "http://littleworldsinteractive.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website (it is available on Steam, though).\nStore page: http://www.countingkingdomgame.com/#text1-page",
+        "notes": "Store page: http://www.countingkingdomgame.com/#text1-page",
         "extras": false
     },
     {
@@ -32234,15 +32234,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://quickfire-games.com/"
         },
-        "notes": "Includes a basic PDF manual and a DLC. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "notes": "Includes a basic PDF manual and a DLC.\nStore page: http://quickfire-games.com/wild-season/",
         "extras": true
     },
     {
@@ -32262,12 +32262,12 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://quickfire-games.com/"
         },
-        "notes": "Includes a basic PDF manual and a DLC. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "notes": "Includes a basic PDF manual and a DLC.\nStore page: http://quickfire-games.com/wild-season/",
         "extras": true
     },
     {
@@ -32284,15 +32284,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://quickfire-games.com/"
         },
-        "notes": "Includes a basic PDF manual and a DLC. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "notes": "Includes a basic PDF manual and a DLC.\nStore page: http://quickfire-games.com/wild-season/",
         "extras": true
     },
     {
@@ -32309,15 +32309,15 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://quickfire-games.com/"
         },
-        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack.\nStore page: http://quickfire-games.com/wild-season/",
         "extras": true
     },
     {
@@ -32337,12 +32337,12 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://quickfire-games.com/"
         },
-        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack.\nStore page: http://quickfire-games.com/wild-season/",
         "extras": true
     },
     {
@@ -32359,15 +32359,15 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://quickfire-games.com/"
         },
-        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack. No mention about DRM or lack thereof either in the widget or in the game's website (it has been Greenlit).\nStore page: http://quickfire-games.com/wild-season/",
+        "notes": "Includes an extended PDF manual, a DLC, and a soundtrack.\nStore page: http://quickfire-games.com/wild-season/",
         "extras": true
     },
     {
