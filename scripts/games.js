@@ -27411,8 +27411,8 @@ var games = [
     {
         "name": "Sunset",
         "url": "sunset/FD8123lkhs",
-        "price": "14.99",
-        "description": "Pre-order Sunset! On launch day you will get the game cross-platform and DRM-free + Steam Key!",
+        "price": "19.99",
+        "description": "Buy Sunset! You will get the game cross-platform and DRM-free + Steam Key!",
         "developer": "Tale of Tales",
         "platform": {
             "android": false,
@@ -27428,10 +27428,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.ign.com/articles/2015/05/21/sunset-review",
             "steam": "http://store.steampowered.com/app/287600",
             "developer": "http://tale-of-tales.com/"
         },
-        "notes": "Currently on sale at 25% off; regular price is $19.99.\nRegional pricing: £9.99/€12,99.\nStore page: http://tale-of-tales.com/Sunset/",
+        "notes": "Regional pricing: £14.99/€19,99.\nStore page: http://tale-of-tales.com/Sunset/",
         "extras": false
     },
     {
