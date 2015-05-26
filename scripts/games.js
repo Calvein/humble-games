@@ -31666,33 +31666,6 @@ var games = [
         }
     },
     {
-        "name": "Victory At Sea",
-        "url": "victoryatsea/IDjflakr489hJbb",
-        "price": "25",
-        "description": "Buy now to enter into World War II naval combat on a global scale!",
-        "developer": "Evil Twin Artworks",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "review": "http://www.gamewatcher.com/reviews/victory-at-sea-review/8699",
-            "steam": "http://store.steampowered.com/app/298480/",
-            "developer": "http://www.eviltwinartworks.com/"
-        },
-        "notes": "Store page: http://www.victoryatseagame.com/buy/",
-        "extras": false
-    },
-    {
         "name": "Viscera Cleanup Detail",
         "url": "visceracleanupdetail/Vsu7Ysgd3Dg",
         "price": "9.99",
