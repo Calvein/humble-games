@@ -619,6 +619,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "a•part•ment: a separated place",
+        "url": "apartment_aseparatedplace/6SDFh23f",
+        "price": "14.99",
+        "description": "",
+        "developer": "The Elsewhere Company",
+        "platform": {
+                "android": false,
+                "linux": true,
+                "windows": true,
+                "mac": true,
+                "audio": false
+        },
+        "drm": {
+                "steam": true,
+                "desura": false,
+                "gog": false,
+                "drm-free": true
+        },
+        "URL": {
+                "developer": "http://apartmentga.me/"
+        },
+        "notes": "Store page: http://apartmentga.me/#dslc-module-110",
+        "extras": false
+    },
+    {
         "name": "Aaru's Awakening",
         "url": "aarusawakening/Akdlsk1oek",
         "price": "14.99",
