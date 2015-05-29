@@ -24587,6 +24587,33 @@ var games = [
         }
     },
     {
+        "name": "Sentinels of the Multiverse",
+        "url": "sentinelsofthemultiverse/6TsErh234",
+        "price": "14.99",
+        "description": "",
+        "developer": "Handelabra Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/01/09/sentinels-of-the-multiverse-review/",
+            "steam": "http://store.steampowered.com/app/337150",
+            "developer": "http://handelabra.com/"
+        },
+        "notes": "Store page: http://sentinelsdigital.com/buysotm.html#buysotm",
+        "extras": false
+    },
+    {
         "name": "Sentris",
         "url": "sentris/sSkdw3",
         "price": "20",
