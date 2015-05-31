@@ -18322,6 +18322,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Mystik Belle",
+        "url": "mystikbelle/FGSDfb23t",
+        "price": "12.99",
+        "description": "",
+        "developer": "Last Dimension",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegames.com/2015/05/mystik_belle_review_-_an_wonde.html",
+            "desura": "http://www.desura.com/games/mystik-belle",
+            "steam": "http://store.steampowered.com/app/332610/",
+            "developer": "http://darkfalzx.blogspot.com.es/"
+        },
+        "notes": "Store page: http://darkfalzx.blogspot.ca/p/mystik-belle.html",
+        "extras": false
+    },
+    {
         "name": "Natural Selection 2",
         "url": "naturalselection2",
         "price": "24.99",
