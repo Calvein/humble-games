@@ -15800,6 +15800,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Knee Deep Season Pass",
+        "url": "kneedeep/SFh3lKJS22",
+        "price": "29.99",
+        "description": "Pre-order the Season Pass of \"Knee Deep\" for Windows, Mac, and Linux, DRM free! Includes all 3 episodes.",
+        "developer": "Prologue Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/371300",
+            "developer": "http://www.prologuegames.com/"
+        },
+        "notes": "Store page: http://kneedeepgame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "Knight Squad",
         "url": "knightsquad/qLIdnk239hdji",
         "price": "9.99",
