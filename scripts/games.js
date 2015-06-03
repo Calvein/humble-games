@@ -26053,6 +26053,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Soul Locus",
+        "url": "soullocus/asdftQ23",
+        "price": "14.99",
+        "description": "",
+        "developer": "Fat Loot Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/349190/",
+            "developer": "http://www.fatlootgames.com/"
+        },
+        "notes": "Store page: http://www.fatlootgames.com/soul-locus/",
+        "extras": false
+    },
+    {
         "name": "Soul Saga - Basic",
         "url": "soulsaga_basic/skdTlswi1kd9k",
         "price": "20",
