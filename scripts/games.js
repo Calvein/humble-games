@@ -28009,7 +28009,7 @@ var games = [
     {
         "name": "Super Win the Game",
         "url": "superwinthegame/S48BbbSJDie",
-        "price": "14.99",
+        "price": "9.99",
         "description": "Download Super Win the Game today! DRM-free on Windows, Mac, and Linux. Includes Steam access and the complete soundtrack!",
         "developer": "Minor Key Games",
         "platform": {
