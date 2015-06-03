@@ -26483,6 +26483,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "SPINTIRES",
+        "url": "spintires/msiBD93jDkssa",
+        "price": "29.99",
+        "description": "",
+        "developer": "IMGN.PRO",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/06/17/wot-i-think-spintires/",
+            "steam": "http://store.steampowered.com/app/263280/",
+            "developer": "http://www.imgn.pro/"
+        },
+        "notes": "Store page: http://www.imgn.pro/#buy",
+        "extras": false
+    },
+    {
         "name": "Spirits",
         "url": "spirits",
         "price": "10",
