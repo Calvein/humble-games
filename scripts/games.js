@@ -26301,6 +26301,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Space Lander",
+        "url": "spacelander/F7TTlfkj33",
+        "price": "0.99",
+        "description": "FULL PIXELATED SPACE TRAVEL SIMULATION! For Windows, DRM-free!",
+        "developer": "Vortex Game Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/space-lander",
+            "developer": "http://vortexstudios.com.br/"
+        },
+        "notes": "Store page: http://www.spacelander.com.br/",
+        "extras": false
+    },
+    {
         "name": "Spacebase DF-9: Breather",
         "url": "spacebasedf9_tier1/Sdh7Gdte9Fey",
         "price": "25",
