@@ -956,6 +956,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Aero's Quest",
+        "url": "aerosquest/1234sge",
+        "price": "7.99",
+        "description": "",
+        "developer": "Soloweb N.V. Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.noobfeed.com/reviews/1148/aero-s-quest",
+            "steam": "http://store.steampowered.com/app/367780/",
+            "developer": "http://aerosquest.com/"
+        },
+        "notes": "Store page: http://aerosquest.com/new/buy.html",
+        "extras": false
+    },
+    {
         "name": "Aeternum",
         "url": "aeternum/Ajdjwi12kdj",
         "price": "2.99",
