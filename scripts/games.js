@@ -956,6 +956,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Aero's Quest",
+        "url": "aerosquest/1234sge",
+        "price": "7.99",
+        "description": "",
+        "developer": "Soloweb N.V. Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.noobfeed.com/reviews/1148/aero-s-quest",
+            "steam": "http://store.steampowered.com/app/367780/",
+            "developer": "http://aerosquest.com/"
+        },
+        "notes": "Store page: http://aerosquest.com/new/buy.html",
+        "extras": false
+    },
+    {
         "name": "Aeternum",
         "url": "aeternum/Ajdjwi12kdj",
         "price": "2.99",
@@ -15800,6 +15827,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Knee Deep Season Pass",
+        "url": "kneedeep/SFh3lKJS22",
+        "price": "29.99",
+        "description": "Pre-order the Season Pass of \"Knee Deep\" for Windows, Mac, and Linux, DRM free! Includes all 3 episodes.",
+        "developer": "Prologue Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/371300",
+            "developer": "http://www.prologuegames.com/"
+        },
+        "notes": "Store page: http://kneedeepgame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "Knight Squad",
         "url": "knightsquad/qLIdnk239hdji",
         "price": "9.99",
@@ -18319,6 +18372,34 @@ var games = [
             "developer": "http://toby3d.ru/"
         },
         "notes": "Store page: http://toby3d.ru/MuSquare/",
+        "extras": false
+    },
+    {
+        "name": "Mystik Belle",
+        "url": "mystikbelle/FGSDfb23t",
+        "price": "12.99",
+        "description": "",
+        "developer": "Last Dimension",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegames.com/2015/05/mystik_belle_review_-_an_wonde.html",
+            "desura": "http://www.desura.com/games/mystik-belle",
+            "steam": "http://store.steampowered.com/app/332610/",
+            "developer": "http://darkfalzx.blogspot.com.es/"
+        },
+        "notes": "Store page: http://darkfalzx.blogspot.ca/p/mystik-belle.html",
         "extras": false
     },
     {
@@ -24587,6 +24668,33 @@ var games = [
         }
     },
     {
+        "name": "Sentinels of the Multiverse",
+        "url": "sentinelsofthemultiverse/6TsErh234",
+        "price": "14.99",
+        "description": "",
+        "developer": "Handelabra Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/01/09/sentinels-of-the-multiverse-review/",
+            "steam": "http://store.steampowered.com/app/337150",
+            "developer": "http://handelabra.com/"
+        },
+        "notes": "Store page: http://sentinelsdigital.com/buysotm.html#buysotm",
+        "extras": false
+    },
+    {
         "name": "Sentris",
         "url": "sentris/sSkdw3",
         "price": "20",
@@ -25972,6 +26080,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Soul Locus",
+        "url": "soullocus/asdftQ23",
+        "price": "14.99",
+        "description": "",
+        "developer": "Fat Loot Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/349190/",
+            "developer": "http://www.fatlootgames.com/"
+        },
+        "notes": "Store page: http://www.fatlootgames.com/soul-locus/",
+        "extras": false
+    },
+    {
         "name": "Soul Saga - Basic",
         "url": "soulsaga_basic/skdTlswi1kd9k",
         "price": "20",
@@ -26194,6 +26328,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Space Lander",
+        "url": "spacelander/F7TTlfkj33",
+        "price": "0.99",
+        "description": "FULL PIXELATED SPACE TRAVEL SIMULATION! For Windows, DRM-free!",
+        "developer": "Vortex Game Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/space-lander",
+            "developer": "http://vortexstudios.com.br/"
+        },
+        "notes": "Store page: http://www.spacelander.com.br/",
+        "extras": false
+    },
+    {
         "name": "Spacebase DF-9: Breather",
         "url": "spacebasedf9_tier1/Sdh7Gdte9Fey",
         "price": "25",
@@ -26373,6 +26533,33 @@ var games = [
             "developer": "https://www.spectrumgame.com/"
         },
         "notes": "Mac version coming soon.",
+        "extras": false
+    },
+    {
+        "name": "SPINTIRES",
+        "url": "spintires/msiBD93jDkssa",
+        "price": "29.99",
+        "description": "",
+        "developer": "IMGN.PRO",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/06/17/wot-i-think-spintires/",
+            "steam": "http://store.steampowered.com/app/263280/",
+            "developer": "http://www.imgn.pro/"
+        },
+        "notes": "Store page: http://www.imgn.pro/#buy",
         "extras": false
     },
     {
@@ -27928,7 +28115,7 @@ var games = [
     {
         "name": "Super Win the Game",
         "url": "superwinthegame/S48BbbSJDie",
-        "price": "14.99",
+        "price": "9.99",
         "description": "Download Super Win the Game today! DRM-free on Windows, Mac, and Linux. Includes Steam access and the complete soundtrack!",
         "developer": "Minor Key Games",
         "platform": {
