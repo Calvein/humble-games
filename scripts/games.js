@@ -2221,6 +2221,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Avalanche 2: Super Avalanche",
+        "url": "avalanche2_superavalanche/Dkjoweihfs34o",
+        "price": "9.99",
+        "description": "A frantic and addictive 2D climbing game for the PC. How high can you climb?",
+        "developer": "Beast Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/351250",
+            "desura": "http://www.desura.com/games/avalanche-2-super-avalanche",
+            "developer": "http://www.beastgames.org/"
+        },
+        "notes": "Store page: http://superavalanche.com/index.html#gotoBuy",
+        "extras": false
+    },
+    {
         "name": "Avernum: Escape From the Pit",
         "url": "avernum_escapefromthepit/Adkfow345j",
         "price": "20",
