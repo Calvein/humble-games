@@ -29307,6 +29307,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Land of Eyas",
+        "url": "thelandofeyas/6FJ3Djhi1S",
+        "price": "10",
+        "description": "Pre-order now and get the Game (1 Week Early) and Digital Wallpapers!",
+        "developer": "Happy Square Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://thelandofeyas.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website.\nStore page: http://thelandofeyas.com/buy/",
+        "extras": true
+    },
+    {
+        "name": "The Land of Eyas: Special Edition",
+        "url": "thelandofeyas_specialedition/GGo2384ujls",
+        "price": "20",
+        "description": "Pre-order now and get the Game (1 Week Early), Original Soundtrack, Bonus Game: Cirbie and Digital Wallpapers!",
+        "developer": "Happy Square Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://thelandofeyas.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website.\nStore page: http://thelandofeyas.com/buy/",
+        "extras": true
+    },
+    {
         "name": "The Last Dogma",
         "url": "thelastdogma/xJLKX49iiDjs",
         "price": "6.99",
