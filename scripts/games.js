@@ -2221,6 +2221,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Avalanche 2: Super Avalanche",
+        "url": "avalanche2_superavalanche/Dkjoweihfs34o",
+        "price": "9.99",
+        "description": "A frantic and addictive 2D climbing game for the PC. How high can you climb?",
+        "developer": "Beast Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/351250",
+            "desura": "http://www.desura.com/games/avalanche-2-super-avalanche",
+            "developer": "http://www.beastgames.org/"
+        },
+        "notes": "Store page: http://superavalanche.com/index.html#gotoBuy",
+        "extras": false
+    },
+    {
         "name": "Avernum: Escape From the Pit",
         "url": "avernum_escapefromthepit/Adkfow345j",
         "price": "20",
@@ -29278,6 +29305,56 @@ var games = [
         },
         "notes": "Store page: http://thejourneydown.com/",
         "extras": false
+    },
+    {
+        "name": "The Land of Eyas",
+        "url": "thelandofeyas/6FJ3Djhi1S",
+        "price": "10",
+        "description": "Pre-order now and get the Game (1 Week Early) and Digital Wallpapers!",
+        "developer": "Happy Square Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://thelandofeyas.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website.\nStore page: http://thelandofeyas.com/buy/",
+        "extras": true
+    },
+    {
+        "name": "The Land of Eyas: Special Edition",
+        "url": "thelandofeyas_specialedition/GGo2384ujls",
+        "price": "20",
+        "description": "Pre-order now and get the Game (1 Week Early), Original Soundtrack, Bonus Game: Cirbie and Digital Wallpapers!",
+        "developer": "Happy Square Productions",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://thelandofeyas.com/"
+        },
+        "notes": "No mention of DRM or lack thereof either in the widgets or in the game's website.\nStore page: http://thelandofeyas.com/buy/",
+        "extras": true
     },
     {
         "name": "The Last Dogma",
