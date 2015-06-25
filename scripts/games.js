@@ -15333,6 +15333,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "JamG",
+        "url": "jamg/6SFDg234h",
+        "price": "5.99",
+        "description": "Pre-order JamG now! DRM-Free for Windows! Includes instant access to a playable, 10-level, alpha!",
+        "developer": "Erno Kiraly",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://cpanel8.tarhelypark.hu/~jamggame/index.php?page=home"
+        },
+        "notes": "Store page: http://cpanel8.tarhelypark.hu/~jamggame/index.php?page=home#preorder",
+        "extras": false
+    },
+    {
         "name": "Jamsouls",
         "url": "jamsouls/Jdkwok10ksl",
         "price": "3.99",
