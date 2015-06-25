@@ -10815,6 +10815,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Fox & Flock",
+        "url": "foxandflock/76SDfhj43",
+        "price": "1.99",
+        "description": "",
+        "developer": "Smarter Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/377760",
+            "developer": "http://www.smartergames.com/"
+        },
+        "notes": "Store page: http://www.smartergames.com/#view2",
+        "extras": false
+    },
+    {
         "name": "FRACT OSC",
         "url": "fractosc/Xlkdwo4",
         "price": "14.99",
