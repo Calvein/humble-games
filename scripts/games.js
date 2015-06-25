@@ -16895,7 +16895,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Regional pricing: £16.99/€21,99.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Includes a DLC.\nRegional pricing: £16.99/€21,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -16921,59 +16921,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Regional pricing: £21.99/€25,99.\nStore page: http://www.lordsofxulima.com/store/",
-        "extras": true
-    },
-    {
-        "name": "Lords of Xulima - Special Boxed Edition",
-        "url": "lordsofxulima_specialboxededition/HFSLDjk23048s",
-        "price": "65",
-        "description": "Get the Special Boxed Edition with the printed poster of the World of Xulima. Deluxe version rewards included!",
-        "developer": "Numantian Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/296570/",
-            "developer": "http://www.lordsofxulima.com/"
-        },
-        "notes": "This widget no longer appears on the game's website: buy with caution.\nRegional pricing: £49/€59",
-        "extras": true
-    },
-    {
-        "name": "Lords of Xulima - Collector's Edition",
-        "url": "lordsofxulima_collectorsedition/Mds0823jsasd",
-        "price": "95",
-        "description": "Special Boxed Edition with the hardcover copy of the Bestiary and Mythology book (150 pages+) and the Game Guide book!",
-        "developer": "Numantian Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/296570/",
-            "developer": "http://www.lordsofxulima.com/"
-        },
-        "notes": "This widget no longer appears on the game's website: buy with caution.\nRegional pricing: £69/€89",
+        "notes": "Includes a DLC, a digital book, a soundtrack, some wallpapers, and a HD map of Xulima.\nRegional pricing: £21.99/€25,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
