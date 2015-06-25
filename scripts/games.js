@@ -6392,6 +6392,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Courier of the Crypts",
+        "url": "courierofthecrypts_basic/123DHR23j",
+        "price": "11.99",
+        "description": "Get the game on Windows via Steam. The game is in the Early Access phase - all future updates are free. (DRM-free build for Windows soon to come)",
+        "developer": "Emberheart Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/362940",
+            "developer": "http://www.emberheartgames.com/"
+        },
+        "notes": "Store page: http://www.courierofthecrypts.com/",
+        "extras": false
+    },
+    {
         "name": "Crater Maker",
         "url": "cratermaker/uiahfdiulhsefASIUDHL",
         "price": "9.99",
