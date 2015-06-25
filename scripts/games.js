@@ -10844,7 +10844,7 @@ var games = [
         "name": "FRACT OSC",
         "url": "fractosc/Xlkdwo4",
         "price": "14.99",
-        "description": "Pre-order FRACT OSC, a musical exploration game for Windows & Mac.",
+        "description": "Buy FRACT OSC, a musical exploration game for Windows & Mac.",
         "developer": "Phosfiend Systems",
         "platform": {
             "android": false,
@@ -10860,10 +10860,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.eurogamer.net/articles/2014-04-22-fract-osc-review",
             "steam": "http://store.steampowered.com/app/243220",
             "developer": "http://fractgame.com/"
         },
-        "notes": "No mention in the widget whatsoever about the distribution method. Supposed it's a DRM-free download and a Steam key just like in the Humble Store.\nStore page: http://fractgame.com/buy",
+        "notes": "Store page: http://fractgame.com/buy",
         "extras": false
     },
     {
