@@ -13842,6 +13842,81 @@ var games = [
         "extras": true
     },
     {
+        "name": "Hero-U: University Admission",
+        "url": "herou_tier1/Hdue8gdyhja",
+        "price": "25",
+        "description": "Pre-order Hero-U: Rogue to Redemption now! When ready get it instantly and DRM free.",
+        "developer": "Lori and Corey Cole",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://transolar.com/"
+        },
+        "notes": "Store page: http://hero-u.com/collectibles/pre-orders/",
+        "extras": false
+    },
+    {
+        "name": "Hero-U: Audio-Visual Extras",
+        "url": "herou_tier2/Hdue8gdyhja",
+        "price": "38",
+        "description": "Pre-order Hero-U: Rogue to Redemption now! When ready the game, the \"Making of\" artbook & the original soundtrack.",
+        "developer": "Lori and Corey Cole",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://transolar.com/"
+        },
+        "notes": "This widget does not appear on the game's website. Buy with caution.\nStore page: http://hero-u.com/collectibles/pre-orders/",
+        "extras": true
+    },
+    {
+        "name": "Hero-U: Premium Course Materials",
+        "url": "herou_tier3/Hdue8gdyhja",
+        "price": "60",
+        "description": "Pre-order Hero-U: Rogue to Redemption now! When ready the game, the \"Making of\" artbook, soundtrack, beta access & digital hint book.",
+        "developer": "Lori and Corey Cole",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://transolar.com/"
+        },
+        "notes": "Store page: http://hero-u.com/collectibles/pre-orders/",
+        "extras": true
+    },
+    {
         "name": "Heroes of Loot",
         "url": "heroesofloot/Hdkwo3k",
         "price": "5",
