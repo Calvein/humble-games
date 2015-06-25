@@ -31463,7 +31463,7 @@ var games = [
         "name": "UFHO2",
         "url": "ufho2/H8est5RwuSTa",
         "price": "9.99",
-        "description": "Get UFHO2 instantly, cross-platform and DRM-free.",
+        "description": "Get UFHO2 cross-platform on Steam and DRM-free.",
         "developer": "Tiny Colossus",
         "platform": {
             "android": false,
@@ -31473,16 +31473,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "desura": "http://www.desura.com/games/ufho2",
+            "steam": "http://store.steampowered.com/app/348840/",
             "developer": "http://www.tinycolossus.com/"
         },
-        "notes": "Currently on sale at 50% off for $4.99\nStore page: http://www.tinycolossus.com/ufho2/",
+        "notes": "Store page: http://www.tinycolossus.com/ufho2/",
         "extras": false
     },
     {
