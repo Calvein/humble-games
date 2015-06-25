@@ -4792,10 +4792,37 @@ var games = [
         "extras": false
     },
     {
-        "name": "Catlateral Damage: House Cat",
-        "url": "catlateraldamage_housecat/alkdnfSDf0947",
-        "price": "12",
-        "description": "Pre-order a cross buy copy of Catlateral Damage for OUYA, Steam, and DRM-free executable! Includes game soundtrack!",
+        "name": "Catlateral Damage",
+        "url": "catlateraldamage/FTSDKfjh2",
+        "price": "9.99",
+        "description": "",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamecrate.com/reviews/review-catlateral-damage-fun-platformer-short-attention-span/10897",
+            "steam": "http://store.steampowered.com/app/329860/",
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.catlateraldamage.com/#content",
+        "extras": false
+    },
+    {
+        "name": "Catlateral Damage (Game & Soundtrack)",
+        "url": "catlateraldamage_gameandsoundtrack/T7sdfj2343",
+        "price": "10.49",
+        "description": "",
         "developer": "Fire Hose Games",
         "platform": {
             "android": false,
@@ -4811,85 +4838,39 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gamecrate.com/reviews/review-catlateral-damage-fun-platformer-short-attention-span/10897",
+            "steam": "http://store.steampowered.com/app/329860/",
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.catlateraldamage.com/#content",
+        "extras": false
+    },
+    {
+        "name": "Catlateral Damage (Soundtrack)",
+        "url": "catlateraldamage_soundtrack/WbSDF342",
+        "price": "0.99",
+        "description": "",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamecrate.com/reviews/review-catlateral-damage-fun-platformer-short-attention-span/10897",
+            "steam": "http://store.steampowered.com/app/329860/",
             "developer": "http://www.firehosegames.com/"
         },
         "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
         "extras": false
-    },
-    {
-        "name": "Catlateral Damage: Backer Cat",
-        "url": "catlateraldamage_backercat/xkjhfD239hdj",
-        "price": "15",
-        "description": "Pre-order a cross buy copy of Catlateral Damage and game soundtrack, get your name in the credits, and a special backer-only PDF!",
-        "developer": "Fire Hose Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.firehosegames.com/"
-        },
-        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
-        "extras": true
-    },
-    {
-        "name": "Catlateral Damage: Hipster Cat",
-        "url": "catlateraldamage_hipstercat/CKXjkwehrh83",
-        "price": "20",
-        "description": "Everything in Backer Cat, plus special early access to the game during development (Steam only). This is the only way to play early access!",
-        "developer": "Fire Hose Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.firehosegames.com/"
-        },
-        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
-        "extras": true
-    },
-    {
-        "name": "Catlateral Damage: Lolcat",
-        "url": "catlateraldamage_lolcat/74khjsd2sa3",
-        "price": "60",
-        "description": "Everything in Hipster Cat, plus we'll make your cat famous by putting a framed poster or picture of it in game!",
-        "developer": "Fire Hose Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.firehosegames.com/"
-        },
-        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
-        "extras": true
     },
     {
         "name": "Centauri Sector (Early Access)",
