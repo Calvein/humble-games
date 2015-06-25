@@ -622,7 +622,7 @@ var games = [
         "name": "a•part•ment: a separated place",
         "url": "apartment_aseparatedplace/6SDFh23f",
         "price": "14.99",
-        "description": "",
+        "description": "Pre-order the game now for a cross-platform Steam key and DRM-free copy once it's released!\n[Expected Release: Spring 2016]",
         "developer": "The Elsewhere Company",
         "platform": {
                 "android": false,
@@ -959,7 +959,7 @@ var games = [
         "name": "Aero's Quest",
         "url": "aerosquest/1234sge",
         "price": "7.99",
-        "description": "",
+        "description": "Get Aero's Quest for Mac and Windows, on Steam and DRM-free!",
         "developer": "Soloweb N.V. Studios",
         "platform": {
             "android": false,
@@ -1198,7 +1198,7 @@ var games = [
         "name": "Alum",
         "url": "alum/1234fer667",
         "price": "11.99",
-        "description": "",
+        "description": "Get Alum for Windows, DRM-free!",
         "developer": "Crashable Studios",
         "platform": {
             "android": false,
@@ -4795,7 +4795,7 @@ var games = [
         "name": "Catlateral Damage",
         "url": "catlateraldamage/FTSDKfjh2",
         "price": "9.99",
-        "description": "",
+        "description": "Get DRM-free downloads for Windows, Mac, & Linux + a Steam key!",
         "developer": "Fire Hose Games",
         "platform": {
             "android": false,
@@ -4822,7 +4822,7 @@ var games = [
         "name": "Catlateral Damage (Game & Soundtrack)",
         "url": "catlateraldamage_gameandsoundtrack/T7sdfj2343",
         "price": "10.49",
-        "description": "",
+        "description": "Get DRM-free downloads for Windows, Mac, & Linux + a Steam key! Also includes the Catlateral Damage original soundtrack!",
         "developer": "Fire Hose Games",
         "platform": {
             "android": false,
@@ -4849,7 +4849,7 @@ var games = [
         "name": "Catlateral Damage (Soundtrack)",
         "url": "catlateraldamage_soundtrack/WbSDF342",
         "price": "0.99",
-        "description": "",
+        "description": "Get the Catlateral Damage original soundtrack!",
         "developer": "Fire Hose Games",
         "platform": {
             "android": false,
@@ -8770,7 +8770,7 @@ var games = [
         "name": "Drive Any Track",
         "url": "driveanytrack/34jfd98",
         "price": "15.99",
-        "description": "",
+        "description": "Purchase the Early Access version of DAT and get a Windows Steam key now!",
         "developer": "FOAM Entertainment Ltd",
         "platform": {
             "android": false,
@@ -10818,7 +10818,7 @@ var games = [
         "name": "Fox & Flock",
         "url": "foxandflock/76SDfhj43",
         "price": "1.99",
-        "description": "",
+        "description": "Fox & Flock is provided via Steam key (for Windows, Mac & Linux) and DRM-free (for Windows, Mac & Linux).",
         "developer": "Smarter Games LLC",
         "platform": {
             "android": false,
@@ -18491,7 +18491,7 @@ var games = [
         "name": "Mystik Belle",
         "url": "mystikbelle/FGSDfb23t",
         "price": "12.99",
-        "description": "",
+        "description": "Mystik Belle is a hybrid of a point-and-click adventure and a Metroidvania, filled with retina-burningly colorful pixel-art, amazing chiptunes. and memorable characters. Cross-platform, DRM-free, and on Steam!",
         "developer": "Last Dimension",
         "platform": {
             "android": false,
@@ -18622,7 +18622,7 @@ var games = [
         "name": "NEON STRUCT",
         "url": "neonstruct/145ljsdf9",
         "price": "17.99",
-        "description": "",
+        "description": "Get NEON STRUCT for Windows, Mac, and Linux! DRM-free builds and Steam key included!",
         "developer": "Minor Key Games",
         "platform": {
             "android": false,
@@ -18649,7 +18649,7 @@ var games = [
         "name": "NEON STRUCT (Deluxe Edition)",
         "url": "neonstruct_deluxeedition/1123s54",
         "price": "24.99",
-        "description": "",
+        "description": "Get NEON STRUCT for Windows, Mac, and Linux! DRM-free, Steam key, soundtrack, and artbook!",
         "developer": "Minor Key Games",
         "platform": {
             "android": false,
@@ -24784,7 +24784,7 @@ var games = [
         "name": "Sentinels of the Multiverse",
         "url": "sentinelsofthemultiverse/6TsErh234",
         "price": "14.99",
-        "description": "",
+        "description": "Get Sentinels of the Multiverse for Windows/Mac/Linux via Steam. You've never played a comic book like this!",
         "developer": "Handelabra Games",
         "platform": {
             "android": false,
@@ -25264,7 +25264,7 @@ var games = [
         "name": "Shallow Space: Insurgency",
         "url": "shallowspace_insurgency/1123dwede3",
         "price": "14.99",
-        "description": "",
+        "description": "(Pre-Order) You will have cross-platform Early Access and 1.0 both DRM-free and on Steam!",
         "developer": "Special Circumstances",
         "platform": {
             "android": false,
@@ -25282,7 +25282,7 @@ var games = [
         "URL": {
             "developer": "http://specialcircumstancegames.com/"
         },
-        "notes": "Pre-order.\nEarly Access expected for August 2015.\nStore page: http://shallow.space/preorder-shallow-space-insurgency-now/",
+        "notes": "Early Access expected for August 2015.\nStore page: http://shallow.space/preorder-shallow-space-insurgency-now/",
         "extras": false
     },
     {
@@ -26196,7 +26196,7 @@ var games = [
         "name": "Soul Locus",
         "url": "soullocus/asdftQ23",
         "price": "14.99",
-        "description": "",
+        "description": "Soul Locus is a tower defense game with RPG elements. Defend yourself with creatures that you collect and train. For Windows/Mac on Steam!",
         "developer": "Fat Loot Games",
         "platform": {
             "android": false,
