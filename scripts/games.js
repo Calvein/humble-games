@@ -31434,6 +31434,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Two Digits",
+        "url": "twodigits/gSFDb32",
+        "price": "3.99",
+        "description": "Get Two Digits now and receive a cross-platform Steam key for the game!",
+        "developer": "Cleverweek",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/371330/",
+            "developer": "http://cleverweek.com/"
+        },
+        "notes": "Store page: http://twodigitsgame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "UFHO2",
         "url": "ufho2/H8est5RwuSTa",
         "price": "9.99",
