@@ -21876,17 +21876,17 @@ var games = [
         "name": "Prophour23",
         "url": "prophour23/Bklj2384ujoalsk",
         "price": "10",
-        "description": "Get Prophour23 for Windows, Mac and Linux, DRM-free! You'll get a Steam key as well!",
+        "description": "Get Prophour23 for Windows, Mac and Linux, DRM-free! You'll get a Steam key as well! Includes a build for Android tablets!",
         "developer": "The Secret Pie",
         "platform": {
-            "android": false,
+            "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -21894,7 +21894,7 @@ var games = [
         "URL": {
             "developer": "http://www.thesecretpie.com/"
         },
-        "notes": "Steam key when available.\nStore page: http://prophour23.com/",
+        "notes": "Store page: http://prophour23.com/",
         "extras": false
     },
     {
