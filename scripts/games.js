@@ -30791,8 +30791,8 @@ var games = [
     {
         "name": "Train Valley",
         "url": "trainvalley/byrohn4guR11",
-        "price": "6.99",
-        "description": "Get the Train Valley early access version instantly! Available on Mac and Windows, DRM-free!",
+        "price": "9.99",
+        "description": "Available on Mac, Windows and Linux, DRM-free!",
         "developer": "Flazm.com",
         "platform": {
             "android": false,
@@ -30808,9 +30808,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/353640",
             "developer": "http://flazm.com/"
         },
-        "notes": "Pre-order it 30% off; regular price is $9.99\nStore page: http://train-valley.com/",
+        "notes": "Store page: http://train-valley.com/",
         "extras": false
     },
     {
