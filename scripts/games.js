@@ -14042,13 +14042,13 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
             "steam": "http://store.steampowered.com/app/251210/",
             "developer": "http://www.bluelinegamestudios.com/"
         },
-        "notes": "Currently on sale at 30% off.\nStore page: http://bluelinegamestudios.com/hive-game/",
+        "notes": "Currently on sale at 30% off for $6.99.\nStore page: http://bluelinegamestudios.com/hive-game/",
         "extras": false
     },
     {
