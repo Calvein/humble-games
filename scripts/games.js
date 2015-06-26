@@ -6116,7 +6116,7 @@ var games = [
         "developer": "Convoy Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": true
@@ -6125,14 +6125,14 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://www.rockpapershotgun.com/2015/04/21/convoy-review-pc/",
             "steam": "http://store.steampowered.com/app/318230",
             "developer": "http://convoy-games.com/"
         },
-        "notes": "Linux version coming soon.\nStore page: http://convoy-games.com/index.php/buy-convoy/",
+        "notes": "Store page: http://convoy-games.com/index.php/buy-convoy/",
         "extras": false
     },
     {
