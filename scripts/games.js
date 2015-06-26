@@ -622,7 +622,7 @@ var games = [
         "name": "a•part•ment: a separated place",
         "url": "apartment_aseparatedplace/6SDFh23f",
         "price": "14.99",
-        "description": "",
+        "description": "Pre-order the game now for a cross-platform Steam key and DRM-free copy once it's released!\n[Expected Release: Spring 2016]",
         "developer": "The Elsewhere Company",
         "platform": {
                 "android": false,
@@ -959,7 +959,7 @@ var games = [
         "name": "Aero's Quest",
         "url": "aerosquest/1234sge",
         "price": "7.99",
-        "description": "",
+        "description": "Get Aero's Quest for Mac and Windows, on Steam and DRM-free!",
         "developer": "Soloweb N.V. Studios",
         "platform": {
             "android": false,
@@ -1198,7 +1198,7 @@ var games = [
         "name": "Alum",
         "url": "alum/1234fer667",
         "price": "11.99",
-        "description": "",
+        "description": "Get Alum for Windows, DRM-free!",
         "developer": "Crashable Studios",
         "platform": {
             "android": false,
@@ -4792,10 +4792,37 @@ var games = [
         "extras": false
     },
     {
-        "name": "Catlateral Damage: House Cat",
-        "url": "catlateraldamage_housecat/alkdnfSDf0947",
-        "price": "12",
-        "description": "Pre-order a cross buy copy of Catlateral Damage for OUYA, Steam, and DRM-free executable! Includes game soundtrack!",
+        "name": "Catlateral Damage",
+        "url": "catlateraldamage/FTSDKfjh2",
+        "price": "9.99",
+        "description": "Get DRM-free downloads for Windows, Mac, & Linux + a Steam key!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamecrate.com/reviews/review-catlateral-damage-fun-platformer-short-attention-span/10897",
+            "steam": "http://store.steampowered.com/app/329860/",
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.catlateraldamage.com/#content",
+        "extras": false
+    },
+    {
+        "name": "Catlateral Damage (Game & Soundtrack)",
+        "url": "catlateraldamage_gameandsoundtrack/T7sdfj2343",
+        "price": "10.49",
+        "description": "Get DRM-free downloads for Windows, Mac, & Linux + a Steam key! Also includes the Catlateral Damage original soundtrack!",
         "developer": "Fire Hose Games",
         "platform": {
             "android": false,
@@ -4811,85 +4838,39 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gamecrate.com/reviews/review-catlateral-damage-fun-platformer-short-attention-span/10897",
+            "steam": "http://store.steampowered.com/app/329860/",
+            "developer": "http://www.firehosegames.com/"
+        },
+        "notes": "Store page: http://www.catlateraldamage.com/#content",
+        "extras": false
+    },
+    {
+        "name": "Catlateral Damage (Soundtrack)",
+        "url": "catlateraldamage_soundtrack/WbSDF342",
+        "price": "0.99",
+        "description": "Get the Catlateral Damage original soundtrack!",
+        "developer": "Fire Hose Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamecrate.com/reviews/review-catlateral-damage-fun-platformer-short-attention-span/10897",
+            "steam": "http://store.steampowered.com/app/329860/",
             "developer": "http://www.firehosegames.com/"
         },
         "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
         "extras": false
-    },
-    {
-        "name": "Catlateral Damage: Backer Cat",
-        "url": "catlateraldamage_backercat/xkjhfD239hdj",
-        "price": "15",
-        "description": "Pre-order a cross buy copy of Catlateral Damage and game soundtrack, get your name in the credits, and a special backer-only PDF!",
-        "developer": "Fire Hose Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.firehosegames.com/"
-        },
-        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
-        "extras": true
-    },
-    {
-        "name": "Catlateral Damage: Hipster Cat",
-        "url": "catlateraldamage_hipstercat/CKXjkwehrh83",
-        "price": "20",
-        "description": "Everything in Backer Cat, plus special early access to the game during development (Steam only). This is the only way to play early access!",
-        "developer": "Fire Hose Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.firehosegames.com/"
-        },
-        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
-        "extras": true
-    },
-    {
-        "name": "Catlateral Damage: Lolcat",
-        "url": "catlateraldamage_lolcat/74khjsd2sa3",
-        "price": "60",
-        "description": "Everything in Hipster Cat, plus we'll make your cat famous by putting a framed poster or picture of it in game!",
-        "developer": "Fire Hose Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.firehosegames.com/"
-        },
-        "notes": "Store page: http://www.catlateraldamage.com/#slackerbackers",
-        "extras": true
     },
     {
         "name": "Centauri Sector (Early Access)",
@@ -6408,6 +6389,32 @@ var games = [
             "developer": "http://www.doublefine.com/"
         },
         "notes": "Store page: http://www.doublefine.com/games",
+        "extras": false
+    },
+    {
+        "name": "Courier of the Crypts",
+        "url": "courierofthecrypts_basic/123DHR23j",
+        "price": "11.99",
+        "description": "Get the game on Windows via Steam. The game is in the Early Access phase - all future updates are free. (DRM-free build for Windows soon to come)",
+        "developer": "Emberheart Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/362940",
+            "developer": "http://www.emberheartgames.com/"
+        },
+        "notes": "Store page: http://www.courierofthecrypts.com/",
         "extras": false
     },
     {
@@ -8763,7 +8770,7 @@ var games = [
         "name": "Drive Any Track",
         "url": "driveanytrack/34jfd98",
         "price": "15.99",
-        "description": "",
+        "description": "Purchase the Early Access version of DAT and get a Windows Steam key now!",
         "developer": "FOAM Entertainment Ltd",
         "platform": {
             "android": false,
@@ -10808,10 +10815,36 @@ var games = [
         "extras": false
     },
     {
+        "name": "Fox & Flock",
+        "url": "foxandflock/76SDfhj43",
+        "price": "1.99",
+        "description": "Fox & Flock is provided via Steam key (for Windows, Mac & Linux) and DRM-free (for Windows, Mac & Linux).",
+        "developer": "Smarter Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/377760",
+            "developer": "http://www.smartergames.com/"
+        },
+        "notes": "Store page: http://www.smartergames.com/#view2",
+        "extras": false
+    },
+    {
         "name": "FRACT OSC",
         "url": "fractosc/Xlkdwo4",
         "price": "14.99",
-        "description": "Pre-order FRACT OSC, a musical exploration game for Windows & Mac.",
+        "description": "Buy FRACT OSC, a musical exploration game for Windows & Mac.",
         "developer": "Phosfiend Systems",
         "platform": {
             "android": false,
@@ -10827,10 +10860,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.eurogamer.net/articles/2014-04-22-fract-osc-review",
             "steam": "http://store.steampowered.com/app/243220",
             "developer": "http://fractgame.com/"
         },
-        "notes": "No mention in the widget whatsoever about the distribution method. Supposed it's a DRM-free download and a Steam key just like in the Humble Store.\nStore page: http://fractgame.com/buy",
+        "notes": "Store page: http://fractgame.com/buy",
         "extras": false
     },
     {
@@ -13757,8 +13791,62 @@ var games = [
         "name": "Hero Generations",
         "url": "herogenerations/acnOUW4",
         "price": "14.99",
-        "description": "Pre-order and get Hero Generations as soon as it is released! Cross-platform and DRM-free.",
+        "description": "Get Hero Generations and a Steam Key! Available DRM-free for Windows/Mac!",
         "developer": "Heart Shaped Games LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.pcgamer.com/hero-generations-review/",
+            "steam": "http://store.steampowered.com/app/295590/",
+            "developer": "http://www.heartshapedgames.com/"
+        },
+        "notes": "A Linux version is being worked on.\nStore page: http://www.herogenerations.com/#preorder",
+        "extras": false
+    },
+    {
+        "name": "Hero Generations Collector's Edition",
+        "url": "herogenerations_collectorsedition/CTVj43",
+        "price": "24.99",
+        "description": "Get Hero Generations and a Steam Key, plus the original soundtrack, and digital art book! Available DRM-free for Windows/Mac.",
+        "developer": "Heart Shaped Games LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.pcgamer.com/hero-generations-review/",
+            "steam": "http://store.steampowered.com/app/295590/",
+            "developer": "http://www.heartshapedgames.com/"
+        },
+        "notes": "A Linux version is being worked on.\nStore page: http://www.herogenerations.com/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Hero-U: University Admission",
+        "url": "herou_tier1/Hdue8gdyhja",
+        "price": "25",
+        "description": "Pre-order Hero-U: Rogue to Redemption now! When ready get it instantly and DRM free.",
+        "developer": "Lori and Corey Cole",
         "platform": {
             "android": false,
             "linux": true,
@@ -13773,17 +13861,17 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://www.heartshapedgames.com/"
+            "developer": "http://transolar.com/"
         },
-        "notes": "Store page: http://www.herogenerations.com/#preorder",
+        "notes": "Store page: http://hero-u.com/collectibles/pre-orders/",
         "extras": false
     },
     {
-        "name": "Hero Generations Collector's Edition",
-        "url": "herogenerations_collectorsedition/CTVj43",
-        "price": "24.99",
-        "description": "Pre-order and get Hero Generations as soon as it's released, plus the original soundtrack and Digital Art Book! Cross-platform and DRM-free.",
-        "developer": "Heart Shaped Games LLC",
+        "name": "Hero-U: Audio-Visual Extras",
+        "url": "herou_tier2/Hdue8gdyhja",
+        "price": "38",
+        "description": "Pre-order Hero-U: Rogue to Redemption now! When ready the game, the \"Making of\" artbook & the original soundtrack.",
+        "developer": "Lori and Corey Cole",
         "platform": {
             "android": false,
             "linux": true,
@@ -13798,9 +13886,34 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://www.heartshapedgames.com/"
+            "developer": "http://transolar.com/"
         },
-        "notes": "Store page: http://www.herogenerations.com/#preorder",
+        "notes": "This widget does not appear on the game's website. Buy with caution.\nStore page: http://hero-u.com/collectibles/pre-orders/",
+        "extras": true
+    },
+    {
+        "name": "Hero-U: Premium Course Materials",
+        "url": "herou_tier3/Hdue8gdyhja",
+        "price": "60",
+        "description": "Pre-order Hero-U: Rogue to Redemption now! When ready the game, the \"Making of\" artbook, soundtrack, beta access & digital hint book.",
+        "developer": "Lori and Corey Cole",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://transolar.com/"
+        },
+        "notes": "Store page: http://hero-u.com/collectibles/pre-orders/",
         "extras": true
     },
     {
@@ -15218,6 +15331,31 @@ var games = [
         },
         "notes": "Store page: http://www.warbirdgames.com/?page_id=545",
         "extras": true
+    },
+    {
+        "name": "JamG",
+        "url": "jamg/6SFDg234h",
+        "price": "5.99",
+        "description": "Pre-order JamG now! DRM-Free for Windows! Includes instant access to a playable, 10-level, alpha!",
+        "developer": "Erno Kiraly",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://cpanel8.tarhelypark.hu/~jamggame/index.php?page=home"
+        },
+        "notes": "Store page: http://cpanel8.tarhelypark.hu/~jamggame/index.php?page=home#preorder",
+        "extras": false
     },
     {
         "name": "Jamsouls",
@@ -16895,7 +17033,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Regional pricing: £16.99/€21,99.\nStore page: http://www.lordsofxulima.com/store/",
+        "notes": "Includes a DLC.\nRegional pricing: £16.99/€21,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -16921,59 +17059,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/296570/",
             "developer": "http://www.lordsofxulima.com/"
         },
-        "notes": "Regional pricing: £21.99/€25,99.\nStore page: http://www.lordsofxulima.com/store/",
-        "extras": true
-    },
-    {
-        "name": "Lords of Xulima - Special Boxed Edition",
-        "url": "lordsofxulima_specialboxededition/HFSLDjk23048s",
-        "price": "65",
-        "description": "Get the Special Boxed Edition with the printed poster of the World of Xulima. Deluxe version rewards included!",
-        "developer": "Numantian Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/296570/",
-            "developer": "http://www.lordsofxulima.com/"
-        },
-        "notes": "This widget no longer appears on the game's website: buy with caution.\nRegional pricing: £49/€59",
-        "extras": true
-    },
-    {
-        "name": "Lords of Xulima - Collector's Edition",
-        "url": "lordsofxulima_collectorsedition/Mds0823jsasd",
-        "price": "95",
-        "description": "Special Boxed Edition with the hardcover copy of the Bestiary and Mythology book (150 pages+) and the Game Guide book!",
-        "developer": "Numantian Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/296570/",
-            "developer": "http://www.lordsofxulima.com/"
-        },
-        "notes": "This widget no longer appears on the game's website: buy with caution.\nRegional pricing: £69/€89",
+        "notes": "Includes a DLC, a digital book, a soundtrack, some wallpapers, and a HD map of Xulima.\nRegional pricing: £21.99/€25,99.\nStore page: http://www.lordsofxulima.com/store/",
         "extras": true
     },
     {
@@ -18405,7 +18491,7 @@ var games = [
         "name": "Mystik Belle",
         "url": "mystikbelle/FGSDfb23t",
         "price": "12.99",
-        "description": "",
+        "description": "Mystik Belle is a hybrid of a point-and-click adventure and a Metroidvania, filled with retina-burningly colorful pixel-art, amazing chiptunes. and memorable characters. Cross-platform, DRM-free, and on Steam!",
         "developer": "Last Dimension",
         "platform": {
             "android": false,
@@ -18536,7 +18622,7 @@ var games = [
         "name": "NEON STRUCT",
         "url": "neonstruct/145ljsdf9",
         "price": "17.99",
-        "description": "",
+        "description": "Get NEON STRUCT for Windows, Mac, and Linux! DRM-free builds and Steam key included!",
         "developer": "Minor Key Games",
         "platform": {
             "android": false,
@@ -18563,7 +18649,7 @@ var games = [
         "name": "NEON STRUCT (Deluxe Edition)",
         "url": "neonstruct_deluxeedition/1123s54",
         "price": "24.99",
-        "description": "",
+        "description": "Get NEON STRUCT for Windows, Mac, and Linux! DRM-free, Steam key, soundtrack, and artbook!",
         "developer": "Minor Key Games",
         "platform": {
             "android": false,
@@ -24698,7 +24784,7 @@ var games = [
         "name": "Sentinels of the Multiverse",
         "url": "sentinelsofthemultiverse/6TsErh234",
         "price": "14.99",
-        "description": "",
+        "description": "Get Sentinels of the Multiverse for Windows/Mac/Linux via Steam. You've never played a comic book like this!",
         "developer": "Handelabra Games",
         "platform": {
             "android": false,
@@ -25178,7 +25264,7 @@ var games = [
         "name": "Shallow Space: Insurgency",
         "url": "shallowspace_insurgency/1123dwede3",
         "price": "14.99",
-        "description": "",
+        "description": "(Pre-Order) You will have cross-platform Early Access and 1.0 both DRM-free and on Steam!",
         "developer": "Special Circumstances",
         "platform": {
             "android": false,
@@ -25196,7 +25282,7 @@ var games = [
         "URL": {
             "developer": "http://specialcircumstancegames.com/"
         },
-        "notes": "Pre-order.\nEarly Access expected for August 2015.\nStore page: http://shallow.space/preorder-shallow-space-insurgency-now/",
+        "notes": "Early Access expected for August 2015.\nStore page: http://shallow.space/preorder-shallow-space-insurgency-now/",
         "extras": false
     },
     {
@@ -26110,7 +26196,7 @@ var games = [
         "name": "Soul Locus",
         "url": "soullocus/asdftQ23",
         "price": "14.99",
-        "description": "",
+        "description": "Soul Locus is a tower defense game with RPG elements. Defend yourself with creatures that you collect and train. For Windows/Mac on Steam!",
         "developer": "Fat Loot Games",
         "platform": {
             "android": false,
@@ -29664,7 +29750,7 @@ var games = [
         "developer": "Vertigo Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": true,
             "audio": false
@@ -31348,10 +31434,36 @@ var games = [
         "extras": true
     },
     {
+        "name": "Two Digits",
+        "url": "twodigits/gSFDb32",
+        "price": "3.99",
+        "description": "Get Two Digits now and receive a cross-platform Steam key for the game!",
+        "developer": "Cleverweek",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/371330/",
+            "developer": "http://cleverweek.com/"
+        },
+        "notes": "Store page: http://twodigitsgame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "UFHO2",
         "url": "ufho2/H8est5RwuSTa",
         "price": "9.99",
-        "description": "Get UFHO2 instantly, cross-platform and DRM-free.",
+        "description": "Get UFHO2 cross-platform on Steam and DRM-free.",
         "developer": "Tiny Colossus",
         "platform": {
             "android": false,
@@ -31361,16 +31473,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "desura": "http://www.desura.com/games/ufho2",
+            "steam": "http://store.steampowered.com/app/348840/",
             "developer": "http://www.tinycolossus.com/"
         },
-        "notes": "Currently on sale at 50% off for $4.99\nStore page: http://www.tinycolossus.com/ufho2/",
+        "notes": "Store page: http://www.tinycolossus.com/ufho2/",
         "extras": false
     },
     {
@@ -31979,6 +32092,56 @@ var games = [
             "developer": "http://www.runestorm.com/"
         },
         "notes": "Store page: http://www.runestorm.com/viscera",
+        "extras": false
+    },
+    {
+        "name": "Void and Meddler - Full Season (Pre-Order)",
+        "url": "voidandmeddler_fullseason/F7Sflkh32",
+        "price": "12",
+        "description": "Pre-order all 3 episodes of Void and Meddler for Windows and Mac. DRM-free + a Steam key!",
+        "developer": "NO cvt",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://no-cvt.tumblr.com/"
+        },
+        "notes": "Store page: http://voidandmeddler.com/#pg-2-1",
+        "extras": false
+    },
+    {
+        "name": "Void and Meddler + Soundtrack (Pre-Order)",
+        "url": "voidandmeddler_soundtrack/GBLSDf3nd",
+        "price": "19",
+        "description": "Pre-order all 3 episodes of Void and Meddler for Windows and Mac, DRM-free + a Steam key! Includes the original soundtrack!",
+        "developer": "NO cvt",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://no-cvt.tumblr.com/"
+        },
+        "notes": "Store page: http://voidandmeddler.com/#pg-2-1",
         "extras": false
     },
     {
