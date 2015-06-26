@@ -27658,32 +27658,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Subnautica: Special Edition",
-        "url": "subnautica/s8eDFJ3sixBs",
-        "price": "35",
-        "description": "Play Subnautica in the earliest stages of development, + get seven DRM-free prototypes, a personalized Hull Plate, and the soundtrack!",
-        "developer": "Unknown Worlds Entertainment",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/264710/",
-            "developer": "http://unknownworlds.com/"
-        },
-        "notes": "Store page: http://subnauticagame.com/",
-        "extras": true
-    },
-    {
         "name": "Sugar Cube: Bittersweet Factory",
         "url": "sugarcubebittersweetfactory",
         "price": "6.99",
