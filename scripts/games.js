@@ -27685,6 +27685,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Streets of Fury EX",
+        "url": "streetsoffury_ex/134rgte6",
+        "price": "9.99",
+        "description": "Get Streets of Fury EX on Steam for Windows!",
+        "developer": "Guard Crush Games G.P.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamersftw.co.uk/streets-of-fury-ex-review/",
+            "steam": "http://store.steampowered.com/app/350910/",
+            "developer": "https://streetsoffury.wordpress.com/"
+        },
+        "notes": "Store page: http://www.streetsoffury.com/",
+        "extras": false
+    },
+    {
         "name": "Strike Vector",
         "url": "strikevector/eiueruihreHBR38",
         "price": "19.99",
