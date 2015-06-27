@@ -22739,6 +22739,32 @@ var games = [
         }
     },
     {
+        "name": "Reflections",
+        "url": "reflections/W9SDflkj23h",
+        "price": "9.99",
+        "description": "Get Reflections now! Cross-platform on Steam!",
+        "developer": "Broken Window Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/352360/",
+            "developer": "http://www.reflectionsgame.com/"
+        },
+        "notes": "Early Access game.\nCurrently on sale at 33% off; regular price is $14.99",
+        "extras": false
+    },
+    {
         "name": "Reflex",
         "url": "turbopixelstudios_reflex/uSLDR783h",
         "price": "9.99",
