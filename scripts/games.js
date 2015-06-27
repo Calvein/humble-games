@@ -8139,6 +8139,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Discouraged Workers (Early Access)",
+        "url": "discouragedworkers/234ter35",
+        "price": "7.99",
+        "description": "Get Discouraged Workers (Early Access), cross-platform on Steam and DRM-free!",
+        "developer": "YGGDRASIL STUDIO",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/371120/",
+            "desura": "http://www.desura.com/games/discouraged-workers",
+            "developer": "https://www.facebook.com/YGGDRASILSTUDIO"
+        },
+        "notes": "Store page: https://yggdrasil-studio.github.io/Discouraged-Workers/#store",
+        "extras": false
+    },
+    {
         "name": "Distance Beta",
         "url": "distance/Dek8Hsu4Ts",
         "price": "15",
