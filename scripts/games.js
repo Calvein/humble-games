@@ -21514,6 +21514,206 @@ var games = [
         "extras": false
     },
     {
+        "name": "Planet Centauri + Beta Access",
+        "url": "planetcentauri_betaaccess/wSdpl32jijs",
+        "price": "14.99",
+        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Beta access - Exclusive HD wallpaper (Pre-Order)",
+        "developer": "Permadeath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://planetcentauri.com/"
+        },
+        "notes": "Store page: http://planetcentauri.com/preorder/",
+        "extras": true
+    },
+    {
+        "name": "Planet Centauri + Prototype/Beta Access",
+        "url": "planetcentauri_prototypebetaaccess/78SDflkj23h",
+        "price": "23",
+        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype (Windows) and Beta access - Exclusive HD wallpaper (Pre-Order)",
+        "developer": "Permadeath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://planetcentauri.com/"
+        },
+        "notes": "Store page: http://planetcentauri.com/preorder/",
+        "extras": true
+    },
+    {
+        "name": "Planet Centauri - Exclusive Pet!",
+        "url": "planetcentauri_exclusivepet/Ddf234sdsE",
+        "price": "30",
+        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype (Windows) and Beta access - Exclusive pet - Exclusive HD wallpaper (Pre-Order)",
+        "developer": "Permadeath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://planetcentauri.com/"
+        },
+        "notes": "Store page: http://planetcentauri.com/preorder/",
+        "extras": true
+    },
+    {
+        "name": "Planet Centauri - Create Your Item!",
+        "url": "planetcentauri_createyouritem/WERy2lkjsh",
+        "price": "130",
+        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype(Windows) and Beta access - Create your item - Exclusive pet (Pre-Order)",
+        "developer": "Permadeath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://planetcentauri.com/"
+        },
+        "notes": "Store page: http://planetcentauri.com/preorder/",
+        "extras": true
+    },
+    {
+        "name": "Planet Centauri - Create Your Weapon!",
+        "url": "planetcentauri_createyourweapon/E8SElk23hs",
+        "price": "215",
+        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype(Windows) and Beta access - Create your item/weapon - Exclusive pet (Pre-Order)",
+        "developer": "Permadeath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://planetcentauri.com/"
+        },
+        "notes": "Store page: http://planetcentauri.com/preorder/",
+        "extras": true
+    },
+    {
+        "name": "Planet Centauri - Create Your Armor!",
+        "url": "planetcentauri_createyourarmor/SDf7238os",
+        "price": "430",
+        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype(Windows) and Beta access - Create your item/weapon/armor - Exclusive pet (Pre-Order)",
+        "developer": "Permadeath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://planetcentauri.com/"
+        },
+        "notes": "Store page: http://planetcentauri.com/preorder/",
+        "extras": true
+    },
+    {
+        "name": "Planet Centauri - Create Your Monster/Pet!",
+        "url": "planetcentauri_createyourmonsterpet/oSDfklj318",
+        "price": "840",
+        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype(Windows) and Beta access - Create your monster or pet - Exclusive pet (Pre-Order)",
+        "developer": "Permadeath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://planetcentauri.com/"
+        },
+        "notes": "Store page: http://planetcentauri.com/preorder/",
+        "extras": true
+    },
+    {
+        "name": "Planet Centauri - Create Your Boss!",
+        "url": "planetcentauri_createyourboss/7SDLfk23",
+        "price": "1,300",
+        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype(Windows) and Beta access - Create your boss - Exclusive pet (Pre-Order)",
+        "developer": "Permadeath",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://planetcentauri.com/"
+        },
+        "notes": "Store page: http://planetcentauri.com/preorder/",
+        "extras": true
+    },
+    {
         "name": "Police Simulator",
         "url": "policesimulator/Mekdowk2",
         "price": "10",
