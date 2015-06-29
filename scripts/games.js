@@ -14557,30 +14557,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Imperial Glory",
-        "url": "imperialglory/Mekdowk2",
-        "price": "6",
-        "description": "Get Imperial Glory instantly!",
-        "developer": "Merge Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://www.mergegames.com/"
-        },
-        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/imperial-glory/"
-    },
-    {
         "name": "In Exilium",
         "url": "inexilium/Qudnawe0r89js",
         "price": "9.99",
@@ -21948,30 +21924,6 @@ var games = [
         },
         "notes": "A minimalistic puzzle game that changes the way you think.",
         "extras": false
-    },
-    {
-        "name": "Praetorians",
-        "url": "praetorians/Mekdowk2",
-        "price": "6",
-        "description": "Get Praetorians instantly!",
-        "developer": "Merge Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "developer": "http://www.mergegames.com/"
-        },
-        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/praetorians/"
     },
     {
         "name": "Primordia",
