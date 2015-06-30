@@ -30059,6 +30059,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Sandbox - Pixel World Builder",
+        "url": "thesandbox_pixelworldbuilder/s87SDHFkjh3",
+        "price": "9.99",
+        "description": "Play God & Create Worlds with Life or Destroy everything with your finger! Craft amazing animated 2D pixel worlds! (Steam)",
+        "developer": "PIXOWL",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.capsulecomputers.com.au/2014/04/the-sandbox-pc-review/",
+            "steam": "http://store.steampowered.com/app/265810/",
+            "developer": "http://www.pixowl.com/"
+        },
+        "notes": "Store page: http://www.thesandboxgame.com/download",
+        "extras": false
+    },
+    {
         "name": "The Sea Will Claim Everything",
         "url": "theseawillclaimeverything/Sedjiwo129dkc",
         "price": "10",
