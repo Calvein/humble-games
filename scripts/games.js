@@ -17737,6 +17737,31 @@ var games = [
         "extras": true
     },
     {
+        "name": "MegaSphere (Pre-order)",
+        "url": "megasphere/32kj98f",
+        "price": "14.99",
+        "description": "Pre-order to get alpha & beta access, as well as the full game on release (Mac & Windows, DRM-free + on Steam)!",
+        "developer": "AKgames",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.antonkudin.me/"
+        },
+        "notes": "Linux version presumable coming soon as the game is listed both on itch.io and on the Humble Store as supporting Linux.\nStore page: http://www.antonkudin.me/megasphere/",
+        "extras": false
+    },
+    {
         "name": "Melody's Escape",
         "url": "melodysescape/nj923nPev",
         "price": "9.99",
