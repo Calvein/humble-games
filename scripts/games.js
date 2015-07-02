@@ -22004,6 +22004,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Prismatica",
+        "url": "prismatica/W9SDf83jh3",
+        "price": "4.99",
+        "description": "Get Prismatica instantly! Available on Windows, Mac and Android, DRM-free!",
+        "developer": "Loomus Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/377500/",
+            "developer": "http://loomus.com/"
+        },
+        "notes": "Store page: http://loomus.com/prismatica/#humblewidget",
+        "extras": false
+    },
+    {
         "name": "Probability 0",
         "url": "probability0/XE0rD4fbwCkb",
         "price": "7",
