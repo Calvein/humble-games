@@ -17385,6 +17385,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "MacGuffin",
+        "url": "macguffin/bLSKJDF23",
+        "price": "2.99",
+        "description": "Pre-order MacGuffin now for Windows and Mac! And DRM-free!",
+        "developer": "Concrete Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://macguffin-game.com/"
+        },
+        "notes": "Store page: http://macguffin-game.com/#humble",
+        "extras": false
+    },
+    {
         "name": "MacGuffin's Curse",
         "url": "macguffinscurse",
         "price": "9.99",
