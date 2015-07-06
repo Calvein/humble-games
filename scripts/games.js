@@ -1719,7 +1719,7 @@ var games = [
         "name": "Apotheon",
         "url": "apotheon/JUEwMIoTCgFx",
         "price": "13.5",
-        "description": "Preorder Apotheon for Steam! Includes a copy of Capsized (DRM-free and Steam key).",
+        "description": "Purchase Apotheon for Steam! (On Windows, DRM-free (coming soon) + Steam key).",
         "developer": "Alientrap Games",
         "platform": {
             "android": false,
@@ -1732,13 +1732,15 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/02/06/apotheon-review/",
+            "steam": "http://store.steampowered.com/app/208750/",
             "developer": "http://www.alientrap.org"
         },
-        "notes": "Currently on sale at 10% off, regular price is $15.\nStore page: http://www.apotheongame.com/#preorderanchor",
-        "extras": true
+        "notes": "Currently on sale at 10% off, regular price is $15.\nStore page: http://www.alientrap.org/games/apotheon",
+        "extras": false
     },
     {
         "name": "Appointment With F.E.A.R.",
