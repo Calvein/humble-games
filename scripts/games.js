@@ -32362,6 +32362,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Vapour: Part 1",
+        "url": "vapour_part1/098fs2324",
+        "price": "9.99",
+        "description": "Get PUMPED For: a DRM-free copy of Vapour: Part 1 + Steam key for Vapour: Part 1 + 2 'Killer' music tracks + 2 'Brutal' desktop backgrounds + 1 'Sick' social media avatar + a \"Thank You\" note from Skobbejak Games!",
+        "developer": "Skobbejak Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/345440/",
+            "developer": "http://www.skobbejakgames.com/"
+        },
+        "notes": "Store page: http://www.skobbejakgames.com/",
+        "extras": false
+    },
+    {
         "name": "Vertical Drop Heroes HD",
         "url": "verticaldropheroeshd/gvenoCMRObeto",
         "price": "6.99",
