@@ -1690,6 +1690,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Pre-Order AntharioN",
+        "url": "antharion/L6SFDg23",
+        "price": "17.99",
+        "description": "Pre-order AntharioN now and get the game for Windows/Mac (DRM-free) during release!",
+        "developer": "Orphic Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/293160/",
+            "developer": "http://orphicsoftware.com/"
+        },
+        "notes": "Store page: http://orphicsoftware.com/pre-order.html",
+        "extras": false
+    },
+    {
         "name": "Apotheon",
         "url": "apotheon/JUEwMIoTCgFx",
         "price": "13.5",
