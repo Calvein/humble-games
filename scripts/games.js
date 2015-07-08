@@ -30748,6 +30748,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "TIMEframe",
+        "url": "timeframe/52fwerw43",
+        "price": "7.99",
+        "description": "Get the game for Windows and Mac on Steam!",
+        "developer": "Random Seed Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/07/08/timeframe-review/",
+            "steam": "http://store.steampowered.com/app/340270/",
+            "developer": "http://randomseedgames.com/"
+        },
+        "notes": "Store page: http://randomseedgames.com/timeframe",
+        "extras": false
+    },
+    {
         "name": "Timespinner - Backer",
         "url": "timespinner_backer/tuSDLfkj2309s",
         "price": "15",
