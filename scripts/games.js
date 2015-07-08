@@ -29043,6 +29043,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "TAKEN",
+        "url": "taken/FF8230i3jS",
+        "price": "10",
+        "description": "Escape from a randomly generated maze while being hunted by a deranged 7-year-old girl. Play with friends - Hunt or be hunted! Includes Early Beta! (Pre-Order)",
+        "developer": "Math Nerd Productions, LLC",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/359160/",
+            "developer": "http://www.mathnerdproductions.com/"
+        },
+        "notes": "This game has been released on Steam for Windows, Mac and Linux. Widget may not be valid anymore. Buy at your own risk.\nStore page: http://takenthegame.com/preorder",
+        "extras": false
+    },
+    {
         "name": "Talisman Prologue",
         "url": "talismanprologuestandardedition/hTHvuxEBSNCy",
         "price": "4.99",
