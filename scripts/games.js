@@ -1586,7 +1586,7 @@ var games = [
         "URL": {
             "developer": "http://www.uncade.com/"
         },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://www.anothercastlethegame.com/",
+        "notes": "This game has been canceled and it will never be completed.\nStore page: http://www.anothercastlethegame.com/",
         "extras": false
     },
     {
@@ -1611,7 +1611,7 @@ var games = [
         "URL": {
             "developer": "http://www.uncade.com/"
         },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://www.anothercastlethegame.com/",
+        "notes": "This game has been canceled and it will never be completed.\nStore page: http://www.anothercastlethegame.com/",
         "extras": false
     },
     {
@@ -1636,7 +1636,7 @@ var games = [
         "URL": {
             "developer": "http://www.uncade.com/"
         },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://www.anothercastlethegame.com/",
+        "notes": "This game has been canceled and it will never be completed.\nStore page: http://www.anothercastlethegame.com/",
         "extras": true
     },
     {
