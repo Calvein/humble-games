@@ -27632,26 +27632,27 @@ var games = [
         "name": "Starship Rubicon",
         "url": "starshiprubicon/YTerlkj2340sas",
         "price": "9.99",
-        "description": "Starship Rubicon is a space shoot-em-up that modernizes the physics of Asteroids combined with elements of FTL. + Steam Key if Greenlit!",
+        "description": "Starship Rubicon is a modern take on the classic space shooter genre. It's a smart and challenging rogue-lite that features a unique control scheme & pixel art.",
         "developer": "Cheerful Ghost",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "desura": "http://www.desura.com/games/starship-rubicon",
+            "steam": "http://store.steampowered.com/app/372030/",
             "developer": "http://cheerfulghost.com/"
         },
-        "notes": "Linux version coming in 2015.\nStore page: http://cheerfulghost.com/game/25575/starship-rubicon",
+        "notes": "Store page: http://cheerfulghost.com/game/25575/starship-rubicon",
         "extras": false
     },
     {
