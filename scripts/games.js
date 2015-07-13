@@ -21211,6 +21211,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Perception",
+        "url": "perceptionperception/23df324",
+        "price": "20",
+        "description": "Pre-order to get the game for Windows on Steam!",
+        "developer": "The Deep End Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.thedeependgames.com/"
+        },
+        "notes": "These pre-orders will count towards the Kickstarter campaign stretch goals, so Mac and Linux versions could eventually become available.\nStore page: http://www.thedeependgames.com/preorders/",
+        "extras": false
+    },
+    {
+        "name": "Perception (Collector's Edition)",
+        "url": "perceptionperception_collectorsedition/23df324",
+        "price": "60",
+        "description": "Pre-order Perception Collector’s Edition to get the following: Perception for Windows on Steam - Physical Collector's Edition copy of Perception for Windows - A hardcover mini art book in full color on high quality paper stock - A digital concept art pack - A Perception digital wallpaper - The game's soundtrack by Jim Bonney, all on a full color printed disc",
+        "developer": "The Deep End Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.thedeependgames.com/"
+        },
+        "notes": "These pre-orders will count towards the Kickstarter campaign stretch goals, so Mac and Linux versions could eventually become available.\nStore page: http://www.thedeependgames.com/preorders/",
+        "extras": true
+    },
+    {
         "name": "Perfection.",
         "url": "perfection/oWCaEqcZ7L0Z",
         "price": "2.99",
