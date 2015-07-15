@@ -4901,6 +4901,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Caves of Qud (Early Access)",
+        "url": "cavesofqud/29fdkj32",
+        "price": "9.99",
+        "description": "Get the game cross-platform on Steam and DRM-free!",
+        "developer": "Freehold Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/333640/",
+            "developer": "http://freeholdgames.com/"
+        },
+        "notes": "Store page: http://freeholdgames.com/",
+        "extras": false
+    },
+    {
         "name": "Centauri Sector (Early Access)",
         "url": "centaurisector/B8sdlfkj23hs",
         "price": "9.99",
