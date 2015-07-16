@@ -28383,6 +28383,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Super Chibi Knight",
+        "url": "superchibiknight/9283shd32",
+        "price": "9.99",
+        "description": "Get the colorful action-RPG, Super Chibi Knight, cross-platform on Steam and DRM-free for Windows and Mac!",
+        "developer": "PestoForce",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegames.com/2015/06/super_chibi_knight_review_-_co.html",
+            "steam": "http://store.steampowered.com/app/283080/",
+            "developer": "http://www.pestoforce.com/"
+        },
+        "notes": "Linux version only available through Steam.\nStore page: http://www.superchibiknight.com/buysck.php",
+        "extras": false
+    },
+    {
         "name": "Super Comboman: Struggles Adventures",
         "url": "supercombomanstrugglesadventures/Suekdow3",
         "price": "14.99",
