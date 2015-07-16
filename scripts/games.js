@@ -5422,12 +5422,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/05/15/chroma-squad-review/",
+            "steam": "http://store.steampowered.com/app/251130/",
             "developer": "http://www.beholdstudios.com.br/"
         },
         "notes": "Store page: http://www.chromasquad.com/",
@@ -5437,7 +5439,7 @@ var games = [
         "name": "Chroma Squad - Beta Tester Edition",
         "url": "chromasquad_newbeta/Cdu8tehu5HDy",
         "price": "25",
-        "description": "Pre-Order Chroma Squad + Early BETA access (Oct/13). Cross platform: Steam Key + DRM-Free.",
+        "description": "Pre-Order Chroma Squad + Early BETA access. Cross platform: Steam Key + DRM-Free.",
         "developer": "Behold Studios",
         "platform": {
             "android": false,
@@ -5447,15 +5449,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/05/15/chroma-squad-review/",
+            "steam": "http://store.steampowered.com/app/251130/",
             "developer": "http://www.beholdstudios.com.br/"
         },
-        "notes": "Store page: http://www.chromasquad.com/",
+        "notes": "This widget is no longer available at the game's website. Buy at your own risk.\nStore page: http://www.chromasquad.com/",
         "extras": true
     },
     {
@@ -5472,15 +5476,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/05/15/chroma-squad-review/",
+            "steam": "http://store.steampowered.com/app/251130/",
             "developer": "http://www.beholdstudios.com.br/"
         },
-        "notes": "Store page: http://www.chromasquad.com/",
+        "notes": "This widget is no longer available at the game's website. Buy at your own risk.\nStore page: http://www.chromasquad.com/",
         "extras": true
     },
     {
