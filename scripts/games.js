@@ -5383,6 +5383,32 @@ var games = [
         }
     },
     {
+        "name": "Choice Chamber",
+        "url": "choicechamber_release/yth234rjd",
+        "price": "9.99",
+        "description": "Choice Chamber is a crowd-sourced action game designed for livestreaming where viewers play along via the chat to change the game in realtime as you play. Players constantly give feedback that changes how the game evolves, from power ups and enemies to obstacles and rule changes. The game world is procedurally generated based on viewer input, wildly changing the difficulty and surprises each time you play.",
+        "developer": "Studio Bean",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/359960/",
+            "developer": "http://twitter.com/onemrbean"
+        },
+        "notes": "Store page: http://choicechamber.com/",
+        "extras": false
+    },
+    {
         "name": "Chroma Squad",
         "url": "chromasquad/Cdu8tehu5HDy",
         "price": "15",
