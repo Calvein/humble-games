@@ -15026,7 +15026,7 @@ var games = [
         "name": "Interstellaria",
         "url": "interstellaria/bLSDkjf23o4r",
         "price": "9.99",
-        "description": "Pre-order Interstellaria now! Get a DRM free copy + Steam key! (Est. Release: March 2015)",
+        "description": "Buy Interstellaria now! Get a DRM free copy + Steam key!",
         "developer": "Cold Rice Games",
         "platform": {
             "android": false,
@@ -15042,9 +15042,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/280360/",
             "developer": "http://coldricegames.com/"
         },
-        "notes": "Store page: http://coldricegames.com/interstellar/",
+        "notes": "The widget no longer appears in the game's website, but it's still allegedly functional as it can also be purchased at the Humble Store.",
         "extras": false
     },
     {
