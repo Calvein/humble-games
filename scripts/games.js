@@ -10433,6 +10433,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Evoland 2",
+        "url": "evoland2/7SDFk323",
+        "price": "17.99",
+        "description": "Pre-order Evoland 2 now! On Windows, DRM-free! Includes the art book (PDF)!",
+        "developer": "Shiro Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://shirogames.com/"
+        },
+        "notes": "Pre-order at 10% off; regular price is $19.99.\nRelease date: 25 August 2015, with Mac and Linux versions coming at a later date.\nStore page: http://www.evoland2.com/#pre",
+        "extras": false
+    },
+    {
         "name": "Expander",
         "url": "expander/Asu4Feus23ds",
         "price": "2.49",
