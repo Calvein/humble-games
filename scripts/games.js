@@ -392,6 +392,81 @@ var games = [
         "extras": true
     },
     {
+        "name": "A Hole New World - The Game Supporter",
+        "url": "aholenewworld_standard/14fs13",
+        "price": "12",
+        "description": "Pre-order A Hole New World now! When it's released you will receive: · The game DRM-free and on Steam for Win/Mac/Linux · A wallpaper + PDF instruction booklet",
+        "developer": "Mad Gear Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://madgeargames.com/"
+        },
+        "notes": "Store page: http://madgeargames.com/aholenewworld/paypal.html",
+        "extras": true
+    },
+    {
+        "name": "A Hole New World - You want it now!",
+        "url": "aholenewworld_tier2/2390jee",
+        "price": "25",
+        "description": "Pre-order A Hole New World now! When it's released you will receive: · The game DRM-free and on Steam for Win/Mac/Linux · A wallpaper + PDF instruction booklet · Your name in the credits · An exclusive in-game Special Attack · Beta and forum access",
+        "developer": "Mad Gear Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://madgeargames.com/"
+        },
+        "notes": "Store page: http://madgeargames.com/aholenewworld/paypal.html",
+        "extras": true
+    },
+    {
+        "name": "A Hole New World - Music Addict",
+        "url": "aholenewworld_tier3/14gwsd32",
+        "price": "30",
+        "description": "Pre-order A Hole New World now! When it's released you will receive: · The game DRM-free and on Steam for Win/Mac/Linux · A wallpaper + PDF instruction booklet · Your name in the credits · An exclusive in-game Special Attack · Beta and forum access · Diigital copies of the NES and SNES OSTs · A digital copy of the orchestral OST by Zack Parrish if the stretch goal is met on Kickstarter",
+        "developer": "Mad Gear Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://madgeargames.com/"
+        },
+        "notes": "Store page: http://madgeargames.com/aholenewworld/paypal.html",
+        "extras": true
+    },
+    {
         "name": "A Slow Year",
         "url": "aslowyear/aSldkwo1",
         "price": "4.99",
