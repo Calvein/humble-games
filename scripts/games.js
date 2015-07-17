@@ -101,6 +101,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "60 Seconds!",
+        "url": "60seconds/15sg32",
+        "price": "9.99",
+        "description": "Get 60 Seconds! for Windows and Mac on Steam!",
+        "developer": "Robot Gentleman Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://indiegamespolska.com/one-minute-until-fallout-60-seconds-review/",
+            "steam": "http://store.steampowered.com/app/368360/",
+            "developer": "http://robotgentleman.com/"
+        },
+        "notes": "Store page: http://robotgentleman.com/60seconds/",
+        "extras": false
+    },
+    {
         "name": "6180 the moon",
         "url": "6180themoon/iaopvase",
         "price": "3.99",
