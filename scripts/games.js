@@ -20359,13 +20359,13 @@ var games = [
         "URL": {
             "developer": "http://coffeepoweredmachine.com/"
         },
-        "notes": "Store page: http://coffeepoweredmachine.com/okhlos/#preorder",
+        "notes": "Pre-order at 33% off; regular price is $14.99.\nStore page: http://coffeepoweredmachine.com/okhlos/#preorder",
         "extras": false
     },
     {
         "name": "Okhlos: Orpheus Edition",
         "url": "okhlos_orpheusedition/bGHlSDfd2",
-        "price": "14.99",
+        "price": "13.33",
         "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, access to the closed Beta when available, plus a copy of the original soundtrack by A Shell in the Pit!",
         "developer": "Coffee Powered Machine",
         "platform": {
@@ -20384,7 +20384,7 @@ var games = [
         "URL": {
             "developer": "http://coffeepoweredmachine.com/"
         },
-        "notes": "Store page: http://coffeepoweredmachine.com/okhlos/#preorder",
+        "notes": "Pre-order at 33% off; regular price is $19.99.\nStore page: http://coffeepoweredmachine.com/okhlos/#preorder",
         "extras": false
     },
     {
