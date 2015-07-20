@@ -20338,6 +20338,106 @@ var games = [
         }
     },
     {
+        "name": "Okhlos: Digital Edition",
+        "url": "okhlos_digitaledition/BYSDFh23",
+        "price": "9.99",
+        "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, plus access to the closed Beta when available!",
+        "developer": "Coffee Powered Machine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://coffeepoweredmachine.com/"
+        },
+        "notes": "Store page: http://coffeepoweredmachine.com/okhlos/#preorder",
+        "extras": false
+    },
+    {
+        "name": "Okhlos: Orpheus Edition",
+        "url": "okhlos_orpheusedition/bGHlSDfd2",
+        "price": "14.99",
+        "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, access to the closed Beta when available, plus a copy of the original soundtrack by A Shell in the Pit!",
+        "developer": "Coffee Powered Machine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://coffeepoweredmachine.com/"
+        },
+        "notes": "Store page: http://coffeepoweredmachine.com/okhlos/#preorder",
+        "extras": false
+    },
+    {
+        "name": "Okhlos: That's me! Edition",
+        "url": "okhlos_thatsmeedition/ySFDlkhr34",
+        "price": "99.99",
+        "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, access to the closed Beta when available, a copy of the original soundtrack by A Shell in the Pit, and you get to be a unit in the mob!",
+        "developer": "Coffee Powered Machine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://coffeepoweredmachine.com/"
+        },
+        "notes": "Store page: http://coffeepoweredmachine.com/okhlos/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Okhlos: Socrates Edition",
+        "url": "okhlos_socratesedition/vcSFDj23f",
+        "price": "149.99",
+        "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, access to the closed Beta when available, a copy of the original soundtrack by A Shell in the Pit, and you get to be one of the mob's leaders!",
+        "developer": "Coffee Powered Machine",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://coffeepoweredmachine.com/"
+        },
+        "notes": "Store page: http://coffeepoweredmachine.com/okhlos/#preorder",
+        "extras": true
+    },
+    {
         "name": "Olympia Rising",
         "url": "olympiarising/7SLDK23hss",
         "price": "4.99",
