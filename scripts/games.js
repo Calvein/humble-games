@@ -15375,6 +15375,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "It came from space and ate our brains",
+        "url": "itcamefromspaceandateourbrains/Iskdlwk1ldk",
+        "price": "9.99",
+        "description": "Get a Steam key of It came from space and ate our brains instantly for Windows and Mac!",
+        "developer": "Triangle Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.indiegamebundles.com/review-it-came-from-space-and-ate-our-brains/",
+            "steam": "http://store.steampowered.com/app/342620/",
+            "developer": "http://www.triangle-studios.com/"
+        },
+        "notes": "Linux version not available on Steam.\nStore page: http://itcamefromspaceandateourbrains.com/#buy-2",
+        "extras": false
+    },
+    {
         "name": "Ittle Dew",
         "url": "ittledew/Ldu7Tdg8Hwy",
         "price": "9.99",
