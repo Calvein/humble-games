@@ -17613,16 +17613,43 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://www.gamezebo.com/games/lyne/review",
+            "steam": "http://store.steampowered.com/app/266010/",
             "developer": "http://www.thomasbowker.com/"
         },
         "notes": "Store page: http://www.lynegame.com/",
+        "extras": false
+    },
+    {
+        "name": "Macabre",
+        "url": "ruin/5SFDg23h",
+        "price": "2.99",
+        "description": "This package includes the DRM-free version of the game for Windows, Mac and Linux. It also will grant you a Steam key for Windows and Mac!",
+        "developer": "MOCBJ Software",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/384950/",
+            "developer": "http://mocbjsoftware.com/"
+        },
+        "notes": "Store page: http://mocbjsoftware.com/macabre/",
         "extras": false
     },
     {
