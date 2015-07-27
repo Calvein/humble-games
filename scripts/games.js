@@ -568,7 +568,7 @@ var games = [
         "extras": true
     },
     {
-        "name": "A Hole New World - The Tile Artist
+        "name": "A Hole New World - The Tile Artist",
         "url": "aholenewworld_thetileartist/90df12",
         "price": "50",
         "description": "Pre-order A Hole New World! When it's released, you will receive: · An A Hole New World wallpaper · A PDF instruction manual · The game DRM-free and on Steam for Win/Mac/Linux · Your name in the game's credits · An exclusive In-game special attack · One downloadable copy of the game on a platform of their choice (WiiU / XBOX ONE / PSVita / PS4) if the specific stretch goal on Kickstarter is reached · A Hole New World beta and forum access · Digital copies of the NES and SNES OSTs · A digital copy of the orchestral OST by Zack Parrish if the stretch goal is met on Kickstarter · A chance to create two 16x16 pixel tiles for the special level (tiles subject to developers' approval)",
