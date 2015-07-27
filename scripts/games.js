@@ -18116,16 +18116,23 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
-        }
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.ign.com/articles/2014/04/25/mercenary-kings-review",
+            "steam": "http://store.steampowered.com/app/218820/",
+            "developer": "http://tributegames.com/"
+        },
+        "notes": "Store page: http://mercenarykings.com/buy.php",
+        "extras": false
     },
     {
         "name": "Metal Dead",
