@@ -929,6 +929,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Adventure in the Tower of Flight",
+        "url": "adventureinthetowerofflight/t5sdfh3E",
+        "price": "14.99",
+        "description": "Purchase Adventure in the Tower of Flight now and get a Steam key for Windows, Mac and Linux!",
+        "developer": "Pixel Barrage Entertainment, Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "https://www.gamingonlinux.com/articles/adventure-in-the-tower-of-flight-available-my-thoughts.5645",
+            "steam": "http://store.steampowered.com/app/368830/",
+            "developer": "http://www.pixelbarrage.com/"
+        },
+        "notes": "Store page: http://www.pixelbarrage.com/Game-TowerOfFlight.php",
+        "extras": false
+    },
+    {
         "name": "Adventurezator",
         "url": "adventurezator/dksoHsowk23kat",
         "price": "13",
