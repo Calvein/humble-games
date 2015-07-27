@@ -29543,7 +29543,7 @@ var games = [
         "name": "Survivor Squad: Gauntlets",
         "url": "survivorsquad_gauntlets/NSdfyh238Sd",
         "price": "8.99",
-        "description": "Get Survivor Squad: Gauntlets and redeem the Early Alpha Access on Steam now! (Windows Only)",
+        "description": "Get Survivor Squad: Gauntlets and redeem it on Steam now! (Windows/Mac/Linux)",
         "developer": "Endless Loop Studios",
         "platform": {
             "android": false,
@@ -29559,6 +29559,7 @@ var games = [
             "drm-free": false
         },
         "URL": {
+            "desura": "http://www.desura.com/games/survivor-squad-gauntlets",
             "steam": "http://store.steampowered.com/app/331720",
             "developer": "http://www.endlessloopstudios.com/"
         },
