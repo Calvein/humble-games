@@ -22715,6 +22715,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Pulsen",
+        "url": "pulsen/XfSDFg23",
+        "price": "16.99",
+        "description": "Available for Windows on Steam! Includes 50 songs and a completely new UI along with Steam integration!",
+        "developer": "4-Panel Footprint",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/340960/",
+            "developer": "http://pulsengame.com/"
+        },
+        "notes": "Mac version in development; Linux users must use WINE.\nStore page: http://pulsengame.com/download",
+        "extras": false
+    },
+    {
         "name": "Pushcat",
         "url": "pushcat/Pslek2ldkso",
         "price": "4",
