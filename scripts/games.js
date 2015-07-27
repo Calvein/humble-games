@@ -32271,7 +32271,7 @@ var games = [
         "name": "Trine Enhanced Edition",
         "url": "trine",
         "price": "14.99",
-        "description": "Get Trine Enhanced Edition instantly! DRM free for Windows + soundtrack. Mac and Linux coming soon!",
+        "description": "Get Trine Enhanced Edition instantly! DRM-free for Linux, Mac & Windows + soundtrack. Includes a Steam key.",
         "developer": "Frozenbyte",
         "platform": {
             "android": false,
@@ -32281,7 +32281,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
