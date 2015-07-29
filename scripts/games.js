@@ -11908,6 +11908,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Galacide",
+        "url": "galacide/1lsfslf98",
+        "price": "9.99",
+        "description": "Get Galacide on Windows via Steam!",
+        "developer": "Puny Human",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/356790/",
+            "developer": "http://punyhumangames.com/"
+        },
+        "notes": "Store page: http://galaci.de/play-now/",
+        "extras": false
+    },
+    {
         "name": "Galactic Princess",
         "url": "galacticprincess/vbuhubtubuirNN332",
         "price": "15",
