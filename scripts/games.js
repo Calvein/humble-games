@@ -23983,15 +23983,15 @@ var games = [
         "extras": false
     },
     {
-        "name": "Retro City Rampage",
+        "name": "Retro City Rampage DX (Steam + DRM-Free)",
         "url": "retrocityrampagesteam",
         "price": "9.99",
-        "description": "Purchase Retro City Rampage and get it on Windows, DRM-free and on Steam!",
+        "description": "Includes DRM-free and Steam versions for both PC and Mac. Also Includes developer direct digital bonuses.",
         "developer": "Vblank Entertainment",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -24000,18 +24000,24 @@ var games = [
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/204630/",
+            "developer": "http://www.vblank.com/"
+        },
+        "notes": "Store page: http://www.retrocityrampage.com/store.php#buygame",
+        "extras": true
     },
     {
-        "name": "Retro City Rampage (GOG)",
+        "name": "Retro City Rampage DX (GOG + DRM-Free)",
         "url": "retrocityrampagegog",
         "price": "9.99",
-        "description": "Purchase Retro City Rampage and get it on Windows, DRM-free and on GOG!",
+        "description": "Includes DRM-free and GOG versions for both PC and Mac. Also includes developer direct digital bonuses.",
         "developer": "Vblank Entertainment",
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
@@ -24020,7 +24026,13 @@ var games = [
             "desura": false,
             "gog": true,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/204630/",
+            "developer": "http://www.vblank.com/"
+        },
+        "notes": "Store page: http://www.retrocityrampage.com/store.php#buygame",
+        "extras": true
     },
     {
         "name": "Retro Game Crunch",
