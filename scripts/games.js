@@ -2072,24 +2072,25 @@ var games = [
     {
         "name": "Another Star",
         "url": "anotherstar/jsadfnjnsdfHJ24",
-        "price": "10",
-        "description": "Buy Another Star now and get it DRM-free instantly!",
+        "price": "9.99",
+        "description": "Buy Another Star now and get it DRM-free instantly! Also includes a Steam key!",
         "developer": "Vision Riders",
         "platform": {
                 "android": false,
                 "linux": true,
                 "windows": true,
-                "mac": false,
+                "mac": true,
                 "audio": false
         },
         "drm": {
-                "steam": false,
+                "steam": true,
                 "desura": false,
                 "gog": false,
                 "drm-free": true
         },
         "URL": {
                 "desura": "http://www.desura.com/games/another-star",
+                "steam": "http://store.steampowered.com/app/358030/",
                 "developer": "http://www.visionriders.com/"
         },
         "notes": "Store page: http://visionriders.com/anotherstar/buy.html",
