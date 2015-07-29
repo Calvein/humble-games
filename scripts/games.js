@@ -1177,6 +1177,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Absolut Drift",
+        "url": "absolutedrift/F7DSFlk3j",
+        "price": "9.99",
+        "description": "Pre-order Absolute Drift to receive a Steam key (cross-platform) on release!",
+        "developer": "Funselektor Labs",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/320140/",
+            "developer": "http://absolutedrift.com/"
+        },
+        "notes": "Store page: http://absolutedrift.com/#contact",
+        "extras": false
+    },
+    {
         "name": "Aces Wild: Manic Brawling Action",
         "url": "aceswild/Adh87Yahbe",
         "price": "9.99",
