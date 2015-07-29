@@ -30251,6 +30251,56 @@ var games = [
         }
     },
     {
+        "name": "The Consuming Shadow",
+        "url": "theconsumingshadow/23kjsd08",
+        "price": "9.99",
+        "description": "Get The Consuming Shadow for Windows, DRM-free!",
+        "developer": "Yahtzee Croshaw",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://fullyramblomatic-yahtzee.blogspot.com/"
+        },
+        "notes": "Store page: http://theconsumingshadow.com/",
+        "extras": false
+    },
+    {
+        "name": "The Consuming Shadow: Special Edition",
+        "url": "theconsumingshadow_specialedition/6SDFj234",
+        "price": "16.99",
+        "description": "Get The Consuming Shadow for Windows, DRM-free! This edition also includes the eBooks for Mogworld and Jam!",
+        "developer": "Yahtzee Croshaw",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://fullyramblomatic-yahtzee.blogspot.com/"
+        },
+        "notes": "Store page: http://theconsumingshadow.com/",
+        "extras": true
+    },
+    {
         "name": "The Counting Kingdom",
         "url": "thecountingkingdom/YTlkajdf23o11q",
         "price": "9.99",
