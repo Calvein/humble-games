@@ -33421,6 +33421,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "VolChaos",
+        "url": "volchaos/7SDFLkh23",
+        "price": "1.99",
+        "description": "VolChaos is an old-school platformer. Navigate volcanoes in search of gems. Will you become rich? You will be lucky to survive. (Windows on Desura)",
+        "developer": "Fun Infused Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/volchaos",
+            "steam": "http://store.steampowered.com/app/354030/",
+            "developer": "http://www.funinfused.com/"
+        },
+        "notes": "Store page: http://www.funinfused.com/Store.aspx",
+        "extras": false
+    },
+    {
         "name": "Volgarr The Viking",
         "url": "volgarrtheviking/Hl5o25SJrwbh",
         "price": "9.99",
