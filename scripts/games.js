@@ -7500,6 +7500,32 @@ var games = [
         "extras": true
     },
     {
+        "name": "Cursed Sight",
+        "url": "cursedsight/89ds12",
+        "price": "7",
+        "description": "Get the game cross-platform and DRM-free! Being able to control fate would be a blessing for many. To Miyon, it is her greatest curse. East and West Taria are in conflict, and Miyon's power will be the most valuable weapon. Meanwhile, Gai has been sold by his family into Miyon's temple. Will the two save or destroy one another?",
+        "developer": "InvertMouse",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/360550",
+            "developer": "http://invertmouse.com/"
+        },
+        "notes": "Store page: http://cursedsight.invertmouse.com/",
+        "extras": false
+    },
+    {
         "name": "Cute Things Dying Violently",
         "url": "cutethingsdyingviolently/Ckdow1k",
         "price": "2.99",
