@@ -27803,6 +27803,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Spider: Rite of the Shrouded Moon (Pre-order)",
+        "url": "spider_riteoftheshroudedmoon/465ffdw2",
+        "price": "12.99",
+        "description": "Pre-order to get the game cross-platform, DRM-free and on Steam!",
+        "developer": "Tiger Style",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/278420/",
+            "developer": "http://www.tigerstylegames.com/"
+        },
+        "notes": "Despite what the widget title and description say, this game has been already released.\nStore page: http://www.shroudedmoon.com/Humble.html",
+        "extras": false
+    },
+    {
         "name": "SPINTIRES",
         "url": "spintires/msiBD93jDkssa",
         "price": "29.99",
