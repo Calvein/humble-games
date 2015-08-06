@@ -17289,7 +17289,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": true
         },
@@ -17304,7 +17304,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/328730/",
             "developer": "http://www.baconbanditgames.com/"
         },
-        "notes": "Store page: http://www.letterquestgame.com/",
+        "notes": "Linux version only available through Steam.\nStore page: http://www.letterquestgame.com/",
         "extras": true
     },
     {
@@ -17316,7 +17316,7 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": true
         },
@@ -17331,7 +17331,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/328730/",
             "developer": "http://www.baconbanditgames.com/"
         },
-        "notes": "Store page: http://www.letterquestgame.com/#supersupporteredition",
+        "notes": "Linux version only available through Steam.\nStore page: http://www.letterquestgame.com/#supersupporteredition",
         "extras": true
     },
     {
