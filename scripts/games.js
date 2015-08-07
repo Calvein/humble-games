@@ -21169,6 +21169,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Osteya [Pre-Order]",
+        "url": "osteya/5SDfg234",
+        "price": "3.99",
+        "description": "Pre-order the DRM-free alpha build (24 levels) now at a discounted price and also receive a Steam key when Osteya is released on Steam!",
+        "developer": "MetalBear",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://metalbear.ru/"
+        },
+        "notes": "Store page: http://metalbear.ru/preorder/",
+        "extras": false
+    },
+    {
         "name": "OTTTD",
         "url": "otttd/fFSdl234rsla",
         "price": "9.99",
