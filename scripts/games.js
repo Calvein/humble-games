@@ -8450,6 +8450,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Demon Hearts",
+        "url": "demonhearts/32kj98",
+        "price": "8.99",
+        "description": "Get Demon Hearts for Windows on Steam!",
+        "developer": "Jon Harwood Creations",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/367350/",
+            "developer": "https://twitter.com/JonHarwoodDev"
+        },
+        "notes": "Store page: http://www.demonhearts.com/",
+        "extras": false
+    },
+    {
         "name": "Depth",
         "url": "depth/HUdfo23Hi",
         "price": "24.99",
