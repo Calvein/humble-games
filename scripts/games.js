@@ -15084,7 +15084,7 @@ var games = [
         "name": "Icebound",
         "url": "icebound/Isldkw10dk",
         "price": "14.99",
-        "description": "Buy Icebound now! Download the game for PC, Mac and Linux. Comes with Desura Key.",
+        "description": "Buy Icebound now! Download the game for PC, Mac and Linux. Includes a Desura and Steam key.",
         "developer": "Fastermind Games",
         "platform": {
             "android": false,
@@ -15094,13 +15094,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.hardcoregamer.com/2014/10/19/review-icebound/112543/",
             "desura": "http://www.desura.com/games/icebound",
+            "steam": "http://store.steampowered.com/app/334260/",
             "developer": "http://www.fastermind.net/"
         },
         "notes": "Store page: http://iceboundgame.com/",
