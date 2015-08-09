@@ -22653,6 +22653,81 @@ var games = [
         "extras": true
     },
     {
+        "name": "Pocket Space Empire (Pre-order)",
+        "url": "pocketspaceempire/09fd32",
+        "price": "10",
+        "description": "Pre-order to get Pocket Space Empire for Windows on Steam!",
+        "developer": "Silver Lemur Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.silverlemur.com/"
+        },
+        "notes": "Store page: http://www.mergegames.com/police-simulator/",
+        "extras": false
+    },
+    {
+        "name": "Pocket Space Empire (Early Access)",
+        "url": "pocketspaceempire_earlyaccess/32ok98",
+        "price": "25",
+        "description": "Get early access to Pocket Space Empire for Windows, DRM-free (Steam access upon release)!\nBe sure to join our Steam group and give feedback & comments!",
+        "developer": "Silver Lemur Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.silverlemur.com/"
+        },
+        "notes": "Store page: http://www.mergegames.com/police-simulator/",
+        "extras": false
+    },
+    {
+        "name": "Pocket Space Empire (Early Access) + All Expansions",
+        "url": "pocketspaceempire_fullrelease/3kjl98",
+        "price": "50",
+        "description": "Get early access to Pocket Space Empire DRM-free for Windows, as well as all future updates and expansions!\nBe sure to join our Steam group and give feedback & comments!\nNote: Expansions will likely be Steam-exclusive.",
+        "developer": "Silver Lemur Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.silverlemur.com/"
+        },
+        "notes": "Store page: http://www.mergegames.com/police-simulator/",
+        "extras": true
+    },
+    {
         "name": "Police Simulator",
         "url": "policesimulator/Mekdowk2",
         "price": "10",
