@@ -8922,6 +8922,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Don't Be Patchman",
+        "url": "dontbepatchman/7SDFlkh23js",
+        "price": "11",
+        "description": "Pre-order Don't Be Patchman and help fund extra features in the game! Cross-platform, DRM-free and on Steam!",
+        "developer": "Naturally Intelligent",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/378410/",
+            "developer": "http://www.naturallyintelligent.com/"
+        },
+        "notes": "Store page: http://www.dontbepatchman.com/purchase/",
+        "extras": false
+    },
+    {
+        "name": "Don't Be Patchman (Early Alpha)",
+        "url": "dontbepatchman_earlyalpha/8SDFLkj23",
+        "price": "55",
+        "description": "Pre-order & get the Earliest Alpha Access, Beta Access, Early Demo, Loyal Follower, Name in Credits, & Spy Pack! Cross-platform, DRM-free & on Steam!",
+        "developer": "Naturally Intelligent",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/378410/",
+            "developer": "http://www.naturallyintelligent.com/"
+        },
+        "notes": "Early Access version is Linux-only for now.\nStore page: http://www.dontbepatchman.com/purchase/",
+        "extras": true
+    },
+    {
         "name": "Don't Move",
         "url": "dontmove/Dkwodk4",
         "price": "1",
