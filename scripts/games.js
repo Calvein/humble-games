@@ -12637,6 +12637,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gathering Sky",
+        "url": "gatheringsky/e32ds",
+        "price": "4.99",
+        "description": "GET GAME NAO!\n(DRM-free for Mac, Windows, Linux, and Android).",
+        "developer": "A Stranger Gravity",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/356250/",
+            "developer": "http://astrangergravity.com/"
+        },
+        "notes": "Store page: http://gathering-sky.com/",
+        "extras": false
+    },
+    {
         "name": "Gemini Rue",
         "url": "geminirue/Bkdkwodk1",
         "price": "9.99",
