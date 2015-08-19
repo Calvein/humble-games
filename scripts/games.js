@@ -31455,6 +31455,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Magic Circle",
+        "url": "themagiccircle/yTsdfh23",
+        "price": "19.99",
+        "description": "The Magic Circle is provided via a Steam key. For key redemption, a free Steam account is required.",
+        "developer": "Question",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/07/10/the-magic-circle-review/",
+            "steam": "http://store.steampowered.com/app/323380/",
+            "developer": "http://www.questiongames.com/"
+        },
+        "notes": "Store page: http://www.questiongames.com/games/#page",
+        "extras": false
+    },
+    {
         "name": "The Maker's Eden",
         "url": "themakersedenact1/Edkso19sls",
         "price": "8.99",
