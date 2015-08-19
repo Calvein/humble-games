@@ -1597,6 +1597,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Airscape: The Fall of Gravity",
+        "url": "airscape_thefallofgravity/25gd24",
+        "price": "9.99",
+        "description": "Get Airscape: The Fall of Gravity cross-platform on Steam and DRM-free!",
+        "developer": "Cross-Product",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.lazygamer.net/genre/platforming/airscape-the-fall-of-gravity-review-octopus-prime/",
+            "steam": "http://store.steampowered.com/app/317250/",
+            "developer": "http://airscapegame.com/press/index.php"
+        },
+        "notes": "Store page: http://www.airscapegame.com/index.html#demo",
+        "extras": false
+    },
+    {
         "name": "Airships Early Access",
         "url": "airships_earlyaccess/4r89NJ",
         "price": "9.99",
