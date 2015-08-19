@@ -7579,6 +7579,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Curses 'N Chaos",
+        "url": "cursesnchaos/mHSDFh3",
+        "price": "9.99",
+        "description": "Pre-order Curses 'N Chaos now! Get it on Steam (for Windows/Mac) when it releases this summer!",
+        "developer": "Tribute Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "https://www.thesixthaxis.com/2015/08/18/curses-n-chaos-review/",
+            "steam": "http://store.steampowered.com/app/307620/",
+            "developer": "http://tributegames.com/"
+        },
+        "notes": "The game has been already released.\nStore page: http://cursesnchaos.com/",
+        "extras": false
+    },
+    {
         "name": "Cyto",
         "url": "cyto/NAdlkfj3120js",
         "price": "6",
