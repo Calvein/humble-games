@@ -31092,6 +31092,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Flock",
+        "url": "theflock",
+        "price": "16.99",
+        "description": "Pre-order The Flock for Windows on Steam and receive a buddy-key of the game when it's released to give to a friend!\nThe Flock will be released on August 21, 2015.",
+        "developer": "Vogelsap",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/290490/",
+            "developer": "http://www.vogelsap.com/"
+        },
+        "notes": "Store page: http://www.vogelsap.com/theflock/#floatbreaker",
+        "extras": true
+    },
+    {
         "name": "The Floor is Jelly",
         "url": "thefloorisjelly/Tkdowk4",
         "price": "9.99",
