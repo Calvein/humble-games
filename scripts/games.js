@@ -27633,6 +27633,84 @@ var games = [
         "extras": true
     },
     {
+        "name": "Songbringer (Pre-order)",
+        "url": "songbringer/39kjf390",
+        "price": "16",
+        "description": "Pre-order to get Songbringer on Steam and DRM-free for Windows, Mac and Linux. Includes the original soundtrack and honorary backer status!",
+        "developer": "http://wizardfu.com",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/367080/",
+            "developer": "http://wizardfu.com/"
+        },
+        "notes": "Store page: http://songbringer.com/preorder",
+        "extras": true
+    },
+    {
+        "name": "Songbringer - $32 (Pre-order)",
+        "url": "songbringer_tier1/23fd4",
+        "price": "32",
+        "description": "Get Songbringer on Steam and DRM-free. Includes the soundtrack, PDF map and access to the second beta!",
+        "developer": "Wizard Fu, Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/367080/",
+            "developer": "http://wizardfu.com/"
+        },
+        "notes": "Store page: http://songbringer.com/preorder",
+        "extras": true
+    },
+    {
+        "name": "Songbringer - $64 (Pre-order)",
+        "url": "songbringer_tier2/23fd4",
+        "price": "64",
+        "description": "Get Songbringer on Steam and DRM-free. Includes the soundtrack, PDF map, elite badge and access to the first beta!",
+        "developer": "Wizard Fu, Inc.",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/367080/",
+            "developer": "http://wizardfu.com/"
+        },
+        "notes": "Store page: http://songbringer.com/preorder",
+        "extras": true
+    },
+    {
         "name": "Soul Axiom",
         "url": "soulaxiom/Gljksdfh2s23",
         "price": "19.99",
