@@ -6174,6 +6174,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "CO-OP: Decrypted",
+        "url": "coop_decrypted/F7SDFlkj23",
+        "price": "9.99",
+        "description": "CO-OP is a 2.5D puzzle-platformer! You control 2 robots; R3D, who absorbs light sources around him & BLU3 who explodes stuff. Cross-platfrom on Steam!",
+        "developer": "Pixelz Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/315130/",
+            "developer": "http://www.pixelzgames.com/"
+        },
+        "notes": "Store page: http://www.coopthegame.com/#!purchase/c1gpl",
+        "extras": false
+    },
+    {
         "name": "CoBots",
         "url": "cobots/Ckdkso1kslak",
         "price": "2.99",
