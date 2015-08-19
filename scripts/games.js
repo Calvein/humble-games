@@ -30252,6 +30252,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "Sylvio",
+        "url": "sylvio/yVSDfb22",
+        "price": "12.99",
+        "description": "Sylvio is provided via Steam key and DRM-free for Mac and Windows. For key redemption, a free Steam account is required to play.",
+        "developer": "Apostrophe",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/06/09/sylvio-review-horror/",
+            "steam": "http://store.steampowered.com/app/362860/",
+            "developer": "http://www.sylviogame.com/"
+        },
+        "notes": "Regional pricing: £9.99/€12,99.\nStore page: http://www.sylviogame.com/news",
+        "extras": false
+    },
+    {
+        "name": "Sylvio (Soundtrack)",
+        "url": "sylvio_soundtrack/bSdfk324",
+        "price": "4.99",
+        "description": "Get the Sylvio soundtrack now in MP3 format!",
+        "developer": "Apostrophe",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2015/06/09/sylvio-review-horror/",
+            "steam": "http://store.steampowered.com/app/362860/",
+            "developer": "http://www.sylviogame.com/"
+        },
+        "notes": "Store page: http://www.sylviogame.com/news",
+        "extras": false
+    },
+    {
         "name": "Sym",
         "url": "sym/Skdow1kdl0",
         "price": "2.99",
