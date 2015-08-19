@@ -26930,6 +26930,58 @@ var games = [
         "extras": true
     },
     {
+        "name": "Shu's Garden",
+        "url": "shusgarden_standalone/98h23",
+        "price": "4.99",
+        "description": "Explore and experiment in this space-garden full of friends, foliage, and fun.\n\nAvailable for Android, Windows, and Mac, DRM-free and on Steam!",
+        "developer": "Crafted Reveries",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/393350/",
+            "developer": "http://jasonrtbond.ca/"
+        },
+        "notes": "http://shusgarden.ca/",
+        "extras": false
+    },
+    {
+        "name": "Shu's Garden + Soundtrack",
+        "url": "shusgarden/6STDfh34",
+        "price": "5.99",
+        "description": "Explore and experiment in this space-garden full of friends, foliage, and fun.\n\nAvailable for Android, Windows, and Mac, DRM-free and on Steam!\nIncludes the soundtrack (in both MP3 and FLAC formatting)!",
+        "developer": "Crafted Reveries",
+        "platform": {
+            "android": true,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/393350/",
+            "developer": "http://jasonrtbond.ca/"
+        },
+        "notes": "http://shusgarden.ca/",
+        "extras": false
+    },
+    {
         "name": "Shufflepuck Cantina Deluxe",
         "url": "shufflepuckcantinadeluxe/Sdlkwogbhu4",
         "price": "9.99",
