@@ -17978,6 +17978,32 @@ var games = [
         }
     },
     {
+        "name": "Lovers in a Dangerous Spacetime (Pre-order)",
+        "url": "loversinadangerousspacetime/9SDFh234",
+        "price": "14.99",
+        "description": "Pre-order Lovers in a Dangerous Spacetime now! Available cross-platform, DRM-free and on Steam!",
+        "developer": "Asteroid Base",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/252110/",
+            "developer": "http://www.asteroidbase.com/"
+        },
+        "notes": "Store page: http://www.loversinadangerousspacetime.com/#buy-the-game",
+        "extras": false
+    },
+    {
         "name": "Low Light Combat (benefit Camphill)",
         "url": "lowlightcombatcamphillca",
         "price": "5",
