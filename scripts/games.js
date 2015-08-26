@@ -14210,6 +14210,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Halfway",
+        "url": "halfway/4DJKHf239jska",
+        "price": "12.99",
+        "description": "Purchase now for Windows, Mac and Linux!",
+        "developer": "Robotality",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/08/01/halfway-review/",
+            "steam": "http://store.steampowered.com/app/253150/",
+            "developer": "http://robotality.com/"
+        },
+        "notes": "Store page: http://robotality.com/blog/buy-halfway/",
+        "extras": false
+    },
+    {
         "name": "Hammerwatch",
         "url": "hammerwatch/Ths7GweR9csa",
         "price": "7.99",
