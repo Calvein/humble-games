@@ -9893,6 +9893,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Duskers",
+        "url": "duskers/zDFjs93lsiehs",
+        "price": "20",
+        "description": "Buy Duskers now and get instant access to the Alpha on Steam (Windows only). Mac & Linux will hopefully come for Beta!",
+        "developer": "Misfits Attic",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/254320/",
+            "developer": "http://www.misfitsattic.com/"
+        },
+        "notes": "Store page: http://duskers.misfits-attic.com/#anchor_83",
+        "extras": false
+    },
+    {
         "name": "Dustbowl",
         "url": "dustbowl/Mnsdlf11Bs",
         "price": "8.99",
