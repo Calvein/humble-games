@@ -20573,6 +20573,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Nova-111",
+        "url": "nova111/243gfd234",
+        "price": "14.99",
+        "description": "Get Nova-111 for Mac and Windows, DRM-free and on Steam!\n(DRM-free builds coming soon).",
+        "developer": "Funktronic Labs",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-nova-111-307759.phtml",
+            "steam": "http://store.steampowered.com/app/325370/",
+            "developer": "http://funktroniclabs.com/"
+        },
+        "notes": "Store page: http://nova111.com/",
+        "extras": false
+    },
+    {
         "name": "NOWHERE",
         "url": "nowhere_alpha/Ndhu8Tgey5Fd",
         "price": "21",
