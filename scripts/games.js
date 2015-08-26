@@ -29828,6 +29828,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Super Mutant Alien Assault",
+        "url": "supermutantalienassault/87hj65",
+        "price": "9.99",
+        "description": "Get Super Mutant Alien Assault for Windows on Steam!",
+        "developer": "Surprise Attack",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/368680/",
+            "developer": "http://www.cybernate.com/"
+        },
+        "notes": "Store page: http://www.mutantalienassault.com/#block-3",
+        "extras": false
+    },
+    {
         "name": "Super Slam Dunk Touchdown: Early Access",
         "url": "superslamdunktouchdown_earlyaccess/WySDFh3",
         "price": "15",
