@@ -3696,6 +3696,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Big Pharma",
+        "url": "bigpharma/G7SDfg23",
+        "price": "24.95",
+        "description": "Big Pharma is provided via Steam key and DRM-free for Linux, Mac, and Windows. For key redemption, a free Steam account is required to play.",
+        "developer": "Positech Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://techraptor.net/content/big-pharma-review-puzzle-gaming-steroids",
+            "steam": "http://store.steampowered.com/app/344850/",
+            "developer": "http://www.positech.co.uk/"
+        },
+        "notes": "Store page: http://www.bigpharmagame.com/register.html",
+        "extras": false
+    },
+    {
         "name": "Bik",
         "url": "bik/sfaddaauiiuoyYY21",
         "price": "5.99",
