@@ -3773,6 +3773,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/331440/",
             "developer": "http://kintogames.com/"
         },
+        "notes": "The Android version is DRM-free, while the Windows and OS X versions are redeemable on Steam.",
         "extras": false
     },
     {
@@ -19445,7 +19446,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/297290",
             "developer": "http://www.nerdmonkeys.pt/"
         },
-        "notes": "Only the Android version is available DRM-free.\nStore page: http://caseandbot.com/en/compre-agora",
+        "notes": "The Android version is DRM-free, while the Windows, OS X and Linux versions are redeemable on Steam.\nStore page: http://caseandbot.com/en/compre-agora",
         "extras": false
     },
     {
@@ -33574,7 +33575,7 @@ var games = [
         "description": "Get Two Digits now and receive a cross-platform Steam key for the game!",
         "developer": "Cleverweek",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
@@ -33584,13 +33585,13 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "steam": "http://store.steampowered.com/app/371330/",
             "developer": "http://cleverweek.com/"
         },
-        "notes": "Store page: http://twodigitsgame.com/#buy",
+        "notes": "The Android version is DRM-free, while the Windows, Mac and Linux versions are redeemable on Steam.\nStore page: http://twodigitsgame.com/#buy",
         "extras": false
     },
     {
