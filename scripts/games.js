@@ -22109,7 +22109,7 @@ var games = [
         "URL": {
             "developer": "http://www.themeparkitect.com/"
         },
-        "notes": "Mac and Linux versions coming after the Windows one. Steam key if/when Greenlit.",
+        "notes": "Mac and Linux versions coming after the Windows one.",
         "extras": false
     },
     {
@@ -22134,32 +22134,7 @@ var games = [
         "URL": {
             "developer": "http://www.themeparkitect.com/"
         },
-        "notes": "Mac and Linux versions coming after the Windows one. Steam key if/when Greenlit.",
-        "extras": true
-    },
-    {
-        "name": "Parkitect - Prototype Tier",
-        "url": "parkitect_prototypetier/TxFJKL34oufhS",
-        "price": "45",
-        "description": "Pre-order the game, get a prototype version before public release, and a curated sound library. Includes soundtrack and wallpapers!",
-        "developer": "Texel Raptor",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.themeparkitect.com/"
-        },
-        "notes": "Mac and Linux versions coming after the Windows one. Steam key if/when Greenlit.",
+        "notes": "Mac and Linux versions coming after the Windows one.",
         "extras": true
     },
     {
