@@ -14818,7 +14818,7 @@ var games = [
         "description": "Get Heroes of Loot instantly and DRM free!",
         "developer": "Orangepixel",
         "platform": {
-            "android": false,
+            "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
