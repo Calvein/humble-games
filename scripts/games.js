@@ -4827,8 +4827,8 @@ var games = [
     {
         "name": "Broken Bots",
         "url": "brokenbots/Tjdkahsodij1",
-        "price": "9.99",
-        "description": "Multiplayer warfare with malfunctioning robots. CRUSH, KILL, MALFUNCTION, DESTROY! (Pre-Order)",
+        "price": "14.99",
+        "description": "Broken Bots is provided via a Steam key. For key redemption, a free Steam account is required.",
         "developer": "Bunnycopter",
         "platform": {
             "android": false,
@@ -4838,15 +4838,16 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/366620/",
             "developer": "http://www.bunnycopter.com/"
         },
-        "notes": "Pre-order at 33% off; regular price is $14.99\nSteam key if/when Greenlit\nStore page: http://www.brokenbotsgame.com/#humblewidget",
+        "notes": "Early Access game.\nStore page: http://www.brokenbotsgame.com/#content",
         "extras": false
     },
     {
