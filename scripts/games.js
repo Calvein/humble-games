@@ -6006,8 +6006,8 @@ var games = [
     {
         "name": "City Quest",
         "url": "cityquest/Cajh7TDsg4e",
-        "price": "8",
-        "description": "Preorder some adventury goodness now, and get it for $2 off the launch price!",
+        "price": "10",
+        "description": "City Quest is provided via a Steam key. For key redemption, a free Steam account is required.",
         "developer": "Stone Monkey Studios",
         "platform": {
             "android": false,
@@ -6017,14 +6017,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/308560/",
             "developer": "http://stonemonkeystudios.com/"
-        }
+        },
+        "notes": "Store page: http://cityquestgame.com/",
+        "extras": false
     },
     {
         "name": "City Quest Deluxe Pack",
@@ -6040,14 +6043,17 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/308560/",
             "developer": "http://stonemonkeystudios.com/"
-        }
+        },
+        "notes": "Store page: http://cityquestgame.com/",
+        "extras": false
     },
     {
         "name": "Clairvoyance",
