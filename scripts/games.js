@@ -17768,7 +17768,7 @@ var games = [
     {
         "name": "Little Cells",
         "url": "littlecells/Zljksajrf908243u",
-        "price": "4",
+        "price": "3.99",
         "description": "Purchase Little Cells now! Cross-platform and DRM-free!",
         "developer": "Fully Bugged",
         "platform": {
