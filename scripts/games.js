@@ -2337,32 +2337,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Armello - Early Access",
-        "url": "armello_earlyaccess/pO0dsj23hs",
-        "price": "24.99",
-        "description": "Get Armello - Early Access (Windows, Mac and Linux) via a Steam Key!",
-        "developer": "League of Geeks",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/290340/",
-            "developer": "http://leagueofgeeks.com/"
-        },
-        "notes": "Store page: http://armello.com/#buy",
-        "extras": false
-    },
-    {
         "name": "Artisan: Going Home Again",
         "url": "artisan_goinghomeagain/8SDThWwh2",
         "price": "9.99",
