@@ -2203,6 +2203,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Apt (Pre-order)",
+        "url": "apt/23d23",
+        "price": "14.99",
+        "description": "Get APT for Windows on Steam!",
+        "developer": "RIP Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/357690/",
+            "developer": "https://twitter.com/RIPStudios"
+        },
+        "notes": "This game has been already released.\nStore page: http://apt-game.com/#section-buy",
+        "extras": false
+    },
+    {
         "name": "Aqua Kitty: Milk Mine Defender",
         "url": "aquakitty_milkminedefender/Adwieiie4",
         "price": "5.99",
