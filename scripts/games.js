@@ -23475,7 +23475,7 @@ var games = [
     {
         "name": "PULSAR: Lost Colony (Alpha)",
         "url": "pulsar_lostcolony_alpha/Pdlwkdo2k3k",
-        "price": "25",
+        "price": "30",
         "description": "Get immediate access to the PULSAR: Lost Colony Alpha! Cross-platform and DRM-free. Includes Digital Soundtrack (when released) and a Steam Key",
         "developer": "Leafy Games",
         "platform": {
@@ -23494,7 +23494,32 @@ var games = [
         "URL": {
             "developer": "http://leafygames.com/"
         },
-        "notes": "Store page: http://pulsarlostcolony.com/",
+        "notes": "This widget is no longer available on the game's website, and it has been replaced by the new beta one.",
+        "extras": false
+    },
+    {
+        "name": "PULSAR: Lost Colony (Beta)",
+        "url": "pulsar_lostcolony_beta/Pdlwkdo2k3k",
+        "price": "25",
+        "description": "PULSAR: Lost Colony is provided via Steam and DRM-free for Windows, Mac, and Linux. For key redemption, a free Steam account is required.",
+        "developer": "Leafy Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://leafygames.com/"
+        },
+        "notes": "Store page: http://www.pulsarthegame.com/#block-yui_3_17_2_2_1433689648999_16220",
         "extras": false
     },
     {
