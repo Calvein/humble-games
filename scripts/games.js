@@ -19427,7 +19427,7 @@ var games = [
         "description": "Our awesome crazy videogame! Inspired by the classic point and click adventures from the 80’s and 90’s. GET IT NOW! AHHHGGGG!",
         "developer": "Nerd Monkeys",
         "platform": {
-            "android": false,
+            "android": true,
             "linux": true,
             "windows": true,
             "mac": true,
@@ -19437,7 +19437,7 @@ var games = [
             "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "review": "http://www.adventuregamers.com/articles/view/25843",
@@ -19445,7 +19445,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/297290",
             "developer": "http://www.nerdmonkeys.pt/"
         },
-        "notes": "No mention of DRM or lack thereof either on the widget or the game's website. Just assumed it's a Steam key like in the Humble Store.",
+        "notes": "Only the Android version is available DRM-free.\nStore page: http://caseandbot.com/en/compre-agora",
         "extras": false
     },
     {
