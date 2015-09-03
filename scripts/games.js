@@ -24384,6 +24384,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Renowned Explorers: International Society",
+        "url": "renownedexplorers_intsociety/32ds32",
+        "price": "19.99",
+        "description": "Start your adventure now!\nGet Renowned Explorers: International Society cross-platform on Steam!",
+        "developer": "Abbey Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.gamewatcher.com/reviews/renowned-explorers-international-society-review/12306",
+            "steam": "http://store.steampowered.com/app/296970/",
+            "developer": "http://abbeygames.com/"
+        },
+        "notes": "Regional pricing: £14.99/€19,99.\nStore page: http://renownedexplorers.com/#buy",
+        "extras": false
+    },
+    {
         "name": "Republique Remastered",
         "url": "republique_remastered/7DSkfj23g",
         "price": "24.99",
