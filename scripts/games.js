@@ -13938,7 +13938,7 @@ var games = [
         "url": "groundskeeper2/pmjkpjmpEIue399",
         "price": "5",
         "description": "Get Groundskeeper 2 instantly! Cross-platform and DRM-free! Requires Java to run and play!",
-        "developer": "Orangepixel",
+        "developer": "OrangePixel",
         "platform": {
             "android": false,
             "windows": true,
@@ -13955,7 +13955,7 @@ var games = [
         "URL": {
             "developer": "http://orangepixel.net/"
         },
-        "notes": "Store page: http://www.groundskeepergame.com/groundskeeper2/buy/",
+        "notes": "Store page: http://www.orangepixel.net/2014/04/18/groundskeeper2/",
         "extras": false
     },
     {
