@@ -6794,6 +6794,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Corrosion: Cold Winter Waiting [Enhanced Edition]",
+        "url": "corrosion_coldwinterwaiting/89ds87",
+        "price": "7.99",
+        "description": "Horror adventure awaits.\nGet Corrosion: Cold Winter Waiting [Enhanced Edition] DRM-free for Windows!",
+        "developer": "Viperante",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/349140/",
+            "developer": "http://viperante.com/"
+        },
+        "notes": "Store page: http://www.coldwinterwaiting.com/purchase_001.htm",
+        "extras": false
+    },
+    {
         "name": "Cortex Command",
         "url": "cortexcommand",
         "price": "20",
