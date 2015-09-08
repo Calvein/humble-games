@@ -18637,6 +18637,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "Master Spy",
+        "url": "masterspy/3kj09",
+        "price": "9.99",
+        "description": "Get Master Spy now for Windows and Mac, DRM-free and on Steam!",
+        "developer": "TURBOGUN",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://gamespew.com/2015/09/master-spy-review/",
+            "steam": "http://store.steampowered.com/app/331190/",
+            "developer": "http://turbogun.com/"
+        },
+        "notes": "Store page: http://masterspygame.com/#buy",
+        "extras": false
+    },
+    {
+        "name": "Master Spy + Soundtrack",
+        "url": "masterspy_soundtrack/987e2",
+        "price": "14.99",
+        "description": "Get Master Spy now for Windows and Mac, DRM-free and on Steam!\nIncludes original soundtrack by André Allen Anjos / RAC!",
+        "developer": "TURBOGUN",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://gamespew.com/2015/09/master-spy-review/",
+            "steam": "http://store.steampowered.com/app/331190/",
+            "developer": "http://turbogun.com/"
+        },
+        "notes": "Store page: http://masterspygame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "McPixel",
         "url": "mcpixel/k96TXIfGhNv5",
         "price": "4.99",
