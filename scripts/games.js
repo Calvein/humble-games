@@ -6003,6 +6003,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "Circa Infinity",
+        "url": "circainfinity/23fe34",
+        "price": "9.99",
+        "description": "Purchase includes a Steam key and DRM-free Windows and Mac versions of the game.",
+        "developer": "Kenny Sun",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-circa-infinity-309988.phtml",
+            "steam": "http://store.steampowered.com/app/390610/",
+            "developer": "http://kennysun.com/"
+        },
+        "notes": "Store page: http://circainfinitygame.com/",
+        "extras": false
+    },
+    {
+        "name": "Circa Infinity - Deluxe Edition",
+        "url": "circainfinity_soundtrack/63fe34",
+        "price": "14.99",
+        "description": "Purchase includes a Steam key, DRM-free Windows and Mac versions of the game, and mp3's of the original soundtrack.",
+        "developer": "Kenny Sun",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/review-circa-infinity-309988.phtml",
+            "steam": "http://store.steampowered.com/app/390610/",
+            "developer": "http://kennysun.com/"
+        },
+        "notes": "Store page: http://circainfinitygame.com/",
+        "extras": false
+    },
+    {
         "name": "Circuits",
         "url": "circuits/wLIEEn30c0iwj",
         "price": "2.99",
