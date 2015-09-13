@@ -11396,6 +11396,81 @@ var games = [
         "extras": false
     },
     {
+        "name": "1st Wonder (Digital Copy)",
+        "url": "1stwonder_digitalcopy/32kjds90",
+        "price": "20",
+        "description": "Pre-order to get a digital copy of 1st Wonder!",
+        "developer": "Rogue Rocket Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.first-wonder.com/"
+        },
+        "notes": "No mention of supported platforms and DRM or lack thereof either in the widgets or in the game's website.\nThe rewards included with each widget haven't been explicited either, as they will be revealed in an upcoming Kickstarter campaign.\nStore page: http://www.first-wonder.com/#getinvolved",
+        "extras": false
+    },
+    {
+        "name": "1st Wonder (Backer Reward)",
+        "url": "1stwonder_backer/42kld90",
+        "price": "60",
+        "description": "Pre-order to get a digital copy of 1st Wonder and the backer rewards for the $60 tier!",
+        "developer": "Rogue Rocket Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.first-wonder.com/"
+        },
+        "notes": "No mention of supported platforms and DRM or lack thereof either in the widgets or in the game's website.\nThe rewards included with each widget haven't been explicited either, as they will be revealed in an upcoming Kickstarter campaign.\nStore page: http://www.first-wonder.com/#getinvolved",
+        "extras": true
+    },
+    {
+        "name": "1st Wonder (Big Backer Reward)",
+        "url": "1stwonder_bigbacker/3lkds09",
+        "price": "150",
+        "description": "Pre-order to get a digital copy of 1st Wonder and the backer rewards for the $150 tier!",
+        "developer": "Rogue Rocket Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.first-wonder.com/"
+        },
+        "notes": "No mention of supported platforms and DRM or lack thereof either in the widgets or in the game's website.\nThe rewards included with each widget haven't been explicited either, as they will be revealed in an upcoming Kickstarter campaign.\nStore page: http://www.first-wonder.com/#getinvolved",
+        "extras": true
+    },
+    {
         "name": "FIST OF AWESOME",
         "url": "fistofawesome/Fkdowk3",
         "price": "7.99",
