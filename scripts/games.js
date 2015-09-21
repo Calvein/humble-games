@@ -34015,6 +34015,84 @@ var games = [
         "extras": false
     },
     {
+        "name": "Undertale",
+        "url": "undertale/Udhd7SYgds",
+        "price": "9.99",
+        "description": "Get UNDERTALE on Steam and DRM-free for Windows & Mac.",
+        "developer": "Toby Fox",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.thejimquisition.com/2015/09/undertale-review-a-determined-effort/",
+            "steam": "http://store.steampowered.com/app/391540/",
+            "developer": "http://undertale.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "UNDERTALE Soundtrack",
+        "url": "undertale_soundtrack/Udhd7SYgds",
+        "price": "9.99",
+        "description": "Get the soundtrack to UNDERTALE in MP3 and FLAC formats!",
+        "developer": "Toby Fox",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.thejimquisition.com/2015/09/undertale-review-a-determined-effort/",
+            "steam": "http://store.steampowered.com/app/391540/",
+            "developer": "http://undertale.com/"
+        },
+        "extras": false
+    },
+    {
+        "name": "Undertale + Soundtrack",
+        "url": "undertale_withsoundtrack/Udhd7SYgds",
+        "price": "17.99",
+        "description": "Get UNDERTALE on Steam and DRM-free for Windows & Mac. You can download the DRM-free soundtrack in MP3 & FLAC formats.\n(Note: Steam code is game-only)",
+        "developer": "Toby Fox",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.thejimquisition.com/2015/09/undertale-review-a-determined-effort/",
+            "steam": "http://store.steampowered.com/app/391540/",
+            "developer": "http://undertale.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "UnEpic",
         "url": "unepic_tier1/Udh8Gye5Tdhe",
         "price": "8.95",
