@@ -15488,6 +15488,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "I Can't Escape: Darkness",
+        "url": "icantescape_darkness/8fd3",
+        "price": "11.99",
+        "description": "Get I Can't Escape: Darkness cross-platform on Steam and DRM-free + the original soundtrack!",
+        "developer": "Fancy Fish Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.savingcontent.com/2015/09/16/i-cant-escape-darkness-review/",
+            "steam": "http://store.steampowered.com/app/346090/",
+            "developer": "http://fancyfishgames.com/"
+        },
+        "notes": "Store page: http://icantescape.com/",
+        "extras": false
+    },
+    {
         "name": "I Get This Call Every Day",
         "url": "igetthiscalleveryday/Sjd8chZkdn",
         "price": "2",
