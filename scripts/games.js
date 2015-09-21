@@ -33305,12 +33305,13 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.gamewatcher.com/reviews/train-valley-review/12325",
             "steam": "http://store.steampowered.com/app/353640",
             "developer": "http://flazm.com/"
         },
