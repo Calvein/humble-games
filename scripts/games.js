@@ -14255,12 +14255,13 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/371890/",
             "developer": "http://www.orangepixel.net/"
         },
         "notes": "Store page: http://www.gunslugs.com/gunslugs/#content",
@@ -14280,14 +14281,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://criticalindiegamer.com/2015/01/gunslugs-2-review/",
-            "steam": "http://store.steampowered.com/app/340750",
+            "steam": "http://store.steampowered.com/app/340750/",
             "developer": "http://www.orangepixel.net/"
         },
         "notes": "Store page: http://www.gunslugs.com/gunslugs/#content",
@@ -15007,13 +15008,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://indiegamesaaa.com/2013/09/23/heroes-of-loot-review/",
+            "steam": "http://store.steampowered.com/app/359280/",
             "developer": "http://orangepixel.net/"
         },
         "notes": "Java required to run the game.\nStore page: http://www.orangepixel.net/heroesofloot/buy/",
