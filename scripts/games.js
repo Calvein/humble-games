@@ -1866,16 +1866,18 @@ var games = [
             "android": false,
             "linux": false,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/11/13/amphora-review/",
+            "steam": "http://store.steampowered.com/app/331510/",
             "developer": "http://moondrop.no/"
         },
         "notes": "Store page: http://moondrop.no/amphora",
