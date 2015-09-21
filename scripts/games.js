@@ -21985,6 +21985,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Panoramical",
+        "url": "panoramical/3d2ed",
+        "price": "9.99",
+        "description": "Get Panoramical for PC / Mac on Steam!",
+        "developer": "Finji",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/284260/",
+            "developer": "http://finjigames.com/"
+        },
+        "notes": "The developer has expressed his interest in releasing a Linux port: http://steamcommunity.com/app/284260/discussions/0/523897653302406429/#c523897653304155344\nStore page: http://www.panoramic.al/#buy",
+        "extras": false
+    },
+    {
         "name": "Paper Dungeons",
         "url": "paperdungeons/nveniuCCeiorvm",
         "price": "14.99",
