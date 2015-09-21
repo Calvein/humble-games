@@ -28440,6 +28440,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Space Grunts",
+        "url": "spacegrunts/XFVSDf43",
+        "price": "9.99",
+        "description": "Get instant access to Space Grunts on Steam for Windows, Mac, and Linux!  + A DRM free version will be added once the game leaves Early Access",
+        "developer": "Orangepixel",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/371430/",
+            "developer": "http://www.orangepixel.net/"
+        },
+        "notes": "Store page: http://www.orangepixel.net/2015/05/10/spacegrunts/",
+        "extras": false
+    },
+    {
         "name": "Space Hulk",
         "url": "spacehulk/Sh8Yhe5Rdf",
         "price": "29.99",
