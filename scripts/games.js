@@ -21344,6 +21344,32 @@ var games = [
         }
     },
     {
+        "name": "OGS Mahjong Deluxe",
+        "url": "ogsmahjong/ySGF3h34",
+        "price": "2.49",
+        "description": "OGS Mahjong is a simple, mahjong-solitaire and shisen-sho game with nice 3D graphics and a relaxing soundtrack.\nAvailable for Windows/Linux, DRM-free!",
+        "developer": "Opensource Game Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "desura": "http://www.desura.com/games/ogs-mahjong",
+            "developer": "http://opengamestudio.org"
+        },
+        "notes": "Store page: http://opengamestudio.org/lang/en/ogs-mahjong",
+        "extras": false
+    },
+    {
         "name": "Okhlos: Digital Edition",
         "url": "okhlos_digitaledition/BYSDFh23",
         "price": "9.99",
