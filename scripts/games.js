@@ -13883,6 +13883,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Gravity Error",
+        "url": "gravityerror/9823",
+        "price": "4.99",
+        "description": "Get Gravity Error for Windows & Mac DRM-free and on Steam!",
+        "developer": "Faris Mohammed",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.geekyhobbies.com/gravity-error-indie-game-review/",
+            "steam": "http://store.steampowered.com/app/379760/",
+            "developer": "https://twitter.com/TrojanFM"
+        },
+        "notes": "Store page: http://www.gravityerror.com/",
+        "extras": false
+    },
+    {
         "name": "Gravity Ghost",
         "url": "gravityghost/Gdy6sth8Ftg",
         "price": "14.99",
