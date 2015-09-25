@@ -23717,6 +23717,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "ProGamerManager (Early Access)",
+        "url": "progamermanager/23dsf23",
+        "price": "12.99",
+        "description": "A simulation game where you build and manage your own progaming team.\nGet early access to ProGamerManager DRM-free for Windows with updates all the way through final release.",
+        "developer": "Millenway Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.millenway.com/"
+        },
+        "notes": "Store page: http://www.progamermanager.com/",
+        "extras": false
+    },
+    {
         "name": "Project Druid",
         "url": "projectdruid/W8SD22dj",
         "price": "5",
