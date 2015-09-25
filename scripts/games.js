@@ -10640,7 +10640,7 @@ var games = [
         "name": "Elliot Quest",
         "url": "elliotquest_regular/Ekdosk19ksl",
         "price": "9.99",
-        "description": "Get Elliot Quest Alpha Access instantly!",
+        "description": "Purchase Elliot Quest instantly for Windows, Mac, and Linux DRM-free! Includes a Steam key.",
         "developer": "Ansimuz Games",
         "platform": {
             "android": false,
@@ -10650,23 +10650,25 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
-            "desura": false,
+            "steam": true,
+            "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://indiegamemag.com/elliot-quest-review-a-wondrous-adventure/",
+            "steam": "http://store.steampowered.com/app/293440/",
             "desura": "http://www.desura.com/games/elliot-quest",
             "developer": "http://ansimuz.com/"
         },
+        "notes": "Store page: http://elliotquest.com/"
         "extras": false,
-        "notes": "Alpha access.\nStore page: http://elliotquest.com/"
     },
     {
         "name": "Elliot Quest: Deluxe Edition",
         "url": "elliotquest/Ekdosk19ksl",
         "price": "12.99",
-        "description": "Get Elliot Quest Alpha Access instantly + OST + upcoming Art PDF. Redeem it on Desura!",
+        "description": "Purchase Elliot Quest instantly for Windows, Mac, and Linux DRM-free! + OST + upcoming Art PDF. Includes a Steam key.",
         "developer": "Ansimuz Games",
         "platform": {
             "android": false,
@@ -10676,17 +10678,19 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": true,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://indiegamemag.com/elliot-quest-review-a-wondrous-adventure/",
+            "steam": "http://store.steampowered.com/app/293440/",
             "desura": "http://www.desura.com/games/elliot-quest",
             "developer": "http://ansimuz.com/"
         },
+        "notes": "Store page: http://elliotquest.com/"
         "extras": true,
-        "notes": "Alpha access.\nStore page: http://elliotquest.com/"
     },
     {
         "name": "Else Heart.Break()",
