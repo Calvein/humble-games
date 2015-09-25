@@ -3105,6 +3105,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Bard's Gold",
+        "url": "bardsgold/7j39",
+        "price": "7.99",
+        "description": "Get Bard's Gold cross-platform on Steam!",
+        "developer": "Erdem Sen",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://egmr.net/2015/09/review-bards-gold-frustratingly-mundane/",
+            "steam": "http://store.steampowered.com/app/381900/",
+            "developer": "https://twitter.com/aGametery"
+        },
+        "notes": "Store page: http://www.bardsgold.com/",
+        "extras": false
+    },
+    {
         "name": "Bardbarian",
         "url": "bardbarian/uoiwearuHRUE82",
         "price": "6.99",
