@@ -10661,8 +10661,8 @@ var games = [
             "desura": "http://www.desura.com/games/elliot-quest",
             "developer": "http://ansimuz.com/"
         },
-        "notes": "Store page: http://elliotquest.com/"
-        "extras": false,
+        "notes": "Store page: http://elliotquest.com/",
+        "extras": false
     },
     {
         "name": "Elliot Quest: Deluxe Edition",
@@ -10689,8 +10689,8 @@ var games = [
             "desura": "http://www.desura.com/games/elliot-quest",
             "developer": "http://ansimuz.com/"
         },
-        "notes": "Store page: http://elliotquest.com/"
-        "extras": true,
+        "notes": "Store page: http://elliotquest.com/",
+        "extras": true
     },
     {
         "name": "Else Heart.Break()",
