@@ -10689,6 +10689,33 @@ var games = [
         "notes": "Alpha access.\nStore page: http://elliotquest.com/"
     },
     {
+        "name": "Else Heart.Break()",
+        "url": "elseheart_break/3er32",
+        "price": "25",
+        "description": "Get Else Heart.Break() cross-platform on Steam and DRM-free.",
+        "developer": "Erik Svedäng",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.impulsegamer.com/else-heart-break-review/",
+            "steam": "http://store.steampowered.com/app/400110/",
+            "developer": "http://eriksvedang.com/"
+        },
+        "notes": "Store page: http://elseheartbreak.com/",
+        "extras": false
+    },
+    {
         "name": "Emerald",
         "url": "emerald/Ekdosk3",
         "price": "8",
