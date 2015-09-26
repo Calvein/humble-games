@@ -4883,7 +4883,7 @@ var games = [
     {
         "name": "Broken Bots",
         "url": "brokenbots/Tjdkahsodij1",
-        "price": "14.99",
+        "price": "11.99",
         "description": "Broken Bots is provided via a Steam key. For key redemption, a free Steam account is required.",
         "developer": "Bunnycopter",
         "platform": {
