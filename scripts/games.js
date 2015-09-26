@@ -21794,7 +21794,7 @@ var games = [
     {
         "name": "Oscura: Lost Light",
         "url": "oscura_lostlight/SDFlj23khs",
-        "price": "9.99",
+        "price": "6.99",
         "description": "Get Oscura: Lost Light instantly! Available on Windows/Mac, DRM-free!",
         "developer": "Surprise Attack",
         "platform": {
@@ -21815,7 +21815,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/320520/",
             "developer": "http://surpriseattackgames.com/"
         },
-        "notes": "Store page: http://oscuragame.com/app/oscura-lost-light/",
+        "notes": "Regional pricing: £4.99/€6,99.\nStore page: http://oscuragame.com/app/oscura-lost-light/",
         "extras": false
     },
     {
