@@ -1710,13 +1710,13 @@ var games = [
         "developer": "Crashable Studios",
         "platform": {
             "android": false,
-            "linux": true,
+            "linux": false,
             "windows": true,
-            "mac": true,
+            "mac": false,
             "audio": false
         },
         "drm": {
-            "steam": true,
+            "steam": false,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -1725,7 +1725,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/338420/",
             "developer": "http://www.crashablestudios.com/"
         },
-        "notes": "DRM-free download only available for Windows.\nStore page: http://www.crashablestudios.com/p/pre-order.html",
+        "notes": "Store page: http://www.crashablestudios.com/p/pre-order.html",
         "extras": false
     },
     {
