@@ -23876,11 +23876,18 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.gamespot.com/reviews/psychonauts-review/1900-6122550/",
+            "steam": "http://store.steampowered.com/app/3830/",
+            "developer": "http://www.doublefine.com/"
+        },
+        "notes": "Store page: http://shop.doublefine.com/collections",
+        "extras": false
     },
     {
         "name": "PULSAR: Lost Colony (Alpha)",
