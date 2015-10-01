@@ -27504,6 +27504,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Shiny Gauntlet",
+        "url": "shinygauntlet/5i32",
+        "price": "7.99",
+        "description": "Purchase to get Shiny Gauntlet on Windows,Mac and Linux DRM-free!",
+        "developer": "SpriteWrench",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://spritewrench.com/"
+        },
+        "notes": "Store page: http://spritewrench.com/shiny-gauntlet/index.html",
+        "extras": false
+    },
+    {
         "name": "Shipwreck",
         "url": "shipwreck/Sdpowek4",
         "price": "0.99",
