@@ -23837,6 +23837,32 @@ var games = [
         }
     },
     {
+        "name": "Psycho Starship Rampage",
+        "url": "psychostarshiprampage/32dfg43",
+        "price": "9.99",
+        "description": "Pre-order Psycho Starship Rampage for Windows and Linux on Steam!",
+        "developer": "Ballistic Frogs",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/386560/",
+            "developer": "http://www.ballisticfrogs.com/"
+        },
+        "notes": "The game is no longer on pre-order as it has been already released.",
+        "extras": false
+    },
+    {
         "name": "Psychonauts",
         "url": "psychonauts_store",
         "price": "9.99",
