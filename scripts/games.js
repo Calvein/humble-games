@@ -32498,6 +32498,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Sentient (Pre-order)",
+        "url": "thesentient/54ew23",
+        "price": "14.99",
+        "description": "Pre-order The Sentient for an introductory price and gain access to the Windows alpha and beta when available on Steam. Support the development and help make the game great!\nTipping helps with further development of the game.",
+        "developer": "Uncaged Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "developer": "http://www.uncaged-studios.com/"
+        },
+        "notes": "The devs talk about releasing on Steam, but the game hasn't been Greenlit yet.\nStore page: http://www.the-sentient.com/buy-the-sentient/",
+        "extras": false
+    },
+    {
         "name": "The Ship: Murder Party",
         "url": "theshipmurderparty",
         "price": "9.99",
