@@ -3944,14 +3944,14 @@ var games = [
         "description": "Get Blackwell Convergence instantly! DRM-free.",
         "developer": "Wadjet Eye Games",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -4055,14 +4055,14 @@ var games = [
         "description": "Get Blackwell Unbound instantly! DRM-free.",
         "developer": "Wadjet Eye Games",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
