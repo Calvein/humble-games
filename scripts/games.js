@@ -13127,7 +13127,7 @@ var games = [
         "name": "Generic Space Shooter",
         "url": "genericspaceshooter/Gkdow4",
         "price": "1.7",
-        "description": "Pre-order Generic Space Shooter instantly! When ready, get it DRM-free.",
+        "description": "Buy Generic Space Shooter instantly! Get it DRM-free.",
         "developer": "LionSword",
         "platform": {
             "android": false,
