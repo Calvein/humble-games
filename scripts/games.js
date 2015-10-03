@@ -7925,14 +7925,18 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://operationrainfall.com/2014/04/04/review-danmaku-unlimited-2-pc/",
+            "steam": "http://store.steampowered.com/app/280560/",
             "developer": "http://doragongames.com/"
-        }
+        },
+        "notes": "Store page: http://doragongames.com/danmaku2/",
+        "extras": false
     },
     {
         "name": "Dark Quest",
