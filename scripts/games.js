@@ -4277,7 +4277,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -4287,7 +4287,9 @@ var games = [
             "steam": "http://store.steampowered.com/app/111800/",
             "desura": "http://www.desura.com/games/blocks-that-matter",
             "developer": "http://www.swingswingsubmarine.com/"
-        }
+        },
+        "notes": "Store page: http://www.swingswingsubmarine.com/games/blocks-that-matter/#buyit",
+        "extras": false
     },
     {
         "name": "Blood of the Werewolf",
