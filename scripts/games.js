@@ -19170,7 +19170,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -19178,9 +19178,9 @@ var games = [
         "URL": {
             "review": "http://jtmgames.com/2012/04/18/metal-dead-pc-review/",
             "desura": "http://www.desura.com/games/metal-dead",
+            "steam": "http://store.steampowered.com/app/302690/",
             "developer": "http://www.walkthruwalls.com/"
         },
-        "notes": "Store page: http://www.walkthruwalls.com/#buy",
         "extras": false
     },
     {
