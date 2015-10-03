@@ -35420,7 +35420,7 @@ var games = [
     {
         "name": "WE ARE DOOMED",
         "url": "wearedoomed/zuoIEh2v1asw",
-        "price": "4",
+        "price": "9.99",
         "description": "Get WE ARE DOOMED instantly for Windows & Mac, DRM-free!",
         "developer": "Mobeen Fikree",
         "platform": {
@@ -35431,16 +35431,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://www.hardcoregamer.com/2014/04/30/review-we-are-doomed/82719/",
+            "steam": "http://store.steampowered.com/app/360530/",
             "developer": "http://www.mobeenfikree.com/"
         },
-        "notes": "Store page: http://www.caffeinemonstersoftware.com/wearedoomed/",
+        "notes": "Store page: http://www.vertexpop.com/wearedoomed/#buy",
         "extras": false
     },
     {
