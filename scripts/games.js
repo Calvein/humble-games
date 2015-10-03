@@ -36005,16 +36005,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://iamericm.com/2015/03/woodle-tree-adventures-indie-game-review/",
+            "steam": "http://store.steampowered.com/app/299460/",
             "desura": "http://www.desura.com/games/woodle-tree",
             "developer": "http://chubbypixel.com/"
         },
-        "notes": "Store page: http://chubbypixel.com/games/woodle-tree/",
         "extras": false
     },
     {
