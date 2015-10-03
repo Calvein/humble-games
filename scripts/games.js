@@ -1596,7 +1596,7 @@ var games = [
     {
         "name": "Air Guardians",
         "url": "airguardians/T9DSfji11s",
-        "price": "4.99",
+        "price": "2.99",
         "description": "Get Air Guardians instantly! Available on Windows, DRM-free!",
         "developer": "Lazy Bum Games",
         "platform": {
