@@ -32826,7 +32826,7 @@ var games = [
     {
         "name": "Thief Town",
         "url": "thieftown/nSFdlk23lkja",
-        "price": "3.99",
+        "price": "7.99",
         "description": "Thief Town! Cross-platform and DRM-free. Includes OST!",
         "developer": "Glass Knuckle Games",
         "platform": {
