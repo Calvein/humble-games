@@ -19785,7 +19785,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
