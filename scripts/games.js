@@ -3740,13 +3740,13 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "desura": "http://www.desura.com/games/niinegamesbezier",
             "developer": "http://niinegames.com/"
         },
-        "notes": "No mention of DRM or lack thereof either in the widget or in the game's website.\nStore page: http://niinegames.com/bezier/#widgets",
+        "notes": "Store page: http://niinegames.com/bezier/#widgets",
         "extras": false
     },
     {
