@@ -23556,7 +23556,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -23564,9 +23564,10 @@ var games = [
         "URL": {
             "review": "http://www.laserlemming.com/2013/01/03/review-potatoman-seeks-the-troof/",
             "desura": "http://www.desura.com/games/potatoman-seeks-the-troof",
+            "steam": "http://store.steampowered.com/app/328500/",
             "developer": "http://www.pixeljam.com"
         },
-        "notes": "Store page: http://www.pixeljam.com/potatoman/#BUY",
+        "notes": "Linux version only available DRM-free.",
         "extras": false
     },
     {
@@ -23583,7 +23584,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -23591,9 +23592,10 @@ var games = [
         "URL": {
             "review": "http://www.laserlemming.com/2013/01/03/review-potatoman-seeks-the-troof/",
             "desura": "http://www.desura.com/games/potatoman-seeks-the-troof",
+            "steam": "http://store.steampowered.com/app/328500/",
             "developer": "http://www.pixeljam.com"
         },
-        "notes": "Store page: http://www.pixeljam.com/potatoman/#BUY",
+        "notes": "Linux version only available DRM-free.",
         "extras": false
     },
     {
