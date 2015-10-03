@@ -14915,8 +14915,8 @@ var games = [
     {
         "name": "Her Story",
         "url": "herstory/78SLDKfh1",
-        "price": "4.99",
-        "description": "Pre-order the game and get your name in the credits! Cross-platform and DRM-free!",
+        "price": "5.99",
+        "description": "Buy Her Story! Cross-platform and DRM-free + Steam key!",
         "developer": "Sam Barlow",
         "platform": {
             "android": false,
@@ -14926,16 +14926,18 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.thejimquisition.com/2015/06/her-story-review/",
+            "steam": "http://store.steampowered.com/app/368370/",
             "developer": "https://twitter.com/mrsambarlow"
         },
-        "notes": "Store page: http://www.herstorygame.com/#primary",
-        "extras": true
+        "notes": "Store page: http://www.herstorygame.com/purchase/",
+        "extras": false
     },
     {
         "name": "Hermi & Max",
