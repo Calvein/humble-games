@@ -14683,7 +14683,7 @@ var games = [
     {
         "name": "HassleHeart",
         "url": "hassleheart/iBelkn62jdkds",
-        "price": "4.49",
+        "price": "2.69",
         "description": "Get HassleHeart beta instantly! When it's released you will receive the full game DRM-free for Windows and Mac!",
         "developer": "Santa Clara Games",
         "platform": {
@@ -14694,16 +14694,18 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://techraptor.net/content/hassleheart-review-disappointing-robot-overlord",
             "desura": "http://www.desura.com/games/hassleheart",
+            "steam": "http://store.steampowered.com/app/350510/",
             "developer": "http://www.santaclaragames.com/"
         },
-        "notes": "Currently on sale at 10% off; regular price is $4.99.",
+        "notes": "Currently on sale at 10% off; regular price is $2.99.",
         "extras": false
     },
     {
