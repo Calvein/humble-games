@@ -17803,18 +17803,18 @@ var games = [
     {
         "name": "Let There Be Life",
         "url": "lettherebelife/BCeiruwveino",
-        "price": "3.99",
+        "price": "7.99",
         "description": "Let There Be Life is a relaxing puzzle-like game allowing you to create magical trees, protect flowers, and interact with playful wildlife.",
         "developer": "Backward pieS",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": false,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -17822,9 +17822,10 @@ var games = [
         "URL": {
             "review": "http://www.indiegamemag.com/let-there-be-life-review-relaxation-and-creativity-hand-in-hand/",
             "desura": "http://www.desura.com/games/let-there-be-life",
+            "steam": "http://store.steampowered.com/app/340950/",
             "developer": "http://www.backwardpies.com/",
         },
-        "notes": "Steam key if/when Greenlit.\nMac and Android versions coming soon.\nStore page: http://www.backwardpies.com/?page_id=388#post-388",
+        "notes": "Steam key allegedly included since the game was Greenlit.\nStore page: http://www.backwardpies.com/?page_id=388#post-388",
         "extras": false
     },
     {
