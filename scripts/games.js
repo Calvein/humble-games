@@ -28192,7 +28192,7 @@ var games = [
         "URL": {
             "developer": "http://sodadrinkerpro.com/"
         },
-        "notes": "Linux version is most likely available, as in the Humble Store.\nStore page: http://sodadrinkerpro.com/download/",
+        "notes": "Store page: http://sodadrinkerpro.com/download/",
         "extras": false
     },
     {
