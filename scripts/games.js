@@ -24170,7 +24170,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -24178,9 +24178,9 @@ var games = [
         "URL": {
             "review": "http://theindiemine.com/qbqbqb-review/",
             "desura": "http://www.desura.com/games/qbqbqb",
+            "steam": "http://store.steampowered.com/app/329320/",
             "developer": "http://rezoner.net/"
         },
-        "notes": "Store page: http://qbqbqb.rezoner.net/",
         "extras": false
     },
     {
