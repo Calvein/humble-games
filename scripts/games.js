@@ -10920,7 +10920,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -10931,6 +10931,7 @@ var games = [
             "desura": "http://www.desura.com/games/English-Country-Tune",
             "developer": "http://www.increpare.com"
         },
+        "notes": "Store page: http://www.englishcountrytune.com/",
         "extras": false
     },
     {
