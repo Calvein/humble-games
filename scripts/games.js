@@ -9145,9 +9145,9 @@ var games = [
         "extras": false
     },
     {
-        "name": "Domestic Dog",
+        "name": "Domestic Dog Simulator",
         "url": "dogsimulator/DonkdJo2h39dni",
-        "price": "1.99",
+        "price": "2.99",
         "description": "Survive harsh domestic life. Get Domestic Dog instantly, DRM-free (Steam when available). Free updates/DLC for life!",
         "developer": "Surreal Distractions",
         "platform": {
@@ -9164,7 +9164,9 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://indiehaven.com/domestic-dog-simulator-review/",
             "desura": "http://www.desura.com/games/domesticdog",
+            "steam": "http://store.steampowered.com/app/340340/",
             "developer": "http://sites.google.com/site/surrealdistractions/"
         },
         "extras": false
