@@ -21,6 +21,31 @@ var games = [
         }
     },
     {
+        "name": "8DAYS",
+        "url": "8days/54re",
+        "price": "12.99",
+        "description": "8DAYS is a crazy dual stick shooter in which you play as a mercenary for G.O.D. Inc. (\"Gold Oil and Diamonds\" - GOOD Nasdaq).\nGet 8DAYS NOW and you will get all its future missions for free!",
+        "developer": "Santa Clara Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://store.santaclaragames.com/"
+        },
+        "notes": "Store page: http://store.santaclaragames.com/games/8days/index.html",
+        "extras": false
+    },
+    {
         "name": "140",
         "url": "140/KDwi3ksldk",
         "price": "4.99",
