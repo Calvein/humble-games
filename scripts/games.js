@@ -34109,7 +34109,7 @@ var games = [
     {
         "name": "Twin Robots",
         "url": "twinrobots/pO99keikj2o",
-        "price": "2.49",
+        "price": "4.99",
         "description": "Get Twin Robots instantly! Cross-platform and DRM-free!",
         "developer": "Thinice",
         "platform": {
