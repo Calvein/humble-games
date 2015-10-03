@@ -31270,12 +31270,11 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        },
-        "notes": "Currently on sale at 30% off, regular price is $10."
+        }
     },
     {
         "name": "Talisman Prologue Premium Edition",
