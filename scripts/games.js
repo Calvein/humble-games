@@ -26074,7 +26074,7 @@ var games = [
             "android": false,
             "linux": false,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -26083,7 +26083,13 @@ var games = [
             "gog": false,
             "drm-free": false
         },
-        "notes": "Dev Store: http://coffeestainstudios.com/store"
+        "URL": {
+            "review": "http://criticalindiegamer.com/2013/05/super-sanctum-td-review-pc/",
+            "steam": "http://store.steampowered.com/app/235250/",
+            "developer": "http://coffeestainstudios.com/"
+        },
+        "notes": "Store page: http://coffeestainstudios.com/store",
+        "extras": false
     },
     {
         "name": "Santa's Special Delivery",
