@@ -21980,10 +21980,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "Out There",
+        "name": "Out There: Ω Edition Android",
         "url": "outthere_final/Odkwkdi1",
         "price": "3.99",
-        "description": "Get Out There instantly for Android! DRM-free.",
+        "description": "Get Out There: Ω Edition for Android! DRM-free.",
         "developer": "Mi-Clos Studio",
         "platform": {
             "android": true,
@@ -21999,43 +21999,17 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "review": "http://www.pockettactics.com/reviews/review-out-there/",
+            "review": "http://www.thelastoftheliving.com/20150401-Out-There-Omega-Edition-Review.html",
+            "steam": "http://store.steampowered.com/app/334420/",
             "developer": "http://www.miclos.com/"
         },
-        "notes": "Store page: http://www.outtheregame.com/",
         "extras": false
     },
     {
-        "name": "Out There + Soundtrack",
-        "url": "outthere_soundtrack/Odkwkdi1",
-        "price": "5.99",
-        "description": "Get Out There instantly for Android + Soundtrack by award-winning composer Siddhartha Barnhoorn! DRM-free.",
-        "developer": "Mi-Clos Studio",
-        "platform": {
-            "android": true,
-            "linux": false,
-            "windows": false,
-            "mac": false,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "http://www.pockettactics.com/reviews/review-out-there/",
-            "developer": "http://www.miclos.com/"
-        },
-        "notes": "Store page: http://www.outtheregame.com/",
-        "extras": false
-    },
-    {
-        "name": "Out There: Ω Edition (Pre-order)",
+        "name": "Out There: Ω Edition",
         "url": "outthere_omegaedition_preorder/vSKjh239uhsj",
-        "price": "10",
-        "description": "Pre-order Out There: Ω Edition for Windows, Mac and Android! Beta access when available! DRM-Free!",
+        "price": "13.99",
+        "description": "Buy Out There: Ω Edition for Windows, Mac and Android! Beta access when available! DRM-Free!",
         "developer": "Mi-Clos Studio",
         "platform": {
             "android": true,
@@ -22045,22 +22019,24 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.thelastoftheliving.com/20150401-Out-There-Omega-Edition-Review.html",
+            "steam": "http://store.steampowered.com/app/334420/",
             "developer": "http://www.miclos.com/"
         },
         "notes": "Store page: http://www.outtheregame.com/",
         "extras": false
     },
     {
-        "name": "Out There: Ω + Music Edition (Pre-order)",
+        "name": "Out There: Ω + Music",
         "url": "outthere_omegaeditionplusmusic_preorder/fSD230jsklks",
-        "price": "15",
-        "description": "Pre-order Out There for PC, Mac and Android + Extended Soundtrack by Siddhartha Barnhoorn. Beta access when available! DRM-Free!",
+        "price": "17.99",
+        "description": "Buy Out There for Windows, Mac and Android + Extended Soundtrack by Siddhartha Barnhoorn. Beta access when available! DRM-Free!",
         "developer": "Mi-Clos Studio",
         "platform": {
             "android": true,
@@ -22070,12 +22046,14 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.thelastoftheliving.com/20150401-Out-There-Omega-Edition-Review.html",
+            "steam": "http://store.steampowered.com/app/334420/",
             "developer": "http://www.miclos.com/"
         },
         "notes": "Store page: http://www.outtheregame.com/",
