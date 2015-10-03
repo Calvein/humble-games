@@ -16014,7 +16014,7 @@ var games = [
         "name": "inSynch",
         "url": "insynch/mnvbnbfjhfgEU238",
         "price": "4.99",
-        "description": "Pre-Order inSynch now! Cross-platform and DRM-free!",
+        "description": "Buy inSynch now! Cross-platform and DRM-free!",
         "developer": "Them Games",
         "platform": {
             "android": false,
@@ -16032,7 +16032,7 @@ var games = [
         "URL": {
             "developer": "http://www.themgames.net/"
         },
-        "notes": "Immediate access to early stable builds of the game.\nAndroid version scheduled for later release.\nStore page: http://www.themgames.net/insynch/",
+        "notes": "Store page: http://www.themgames.net/insynch/",
         "extras": false
     },
     {
