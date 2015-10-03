@@ -35128,7 +35128,7 @@ var games = [
     {
         "name": "Voyage to Farland",
         "url": "voyagetofarland/Vkdkwo1ksla",
-        "price": "2.99",
+        "price": "5.99",
         "description": "Get Voyage to Farland instantly! The cute but hardcore graphical roguelike game. Cross-platform and DRM-free. Requires Java 1.6 or newer.",
         "developer": "Peculiar Games",
         "platform": {
@@ -35139,7 +35139,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": true,
             "gog": false,
             "drm-free": true
@@ -35147,6 +35147,7 @@ var games = [
         "URL": {
             "review": "http://www.wraithkal.info/voyage-to-farland-review/",
             "desura": "http://www.desura.com/games/voyage-to-farland",
+            "steam": "http://store.steampowered.com/app/364790/",
             "developer": "http://www.peculiar-games.com/"
         },
         "extras": false
