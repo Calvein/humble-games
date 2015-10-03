@@ -24388,22 +24388,22 @@ var games = [
         "developer": "Hypercane Studios",
         "platform": {
             "android": false,
-            "linux": true,
+            "linux": false,
             "windows": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
             "desura": "http://www.desura.com/games/rage-runner",
+            "steam": "http://store.steampowered.com/app/279520/",
             "developer": "http://www.hypercanestudios.com/"
         },
-        "notes": "Store page: http://ragerunner.hypercanestudios.com/",
         "extras": false
     },
     {
