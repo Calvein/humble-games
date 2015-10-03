@@ -25779,9 +25779,9 @@ var games = [
     {
         "name": "Royal Bounty HD",
         "url": "royalbountyhd/Wkljsd0923jsk",
-        "price": "2",
-        "description": "From the makers of Palm Kingdoms! Pre-order Royal Bounty HD now!",
-        "developer": "Iosoftware",
+        "price": "5",
+        "description": "From the makers of Palm Kingdoms! Purchase Royal Bounty HD now!",
+        "developer": "iosoftware",
         "platform": {
             "android": true,
             "linux": false,
@@ -25790,15 +25790,16 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/337210/",
             "developer": "http://blog.palmkingdoms.com/"
         },
-        "notes": "Store page: http://blog.palmkingdoms.com/post/91347285605/royal-bounty-hd-beta-available",
+        "notes": "Store page: http://www.palmkingdoms.com/rbhd.html",
         "extras": false
     },
     {
