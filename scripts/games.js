@@ -2344,13 +2344,13 @@ var games = [
         "developer": "Nyu Media",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
             "mac": false,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -2358,9 +2358,10 @@ var games = [
         "URL": {
             "review": "http://www.capsulecomputers.com.au/2013/10/armed-seven-review/",
             "desura": "http://www.desura.com/games/armed-seven",
+            "steam": "http://store.steampowered.com//app/349690/",
             "developer": "http://nyu-media.com/"
         },
-        "notes": "Store page: http://armedseven.com/purchase",
+        "notes": "Linux version only available on Steam.\nStore page: http://armedseven.com/purchase",
         "extras": false
     },
     {
