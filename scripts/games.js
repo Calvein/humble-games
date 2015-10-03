@@ -8624,6 +8624,58 @@ var games = [
         "extras": false
     },
     {
+        "name": "Déjà Vu: MacVenture Series",
+        "url": "retro_dejavu/WDSHD2hiX",
+        "price": "1.99",
+        "description": "The classic noir adventure Déjà Vu (Mac 128k and Apple IIgs) for Windows and Mac! (Includes Steam key!)",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/343820/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "Currently on sale at 33% off; regular price is $2.99.\nStore page: http://www.zojoi.com/dejavu_macventure/",
+        "extras": false
+    },
+    {
+        "name": "Déjà Vu II: MacVenture Series",
+        "url": "retro_dejavu_two/XlkJSDo23Y",
+        "price": "1.99",
+        "description": "The sequel to Déjà Vu (Mac 128k and Apple IIgs) for Windows and Mac! (Includes Steam key!)",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/343830/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "Currently on sale at 33% off; regular price is $2.99.\nStore page: http://www.zojoi.com/dejavuii_macventure/",
+        "extras": false
+    },
+    {
         "name": "Delve Deeper",
         "url": "delvedeeper/Dhie8YEhs4FS",
         "price": "4.99",
@@ -18713,6 +18765,32 @@ var games = [
         }
     },
     {
+        "name": "MacVenture Series Collection",
+        "url": "zojoi_retrosupermegabundle/ooSdfjDSlkh1",
+        "price": "6.99",
+        "description": "Four game pack featuring Shadowgate, Uninvited, Déjà Vu and Déjà Vu II (Mac 128k and Apple IIgs) for Windows and Mac! (Includes Steam key!)",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/sub/59404/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 22% off; regular price is $8.99.\nStore page: http://www.zojoi.com/uninvited_macventure/",
+        "extras": false
+    },
+    {
         "name": "Mad Games Tycoon",
         "url": "madgamestycoon/5SDHFljh32s",
         "price": "14.99",
@@ -24921,56 +24999,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Retro Déjà Vu",
-        "url": "retro_dejavu/WDSHD2hiX",
-        "price": "4.99",
-        "description": "The classic noir adventure Déjà Vu for both Mac 128k and Apple IIgs!",
-        "developer": "Zojoi LLC.",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.zojoi.com/"
-        },
-        "notes": "Store page: http://www.zojoi.com/retrodejavu/",
-        "extras": false
-    },
-    {
-        "name": "Retro Déjà Vu II",
-        "url": "retro_dejavu_two/XlkJSDo23Y",
-        "price": "4.99",
-        "description": "The sequel to Déjà Vu for both Mac 128k and Apple IIgs!",
-        "developer": "Zojoi LLC.",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.zojoi.com/"
-        },
-        "notes": "Store page: http://www.zojoi.com/retrodejavuii/",
-        "extras": false
-    },
-    {
         "name": "Retro City Rampage DX (Steam + DRM-Free)",
         "url": "retrocityrampagesteam",
         "price": "9.99",
@@ -25073,31 +25101,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Retro Shadowgate",
-        "url": "retro_shadowgate/8SLDFkj3hs",
-        "price": "2.99",
-        "description": "The classic fantasy adventure Shadowgate for both Mac 128k and Apple IIgs!",
-        "developer": "Zojoi LLC.",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.zojoi.com/"
-        },
-        "notes": "On sale at 40% off; regular price is $4.99.\nStore page: http://www.zojoi.com/retroshadowgate/",
-        "extras": false
-    },
-    {
         "name": "Reversi",
         "url": "reversi/bSDFLkj11",
         "price": "9.99",
@@ -25121,31 +25124,6 @@ var games = [
             "developer": "http://bluelinegamestudios.com/"
         },
         "notes": "Store page: http://bluelinegamestudios.com/reversi-game/",
-        "extras": false
-    },
-    {
-        "name": "Retro Uninvited",
-        "url": "retro_uninvited/FSDkl23sS1",
-        "price": "2.99",
-        "description": "The classic horror adventure Uninvited for both Mac 128k and Apple IIgs!",
-        "developer": "Zojoi LLC.",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.zojoi.com/"
-        },
-        "notes": "On sale at 40% off; regular price is $4.99.\nStore page: http://www.zojoi.com/retrouninvited/",
         "extras": false
     },
     {
@@ -27131,6 +27109,32 @@ var games = [
             "developer": "http://www.onebitpunch.com/"
         },
         "notes": "Store page: http://www.shadowcrypt.net/",
+        "extras": false
+    },
+    {
+        "name": "Shadowgate: MacVenture Series",
+        "url": "retro_shadowgate/8SLDFkj3hs",
+        "price": "1.99",
+        "description": "The classic fantasy adventure Shadowgate (Mac 128k and Apple IIgs) for Windows and Mac! (Includes Steam key!)",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/343800/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 33% off; regular price is $2.99.\nStore page: http://www.zojoi.com/shadowgate_macventure/",
         "extras": false
     },
     {
@@ -34475,6 +34479,32 @@ var games = [
             "developer": "http://invertmouse.com/"
         },
         "notes": "Store page: http://unhack.invertmouse.com/#play.html",
+        "extras": false
+    },
+    {
+        "name": "Uninvited: MacVenture Series",
+        "url": "retro_uninvited/FSDkl23sS1",
+        "price": "1.99",
+        "description": "The classic horror adventure Uninvited (Mac 128k and Apple IIgs) for Windows and Mac! (Includes Steam key!)",
+        "developer": "Zojoi LLC.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/343810/",
+            "developer": "http://www.zojoi.com/"
+        },
+        "notes": "On sale at 33% off; regular price is $2.99.\nStore page: http://www.zojoi.com/uninvited_macventure/",
         "extras": false
     },
     {
