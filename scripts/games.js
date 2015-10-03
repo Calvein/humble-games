@@ -30426,9 +30426,12 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.pcgamer.com/super-hexagon-review/",
             "steam": "http://store.steampowered.com/app/221640/",
-            "developer": "http://www.superhexagon.com/"
-        }
+            "developer": "http://terrycavanaghgames.com/",
+        },
+        "notes": "The game is also playable on Firefox and Chrome web browsers.\nStore page: http://www.superhexagon.com/",
+        "extras": false
     },
     {
         "name": "Super Meat Boy",
