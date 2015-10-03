@@ -12498,6 +12498,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Game Corp DX",
+        "url": "gamecorpdx/3d3d2",
+        "price": "2.99",
+        "description": "Get early access to Game Corp DX cross-platform on Steam!",
+        "developer": "Endless Loop Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/399670/",
+            "developer": "http://www.endlessloopstudios.com/"
+        },
+        "notes": "Store page: http://www.gamecorpdx.com/",
+        "extras": false
+    },
+    {
         "name": "Game Dev Tycoon",
         "url": "gamedevtycoon/Gamdkwo1",
         "price": "9.99",
