@@ -16142,13 +16142,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://infiniteindie.com/52415/gloom-why-am-i-here",
             "desura": "http://www.desura.com/games/into-the-gloom",
+            "steam": "http://store.steampowered.com/app/342350/",
             "developer": "http://flyinginteractive.com/"
         },
         "notes": "Store page: http://flyinginteractive.com/intothegloom/",
