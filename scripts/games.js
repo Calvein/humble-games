@@ -8018,11 +8018,11 @@ var games = [
         "description": "David.\nis a game. A game about physics and enemies. A game about struggles and life. A game about David.",
         "developer": "Fermenter",
         "platform": {
-            "android": false,
+            "android": true,
             "windows": true,
             "linux": false,
             "mac": true,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": false,
