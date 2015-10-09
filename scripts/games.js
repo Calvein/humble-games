@@ -10429,13 +10429,14 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://www.tacticularcancer.com/content.php?id=3904",
+            "steam": "http://store.steampowered.com/app/235660/",
             "developer": "http://snowbirdgames.com/"
         },
         "notes": "Store page: http://www.snowbirdgames.com/eador/preorder/?lang=en",
