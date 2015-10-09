@@ -26132,7 +26132,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -26140,6 +26140,7 @@ var games = [
         "URL": {
             "review": "http://indiegamereviewer.com/review-saturday-morning-rpg/",
             "desura": "http://www.desura.com/games/saturday-morning-rpg",
+            "steam": "http://store.steampowered.com/app/263320/",
             "developer": "http://www.mightyrabbitstudios.com/"
         },
         "notes": "Store page: http://www.mightyrabbitstudios.com/?page_id=48",
