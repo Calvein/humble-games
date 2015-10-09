@@ -35420,7 +35420,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/259130/",
             "developer": "http://www.inxile-entertainment.com/"
         },
-        "notes": "Assumed it provides a Steam key only like in the Humble Store.\nStore page: http://wasteland.inxile-entertainment.com/store",
         "extras": false
     },
     {
