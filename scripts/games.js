@@ -13695,8 +13695,8 @@ var games = [
     {
         "name": "Goscurry",
         "url": "goscurry/Dne9FfjeSbng",
-        "price": "5.99",
-        "description": "Get Goscurry instantly! Cross-platform, DRM-free, and powered by eco electro-beat energy!",
+        "price": "7.99",
+        "description": "Get Goscurry instantly! Cross-platform, DRM-free, Steam key, and powered by eco electro-beat energy!",
         "developer": "Holoville",
         "platform": {
             "android": false,
@@ -13706,16 +13706,17 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://www.youtube.com/watch?v=CnLB3qp8Mao",
+            "steam": "",
             "developer": "http://www.holoville.com/games/"
         },
-        "notes": "3-tier widget where you can purchase the game ($5.99), the OST ($4.99), and both ($9.99).\nStore page: http://www.goscurry.com/buy.php",
+        "notes": "3-tier widget where you can purchase the game ($7.99), the OST ($5.99), or both ($11.99).\nStore page: http://www.goscurry.com/buy.php",
         "extras": false
     },
     {
