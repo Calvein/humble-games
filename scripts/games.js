@@ -14241,10 +14241,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "Groundskeeper 2",
+        "name": "Groundskeeper2",
         "url": "groundskeeper2/pmjkpjmpEIue399",
-        "price": "5",
-        "description": "Get Groundskeeper 2 instantly! Cross-platform and DRM-free! Requires Java to run and play!",
+        "price": "3.99",
+        "description": "Get Groundskeeper2 cross-platform and DRM-free!",
         "developer": "OrangePixel",
         "platform": {
             "android": false,
