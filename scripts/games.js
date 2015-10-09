@@ -3782,8 +3782,8 @@ var games = [
     {
         "name": "Bik",
         "url": "bik/sfaddaauiiuoyYY21",
-        "price": "5.99",
-        "description": "Includes downloads for Windows, Mac, Linux, and Android. All DRM-free. Includes soundtrack!",
+        "price": "6.99",
+        "description": "Includes DRM-free downloads for Windows, Mac, Linux, and Android. Soundtrack and Steam Key now included!",
         "developer": "Zotnip LLC",
         "platform": {
             "android": true,
@@ -3793,7 +3793,7 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -3801,6 +3801,7 @@ var games = [
         "URL": {
             "review": "http://readretro.com/reviews/bik/",
             "desura": "http://www.desura.com/games/bik",
+            "steam": "http://store.steampowered.com/app/325160/",
             "developer": "http://zotnip.com/"
         },
         "notes": "Store page: http://bikgame.com/store/",
