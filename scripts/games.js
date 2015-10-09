@@ -9551,6 +9551,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "DRAGON: A Game About a Dragon",
+        "url": "dragon_agameaboutadragon/Xuijf8hEhP",
+        "price": "5.99",
+        "description": "Get DRAGON: A Game About a Dragon instantly for Windows, DRM-free + Steam!",
+        "developer": "Games With Dragons In",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiehaven.com/dragon-a-game-about-a-dragon-review/",
+            "steam": "http://store.steampowered.com/app/351150",
+            "developer": "http://agameaboutadragon.net/"
+        },
+        "notes": "Store page: http://agameaboutadragon.net/download-buy/",
+        "extras": false
+    },
+    {
         "name": "Dreamfall Chapters Season Pass",
         "url": "dreamfallchapters_seasonpass/SLDfkj23WwD",
         "price": "29.99",
