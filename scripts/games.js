@@ -2103,23 +2103,25 @@ var games = [
         "name": "Another Perspective",
         "url": "anotherperspective/Andkwodk1l2k",
         "price": "5",
-        "description": "Get Another Perspective instantly and DRM-free!",
+        "description": "Get Another Perspective for Windows instantly on Steam and DRM-free!",
         "developer": "Shaun Spalding",
         "platform": {
-                "android": false,
-                "linux": false,
-                "windows": true,
-                "mac": false,
-                "audio": false
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
         },
         "drm": {
-                "steam": false,
-                "desura": false,
-                "gog": false,
-                "drm-free": true
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
         },
         "URL": {
-                "developer": "http://shaunspalding.co.uk/"
+            "review": "http://indiegamemag.com/another-perspective-review-bleak-mad-and-intelligent/",
+            "steam": "http://store.steampowered.com/app/305920/",
+            "developer": "http://shaunspalding.co.uk/"
         },
         "extras": false
     },
