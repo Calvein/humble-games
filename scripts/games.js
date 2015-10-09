@@ -4990,8 +4990,8 @@ var games = [
     {
         "name": "Butsbal",
         "url": "butsbal/WWdKLfj23",
-        "price": "5.99",
-        "description": "*REQUIRES 2-8 PLAYERS* Butsbal is a local mp shooter game with 4 game modes: DM, TDM, CTF and Last Man Standing. For Windows, DRM-free!",
+        "price": "2.99",
+        "description": "Butsbal is a minimalistic fast pace multiplayer shooter",
         "developer": "Xtase Studios",
         "platform": {
             "android": false,
@@ -5007,8 +5007,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/375330/",
             "developer": "http://www.xtasestudios.com/"
         },
+        "notes": "Store page: http://www.xtasestudios.com/portfolio/butsbal",
         "extras": false
     },
     {
