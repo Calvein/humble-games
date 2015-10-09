@@ -13690,7 +13690,7 @@ var games = [
     {
         "name": "Grail to the Thief",
         "url": "grailtothethief/Ghasdlkj239sj",
-        "price": "5",
+        "price": "4.99",
         "description": "Grail to the Thief is an interactive audio adventure that can be played using only sound, without the need for visuals. DRM-free!",
         "developer": "For All To Play",
         "platform": {
@@ -13707,10 +13707,12 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "https://www.pixeldynamo.com/reviews/2014/10/23/36086/grail-thief/",
+            "steam": "http://store.steampowered.com/app/373140/",
             "desura": "http://www.desura.com/games/grail-to-the-thief",
             "developer": "http://www.foralltoplay.com/"
         },
-        "notes": "Store page: http://www.foralltoplay.com/#buynow",
+        "notes": "Store page: http://www.foralltoplay.com/games/grail-to-the-thief/index.php#buynow",
         "extras": false
     },
     {
