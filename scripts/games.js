@@ -2208,8 +2208,8 @@ var games = [
     {
         "name": "Appointment With F.E.A.R.",
         "url": "appointmentwithfear/ZXChjwer083",
-        "price": "5.99",
-        "description": "Appointment With F.E.A.R. is a graphic novel where YOU are the hero! Choose your hero's gender and abilities, then fight crime! (Pre-Order)",
+        "price": "9.99",
+        "description": "Appointment With F.E.A.R. is a graphic novel where YOU are the hero! Choose your hero's gender and abilities, then fight crime!",
         "developer": "Tin Man Games",
         "platform": {
             "android": true,
