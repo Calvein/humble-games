@@ -22267,7 +22267,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -22275,9 +22275,10 @@ var games = [
         "URL": {
             "review": "http://diehardgamefan.com/2013/11/06/review-paper-sorcerer-pc/",
             "desura": "http://www.desura.com/games/paper-sorcerer",
+            "steam": "http://store.steampowered.com/app/263560/",
             "developer": "http://www.ultrarunaway.com/"
         },
-        "notes": "Store page: http://www.ultrarunaway.com/store.html",
+        "notes": "Only the Windows version is available on Steam.\nStore page: http://www.ultrarunaway.com/store.html",
         "extras": false
     },
     {
