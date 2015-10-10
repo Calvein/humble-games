@@ -17274,6 +17274,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Keep Talking and Nobody Explodes",
+        "url": "keeptalkingandnobodyexplodes/3d2x",
+        "price": "14.99",
+        "description": "Get Keep Talking and Nobody Explodes for Windows, DRM-free and on Steam!",
+        "developer": "Steel Crate Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://arstechnica.com/gaming/2015/10/keep-talking-and-nobody-explodes-review-the-exact-opposite-of-a-bomb/",
+            "steam": "http://store.steampowered.com/app/341800/",
+            "developer": "http://www.keeptalkinggame.com/press/index.html"
+        },
+        "notes": "Store page: http://www.keeptalkinggame.com/#buy",
+        "extras": false
+    },
+    {
         "name": "Kentucky Route Zero Complete",
         "url": "kentuckyroutezerocomplete/SjdoA63jSnz",
         "price": "25",
