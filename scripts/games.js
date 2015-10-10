@@ -14647,7 +14647,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/207430/",
             "developer": "http://www.gooeyblob.com/"
         },
-        "notes": "Store page: http://hackslashloot.com/purchase.html",
+        "notes": "Linux version not available on Steam.\nStore page: http://hackslashloot.com/purchase.html",
         "extras": false
     },
     {
