@@ -8772,7 +8772,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/249630",
             "developer": "http://www.intrrpt.com/"
         },
-        "notes": "Store page: http://www.delvergame.com/download.html",
+        "notes": "Early Access game.\nLinux version not available on Steam.\nStore page: http://www.delvergame.com/download.html",
         "extras": false
     },
     {
