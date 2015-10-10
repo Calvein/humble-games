@@ -10657,15 +10657,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
             "review": "http://indiehaven.com/electronic-super-joy-preview-with-video/",
+            "steam": "http://store.steampowered.com/app/244870/",
             "developer": "http://www.michaeltoddgames.com/"
         },
+        "notes": "Store page: http://www.electronicsuperjoy.com/",
         "extras": false
     },
     {
@@ -10691,6 +10693,7 @@ var games = [
             "review": "http://indiehaven.com/electronic-super-joy-preview-with-video/",
             "developer": "http://www.michaeltoddgames.com/"
         },
+        "notes": "Store page: http://www.electronicsuperjoy.com/",
         "extras": false
     },
     {
