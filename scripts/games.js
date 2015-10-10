@@ -2587,7 +2587,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -2598,7 +2598,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/205870/",
             "developer": "http://www.cipherprime.com/"
         },
-        "notes": "Store page: http://www.cipherprime.com/mayday",
+        "notes": "Store page: http://www.cipherprime.com/games/auditorium#humblewidget",
         "extras": false
     },
     {
