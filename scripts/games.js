@@ -12071,7 +12071,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -12082,7 +12082,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/61310/",
             "developer": "http://www.cipherprime.com/"
         },
-        "notes": "Store page: http://www.cipherprime.com/mayday",
+        "notes": "Linux version not available on Steam.\nStore page: http://www.cipherprime.com/games/fractal#humblewidget",
         "extras": false
     },
     {
