@@ -13462,13 +13462,13 @@ var games = [
         "developer": "Robotronic Games",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -13479,7 +13479,7 @@ var games = [
             "desura": "http://www.desura.com/games/gnomoria",
             "developer": "http://gnomoria.com"
         },
-        "notes": "20% discount during alpha\nImmediate access to alpha",
+        "notes": "Early Access game.\nMac and Linux versions presumably only available on Steam.\nStore page: http://gnomoria.com/downloads/",
         "extras": false
     },
     {
