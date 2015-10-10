@@ -8905,8 +8905,8 @@ var games = [
         "name": "Detective Grimoire",
         "url": "detectivegrimoire/Dwldkwo1",
         "price": "6.99",
-        "description": "Get Detective Grimoire now, cross platform and DRM-free!",
-        "developer": "Armor Games",
+        "description": "Get Detective Grimoire now, cross platform, DRM-free and Steam!",
+        "developer": "SFB Games",
         "platform": {
             "android": true,
             "windows": true,
@@ -8915,13 +8915,15 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
-            "developer": "http://armorgames.com/"
+            "review": "http://www.rockpapershotgun.com/2014/08/19/detective-grimoire-review/",
+            "steam": "http://detectivegrimoire.com/img/steam.jpg",
+            "developer": "http://sfbgames.com/"
         },
         "notes": "Store page: http://detectivegrimoire.com/",
         "extras": false
@@ -8946,6 +8948,8 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.rockpapershotgun.com/2014/08/19/detective-grimoire-review/",
+            "steam": "http://detectivegrimoire.com/img/steam.jpg",
             "developer": "http://sfbgames.com/"
         },
         "notes": "Store page: http://detectivegrimoire.com/",
