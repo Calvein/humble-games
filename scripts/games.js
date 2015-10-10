@@ -11677,7 +11677,7 @@ var games = [
         "name": "FIST OF AWESOME",
         "url": "fistofawesome/Fkdowk3",
         "price": "7.99",
-        "description": "Get Fist of Awesome (Android) instantly!",
+        "description": "Get Fist of Awesome instantly!",
         "developer": "I Fight Bears",
         "platform": {
             "android": true,
@@ -11687,16 +11687,16 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": false
         },
         "URL": {
             "review": "http://www.gamezebo.com/games/fist-awesome/review",
+            "steam": "http://store.steampowered.com/app/305070/",
             "developer": "http://ifightbears.co.uk/press/"
         },
-        "notes": "Store page: http://fistofawesome.com/",
         "extras": false
     },
     {
