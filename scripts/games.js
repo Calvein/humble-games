@@ -15733,7 +15733,7 @@ var games = [
     {
         "name": "Hyphen",
         "url": "hyphen/Fifkajsldk20d",
-        "price": "6.75",
+        "price": "7.99",
         "description": "Get Hyphen instantly for Windows, DRM-free!",
         "developer": "FarSpace Studios",
         "platform": {
@@ -15754,7 +15754,7 @@ var games = [
             "desura": "http://www.desura.com/games/hyphen",
             "developer": "http://www.farspacestudios.com/"
         },
-        "notes": "Store page: http://www.farspacestudios.com/games/hyphen/",
+        "notes": "Regional pricing: £5.59/€7,99.\nStore page: http://www.farspacestudios.com/games/hyphen/",
         "extras": false
     },
     {
