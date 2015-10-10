@@ -18162,20 +18162,23 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
+            "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://sirusgaming.info/life-of-pixel-review/",
+            "steam": "http://store.steampowered.com/app/327260/",
+            "desura": "http://www.desura.com/games/life-of-pixel",
             "developer": "http://www.supericon.co.uk/",
         },
-        "notes": "Store page: http://www.lifeofpixel.co.uk/#buy",
+        "notes": "Linux version only available on Steam.\nStore page: http://www.lifeofpixel.co.uk/#buy",
         "extras": false
     },
     {
