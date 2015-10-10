@@ -8153,6 +8153,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Death Ray Manta",
+        "url": "deathraymanta/f3s1",
+        "price": "3.99",
+        "description": "Get Death Ray Manta for Windows, DRM-free and on Steam!",
+        "developer": "Rob Fearon",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.eurogamer.net/articles/2015-09-30-death-ray-manta-se-review",
+            "steam": "http://store.steampowered.com/app/338760/",
+            "developer": "http://bagfullofwrong.co.uk/bagfullofwords/"
+        },
+        "notes": "Store page: http://www.futureofvideogames.co.uk/drm/#buygames",
+        "extras": false
+    },
+    {
         "name": "Decoda Commercial License",
         "url": "decodacommerciallicense",
         "price": "400",
