@@ -9041,10 +9041,10 @@ var games = [
         "extras": false
     },
     {
-        "name": "Discouraged Workers (Early Access)",
+        "name": "Discouraged Workers",
         "url": "discouragedworkers/234ter35",
-        "price": "7.99",
-        "description": "Get Discouraged Workers (Early Access), cross-platform on Steam and DRM-free!",
+        "price": "14.99",
+        "description": "Get Discouraged Workers, cross-platform on Steam and DRM-free!",
         "developer": "YGGDRASIL STUDIO",
         "platform": {
             "android": false,
