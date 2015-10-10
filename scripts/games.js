@@ -19499,7 +19499,7 @@ var games = [
     {
         "name": "Mini Metro",
         "url": "minimetro/NIUCv54",
-        "price": "6.99",
+        "price": "9.99",
         "description": "Purchase Mini Metro today! Cross-platform, DRM-free, and redeemable on Steam.",
         "developer": "Dinosaur Polo Club",
         "platform": {
@@ -19519,7 +19519,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/287980/",
             "developer": "http://dinopoloclub.com/"
         },
-        "notes": "Store page: http://dinopoloclub.com/minimetro/#buy",
+        "notes": "Early Access game.\nStore page: http://dinopoloclub.com/minimetro/#buy",
         "extras": false
     },
     {
