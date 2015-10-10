@@ -7839,7 +7839,7 @@ var games = [
     {
         "name": "Cyto",
         "url": "cyto/NAdlkfj3120js",
-        "price": "6",
+        "price": "3.99",
         "description": "Get Cyto instantly! Available on Windows, Mac, and Android, DRM-free! Also redeemable on Steam!",
         "developer": "Room 8 Studio",
         "platform": {
