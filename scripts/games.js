@@ -23868,7 +23868,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -23876,8 +23876,11 @@ var games = [
         "URL": {
             "review": "http://www.indiegamemag.com/probability-0-review/",
             "desura": "http://www.desura.com/games/probability-0",
-            "developer": "http://www.probability0.com/"
-        }
+            "steam": "http://store.steampowered.com/app/258070/",
+            "developer": "http://www.droqen.com/"
+        },
+        "notes": "Store page: http://www.probability0.com/",
+        "extras": false
     },
     {
         "name": "Probability 0 & Friends",
@@ -23899,8 +23902,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
-            "developer": "http://www.probability0.com/#FRIENDS"
-        }
+            "developer": "http://www.droqen.com/"
+        },
+        "notes": "Store page: http://www.probability0.com/#FRIENDS",
+        "extras": false
     },
     {
         "name": "Probably Archery",
