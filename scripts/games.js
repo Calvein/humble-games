@@ -17180,7 +17180,7 @@ var games = [
     {
         "name": "Kaiju Panic",
         "url": "kaijupanic/Kdowkdo4",
-        "price": "10",
+        "price": "20",
         "description": "Preorder a copy of Kaiju Panic at 50% alpha discount. Cross-platform and DRM free!",
         "developer": "Mechabit",
         "platform": {
@@ -17197,9 +17197,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
-                "developer": "http://mechabit.co.uk/"
+            "review": "http://www.softpedia.com/reviews/games/pc/kaiju-panic-review-494248.shtml",
+            "steam": "http://store.steampowered.com/app/352760/",
+            "developer": "http://mechabit.co.uk/"
         },
-        "notes": "Linux version coming soon.\nStore page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
+        "notes": "A Linux version is allegedly being developed.\nStore page: http://mechabit.co.uk/kaijupanic/preorder.html#preorder",
         "extras": false
     },
     {
