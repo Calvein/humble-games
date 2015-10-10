@@ -5322,30 +5322,6 @@ var games = [
         }
     },
     {
-        "name": "CastleAbra",
-        "url": "castleabra/vbeiuebVNOIDvr",
-        "price": "6.99",
-        "description": "Get CastleAbra instantly! DRM free for Windows.",
-        "developer": "CastleAbra Studios",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://castleabra.com/CastleAbra.aspx"
-        },
-        "extras": false
-    },
-    {
         "name": "Catacomb Kids (Alpha Access)",
         "url": "catacombkids/Ckdowk4",
         "price": "15.99",
