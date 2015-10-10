@@ -20750,7 +20750,7 @@ var games = [
         "name": "Noir Syndrome",
         "url": "noirsyndrome/nj23NJ2wv",
         "price": "6.99",
-        "description": "Get Noir Syndrome instantly! Cross-platform and DRM-free.",
+        "description": "Get Noir Syndrome instantly! Cross-platform and DRM-free. Now with Steam Key!",
         "developer": "Glass Knuckle Games",
         "platform": {
             "android": false,
@@ -20760,12 +20760,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://nerdybutflirty.com/2014/06/10/review-noir-syndrome-earn-your-detective-badge/",
+            "steam": "http://store.steampowered.com/app/299780/",
             "desura": "http://www.desura.com/games/noir-syndrome",
             "developer": "http://glassknuckle.com/"
         },
@@ -20786,12 +20788,14 @@ var games = [
             "audio": true
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://nerdybutflirty.com/2014/06/10/review-noir-syndrome-earn-your-detective-badge/",
+            "steam": "http://store.steampowered.com/app/299780/",
             "desura": "http://www.desura.com/games/noir-syndrome",
             "developer": "http://glassknuckle.com/"
         },
