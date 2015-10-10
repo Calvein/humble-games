@@ -7375,6 +7375,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "CRYPTARK (Early Access)",
+        "url": "cryptark/3lk0",
+        "price": "12.99",
+        "description": "Order CRYPTARK cross-platform",
+        "developer": "Alientrap",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/344740/",
+            "developer": "http://www.alientrap.org/"
+        },
+        "notes": "Store page: http://www.cryptark.com/#early-main",
+        "extras": false
+    },
+    {
         "name": "Cryptic Sea EP",
         "url": "crypticseaep/Cry0Pe8Usgh",
         "price": "3",
