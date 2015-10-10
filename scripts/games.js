@@ -6487,29 +6487,31 @@ var games = [
         "extras": false
     },
     {
-        "name": "Commander Cool 2: Tier I",
+        "name": "Commander Cool 2 - powered by orlygift.com",
         "url": "commandercool2_tier1/HSDLFk23h",
-        "price": "7.99",
+        "price": "1.99",
         "description": "2D-Arcade-Platformer with oldschool jump and run action. (Pre-Order)",
         "developer": "Orlyapps",
         "platform": {
-            "android": true,
+            "android": false,
             "windows": true,
             "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "review": "https://gamesthatiplay.wordpress.com/2015/04/25/commander-cool-2-steam-review/",
+            "steam": "http://store.steampowered.com/app/356070/",
             "desura": "http://www.desura.com/games/commander-cool-2",
             "developer": "http://commander-cool.com/blog"
         },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://commander-cool.com/#preorder",
+        "notes": "This widget is no longer available on the game's website. Buy at your own risk.",
         "extras": false
     },
     {
@@ -6519,23 +6521,25 @@ var games = [
         "description": "2D-Arcade-Platformer with oldschool jump and run action. (Pre-Order)",
         "developer": "Orlyapps",
         "platform": {
-            "android": true,
+            "android": false,
             "windows": true,
             "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "review": "https://gamesthatiplay.wordpress.com/2015/04/25/commander-cool-2-steam-review/",
+            "steam": "http://store.steampowered.com/app/356070/",
             "desura": "http://www.desura.com/games/commander-cool-2",
             "developer": "http://commander-cool.com/blog"
         },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://commander-cool.com/#preorder",
+        "notes": "This widget is no longer available on the game's website. Buy at your own risk.",
         "extras": true
     },
     {
@@ -6545,23 +6549,25 @@ var games = [
         "description": "2D-Arcade-Platformer with oldschool jump and run action. (Pre-Order)",
         "developer": "Orlyapps",
         "platform": {
-            "android": true,
+            "android": false,
             "windows": true,
             "linux": true,
             "mac": true,
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "review": "https://gamesthatiplay.wordpress.com/2015/04/25/commander-cool-2-steam-review/",
+            "steam": "http://store.steampowered.com/app/356070/",
             "desura": "http://www.desura.com/games/commander-cool-2",
             "developer": "http://commander-cool.com/blog"
         },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://commander-cool.com/#preorder",
+        "notes": "This widget is no longer available on the game's website. Buy at your own risk.",
         "extras": true
     },
     {
