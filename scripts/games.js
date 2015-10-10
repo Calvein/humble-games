@@ -24708,8 +24708,8 @@ var games = [
     {
         "name": "Read Only Memories",
         "url": "readonlymemories/mOIDn20948i1j",
-        "price": "9.99",
-        "description": "Pre-order Read Only Memories now! At launch you will get your choice between DRM-free, Steam key or OUYA.",
+        "price": "14.99",
+        "description": "Pre-order Read Only Memories now! At launch you will be able to redeem the game DRM-free or by Steam key.",
         "developer": "MidBoss",
         "platform": {
             "android": false,
@@ -24725,13 +24725,15 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.destructoid.com/review-read-only-memories-313479.phtml",
+            "steam": "http://store.steampowered.com/app/330820/",
             "developer": "http://www.midboss.com/"
         },
-        "notes": "Store page: http://midboss.com/rom/",
+        "notes": "Game already released.\nStore page: http://midboss.com/rom/",
         "extras": false
     },
     {
-        "name": "Read Only Memories + Original Soundtrack",
+        "name": "Read Only Memories: Sights and Sounds of Neo-SF",
         "url": "readonlymemories_ost/94HSDfjh23",
         "price": "19.99",
         "description": "Pre-order now! You will get your choice between DRM-free, Steam or OUYA at launch, as well as a full soundtrack composed by 2 Mello!",
@@ -24750,9 +24752,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.destructoid.com/review-read-only-memories-313479.phtml",
+            "steam": "http://store.steampowered.com/app/330820/",
             "developer": "http://www.midboss.com/"
         },
-        "notes": "Store page: http://midboss.com/rom/",
+        "notes": "Game already released.\nThis widget is no longer available on the game's website, so buy at your own risk.\nStore page: http://midboss.com/rom/",
         "extras": false
     },
     {
@@ -24775,9 +24779,11 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.destructoid.com/review-read-only-memories-313479.phtml",
+            "steam": "http://store.steampowered.com/app/330820/",
             "developer": "http://www.midboss.com/"
         },
-        "notes": "Store page: http://midboss.com/rom/",
+        "notes": "Game already released.\nStore page: http://midboss.com/rom/",
         "extras": true
     },
     {
