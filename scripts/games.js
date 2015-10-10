@@ -3663,15 +3663,16 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/346010/",
             "developer": "http://spiderlinggames.co.uk/"
         },
-        "notes": "Store page: http://www.besiege.spiderlinggames.co.uk/index.html#BuyAlphaPoint",
+        "notes": "Early Access game.\nStore page: http://www.besiege.spiderlinggames.co.uk/index.html#BuyAlphaPoint",
         "extras": false
     },
     {
