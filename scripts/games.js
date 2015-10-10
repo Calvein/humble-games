@@ -30012,7 +30012,7 @@ var games = [
         "name": "Stranded",
         "url": "stranded/Sjdkwo43",
         "price": "7.99",
-        "description": "Purchase Stranded + Official Soundtrack! Cross-platform and DRM-free.",
+        "description": "Purchase Stranded + Official Soundtrack! Cross-platform and DRM-free. Also redeemable via Steam!",
         "developer": "Peter Moorhead",
         "platform": {
             "android": false,
@@ -30028,6 +30028,8 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.eurogamer.net/articles/2014-07-04-stranded-review",
+            "steam": "http://store.steampowered.com/app/295250/",
             "developer": "http://www.petermoorhead.com/"
         },
         "notes": "Store page: http://www.petermoorhead.com/stranded/#buynow",
