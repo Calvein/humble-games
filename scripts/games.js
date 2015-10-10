@@ -25746,8 +25746,8 @@ var games = [
     {
         "name": "ROGUS - Kingdom of The Lost Souls",
         "url": "rogus_kingdomofthelostsouls/4SDfjlkwhsSg",
-        "price": "7.99",
-        "description": "Get ROGUS instantly for Windows, DRM-free. You will also receive a Steam key when we get Greenlit!",
+        "price": "4.99",
+        "description": "Get ROGUS - Kingdom of The Lost Souls instantly for Windows, DRM-free.",
         "developer": "IronDrop Studios",
         "platform": {
             "android": false,
@@ -25757,12 +25757,14 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.brashgames.co.uk/2015/08/12/rogus-kingdom-of-the-lost-souls-review/",
+            "steam": "http://store.steampowered.com/app/366350/",
             "developer": "http://irondropstudios.com/"
         },
         "extras": false
