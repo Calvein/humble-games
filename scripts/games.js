@@ -21928,7 +21928,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -21936,6 +21936,7 @@ var games = [
         "URL": {
             "review": "http://www.destructoid.com/review-oniken-230786.phtml",
             "desura": "http://www.desura.com/games/oniken",
+            "steam": "http://store.steampowered.com/app/252010/",
             "developer": "http://www.oniken.net/"
         },
         "notes": "Store page: http://joymasher.com/oniken/",
