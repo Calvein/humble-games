@@ -10561,7 +10561,7 @@ var games = [
         "name": "Eets Munchies Early-Access Beta",
         "url": "eetsmunchies/pending",
         "price": "6.99",
-        "description": "Join the Early-Access Beta and play instantly!Join the Early-Access Beta and play instantly! - Get an extra copy with your purchase - Redeem it on Steam!",
+        "description": "Join the Early-Access Beta and play instantly!\n- Get an extra copy with your purchase\n- Get it on Steam for free when it launches",
         "developer": "Klei Entertainment",
         "platform": {
             "android": false,
@@ -10577,8 +10577,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/214550/",
             "developer": "http://kleientertainment.com"
         },
+        "notes": "The game is no longer in Beta/Early Access.",
         "extras": false
     },
     {
