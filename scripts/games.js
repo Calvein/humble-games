@@ -28304,7 +28304,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -28315,6 +28315,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/348270/",
             "developer": "http://nonadecimal.com/site/"
         },
+        "notes": "Store page: http://nonadecimal.com/site/socialjusticewarriors/",
         "extras": false
     },
     {
