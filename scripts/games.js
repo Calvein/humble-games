@@ -6305,7 +6305,7 @@ var games = [
     {
         "name": "ClusterPuck 99",
         "url": "clusterpuck99/eDijwkn00jdlk",
-        "price": "7.99",
+        "price": "9.99",
         "description": "Get ClusterPuck 99 instantly! Available on Windows/Mac, DRM-free!",
         "developer": "PHL Collective",
         "platform": {
@@ -6316,15 +6316,17 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
-            "drm-free": true
+            "drm-free": false
         },
         "URL": {
+            "review": "http://etgeekera.com/2015/02/20/clusterpuck-99-review/",
+            "steam": "http://store.steampowered.com/app/337960/",
             "developer": "http://phlcollective.com/"
         },
-        "notes": "Store page: http://clusterpuck99.com/#primary",
+        "notes": "Despite what the widget description claims, the game is now Steam-only.",
         "extras": false
     },
     {
