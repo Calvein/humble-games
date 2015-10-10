@@ -33153,7 +33153,7 @@ var games = [
         }
     },
     {
-        "name": "Three Fourths Home",
+        "name": "Three Fourths Home: Extended Edition",
         "url": "threefourthshome/2DSoij23ksha",
         "price": "6.99",
         "description": "Three Fourths Home is a visual short story. The player takes the role of Kelly, a woman in her 20's who has recently moved back to Nebraska.",
@@ -33167,7 +33167,7 @@ var games = [
         },
         "drm": {
             "steam": true,
-            "desura": true,
+            "desura": false,
             "gog": false,
             "drm-free": true
         },
