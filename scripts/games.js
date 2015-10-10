@@ -3162,7 +3162,7 @@ var games = [
     {
         "name": "Bardbarian",
         "url": "bardbarian/uoiwearuHRUE82",
-        "price": "6.99",
+        "price": "7.99",
         "description": "Get Bardbarian instantly! Available on Windows and Mac with Steam keys and DRM-free!",
         "developer": "TreeFortress",
         "platform": {
@@ -3179,10 +3179,10 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.voletic.com/reviews/bardbarian-pc-review/",
             "steam": "http://store.steampowered.com/app/269490/",
             "developer": "http://treefortress.com/"
         },
-        "notes": "Store page: http://treefortress.com/app/_bardbarian/",
         "extras": false
     },
     {
