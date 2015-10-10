@@ -21695,11 +21695,19 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2012/04/06/wot-i-think-offspring-fling/",
+            "desura": "http://www.desura.com/games/offspring-fling",
+            "steam": "http://store.steampowered.com/app/211360/",
+            "developer": "http://kpulv.com/"
+        },
+        "notes": "Linux version not available on Steam.\nStore page: http://offspringfling.com/#store",
+        "extras": false
     },
     {
         "name": "OGS Mahjong Deluxe",
