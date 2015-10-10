@@ -11711,7 +11711,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/355420/",
             "developer": "http://www.hydezeke.com/"
         },
-        "notes": "Store page: http://www.hydezeke.com/allpurchase.html",
+        "notes": "This widget is no longer available on the game's website. Buy at your own risk.\nStore page: http://www.hydezeke.com/allpurchase.html",
         "extras": false
     },
     {
