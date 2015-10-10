@@ -18881,7 +18881,7 @@ var games = [
         }
     },
     {
-        "name": "MacVenture Series Collection",
+        "name": "MacVentures Series Collection",
         "url": "zojoi_retrosupermegabundle/ooSdfjDSlkh1",
         "price": "6.99",
         "description": "Four game pack featuring Shadowgate, Uninvited, Déjà Vu and Déjà Vu II (Mac 128k and Apple IIgs) for Windows and Mac! (Includes Steam key!)",
@@ -18903,7 +18903,7 @@ var games = [
             "steam": "http://store.steampowered.com/sub/59404/",
             "developer": "http://www.zojoi.com/"
         },
-        "notes": "On sale at 22% off; regular price is $8.99.\nStore page: http://www.zojoi.com/uninvited_macventure/",
+        "notes": "On sale at 22% off; regular price is $8.99.\nStore page: http://www.zojoi.com/dejavu_macventure/",
         "extras": false
     },
     {
