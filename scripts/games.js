@@ -13373,7 +13373,7 @@ var games = [
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -13381,8 +13381,10 @@ var games = [
         "URL": {
             "review": "http://www.macworld.com/article/2032521/review-girls-like-robots-is-a-charming-challenging-puzzler-with-a-quirky-storyline.html",
             "desura": "http://www.desura.com/games/Girls-Like-Robots",
-            "developer": "http://www.popcannibal.com/girlslikerobots/"
+            "steam": "http://store.steampowered.com/app/263460/",
+            "developer": "http://www.popcannibal.com/"
         },
+        "notes": "Store page: http://www.popcannibal.com/girlslikerobots/",
         "extras": false
     },
     {
