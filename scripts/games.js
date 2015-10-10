@@ -7290,12 +7290,13 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/creatures-exodus/"
+        "notes": "Store page: http://www.mergegames.com/creatures-exodus/",
+        "extras": false
     },
     {
         "name": "Creatures: Village",
@@ -7314,12 +7315,13 @@ var games = [
             "steam": false,
             "desura": false,
             "gog": false,
-            "drm-free": false
+            "drm-free": true
         },
         "URL": {
             "developer": "http://www.mergegames.com/"
         },
-        "notes": "No mention whatsoever about DRM or lack of it.\nStore page: http://www.mergegames.com/creatures-village/"
+        "notes": "Store page: http://www.mergegames.com/creatures-village/",
+        "extras": false
     },
     {
         "name": "Croixleur Sigma",
