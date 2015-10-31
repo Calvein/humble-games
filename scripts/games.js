@@ -35316,7 +35316,7 @@ var games = [
         "URL": {
             "developer": "http://no-cvt.tumblr.com/"
         },
-        "notes": "Store page: http://voidandmeddler.com/#pg-2-1",
+        "notes": "First episode already released.\nStore page: http://voidandmeddler.com/#pg-2-1",
         "extras": false
     },
     {
@@ -35341,7 +35341,7 @@ var games = [
         "URL": {
             "developer": "http://no-cvt.tumblr.com/"
         },
-        "notes": "Store page: http://voidandmeddler.com/#pg-2-1",
+        "notes": "First episode already released.\nStore page: http://voidandmeddler.com/#pg-2-1",
         "extras": false
     },
     {
