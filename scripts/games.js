@@ -27695,9 +27695,9 @@ var games = [
         "extras": true
     },
     {
-        "name": "Shallow Space: Insurgency",
+        "name": "Shallow Space - Lieutenant",
         "url": "shallowspace_insurgency/1123dwede3",
-        "price": "14.99",
+        "price": "19.99",
         "description": "(Pre-Order) You will have cross-platform Early Access and 1.0 both DRM-free and on Steam!",
         "developer": "Special Circumstances",
         "platform": {
@@ -27714,10 +27714,89 @@ var games = [
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/305840/",
             "developer": "http://specialcircumstancegames.com/"
         },
-        "notes": "Early Access expected for August 2015.\nStore page: http://shallow.space/preorder-shallow-space-insurgency-now/",
+        "notes": "Store page: http://shallow.space/preorder-shallow-space-insurgency-now/",
         "extras": false
+    },
+    {
+        "name": "Shallow Space - Lt. Commander",
+        "url": "shallowspace_insurgency_ltcommander/7SDFh234",
+        "price": "24.99",
+        "description": "You will have cross-platform Early Access and 1.0 both DRM-free and on Steam! You'll be able to submit a name to the Random Ship Generator, submit a name to the Random Officer Generator, get the PDF's for all current and future short stories, and receive a DRM-free copy of game's soundtrack on release! (Pre-Order)",
+        "developer": "Special Circumstances",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/305840/",
+            "developer": "http://specialcircumstancegames.com/"
+        },
+        "notes": "Store page: http://shallow.space/preorder-shallow-space-insurgency-now/",
+        "extras": true
+    },
+    {
+        "name": "Shallow Space - Commander",
+        "url": "shallowspace_insurgency_commander/hSdFD234h",
+        "price": "34.99",
+        "description": "You will have cross-platform Early Access and 1.0 both DRM-free and on Steam! You'll be able to submit 2 names to the Random Ship Generator, submit 2 names to the Random Officer Generator, get the PDF's for all current and future short stories, and receive a DRM-free copy of game's soundtrack on release! Also includes a DRM-free copy of Captain Panic! & Systek's album 'Monolith,' and access to the Commanders Lounge. (Pre-Order)",
+        "developer": "Special Circumstances",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/305840/",
+            "developer": "http://specialcircumstancegames.com/"
+        },
+        "notes": "Store page: http://shallow.space/preorder-shallow-space-insurgency-now/",
+        "extras": true
+    },
+    {
+        "name": "Shallow Space - Captain",
+        "url": "shallowspace_insurgency_captain/F7Sdh343",
+        "price": "59.99",
+        "description": "You will have cross-platform Early Access and 1.0 both DRM-free and on Steam! You'll be able to submit 5 names to the Random Ship Generator, submit 5 names to the Random Officer Generator, get the PDF's for all current and future short stories, and receive a DRM-free copy of game's soundtrack on release! Also includes a DRM-free copy of Captain Panic! & Systek's album 'Monolith,' access to the Commanders Lounge, access to the monthly hangouts, and your face drawn into the Game! (Pre-Order)",
+        "developer": "Special Circumstances",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/305840/",
+            "developer": "http://specialcircumstancegames.com/"
+        },
+        "notes": "Store page: http://shallow.space/preorder-shallow-space-insurgency-now/",
+        "extras": true
     },
     {
         "name": "Shatter",
