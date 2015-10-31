@@ -32007,8 +32007,8 @@ var games = [
         "platform": {
             "android": false,
             "windows": true,
-            "linux": false,
-            "mac": false,
+            "linux": true,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -32016,7 +32016,15 @@ var games = [
             "desura": true,
             "gog": false,
             "drm-free": true
-        }
+        },
+        "URL": {
+            "review": "http://www.rockpapershotgun.com/2012/06/13/wot-i-think-adventures-of-shuggy/",
+            "desura": "http://www.desura.com/games/the-adventures-of-shuggy",
+            "steam": "http://store.steampowered.com/app/211440/",
+            "developer": "http://www.smudgedcat.com/"
+        },
+        "notes": "Store page: http://www.smudgedcat.com/shuggy.htm",
+        "extras": false
     },
     {
         "name": "The Blue Flamingo",
