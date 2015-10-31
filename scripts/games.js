@@ -1990,6 +1990,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Animal Gods",
+        "url": "animalgods/74io",
+        "price": "9.99",
+        "description": "Get Animal Gods cross-platform on Steam and DRM-free!\n\nAnimal Gods is a fully illustrated, top-down, action RPG. Play as Thistle, a hunter from an ancient age. Discover a lost world. Stop an occult leader. Release the cursed gods.",
+        "developer": "Still Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.entertainmentbuddha.com/reviews/animal-gods-review/",
+            "steam": "http://store.steampowered.com/app/370220/",
+            "developer": "http://www.still-games.com/"
+        },
+        "notes": "Store page: http://www.still-games.com/index.html",
+        "extras": false
+    },
+    {
         "name": "Anodyne",
         "url": "anodyne/Sndn9sjSnlz",
         "price": "9",
