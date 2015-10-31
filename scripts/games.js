@@ -20143,6 +20143,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Murder",
+        "url": "murder/d3v4",
+        "price": "2.99",
+        "description": "Get Murder cross-platform on Steam and DRM-free + the original soundtrack!",
+        "developer": "Peter Moorhead",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.capsulecomputers.com.au/2015/10/murder-review/",
+            "steam": "http://store.steampowered.com/app/404080/",
+            "developer": "http://petermoorhead.com/"
+        },
+        "notes": "Store page: http://petermoorhead.com/murder/#4",
+        "extras": false
+    },
+    {
         "name": "Murder in the Hotel Lisbon",
         "url": "murderinthehotellisbon/PPSdf93jsds",
         "price": "9.99",
