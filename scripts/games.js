@@ -9704,6 +9704,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Dream Factory (Pre-order)",
+        "url": "dreamfactory/534gdf1234",
+        "price": "14.99",
+        "description": "Pre-order to get your name in the credits, a special Kickstarter badge on the Eastglade Mobile forum, early Alpha access, and a cross-platform Steam key for the game upon completion.",
+        "developer": "Eastglade Mobile",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/408440/",
+            "developer": "http://buydreamfactory.com/#/"
+        },
+        "notes": "Pre-order.\nStore page: http://buydreamfactory.com/#/",
+        "extras": true
+    },
+    {
         "name": "Dreamfall Chapters Season Pass",
         "url": "dreamfallchapters_seasonpass/SLDfkj23WwD",
         "price": "29.99",
