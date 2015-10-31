@@ -6069,6 +6069,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Chronicon",
+        "url": "chronicon/32fd4",
+        "price": "9.99",
+        "description": "Get Chronicon for Windows on Steam!",
+        "developer": "Subworld",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/375480/",
+            "developer": "http://www.subworldgames.com/"
+        },
+        "notes": "Early Access game.\nStore page: http://www.subworldgames.com/chronicon/",
+        "extras": false
+    },
+    {
         "name": "Circa Infinity",
         "url": "circainfinity/23fe34",
         "price": "9.99",
