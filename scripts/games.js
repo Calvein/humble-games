@@ -9648,8 +9648,33 @@ var games = [
         "URL": {
             "developer": "http://grimm-bros.com/"
         },
-        "notes": "Since this widget parallels the $15 level Kickstarter pledge, it's safe to assume that it also includes the OST, HD wallpapers, a game manual, and forum access.\nStore page: http://dragonfinsoup.com/store.html#humbleBanner",
+        "notes": "Widget no longer available on the game's website. Buy at your own risk.\nSince this widget parallels the $15 level Kickstarter pledge, it's safe to assume that it also includes the OST, HD wallpapers, a game manual, and forum access.\nStore page: http://dragonfinsoup.com/store.html#humbleBanner",
         "extras": true
+    },
+    {
+        "name": "Dragon Fin Soup (Pre-order)",
+        "url": "dragonfinsoup_widget/c3dq",
+        "price": "17.99",
+        "description": "Pre-order Dragon Fin Soup on Steam and DRM-free!",
+        "developer": "Grimm Bros",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://grimm-bros.com/"
+        },
+        "notes": "Store page: http://dragonfinsoup.com/pages/store/",
+        "extras": false
     },
     {
         "name": "Dragon Fin Soup - Digital Plus Edition",
@@ -9673,7 +9698,7 @@ var games = [
         "URL": {
             "developer": "http://grimm-bros.com/"
         },
-        "notes": "Since this widget parallels the $20 level Kickstarter pledge, it's safe to assume that it also includes the OST, HD wallpapers, a game manual, a digital art book, and forum access.\nStore page: http://dragonfinsoup.com/store.html#humbleBanner",
+        "notes": "Widget no longer available on the game's webiste. Buy at your own risk.\nSince this widget parallels the $20 level Kickstarter pledge, it's safe to assume that it also includes the OST, HD wallpapers, a game manual, a digital art book, and forum access.\nStore page: http://dragonfinsoup.com/store.html#humbleBanner",
         "extras": true
     },
     {
