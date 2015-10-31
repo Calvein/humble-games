@@ -7929,6 +7929,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Dad Beat Dads",
+        "url": "dadbeatdads/23jk98",
+        "price": "12.99",
+        "description": "Get Dad Beat Dads  on Windows & Mac, DRM-free.",
+        "developer": "Stellar Jay Studios",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": true,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/386390/",
+            "developer": "http://stellarjaystudios.com/"
+        },
+        "notes": "Store page: http://www.dadbeatdadsgame.com/",
+        "extras": false
+    },
+    {
         "name": "Damnation City of Death",
         "url": "damnationcityofdeath/9SDFk23h1",
         "price": "7.95",
