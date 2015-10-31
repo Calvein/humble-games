@@ -15628,6 +15628,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Human Resource Machine",
+        "url": "humanresourcemachine/1245gdf5",
+        "price": "9.99",
+        "description": "Get Human Resource Machine now for Windows and Mac, DRM-free + a Steam key!",
+        "developer": "Tomorrow Corporation",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://wegotthiscovered.com/gaming/human-resource-machine-review/",
+            "steam": "http://store.steampowered.com/app/375820/",
+            "developer": "http://tomorrowcorporation.com/"
+        },
+        "notes": "Store page: http://tomorrowcorporation.com/humanresourcemachine#getitnow",
+        "extras": false
+    },
+    {
         "name": "Humans Must Answer",
         "url": "humansmustanswer/Hum6Dah9K",
         "price": "10",
