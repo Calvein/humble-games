@@ -23667,6 +23667,33 @@ var games = [
         "extras": true
     },
     {
+        "name": "Planetbase",
+        "url": "planetbase/d3d2",
+        "price": "19.99",
+        "description": "Get Planetbase for Windows on Steam!",
+        "developer": "Madruga Works",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://gonewiththewin.com/dodging-meteors-to-the-head-in-planetbase-review/",
+            "steam": "http://store.steampowered.com/app/403190/",
+            "developer": "https://twitter.com/madrugaworks"
+        },
+        "notes": "Store page: http://planetbase.madrugaworks.com/buy/",
+        "extras": false
+    },
+    {
         "name": "Pocket Space Empire (Pre-order)",
         "url": "pocketspaceempire/09fd32",
         "price": "10",
