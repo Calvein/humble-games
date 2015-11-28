@@ -24376,34 +24376,6 @@
     {
         "name": "Prominence",
         "url": "prominence/d3c",
-        "price": "15.99",
-        "description": "Includes Steam key and DRM-free download for Windows! Game will unlock on November 6, 2015. Pre-order exclusive option: Select a title and have your name appear in-game as a founding settler of New Letarr!",
-        "developer": "Digital Media Workshop",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "review": "",
-            "steam": "http://store.steampowered.com/app/270230",
-            "desura": "",
-            "developer": "http://www.prominencegame.com"
-        },
-        "notes": "Pre-order before game launches on Nov. 6 to get this deal. Regular price is $19.99",
-        "extras": true
-    },
-    {
-        "name": "Prominence",
-        "url": "prominence/d3c",
         "price": "19.99",
         "description": "Includes Steam key + DRM-free download for Windows.\nEnglish and German (subtitles)",
         "developer": "Digital Media Workshop",
