@@ -15576,6 +15576,81 @@
         "extras": false
     },
     {
+        "name": "Hollow Knight",
+        "url": "hollowknight/c7h4",
+        "price": "15",
+        "description": "Receive a digital copy of Hollow Knight for PC, Mac or Linux and a digital copy of the illustrated Instruction Manual.",
+        "developer": "Team Cherry",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://teamcherry.com.au/"
+        },
+        "notes": "Store page: http://hollowknight.com/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Hollow Knight (Explorer's Edition)",
+        "url": "hollowknight_specialed/c7h4",
+        "price": "25",
+        "description": "Receive a digital copy of the Hollow Knight Game + a digital copy of the Hollow Knight Original Sound Track + a digital copy of the Hallownest World Map + a digital copy of the Hollow Knight Comic + a digital copy of the illustrated Instruction Manual.",
+        "developer": "Team Cherry",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://teamcherry.com.au/"
+        },
+        "notes": "Store page: http://hollowknight.com/#preorder",
+        "extras": true
+    },
+    {
+        "name": "Hollow Knight (Explorer's Edition) + Beta Access",
+        "url": "hollowknight_betaaccess/c7h5",
+        "price": "45",
+        "description": "Receive access to the Hollow Knight Beta (PC only) + a digital copy of the Hollow Knight Original Sound Track + a digital copy of the Hallownest World Map + a digital copy of the Hollow Knight Comic + a digital copy of the illustrated Instruction Manual + a copy of the Hollow Knight Game for PC, Mac or Linux!",
+        "developer": "Team Cherry",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://teamcherry.com.au/"
+        },
+        "notes": "Store page: http://hollowknight.com/#preorder",
+        "extras": true
+    },
+    {
         "name": "Hot Tin Roof",
         "url": "hottinroof/Hdu7Gdyr5RFy",
         "price": "15",
