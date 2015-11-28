@@ -24402,6 +24402,32 @@
         "extras": true
     },
     {
+        "name": "Prominence",
+        "url": "prominence/d3c",
+        "price": "19.99",
+        "description": "Includes Steam key + DRM-free download for Windows.\nEnglish and German (subtitles)",
+        "developer": "Digital Media Workshop",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.hardcoregamer.com/2015/11/16/review-prominence/177448/",
+            "steam": "http://store.steampowered.com/app/270230/",
+            "developer": "http://www.prominencegame.com/"
+        },
+        "extras": false
+    },
+    {
         "name": "Prophour23",
         "url": "prophour23/Bklj2384ujoalsk",
         "price": "10",
