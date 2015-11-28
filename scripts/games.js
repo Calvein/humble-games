@@ -19460,6 +19460,33 @@
         "extras": false
     },
     {
+        "name": "Mayan Death Robots",
+        "url": "mayan_death_robots/6RxPqS2XW8",
+        "price": "14.99",
+        "description": "Purchase Mayan Death Robots for Windows, Mac and Linux. Includes a Steam key!",
+        "developer": "SOEDESCO Publishing",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://wegotthiscovered.com/gaming/mayan-death-robots-review/",
+            "steam": "http://store.steampowered.com/app/347470/",
+            "developer": "http://www.silenistudios.com/"
+        },
+        "notes": "Store page: http://www.mayandeathrobots.com/#/buy",
+        "extras": false
+    },
+    {
         "name": "McPixel",
         "url": "mcpixel/k96TXIfGhNv5",
         "price": "4.99",
