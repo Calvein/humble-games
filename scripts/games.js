@@ -36774,6 +36774,32 @@
         "extras": false
     },
     {
+        "name": "Wyrmsun",
+        "url": "wyrmsun/d43f",
+        "price": "4.99",
+        "description": "Getting Wyrmsun on Steam provides you with benefits such as Steam Trading Cards, automatic updates and Steam Workshop integration. Additionally, the Steam version features exclusive backgrounds.",
+        "developer": "Andrettin",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/370070",
+            "developer": "https://github.com/Andrettin"
+        },
+        "notes": "This game is open-source and freely available outside Steam. Its data repository can be found here (https://github.com/andrettin/wyrmsun), and its engine's repository is available here (https://github.com/Andrettin/Wyrmgus).\nThe compiled DRM-free version is only available for Windows.\nStore page: http://andrettin.github.io/",
+        "extras": false
+    },
+    {
         "name": "Wyv and Keep",
         "url": "wyvandkeep/q8zXphTV4qAB",
         "price": "14.99",
