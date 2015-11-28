@@ -6095,6 +6095,33 @@
         "extras": false
     },
     {
+        "name": "Cibele",
+        "url": "cibele/d3v",
+        "price": "8.99",
+        "description": "Get Cibele for Windows and Mac, both DRM-free. Comes with a Steam key!",
+        "developer": "Star Maid Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.eurogamer.net/articles/2015-11-02-cibele-review",
+            "steam": "http://store.steampowered.com/app/408120/",
+            "developer": "http://ninasays.so/"
+        },
+        "notes": "Store page: http://ninasays.so/cibele/#low-content",
+        "extras": false
+    },
+    {
         "name": "Circa Infinity",
         "url": "circainfinity/23fe34",
         "price": "9.99",
