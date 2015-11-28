@@ -18781,6 +18781,33 @@
         }
     },
     {
+        "name": "Lovely Weather We're Having",
+        "url": "lovelyweather/5tW1toimj7",
+        "price": "7.99",
+        "description": "LWWH download for Mac and  Windows, DRM free. Comes with a Steam Key :)",
+        "developer": "Glanderco",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://indiegamemag.com/lovely-weather-were-having-review-strange-days-in-strange-ways/",
+            "steam": "http://store.steampowered.com//app/404150",
+            "developer": "http://julianglander.com/"
+        },
+        "notes": "Store page: http://lovelyweather.info/",
+        "extras": false
+    },
+    {
         "name": "Lovers in a Dangerous Spacetime (Pre-order)",
         "url": "loversinadangerousspacetime/9SDFh234",
         "price": "14.99",
