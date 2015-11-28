@@ -26294,6 +26294,32 @@
         "extras": false
     },
     {
+        "name": "Runestone Keeper",
+        "url": "runestonekeeper/6SDfl23hw",
+        "price": "9.99",
+        "description": "Roguelike | Turn Based | Role Playing | Dungeon Crawler | Available for DRM-free for Windows/Mac and on Steam!",
+        "developer": "Blackfire Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/339400",
+            "developer": "http://www.runestonekeeper.com/"
+        },
+        "notes": "Store page: http://www.runestonekeeper.com/#humbleStore",
+        "extras": false
+    },
+    {
         "name": "rymdkapsel",
         "url": "rymdkapsel_pc_no_android/rkdow9D",
         "price": "7.99",
