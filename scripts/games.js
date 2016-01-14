@@ -28547,9 +28547,11 @@
             "drm-free": true
         },
         "URL": {
+            "review": "https://pixelatedparadise.wordpress.com/2015/04/30/siralim-review/",
+            "steam": "http://store.steampowered.com/app/362090/",
             "developer": "http://www.thylacinestudios.com/"
         },
-        "notes": "Store page: http://www.siralim.com/purchase.php",
+        "notes": "Widget no longer available at the game's website, buy at your own risk. Alternative stores (which include a Linux version) are Steam (http://store.steampowered.com/app/362090/) and itch.io (http://thylacinestudios.itch.io/siralim)",
         "extras": false
     },
     {
