@@ -22113,9 +22113,10 @@
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/402980/",
             "developer": "http://metalbear.ru/"
         },
-        "notes": "Store page: http://metalbear.ru/preorder/",
+        "notes": "Widget no longer available on the game's website ever since it was released. Buy at your own risk.",
         "extras": false
     },
     {
