@@ -4991,6 +4991,32 @@
         "extras": false
     },
     {
+        "name": "Bulb Boy",
+        "url": "bulbboy/98sdjdksf239JKD",
+        "price": "9.99",
+        "description": "Get Bulb Boy for Windows and Mac! DRM-free!",
+        "developer": "Bulbware",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/390290/",
+            "developer": "https://www.facebook.com/bulbware/"
+        },
+        "notes": "Despite what the description says, the game is only available through Steam.\nStore page: http://bulbboygame.com/",
+        "extras": false
+    },
+    {
         "name": "Bunker Punks",
         "url": "bunkerpunks/9okjSjg23j",
         "price": "14.99",
