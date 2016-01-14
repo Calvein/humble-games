@@ -34879,6 +34879,33 @@
         "extras": false
     },
     {
+        "name": "Turnover",
+        "url": "turnover/EptizFuE0s",
+        "price": "9.99",
+        "description": "Turnover for Windows, Linux, and Mac. DRM-Free and Steam.",
+        "developer": "Long Division LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://gamespew.com/2016/01/turnover-review/",
+            "steam": "http://store.steampowered.com/app/372250/",
+            "developer": "http://www.longdivisiondev.com/"
+        },
+        "notes": "Store page: http://www.turnovergame.net/",
+        "extras": false
+    },
+    {
         "name": "Twin Robots",
         "url": "twinrobots/pO99keikj2o",
         "price": "4.99",
