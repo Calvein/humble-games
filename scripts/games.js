@@ -907,7 +907,7 @@
     {
         "name": "Adventure in the Tower of Flight",
         "url": "adventureinthetowerofflight/t5sdfh3E",
-        "price": "14.99",
+        "price": "7.99",
         "description": "Purchase Adventure in the Tower of Flight now and get a Steam key for Windows, Mac and Linux!",
         "developer": "Pixel Barrage Entertainment, Inc.",
         "platform": {
