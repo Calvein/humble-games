@@ -7770,7 +7770,7 @@
     {
         "name": "Dawn of the Plow",
         "url": "dawnoftheplow/Dkwdof9",
-        "price": "1.99",
+        "price": "3.99",
         "description": "You are the new plow on the block, and today is your day.",
         "developer": "Trichotomy",
         "platform": {
@@ -7787,6 +7787,8 @@
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.nouse.co.uk/2015/11/08/game-review-dawn-of-the-plow/",
+            "steam": "http://store.steampowered.com/app/364700/",
             "developer": "http://trichotomygames.com/"
         },
         "notes": "Store page: http://dogsledsaga.com/DSStoPAXEast/",
