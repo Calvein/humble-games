@@ -16428,7 +16428,7 @@
         "platform": {
             "android": false,
             "windows": true,
-            "linux": true,
+            "linux": false,
             "mac": true,
             "audio": false
         },
@@ -16443,7 +16443,7 @@
             "steam": "http://store.steampowered.com/app/342620/",
             "developer": "http://www.triangle-studios.com/"
         },
-        "notes": "Linux version not available on Steam.\nStore page: http://itcamefromspaceandateourbrains.com/#buy-2",
+        "notes": "Store page: http://itcamefromspaceandateourbrains.com/#buy-2",
         "extras": false
     },
     {
