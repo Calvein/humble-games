@@ -33503,7 +33503,7 @@
         "name": "The Yawhg",
         "url": "theyawhg/FSJL2389hjsas",
         "price": "9.99",
-        "description": "The Yawhg is coming. How will the town lead their lives in the meanwhile, and what will they do when it finally arrives?
+        "description": "The Yawhg is coming. How will the town lead their lives in the meanwhile, and what will they do when it finally arrives?",
         "developer": "Damian Sommer",
         "platform": {
             "android": false,
