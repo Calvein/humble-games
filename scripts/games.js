@@ -15913,6 +15913,31 @@
         "extras": false
     },
     {
+        "name": "Hybrid Beasts",
+        "url": "hybridbeasts_preorder/YgvsgRsnxY",
+        "price": "19.99",
+        "description": "Pre-Order Hybrid Beasts!\n· Get Early access (Windows) still in 2015\n· Get Full version (Windows, Linux, Mac) in Mid-2016\n· Steam key (Redeemable)\n· Dev-Forum Access (optional)\n· Your name in the game credits as \"Early Supporter\" (optional)\n· Our eternal gratitude",
+        "developer": "BeastBits",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://hybridbeasts.com/"
+        },
+        "notes": "Store page: http://hybridbeasts.com/index.php/features-and-concepts#pre-order",
+        "extras": false
+    },
+    {
         "name": "Hyper Gauntlet",
         "url": "hypergauntlet_legacyofnozzlethrusteriii/BNOcnoeruwvnoi",
         "price": "5",
