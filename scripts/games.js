@@ -36247,6 +36247,32 @@
         "extras": false
     },
     {
+        "name": "Wishmere",
+        "url": "wishmere/c0AoZRNDcw",
+        "price": "11.99",
+        "description": "Get Early Access to Wishmere with both a DRM-free build of the game and a Steam key.",
+        "developer": "Crayder Studios",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/419020/",
+            "developer": "http://crayder.com/"
+        },
+        "notes": "Store page: http://crayder.com/wishmere/#BuyNow",
+        "extras": false
+    },
+    {
         "name": "WizFight",
         "url": "wizfight/Wkdkwo1ldksl",
         "price": "3",
