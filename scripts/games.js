@@ -34970,10 +34970,11 @@
             "drm-free": true
         },
         "URL": {
+            "steam": "http://store.steampowered.com/app/417060/",
             "desura": "http://www.desura.com/games/unsummoning-the-spectral-horde",
             "developer": "http://www.roamingground.com/"
         },
-        "notes": "Store page: http://www.roamingground.com/#item-535f1dd9e4b08cab3cb54bb9",
+        "notes": "Widget no longer available at the game's website, ever since it was released on Steam. Buy at your own risk.",
         "extras": false
     },
     {
