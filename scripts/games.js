@@ -30759,7 +30759,7 @@
             "audio": false
         },
         "drm": {
-            "steam": false,
+            "steam": true,
             "desura": false,
             "gog": false,
             "drm-free": true
@@ -30768,86 +30768,8 @@
             "steam": "http://store.steampowered.com/app/388260/",
             "developer": "http://tippinggoat.com/"
         },
-        "notes": "Early Access game.\nStore page: http://tippinggoat.com/blog/super-slam-dunk-touchdown/buy/",
+        "notes": "Despite the title of the widget, this game is no longer on Early Access.\nStore page: http://tippinggoat.com/blog/super-slam-dunk-touchdown/buy/",
         "extras": false
-    },
-    {
-        "name": "Super Slam Dunk Touchdown: Backer 1",
-        "url": "superslamdunktouchdown_backer1/F6SDFh3",
-        "price": "30",
-        "description": "Support Tipping Goat LLC at the $30 level and get your name in the credits for the game. Includes instant access to the alpha version (for Windows, DRM-free)!",
-        "developer": "Tipping Goat LLC",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/388260/",
-            "developer": "http://tippinggoat.com/"
-        },
-        "notes": "Early Access game.\nStore page: http://tippinggoat.com/blog/super-slam-dunk-touchdown/buy/",
-        "extras": true
-    },
-    {
-        "name": "Super Slam Dunk Touchdown: Backer 2",
-        "url": "superslamdunktouchdown_backer2/ghSGfb34",
-        "price": "75",
-        "description": "Support Tipping Goat LLC at the $75 level and get your name in the credits for the game, alongside a custom pixel art representation of your head! Includes instant access to the alpha version (for Windows, DRM-free)!",
-        "developer": "Tipping Goat LLC",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/388260/",
-            "developer": "http://tippinggoat.com/"
-        },
-        "notes": "Early Access game.\nStore page: http://tippinggoat.com/blog/super-slam-dunk-touchdown/buy/",
-        "extras": true
-    },
-    {
-        "name": "Super Slam Dunk Touchdown: Backer 3",
-        "url": "superslamdunktouchdown_backer3/B6SDFg3",
-        "price": "200",
-        "description": "For the true fan: Support Tipping Goat LLC at the $200 level and a pixel art version of you will appear, animated in the crowd! Plus, get your name in the credits for the game, alongside a custom pixel art representation of your head! Includes instant access to the alpha version (for Windows, DRM-free)!",
-        "developer": "Tipping Goat LLC",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/388260/",
-            "developer": "http://tippinggoat.com/"
-        },
-        "notes": "Early Access game.\nStore page: http://tippinggoat.com/blog/super-slam-dunk-touchdown/buy/",
-        "extras": true
     },
     {
         "name": "Super Space Meltdown",
