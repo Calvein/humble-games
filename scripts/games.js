@@ -26904,32 +26904,6 @@
         "extras": false
     },
     {
-        "name": "Secret Ponchos (Early Access)",
-        "url": "secretponchos",
-        "price": "14.99",
-        "description": "Join Early Access and get Secret Ponchos instantly! DRM-free. *Bonus Early Access Supporters get 1 free DLC character on its release!",
-        "developer": "Switchblade Monkeys Entertainment",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/265750/",
-            "developer": "http://secretponchos.com/"
-        },
-        "notes": "Store page: http://secretponchos.com/steam-early-access",
-        "extras": true
-    },
-    {
         "name": "Secret Ponchos - Posse Pack",
         "url": "secretponchos_possepack",
         "price": "44.99",
@@ -26949,10 +26923,11 @@
             "drm-free": true
         },
         "URL": {
+            "review": "http://www.hardcoregamer.com/2015/10/13/review-secret-ponchos-most-wanted-edition/171553/",
             "steam": "http://store.steampowered.com/app/265750/",
             "developer": "http://secretponchos.com/"
         },
-        "notes": "Store page: http://secretponchos.com/steam-early-access",
+        "notes": "Game no longer on Early Access. Widget only available on an Early Access part of the website which is no longer linked from the main page. Buy at your own risk.",
         "extras": true
     },
     {
