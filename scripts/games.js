@@ -23329,34 +23329,9 @@
         "extras": true
     },
     {
-        "name": "Planet Centauri + Prototype/Beta Access",
-        "url": "planetcentauri_prototypebetaaccess/78SDflkj23h",
-        "price": "23",
-        "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype (Windows) and Beta access - Exclusive HD wallpaper (Pre-Order)",
-        "developer": "Permadeath",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://planetcentauri.com/"
-        },
-        "notes": "Store page: http://planetcentauri.com/preorder/",
-        "extras": true
-    },
-    {
         "name": "Planet Centauri - Exclusive Pet!",
         "url": "planetcentauri_exclusivepet/Ddf234sdsE",
-        "price": "30",
+        "price": "23",
         "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype (Windows) and Beta access - Exclusive pet - Exclusive HD wallpaper (Pre-Order)",
         "developer": "Permadeath",
         "platform": {
@@ -23481,7 +23456,7 @@
     {
         "name": "Planet Centauri - Create Your Boss!",
         "url": "planetcentauri_createyourboss/7SDLfk23",
-        "price": "1,300",
+        "price": "1300",
         "description": "Steam and DRM-FREE(Windows/Mac/Linux) - Prototype(Windows) and Beta access - Create your boss - Exclusive pet (Pre-Order)",
         "developer": "Permadeath",
         "platform": {
