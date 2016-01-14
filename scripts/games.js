@@ -5010,6 +5010,7 @@
             "drm-free": false
         },
         "URL": {
+            "review": "http://www.adventuregamers.com/articles/view/29663",
             "steam": "http://store.steampowered.com/app/390290/",
             "developer": "https://www.facebook.com/bulbware/"
         },
@@ -12383,6 +12384,32 @@
             "developer": "http://galaxytrail.com/games/"
         },
         "notes": "Store page: http://freedomplanet.galaxytrail.com/",
+        "extras": false
+    },
+    {
+        "name": "FreezeME",
+        "url": "freezeme_humble/9yhWdI1BSS",
+        "price": "13.99",
+        "description": "Get FreezeME for Windows, Mac and Linux, all DRM-free. Includes a Steam key!",
+        "developer": "Rainy Night Creations",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/390210",
+            "developer": "http://www.rainynightcreations.com/"
+        },
+        "notes": "Store page: http://www.rainynightcreations.com/",
         "extras": false
     },
     {
