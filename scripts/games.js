@@ -5364,6 +5364,81 @@
         "extras": true
     },
     {
+        "name": "Children of Morta - The Game",
+        "url": "childrenofmorta_thegame/gSDLFkj23n",
+        "price": "14.99",
+        "description": "Cross-platform, DRM-Free for Steam and Console digital game. (Pre-Order)",
+        "developer": "Dead Mage",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://deadmage.com/"
+        },
+        "notes": "Store page: http://www.childrenofmorta.com/",
+        "extras": false
+    },
+    {
+        "name": "Children of Morta - Soundtrack and Art Book",
+        "url": "childrenofmorta_soundtrackandartbook/FbnSLDkj3",
+        "price": "9.99",
+        "description": "The digital art book and soundtrack for Children of Morta! (Pre-Order)",
+        "developer": "Dead Mage",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://deadmage.com/"
+        },
+        "notes": "Store page: http://www.childrenofmorta.com/",
+        "extras": true
+    },
+    {
+        "name": "Children of Morta - Deluxe Edition",
+        "url": "childrenofmorta_deluxeedition/bSLDFkj3s",
+        "price": "22.99",
+        "description": "Cross-platform, DRM-Free for Steam and Console digital game plus the digital art book and soundtrack. (Pre-Order)",
+        "developer": "Dead Mage",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://deadmage.com/"
+        },
+        "notes": "Store page: http://www.childrenofmorta.com/",
+        "extras": true
+    },
+    {
         "name": "Children of Morta - Friend",
         "url": "childrenofmorta_friend/NBlksh23g2",
         "price": "15",
@@ -5385,7 +5460,7 @@
         "URL": {
             "developer": "http://deadmage.com/"
         },
-        "notes": "Store page: http://www.childrenofmorta.com/",
+        "notes": "Widget no longer available at the game's website, buy at your own risk.",
         "extras": true
     },
     {
@@ -5410,7 +5485,7 @@
         "URL": {
             "developer": "http://deadmage.com/"
         },
-        "notes": "Store page: http://www.childrenofmorta.com/",
+        "notes": "Widget no longer available at the game's website, buy at your own risk.",
         "extras": true
     },
     {
@@ -5435,7 +5510,7 @@
         "URL": {
             "developer": "http://deadmage.com/"
         },
-        "notes": "Store page: http://www.childrenofmorta.com/",
+        "notes": "Widget no longer available at the game's website, buy at your own risk.",
         "extras": true
     },
     {
