@@ -16267,7 +16267,7 @@
     {
         "name": "Invisible, Inc.",
         "url": "invisibleinc/Ieu7Gsyhe5Df",
-        "price": "17.99",
+        "price": "19.99",
         "description": "-Play immediately!",
         "developer": "Klei Entertainment",
         "platform": {
@@ -16288,7 +16288,7 @@
             "steam": "http://store.steampowered.com/app/243970/",
             "developer": "http://kleientertainment.com/"
         },
-        "notes": "Currently on sale at 10% off; regular price: $19.99.\nStore page: http://www.invisibleincgame.com/",
+        "notes": "Store page: http://www.invisibleincgame.com/",
         "extras": false
     },
     {
