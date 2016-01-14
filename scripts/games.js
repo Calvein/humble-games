@@ -30562,6 +30562,32 @@
         "extras": false
     },
     {
+        "name": "Store Manager: Cellular Edition",
+        "url": "buystoremanager/sNGFbZDjht",
+        "price": "4.99",
+        "description": "Get a Steam Key for the Early Access version of the game right now! This also gives you full access upon the game's official release!",
+        "developer": "ChiVue Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/420910/",
+            "developer": "http://www.chivuegames.com/"
+        },
+        "notes": "Store page: http://www.storemanagerthegame.com/buy-now/",
+        "extras": false
+    },
+    {
         "name": "Stranded",
         "url": "stranded/Sjdkwo43",
         "price": "7.99",
