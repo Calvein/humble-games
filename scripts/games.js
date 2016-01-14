@@ -17683,7 +17683,7 @@
     {
         "name": "Legend of Dungeon + Soundtrack",
         "url": "legendofdungeon-k2/SIIUb8tPvGNT",
-        "price": "15",
+        "price": "14",
         "description": "Buy now and get instant access to Legend of Dungeon for Windows, Mac, and Linux! Soundtrack included!",
         "developer": "Robot Loves Kitty",
         "platform": {
