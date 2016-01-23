@@ -12814,6 +12814,32 @@
         "extras": false
     },
     {
+        "name": "Gamebook Adventures: House of Hell",
+        "url": "house_of_hell/zR3tw9WbEz",
+        "price": "9.99",
+        "description": "Get House of Hell instantly for Windows, Mac and Linux, DRM-free and on Steam!",
+        "developer": "Tin Man Games",
+        "platform": {
+            "android": true,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/419810/",
+            "developer": "http://tinmangames.com.au/"
+        },
+        "notes": "Store page: http://fightingfantasyapps.com/books/house-of-hell/#bookmain",
+        "extras": false
+    },
+    {
         "name": "Gamebook Adventures: Infinite Universe",
         "url": "ga_infiniteuniverse/asbdbabdfZZ43",
         "price": "9.99",
