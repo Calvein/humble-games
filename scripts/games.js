@@ -25188,6 +25188,33 @@
         "extras": false
     },
     {
+        "name": "Refunct",
+        "url": "refunct_humble_widget/kphbxlsa3q",
+        "price": "2.99",
+        "description": "Get Refunct on Steam for Windows!",
+        "developer": "Dominique Grieshofer",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "https://www.rockpapershotgun.com/2015/10/20/refunct-review/",
+            "steam": "http://store.steampowered.com/app/406150",
+            "developer": "https://twitter.com/dgrieshofer"
+        },
+        "notes": "Store page: http://refunctgame.com/#footer",
+        "extras": false
+    },
+    {
         "name": "Rehearsals and Returns",
         "url": "rehearsalsandreturns/HGHFGFH87HGH98",
         "price": "3.99",
