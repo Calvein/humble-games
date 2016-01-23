@@ -13019,6 +13019,32 @@
         "extras": false
     },
     {
+        "name": "Garbage Day",
+        "url": "garbageday/c5g2",
+        "price": "14.99",
+        "description": "Garbage Day steam key",
+        "developer": "Svajūnas Žemaitis",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/368860/",
+            "developer": "https://twitter.com/svajux"
+        },
+        "notes": "Early Access game. The availability for Linux is not clear as it's only Windows/OS X on Steam, and the game's website only mentions \"PC Mac\"\nStore page: http://garbageday-game.com/#three",
+        "extras": false
+    },
+    {
         "name": "Gateways",
         "url": "gateways",
         "price": "5",
