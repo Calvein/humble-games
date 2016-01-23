@@ -30768,6 +30768,34 @@
         "extras": true
     },
     {
+        "name": "Super Amazing Wagon Adventure",
+        "url": "superamazingwagonadventure/TYlkfj230s9uja",
+        "price": "2.99",
+        "description": "Super Amazing Wagon Adventure is a fast-paced 2d shooting game with a random story. Let's go adventure!",
+        "developer": "sparsevector",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.destructoid.com/you-need-to-play-super-amazing-wagon-adventure-234504.phtml",
+            "steam": "http://store.steampowered.com/app/250500/",
+            "desura": "http://www.desura.com/games/super-amazing-wagon-adventure",
+            "developer": "http://www.sparsevector.com/"
+        },
+        "notes": "Store page: http://www.sparsevector.com/wagon-adventure/",
+        "extras": false
+    },
+    {
         "name": "Super Chibi Knight",
         "url": "superchibiknight/9283shd32",
         "price": "9.99",
