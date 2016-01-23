@@ -24510,6 +24510,33 @@
         "extras": true
     },
     {
+        "name": "Qasir al-Wasat: International Edition",
+        "url": "qasiralwasat_internationaledition/gVSdfb21",
+        "price": "14.99",
+        "description": "Purchase Qasir al-Wasat: International Edition now and receive cross-platform DRM-free builds and a cross-platform Steam key!",
+        "developer": "Aduge Studio",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://blogjob.com/oneangrygamer/2016/01/qasir-al-wasat-international-edition-review/",
+            "steam": "http://store.steampowered.com/app/296030/",
+            "developer": "http://adugestudio.com/"
+        },
+        "notes": "Store page: http://qasirgame.com/#humble",
+        "extras": false
+    },
+    {
         "name": "QbQbQb",
         "url": "qbqbqb/Phg8Jwr5Vuha",
         "price": "3.99",
