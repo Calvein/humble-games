@@ -30778,7 +30778,7 @@
             "windows": true,
             "linux": false,
             "mac": false,
-            "audio": false
+            "audio": true
         },
         "drm": {
             "steam": true,
