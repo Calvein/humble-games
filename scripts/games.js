@@ -26634,6 +26634,32 @@
         }
     },
     {
+        "name": "Scrap Mechanic",
+        "url": "scrapmechanic/3m90",
+        "price": "19.99",
+        "description": "Get Scrap Mechanic for Windows on Steam!",
+        "developer": "Axolot Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/387990/",
+            "developer": "https://twitter.com/axolotgames"
+        },
+        "notes": "Early Access game.\nStore page: http://www.scrapmechanic.com/",
+        "extras": false
+    },
+    {
         "name": "Screencheat",
         "url": "screencheat/JNSD93jkJESL",
         "price": "14.99",
