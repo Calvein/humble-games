@@ -4642,6 +4642,32 @@
         "extras": false
     },
     {
+        "name": "Buried: An Interactive Story",
+        "url": "buried_pc_widget/Ktgx9U2087",
+        "price": "2.99",
+        "description": "Buried is a playable, interactive story told through stunning photos, a haunting soundscape, and gripping text. You play the role of  Roger Hastings, a logger working the forests with his crew. When he awakens to find his friends missing and no memory of what's happened, he begins searching, uncovering something that should have stayed hidden...\nMake choices that affect the plot: how to approach danger, who to trust, and who lives or dies.\nNo waiting or pauses - play straight through or at your own pace through 5 intense chapters.\nWhat's beneath the surface? Where is your crew? And what will your decisions reveal about you?\nIncludes: HD Version for PC/Mac/Linux",
+        "developer": "Bromoco, LLC",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/434370/",
+            "developer": "http://bromocogames.com/"
+        },
+        "notes": "Store page: http://www.buriedgame.com/#humblestore",
+        "extras": false
+    },
+    {
         "name": "Butsbal",
         "url": "butsbal/WWdKLfj23",
         "price": "2.99",
