@@ -22584,7 +22584,6 @@
             "steam": "http://store.steampowered.com/app/227080",
             "developer": "http://www.weareminority.com/"
         },
-        "notes": "Mac and Linux versions not available on Steam.\nStore page: http://www.weareminority.com/papo-yo/",
         "extras": false
     },
     {
