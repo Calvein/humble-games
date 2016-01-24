@@ -35346,9 +35346,9 @@
         "developer": "Nuke Nine",
         "platform": {
             "android": false,
-            "linux": false,
+            "linux": true,
             "windows": true,
-            "mac": false,
+            "mac": true,
             "audio": false
         },
         "drm": {
@@ -35361,7 +35361,7 @@
             "steam": "http://store.steampowered.com/app/323220/",
             "developer": "http://nukenine.com/"
         },
-        "notes": "Store page: http://vagantegame.com/press#humblewidget",
+        "notes": "Early Access game. Mac and Linux versions only available on Steam.\nStore page: http://vagantegame.com/",
         "extras": false
     },
     {
