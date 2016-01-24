@@ -29934,6 +29934,32 @@
         "extras": true
     },
     {
+        "name": "Stardew Valley OST",
+        "url": "stardew_valley_ost/7jlew7UWdF[",
+        "price": "4.99",
+        "description": "The complete soundtrack to Stardew Valley. Over 2 hours of original music!",
+        "developer": "ConcernedApe",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/413150/",
+            "developer": "https://twitter.com/concernedape"
+        },
+        "notes": "Store page: http://stardewvalley.net/shop/",
+        "extras": false
+    },
+    {
         "name": "Stardust Vanguards",
         "url": "stardustvanguards/8SHDFkj23sdA",
         "price": "9.99",
