@@ -34273,7 +34273,7 @@
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when released.\nStore page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-5/",
+        "notes": "Widget no longer available at the game's website. Buy at your own risk.",
         "extras": true
     },
     {
@@ -34298,7 +34298,7 @@
         "URL": {
             "developer": "http://www.robitstudios.com/"
         },
-        "notes": "Steam key when released.\nStore page: http://treasureadventureworld.com/pre-order/buy-pre-order-tier-6/",
+        "notes": "Widget no longer available at the game's website. Buy at your own risk.",
         "extras": true
     },
     {
