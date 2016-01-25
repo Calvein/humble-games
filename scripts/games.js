@@ -1,4 +1,4 @@
-﻿var games = [
+var games = [
 
     {
         "name": "7 Grand Steps",
@@ -37178,5 +37178,33 @@
             "developer": "http://www.mergegames.com/"
         },
         "notes": "Store page: http://www.mergegames.com/zoo-park/"
-    }
+    },
+	{
+		"name": "The Witness",
+		"url": "thewitness/xe32",
+		"price": "39.99",
+		"description": "Pre-order The Witness and get it for Windows, DRM-free or on Steam!",
+		"developer": "Thekla, Inc.",
+		"platform": {
+			"android": false,
+			"linux": false,
+			"windows": true,
+			"mac": false,
+			"audio": false
+		},
+		"drm": {
+			"steam": true,
+			"desura": false,
+			"gog": false,
+			"drm-free": true
+		},
+		"URL": {
+			"review": "",
+			"steam": "http://store.steampowered.com/app/210970/",
+			"desura": "",
+			"developer": "http://the-witness.net/"
+		},
+		"notes": "",
+		"extras": false
+	}
 ]
