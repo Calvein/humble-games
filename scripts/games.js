@@ -19549,6 +19549,31 @@
         "extras": false
     },
     {
+        "name": "Memoir En Code",
+        "url": "memoirencode_widget/gg2tqGEBzq",
+        "price": "3.99",
+        "description": "· Memoir En Code - Win/Mac/Linux\n· Memoir De Code - Decryption tool\n· Digital Booklet - PDF",
+        "developer": "Kalopsia Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://twitter.com/AlexKalopsia"
+        },
+        "notes": "Regional pricing: £2.99/€3,99.\nStore page: http://www.memoirencode.com/",
+        "extras": false
+    },
+    {
         "name": "Mercenary Kings",
         "url": "mercenarykings/sJs83hwnslzh",
         "price": "19.99",
