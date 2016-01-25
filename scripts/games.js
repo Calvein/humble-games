@@ -9357,6 +9357,31 @@
         "extras": false
     },
     {
+        "name": "Dr. Dungeon's MADMAN!",
+        "url": "drdungeons_madman/6f32",
+        "price": "14.99",
+        "description": "Get Dr. Dungeon's MADMAN!, DRM-free for Windows!",
+        "developer": "Mach Gryphon Castle",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://www.machgryphon.com/"
+        },
+        "notes": "Store page: http://www.machgryphon.com/index.html",
+        "extras": false
+    },
+    {
         "name": "Dr. Green",
         "url": "drgreen/FresdjR3FGrw",
         "price": "2.99",
