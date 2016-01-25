@@ -33262,6 +33262,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Witness (Pre-order)",
+        "url": "thewitness/xe32",
+        "price": "39.99",
+        "description": "Pre-order The Witness and get it for Windows, DRM-free or on Steam!\nIt will be released on the PC and the PlayStation 4 on January 26, 2016.",
+        "developer": "Thekla, Inc.",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/210970/",
+            "developer": "https://twitter.com/jonathan_blow",
+        },
+        "notes": "Store page: http://the-witness.net/",
+        "extras": false
+    },
+    {
         "name": "The Yawhg",
         "url": "theyawhg/FSJL2389hjsas",
         "price": "9.99",
@@ -37178,33 +37204,5 @@ var games = [
             "developer": "http://www.mergegames.com/"
         },
         "notes": "Store page: http://www.mergegames.com/zoo-park/"
-    },
-	{
-		"name": "The Witness",
-		"url": "thewitness/xe32",
-		"price": "39.99",
-		"description": "Pre-order The Witness and get it for Windows, DRM-free or on Steam!",
-		"developer": "Thekla, Inc.",
-		"platform": {
-			"android": false,
-			"linux": false,
-			"windows": true,
-			"mac": false,
-			"audio": false
-		},
-		"drm": {
-			"steam": true,
-			"desura": false,
-			"gog": false,
-			"drm-free": true
-		},
-		"URL": {
-			"review": "",
-			"steam": "http://store.steampowered.com/app/210970/",
-			"desura": "",
-			"developer": "http://the-witness.net/"
-		},
-		"notes": "",
-		"extras": false
-	}
+    }
 ]
