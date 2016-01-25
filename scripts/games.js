@@ -28644,6 +28644,32 @@
         "extras": false
     },
     {
+        "name": "Slime Rancher",
+        "url": "slimerancher/fLzikDZexU",
+        "price": "19.99",
+        "description": "Pre-order Slime Rancher today and receive (when available):\n· A DRM-free copy of the game\n· Early access to in-development builds (available now!)\n· A Steam key",
+        "developer": "Monomi Park",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/433340/",
+            "developer": "http://www.monomipark.com/"
+        },
+        "notes": "Regional pricing: \nStore page: http://www.slimerancher.com/",
+        "extras": false
+    },
+    {
         "name": "Snapshot",
         "url": "snapshotthegame/pending",
         "price": "9.99",
