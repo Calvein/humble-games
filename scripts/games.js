@@ -21161,7 +21161,7 @@
             "steam": "http://store.steampowered.com/app/226100/",
             "developer": "http://www.q-games.com/"
         },
-        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-chef-de-cuisine/",
+        "notes": "This widget is sold out and no longer available at the game's website. Buy at you own risk.",
         "extras": true
     },
     {
@@ -21187,7 +21187,7 @@
             "steam": "http://store.steampowered.com/app/226100/",
             "developer": "http://www.q-games.com/"
         },
-        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-chief-engineer/",
+        "notes": "This widget is sold out and no longer available at the game's website. Buy at you own risk.",
         "extras": true
     },
     {
@@ -21213,7 +21213,7 @@
             "steam": "http://store.steampowered.com/app/226100/",
             "developer": "http://www.q-games.com/"
         },
-        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-head-of-rd/",
+        "notes": "This widget is sold out and no longer available at the game's website. Buy at you own risk.",
         "extras": true
     },
     {
@@ -21239,7 +21239,7 @@
             "steam": "http://store.steampowered.com/app/226100/",
             "developer": "http://www.q-games.com/"
         },
-        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-galactic-designer/",
+        "notes": "This widget is sold out and no longer available at the game's website. Buy at you own risk.",
         "extras": true
     },
     {
@@ -21265,7 +21265,7 @@
             "steam": "http://store.steampowered.com/app/226100/",
             "developer": "http://www.q-games.com/"
         },
-        "notes": "Store page: http://nomnomgalaxy.com/early-access/supernova-social-club-galactic-executive/",
+        "notes": "This widget is sold out and no longer available at the game's website. Buy at you own risk.",
         "extras": true
     },
     {
@@ -21291,7 +21291,7 @@
             "steam": "http://store.steampowered.com/app/226100/",
             "developer": "http://www.q-games.com/"
         },
-        "notes": "Store page: http://nomnomgalaxy.com/early-access/executive-producer/",
+        "notes": "This widget is sold out and no longer available at the game's website. Buy at you own risk.",
         "extras": true
     },
     {
