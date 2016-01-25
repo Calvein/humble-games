@@ -2628,6 +2628,33 @@
         "extras": false
     },
     {
+        "name": "Axiom Verge",
+        "url": "axiomverge/7SFDh23jd",
+        "price": "19.99",
+        "description": "Get Axiom Verge now! Cross-platform on Steam!",
+        "developer": "Thomas Happ Games LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://kotaku.com/axiom-verge-the-kotaku-review-1694592333",
+            "steam": "http://store.steampowered.com//app/332200",
+            "developer": "http://www.axiomverge.com/blog/"
+        },
+        "notes": "Regional pricing: £13.99/€18,99\nStore page: http://www.axiomverge.com/",
+        "extras": false
+    },
+    {
         "name": "Aztaka",
         "url": "aztaka/vbirubIYXBesbert",
         "price": "9.99",
