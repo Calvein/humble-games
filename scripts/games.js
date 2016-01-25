@@ -25798,6 +25798,32 @@
         "extras": false
     },
     {
+        "name": "Rivals of Aether",
+        "url": "rivalsofaether/3d3d",
+        "price": "14.99",
+        "description": "Get Rivals of Aether on Steam Early Access (Windows PC - Steam)",
+        "developer": "Dan Fornace",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/383980/",
+            "developer": "http://danfornace.com/"
+        },
+        "notes": "Store page: http://www.rivalsofaether.com/#main_section",
+        "extras": false
+    },
+    {
         "name": "Rktcr",
         "url": "rktcr/Daski823jdk",
         "price": "10",
