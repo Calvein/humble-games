@@ -2149,31 +2149,6 @@
         "extras": false
     },
     {
-        "name": "Attractio - Early Access",
-        "url": "attractio/BKcewin3",
-        "price": "9.99",
-        "description": "Manipulate Gravity before everyone! Get Attractio DRM-free.",
-        "developer": "GameCoder Studios",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.gamecoderstudios.com/"
-        },
-        "notes": "Store page: http://attractio-game.com/shop/",
-        "extras": false
-    },
-    {
         "name": "Audiosurf 2",
         "url": "audiosurf2/ONdju19ndkw91",
         "price": "14.99",
