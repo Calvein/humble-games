@@ -32202,6 +32202,60 @@
         "extras": false
     },
     {
+        "name": "That Dragon, Cancer - Mac / Win",
+        "url": "that_dragon_cancer_preorder/rKQyNKpmRP",
+        "price": "14.99",
+        "description": "Out Now\nDigital Download for Mac or Windows.\nAn immersive, narrative videogame that retells Joel Green’s 4-year fight against cancer through about two hours of poetic, imaginative gameplay.",
+        "developer": "Numinous Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.theguardian.com/technology/2016/jan/18/that-dragon-cancer-review-youve-never-played-anything-like-it",
+            "steam": "http://store.steampowered.com/app/419460",
+            "developer": "https://twitter.com/ryangreen8"
+        },
+        "notes": "Linux version coming soon.\nRegional pricing: £10.49/€13,99\nStore page: http://www.thatdragoncancer.com/#buynow",
+        "extras": false
+    },
+    {
+        "name": "That Dragon, Cancer - OUYA",
+        "url": "that_dragon_cancer_preorder_ouya/nLpG7dnWr4",
+        "price": "14.99",
+        "description": "Out Now\nDigital Download for OUYA-compatible devices, including Forge TV, via Razer Cortex.\nAn immersive, narrative videogame that retells Joel Green’s 4-year fight against cancer through about two hours of poetic, imaginative gameplay.",
+        "developer": "Numinous Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "review": "http://www.theguardian.com/technology/2016/jan/18/that-dragon-cancer-review-youve-never-played-anything-like-it",
+            "steam": "http://store.steampowered.com/app/419460",
+            "developer": "https://twitter.com/ryangreen8"
+        },
+        "notes": "Regional pricing: £10.49/€13,99\nStore page: http://www.thatdragoncancer.com/#buynow",
+        "extras": false
+    },
+    {
         "name": "The Adventures of Shuggy",
         "url": "theadventuresofshuggy",
         "price": "5",
