@@ -8851,6 +8851,31 @@
         "extras": false
     },
     {
+        "name": "Dino Eggs: Rebirth",
+        "url": "dino_eggs_rebirth/LxowOQGRum",
+        "price": "10",
+        "description": "DINO EGGS: REBIRTH is a celebration and expansion of the best-selling 1983 home computer game DINO EGGS (Apple ][, Commodore 64, IBM) -- in which Time Master Tim travels to prehistoric times to rescue the dinosaurs from extinction.\nDINO EGGS: REBIRTH is available for Windows, Mac OS, and Linux.",
+        "developer": "DAVID H SCHROEDER",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://twitter.com/DavidSchPT"
+        },
+        "notes": "Regional pricing: £6.99/€9,49\nStore page: http://www.dinoeggsrebirth.com/",
+        "extras": false
+    },
+    {
         "name": "Dino Run SE",
         "url": "dinorunse",
         "price": "3",
