@@ -32923,6 +32923,60 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Preposterous Awesomeness of Everything",
+        "url": "tpaoe_pc/Teft8ByXWH",
+        "price": "12.49",
+        "description": "The Preposterous Awesomeness of Everything, DRM-free, for PC.",
+        "developer": "Joe Richardson",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespew.com/2016/01/preposterous-awesomeness-everything/",
+            "steam": "http://store.steampowered.com//app/435840",
+            "developer": "https://twitter.com/JoeMcRichardson"
+        },
+        "notes": "Regional pricing: £8.99/€11,49\nStore page: http://www.tpaoe.com/",
+        "extras": false
+    },
+    {
+        "name": "TPAoE Deluxe! (game+soundtrack+story)",
+        "url": "tpaoe_deluxe/jydA8KZJ0v",
+        "price": "19.99",
+        "description": "· The Preposterous Awesomeness of Everything, DRM-free, for PC\n· The prohibitively experimental TPAoE soundtrack, in MP3 or FLAC format\n· A PDF of the original choose-your-own-adventure story on which TPAoE was based (contains bad words and questionable world-views)",
+        "developer": "Joe Richardson",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.gamespew.com/2016/01/preposterous-awesomeness-everything/",
+            "steam": "http://store.steampowered.com//app/435840",
+            "developer": "https://twitter.com/JoeMcRichardson"
+        },
+        "notes": "Regional pricing: £13.99/€18,49\nStore page: http://www.tpaoe.com/",
+        "extras": true
+    },
+    {
         "name": "The Real Texas",
         "url": "therealtexas/H8ahfyT6st",
         "price": "14.95",
