@@ -33909,6 +33909,33 @@ var games = [
         "extras": false
     },
     {
+        "name": "Tomb of Tyrants",
+        "url": "tomboftyrants/BZu349ejD11",
+        "price": "7.99",
+        "description": "Instant access to the latest cross-platform builds of Tomb of Tyrants, as DRM-free or Steamy as you like it!",
+        "developer": "Jake Huhman",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.breitbart.com/tech/2015/10/29/tomb-of-tyrants-review-the-most-fun-you-can-have-digging-your-own-grave/",
+            "steam": "http://store.steampowered.com/app/340360/",
+            "developer": "https://twitter.com/JHuhman"
+        },
+        "notes": "Store page: http://tot.jhuhman.com/#buynow",
+        "extras": false
+    },
+    {
         "name": "Tormentum - Dark Sorrow",
         "url": "tormentum_darksorrow/POdFUlwekj8",
         "price": "11.99",
