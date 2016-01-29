@@ -33104,6 +33104,87 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Slaughter: Act One",
+        "url": "theslaughter_actone/aCYbH7TeEA",
+        "price": "8.99",
+        "description": "Get The Slaughter:Act One for PC via a Steam key and DRM-free download. Includes access to Mac and Linux builds when they are complete.",
+        "developer": "Brainchild",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.bagogames.com/the-slaughter-act-one-game-review-point-click-slaughter-away/",
+            "steam": "http://store.steampowered.com/app/356390/",
+            "developer": "http://www.brainchildstudios.co.uk/"
+        },
+        "notes": "Store page: http://www.brainchildstudios.co.uk/",
+        "extras": false
+    },
+    {
+        "name": "The Slaughter: Act One Soundtrack",
+        "url": "theslaughter_actone_soundtrack/hYjnUcuOvT",
+        "price": "3.99",
+        "description": "The DRM-Free Soundtrack for The Slaughter: Act One in 320kbps MP3 format.",
+        "developer": "Brainchild",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.bagogames.com/the-slaughter-act-one-game-review-point-click-slaughter-away/",
+            "steam": "http://store.steampowered.com/app/356390/",
+            "developer": "http://www.brainchildstudios.co.uk/"
+        },
+        "notes": "Store page: http://www.brainchildstudios.co.uk/",
+        "extras": false
+    },
+    {
+        "name": "The Slaughter: Act One + Soundtrack",
+        "url": "theslaughter_actone_bundle/PhtnLksV5E",
+        "price": "10.99",
+        "description": "Get The Slaughter:Act One for PC via a Steam key and DRM-free download, plus the DRM-free Soundtrack in 320kbps MP3 format",
+        "developer": "Brainchild",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.bagogames.com/the-slaughter-act-one-game-review-point-click-slaughter-away/",
+            "steam": "http://store.steampowered.com/app/356390/",
+            "developer": "http://www.brainchildstudios.co.uk/"
+        },
+        "notes": "Mac and Linux versions coming soon.\nStore page: http://www.brainchildstudios.co.uk/",
+        "extras": false
+    },
+    {
         "name": "The Spatials",
         "url": "thespatials/mSOLib23j2jks",
         "price": "8.99",
