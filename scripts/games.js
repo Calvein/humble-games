@@ -18284,6 +18284,32 @@ var games = [
         "extras": false
     },
     {
+        "name": "Life in Bunker (PRE-ORDER)",
+        "url": "life_in_bunker/qm6C0GHXSj",
+        "price": "15.99",
+        "description": "Life in Bunker is a sandbox bunker-buildings game.\n\nYou've been elected as the new Bunker Warden! Now you must take control over a group of fellow bunker residents and try to make them last until the surface becomes habitable.\n\nYou get a DRM-free copy and a Steam key.",
+        "developer": "Flox Studios Ltd.",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/401690/",
+            "developer": "http://www.floxstudios.com/"
+        },
+        "notes": "Expected release date: 25 February 2016\nStore page: http://lifeinbunker.com/#humblebundle",
+        "extras": false
+    },
+    {
         "name": "Life is Feudal: Your Own",
         "url": "lifeisfeudal_yourown/YREBc28ehdS",
         "price": "34.99",
