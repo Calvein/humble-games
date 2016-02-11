@@ -16294,6 +16294,84 @@ var games = [
         "notes": "Store page: http://joewintergreen.com/influx/influxr/influx.html"
     },
     {
+        "name": "InnerSpace",
+        "url": "innerspace_standard/23kjsd89",
+        "price": "15",
+        "description": "Pre-order to get a cross-platform DRM-free download of InnerSpace, plus a cross-platform Steam key! (Q2 2016)",
+        "developer": "PolyKnight Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/347000/",
+            "developer": "http://polyknightgames.com/"
+        },
+        "notes": "Store page: http://polyknightgames.com/project/innerspace/",
+        "extras": false
+    },
+    {
+        "name": "InnerSpace + Soundtrack",
+        "url": "innerspace_soundtrack/23kjsd89",
+        "price": "25",
+        "description": "Pre-order to get a cross-platform DRM-free download of InnerSpace, plus a cross-platform Steam key! (Q2 2016)",
+        "developer": "PolyKnight Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/347000/",
+            "developer": "http://polyknightgames.com/"
+        },
+        "notes": "Store page: http://polyknightgames.com/project/innerspace/",
+        "extras": false
+    },
+    {
+        "name": "InnerSpace: Sights & Sounds",
+        "url": "innerspace_complete/23kjsd89",
+        "price": "35",
+        "description": "Pre-order to get the full experience! Includes a cross-platform DRM-free download of InnerSpace, a cross-platform Steam key, a digital download of the InnerSpace soundtrack, and a digital version of the InnerSpace art book! (Q2 2016)",
+        "developer": "PolyKnight Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/347000/",
+            "developer": "http://polyknightgames.com/"
+        },
+        "notes": "Store page: http://polyknightgames.com/project/innerspace/",
+        "extras": true
+    },
+    {
         "name": "Inside The Gear",
         "url": "insidethegear/Tflkj23089rsjd",
         "price": "4.99",
