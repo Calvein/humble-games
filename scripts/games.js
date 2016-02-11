@@ -3764,6 +3764,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "Blasting Agent: Ultimate Edition",
+        "url": "baue/Q6nXqVfABZ",
+        "price": "7.99",
+        "description": "The complete game for Windows PC",
+        "developer": "Axol Studio, LLC",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": false,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://axolstudio.com/"
+        },
+        "notes": "Store page: http://blastingagent.com/#itch",
+        "extras": false
+    },
+    {
         "name": "Bleed",
         "url": "bleed/kwKWcrUoVvpM",
         "price": "5",
