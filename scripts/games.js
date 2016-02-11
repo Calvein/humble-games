@@ -24688,6 +24688,31 @@ var games = [
         }
     },
     {
+        "name": "Puzzle Nebula",
+        "url": "puzzle_nebula_widget/OxNG7xiRFI",
+        "price": "2.99",
+        "description": "A mind-bending puzzle game set in the far corners of space, with a fascinating story about the origins of our universe",
+        "developer": "Multiverse Games",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://multiverse-games.com/"
+        },
+        "notes": "Store page: http://multiverse-games.com/",
+        "extras": false
+    },
+    {
         "name": "Q.U.B.E.",
         "url": "qube/Sj92hsDhg4",
         "price": "9.99",
