@@ -3785,7 +3785,7 @@ var games = [
         "URL": {
             "developer": "http://axolstudio.com/"
         },
-        "notes": "Store page: http://blastingagent.com/#itch",
+        "notes": "Regional pricing: £5.49/€7,49\nStore page: http://blastingagent.com/#itch",
         "extras": false
     },
     {
