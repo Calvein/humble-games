@@ -15639,6 +15639,34 @@ var games = [
         "extras": false
     },
     {
+        "name": "Hubert's Island Adventure: Mouse o' War",
+        "url": "hubertsislandadventure_mouseowar/23kjfd87",
+        "price": "4.99",
+        "description": "Get the game on Steam and DRM-free for Windows, OS X, and Linux! Also included: Experimental Android build and the soundtrack!",
+        "developer": "Cheese and Bacon Games",
+        "platform": {
+            "android": true,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "review": "https://www.christcenteredgamer.com/index.php/reviews/18-computer/5436-hubert-s-island-adventure-mouse-o-war",
+            "steam": "http://store.steampowered.com/app/431610",
+            "desura": "http://www.desura.com/games/huberts-island-adventure-mouse-o-war",
+            "developer": "http://cheeseandbacon.org/"
+        },
+        "notes": "Store page: http://cheeseandbacon.org/huberts-island/",
+        "extras": false
+    },
+    {
         "name": "Human Resource Machine",
         "url": "humanresourcemachine/1245gdf5",
         "price": "9.99",
