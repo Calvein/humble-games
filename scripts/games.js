@@ -33549,6 +33549,31 @@ var games = [
         "extras": false
     },
     {
+        "name": "The Strayed",
+        "url": "the_strayed/tLbPhdNj76",
+        "price": "2.99",
+        "description": "Get it instantly and DRM free!",
+        "developer": "ameliagames",
+        "platform": {
+            "android": false,
+            "linux": false,
+            "windows": true,
+            "mac": false,
+            "audio": false
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "http://ameliagames.com/"
+        },
+        "notes": "The widget is no longer available at the game's website, although it still appears in the page source code.\nRegional pricing: £2.49/€2,99.\nStore page: http://thestrayed.ameliagames.com/buy_page.html",
+        "extras": false
+    },
+    {
         "name": "The Sun At Night",
         "url": "laikabelieves_thesunatnight/Ldiwknn32josi",
         "price": "14.99",
