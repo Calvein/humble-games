@@ -3949,6 +3949,56 @@ var games = [
         "extras": false
     },
     {
+        "name": "Blood Alloy: Reborn",
+        "url": "bloodalloy_reborn/8SDlfjk23hs",
+        "price": "12.99",
+        "description": "Pre-order Blood Alloy: Reborn. When it releases, you will receive the game DRM-Free (Windows/Mac/Linux) and a Steam key!",
+        "developer": "Suppressive Fire Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://twitter.com/SuppressFGames"
+        },
+        "notes": "Store page: http://www.bloodalloy.com/#x-content-band-3",
+        "extras": false
+    },
+    {
+        "name": "Blood Alloy: Reborn OST (Pre-Order)",
+        "url": "bloodalloy_reborn_soundtrack/Hb8w3l4kj",
+        "price": "9.99",
+        "description": "The Blood Alloy: Reborn soundtrack, by Shiryu, Basement Digital, and other artists! Delivered upon game release.",
+        "developer": "Suppressive Fire Games",
+        "platform": {
+            "android": false,
+            "windows": false,
+            "linux": false,
+            "mac": false,
+            "audio": true
+        },
+        "drm": {
+            "steam": false,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "developer": "https://twitter.com/SuppressFGames"
+        },
+        "notes": "Store page: http://www.bloodalloy.com/#x-content-band-3",
+        "extras": false
+    },
+    {
         "name": "Blood of the Werewolf",
         "url": "bloodofthewerewolf/Wkdow93cskc9",
         "price": "10",
