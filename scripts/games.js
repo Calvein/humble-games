@@ -18894,7 +18894,7 @@ var games = [
             "steam": "http://store.steampowered.com/app/429020/",
             "developer": "https://twitter.com/LostWorldZero"
         },
-        "notes": "Store page: http://lwzgame.com/#purchase",
+        "notes": "Regional pricing: £6.99/€8,99.\nStore page: http://lwzgame.com/#purchase",
         "extras": false
     },
     {
