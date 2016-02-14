@@ -18872,6 +18872,32 @@ var games = [
         }
     },
     {
+        "name": "Lost World Zero",
+        "url": "lostworldzero/mX44r6mhF4",
+        "price": "9.99",
+        "description": "Lost World Zero is a futuristic open world survival game with hostile enemies and friendly soldiers to help you in the fight. Will you fight to take down the enemy faction... or join their ranks?",
+        "developer": "S82 Games",
+        "platform": {
+            "android": false,
+            "windows": true,
+            "linux": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/429020/",
+            "developer": "https://twitter.com/LostWorldZero"
+        },
+        "notes": "Store page: http://lwzgame.com/#purchase",
+        "extras": false
+    },
+    {
         "name": "Lovely Weather We're Having",
         "url": "lovelyweather/5tW1toimj7",
         "price": "7.99",
