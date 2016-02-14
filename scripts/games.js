@@ -36538,6 +36538,84 @@ var games = [
         "extras": false
     },
     {
+        "name": "We Are Legion",
+        "url": "wearelegion/23df4",
+        "price": "15",
+        "description": "Get We Are Legion for Windows on Steam!",
+        "developer": "Pwnee Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/354560/",
+            "developer": "http://www.pwnee.com/"
+        },
+        "notes": "Store page: http://www.pwnee.com/legion/#widgets",
+        "extras": false
+    },
+    {
+        "name": "We Are Legion (2-pack)",
+        "url": "wearelegion_2pack/54jh32",
+        "price": "19.99",
+        "description": "Get 2 copies of We Are Legion for Windows on Steam!",
+        "developer": "Pwnee Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/354560/",
+            "developer": "http://www.pwnee.com/"
+        },
+        "notes": "Store page: http://www.pwnee.com/legion/#widgets",
+        "extras": false
+    },
+    {
+        "name": "We Are Legion (4-pack)",
+        "url": "wearelegion_4pack/98fd67",
+        "price": "29.99",
+        "description": "Get 4 FREAKING copies of We Are Legion for Windows on Steam!",
+        "developer": "Pwnee Studios",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": false
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/354560/",
+            "developer": "http://www.pwnee.com/"
+        },
+        "notes": "Store page: http://www.pwnee.com/legion/#widgets",
+        "extras": false
+    },
+    {
         "name": "Welcome to Boon Hill",
         "url": "welcometoboonhill/7SLDFkh4ws",
         "price": "5",
