@@ -21,31 +21,6 @@ var games = [
         }
     },
     {
-        "name": "8DAYS",
-        "url": "8days/54re",
-        "price": "12.99",
-        "description": "8DAYS is a crazy dual stick shooter in which you play as a mercenary for G.O.D. Inc. (\"Gold Oil and Diamonds\" - GOOD Nasdaq).\nGet 8DAYS NOW and you will get all its future missions for free!",
-        "developer": "Santa Clara Games",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://store.santaclaragames.com/"
-        },
-        "notes": "Store page: http://store.santaclaragames.com/games/8days/index.html",
-        "extras": false
-    },
-    {
         "name": "140",
         "url": "140/KDwi3ksldk",
         "price": "4.99",
@@ -5237,84 +5212,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Centauri Sector - Lt. Cmdr Edition",
-        "url": "centaurisector_ltcmdredition/6SDFLKj23h",
-        "price": "19.99",
-        "description": "Centauri Sector DRM-Free + Tier 1 Forum Badge + Omega Corvette MK II Ship!",
-        "developer": "LW Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "desura": "http://www.desura.com/games/centauri-sector",
-            "developer": "http://lw-games.com/"
-        },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://lw-games.com/buy-centauri-sector.php",
-        "extras": true
-    },
-    {
-        "name": "Centauri Sector - Commander Edition",
-        "url": "centaurisector_commanderedition/SsDl23hSh1",
-        "price": "59.99",
-        "description": "Centauri Sector DRM-Free + Tier 1 Forum Badge + Omega Corvette MK II Ship + Commander Portrait!",
-        "developer": "LW Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "desura": "http://www.desura.com/games/centauri-sector",
-            "developer": "http://lw-games.com/"
-        },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://lw-games.com/buy-centauri-sector.php",
-        "extras": true
-    },
-    {
-        "name": "Centauri Sector - Fleet Commander Edition",
-        "url": "centaurisector_fleetcommanderedition/67SDflkj23h",
-        "price": "149.99",
-        "description": "Centauri Sector DRM-Free + Tier 1 Forum Badge + Omega Corvette MK II Ship + Commander Portrait + Custom Mission Design!",
-        "developer": "LW Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "desura": "http://www.desura.com/games/centauri-sector",
-            "developer": "http://lw-games.com/"
-        },
-        "notes": "Steam key if/when Greenlit.\nStore page: http://lw-games.com/buy-centauri-sector.php",
-        "extras": true
-    },
-    {
         "name": "Chaos Reborn: Apprentice",
         "url": "chaosreborn_apprentice/bwywefv873gc81",
         "price": "20",
@@ -9690,31 +9587,6 @@ var games = [
         "extras": true
     },
     {
-        "name": "Drift Stage: Player Tier",
-        "url": "driftstage_playertier/8SDlfk2hsa",
-        "price": "10",
-        "description": "One DRM-free download for Windows, Mac, and Linux + Steam key. (Pre-Order)",
-        "developer": "Super Systems Softworks LLC",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.driftstagegame.com/"
-        },
-        "notes": "Store page: http://www.driftstagegame.com/backer.html",
-        "extras": false
-    },
-    {
         "name": "Drift Stage: Tester Tier",
         "url": "driftstage_testertier/FfljKDS82s",
         "price": "15",
@@ -12551,32 +12423,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Future Perfect: Architect Edition",
-        "url": "futureperfect_architectedition/LSKDfj23hys",
-        "price": "10",
-        "description": "Join Future Perfect development! Future Perfect is about playing games with friends. Create, publish, & play games in a flash! Available for Windows (Steam)!",
-        "developer": "Unknown Worlds Entertainment",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://steamcommunity.com//app/282370",
-            "developer": "http://unknownworlds.com/"
-        },
-        "notes": "Store page: http://futureperfectgame.com/",
-        "extras": false
-    },
-    {
         "name": "Galacide",
         "url": "galacide/1lsfslf98",
         "price": "9.99",
@@ -13092,31 +12938,6 @@ var games = [
             "developer": "http://tinmangames.com.au/"
         },
         "notes": "Store page: http://gamebookadventures.com/gamebooks/to-be-or-not-to-be/#bookmain",
-        "extras": false
-    },
-    {
-        "name": "Gamebook Adventures: Zombocalypse Now",
-        "url": "zombocalypsenow/cuEBviu14bSS",
-        "price": "5.99",
-        "description": "Get Zombocalypse Now instantly! Cross-platform and DRM-free!",
-        "developer": "Tin Man Games",
-        "platform": {
-            "android": true,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://tinmangames.com.au/"
-        },
-        "notes": "Store page: http://gamebookadventures.com/gamebooks/chooseomatic/zombocalypse-now/#bookmain",
         "extras": false
     },
     {
@@ -18971,26 +18792,6 @@ var games = [
         }
     },
     {
-        "name": "Low Light Combat (benefit Blender)",
-        "url": "lowlightcombatblenderfoundation",
-        "price": "5",
-        "description": "Get Low Light Combat instantly plus two gift codes. 100% of the proceeds (including any 'tip') will go to support Blender Foundation.",
-        "developer": "Wolfire Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        }
-    },
-    {
         "name": "LUFTRAUSERS",
         "url": "luftrausers/Ldh8Ydhe3ts",
         "price": "9.99",
@@ -20964,181 +20765,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Night In The Woods - Wallpaper Tier",
-        "url": "nightinthewoods_tier2/Ndje7Gdye4Sds",
-        "price": "20",
-        "description": "Beautiful wallpapers that may or may not contain hints to some of Night In The Woods' more cryptic secrets. All previous rewards included.",
-        "developer": "Infinite Fall",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
-        },
-        "notes": "Store page: http://www.nightinthewoods.com/#humble",
-        "extras": true
-    },
-    {
-        "name": "Night In The Woods - Soundtrack Tier",
-        "url": "nightinthewoods_tier3/Ndje7Gdye4Sds",
-        "price": "25",
-        "description": "A download featuring Alec’s soundtrack and a collection of essential art from Scott and others! All previous rewards included.",
-        "developer": "Infinite Fall",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
-        },
-        "notes": "Store page: http://www.nightinthewoods.com/#humble",
-        "extras": true
-    },
-    {
-        "name": "Night In The Woods - Zine Tier",
-        "url": "nightinthewoods_tier4/Ndje7Gdye4Sds",
-        "price": "50",
-        "description": "Handmade zine featuring comics and illustrations, pins of characters and a super sweet sticker. All previous rewards included.",
-        "developer": "Infinite Fall",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
-        },
-        "notes": "Store page: http://www.nightinthewoods.com/#humble",
-        "extras": true
-    },
-    {
-        "name": "Night In The Woods - Initials Tier",
-        "url": "nightinthewoods_tier5/Ndje7Gdye4Sds",
-        "price": "75",
-        "description": "The town in Night In The Woods has seen its share of teenage wasteoids, and they have left their marks. You can be one of them! All previous rewards included.",
-        "developer": "Infinite Fall",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
-        },
-        "notes": "Store page: http://www.nightinthewoods.com/#humble",
-        "extras": true
-    },
-    {
-        "name": "Night In The Woods - Prologue Tier",
-        "url": "nightinthewoods_tier6/Ndje7Gdye4Sds",
-        "price": "100",
-        "description": "A super-secret prologue to Night In The Woods available only to backers, delivered ahead of the full game’s release. All previous rewards included.",
-        "developer": "Infinite Fall",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
-        },
-        "notes": "Store page: http://www.nightinthewoods.com/#humble",
-        "extras": true
-    },
-    {
-        "name": "Night In The Woods - Mae Tier",
-        "url": "nightinthewoods_tier7/Ndje7Gdye4Sds",
-        "price": "150",
-        "description": "One-of-a-kind handmade plush of Mae, made by a bonafide degree holder in Fiber Arts. All previous rewards included.",
-        "developer": "Infinite Fall",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
-        },
-        "notes": "Store page: http://www.nightinthewoods.com/#humble",
-        "extras": true
-    },
-    {
-        "name": "Night In The Woods - Screenprint Tier",
-        "url": "nightinthewoods_tier8/Ndje7Gdye4Sds",
-        "price": "250",
-        "description": "A large, multi-color hand-screened print designed by Scott that reveals SECRETS in the dark! Signed and numbered. All previous rewards included.",
-        "developer": "Infinite Fall",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://infiniteammo.ca/\nhttp://www.bombsfall.com/"
-        },
-        "notes": "Store page: http://www.nightinthewoods.com/#humble",
-        "extras": true
-    },
-    {
         "name": "Nihilumbra",
         "url": "nihilumbra/Nisdko29kdls",
         "price": "7.99",
@@ -22168,106 +21794,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Okhlos: Digital Edition",
-        "url": "okhlos_digitaledition/BYSDFh23",
-        "price": "9.99",
-        "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, plus access to the closed Beta when available!",
-        "developer": "Coffee Powered Machine",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://coffeepoweredmachine.com/"
-        },
-        "notes": "Pre-order at 33% off; regular price is $14.99.\nStore page: http://coffeepoweredmachine.com/okhlos/#preorder",
-        "extras": false
-    },
-    {
-        "name": "Okhlos: Orpheus Edition",
-        "url": "okhlos_orpheusedition/bGHlSDfd2",
-        "price": "13.33",
-        "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, access to the closed Beta when available, plus a copy of the original soundtrack by A Shell in the Pit!",
-        "developer": "Coffee Powered Machine",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://coffeepoweredmachine.com/"
-        },
-        "notes": "Pre-order at 33% off; regular price is $19.99.\nStore page: http://coffeepoweredmachine.com/okhlos/#preorder",
-        "extras": false
-    },
-    {
-        "name": "Okhlos: That's me! Edition",
-        "url": "okhlos_thatsmeedition/ySFDlkhr34",
-        "price": "99.99",
-        "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, access to the closed Beta when available, a copy of the original soundtrack by A Shell in the Pit, and you get to be a unit in the mob!",
-        "developer": "Coffee Powered Machine",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://coffeepoweredmachine.com/"
-        },
-        "notes": "Store page: http://coffeepoweredmachine.com/okhlos/#preorder",
-        "extras": true
-    },
-    {
-        "name": "Okhlos: Socrates Edition",
-        "url": "okhlos_socratesedition/vcSFDj23f",
-        "price": "149.99",
-        "description": "This pre-order includes a cross-platform and DRM-Free copy of the game, a Steam key, access to the closed Beta when available, a copy of the original soundtrack by A Shell in the Pit, and you get to be one of the mob's leaders!",
-        "developer": "Coffee Powered Machine",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://coffeepoweredmachine.com/"
-        },
-        "notes": "Store page: http://coffeepoweredmachine.com/okhlos/#preorder",
-        "extras": true
-    },
-    {
         "name": "Olympia Rising",
         "url": "olympiarising/7SLDK23hss",
         "price": "4.99",
@@ -23215,32 +22741,6 @@ var games = [
             "windows": true,
             "mac": true,
             "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/295690/",
-            "developer": "http://andymakes.com/"
-        },
-        "notes": "Store page: http://andymakes.com/particlemace/",
-        "extras": false
-    },
-    {
-        "name": "Particle Mace + OST",
-        "url": "particlemace_ost/FSD82j3hs",
-        "price": "12.99",
-        "description": "A space game about swinging trash into things and dying. Completely DRM free + Original Soundtrack by Nathaniel Chambers.",
-        "developer": "Andy Makes",
-        "platform": {
-            "android": false,
-            "linux": false,
-            "windows": true,
-            "mac": true,
-            "audio": true
         },
         "drm": {
             "steam": true,
@@ -29166,32 +28666,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Son of Nor: Digital Collector's Edition",
-        "url": "sonofnor_tier2/kxwCoiKzUpZ2",
-        "price": "45",
-        "description": "Get a digital copy of Son of Nor as soon as it is released in Q2 2014! Includes Beta access, soundtrack + more!",
-        "developer": "stillalive studios",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": true
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/264000",
-            "developer": "http://stillalive-studios.com/"
-        },
-        "notes": "Store page: http://sonofnor.com/buy/",
-        "extras": true
-    },
-    {
         "name": "Songbringer (Pre-order)",
         "url": "songbringer/39kjf390",
         "price": "16",
@@ -30713,32 +30187,6 @@ var games = [
         "extras": false
     },
     {
-        "name": "Sub Rosa",
-        "url": "subrosa/Skdo34",
-        "price": "19.99",
-        "description": "Pre-order Sub Rosa! Sub Rosa is a multiplayer FPS about tense deals, double-crosses and car chases. Available DRM-free and Steam at beta.",
-        "developer": "Cryptic Sea",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/272230/",
-            "developer": "http://www.crypticsea.com/"
-        },
-        "notes": "Store page: http://www.subrosagame.com/success",
-        "extras": false
-    },
-    {
         "name": "Sugar Cube: Bittersweet Factory",
         "url": "sugarcubebittersweetfactory",
         "price": "6.99",
@@ -30761,32 +30209,6 @@ var games = [
             "steam": "http://store.steampowered.com/app/212110/",
             "developer": "http://www.turtle-cream.com/"
         }
-    },
-    {
-        "name": "SUNLESS SEA",
-        "url": "sunlesssea/Iwjdkf293lek",
-        "price": "18.99",
-        "description": "Purchase via Humble Bundle! Get your Steam Key Instantly!",
-        "developer": "Failbetter Games",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/304650/",
-            "developer": "http://failbettergames.com/"
-        },
-        "notes": "Store page: http://www.failbettergames.com/sunless",
-        "extras": false
     },
     {
         "name": "Sunset",
@@ -32512,31 +31934,6 @@ var games = [
             "developer": "http://crescentmoongames.com/"
         },
         "notes": "The game has been already released and this widget is no longer available at the game's website, so it's not clear whether it is still working or not. Buy with caution",
-        "extras": false
-    },
-    {
-        "name": "The Depths of Tolagal",
-        "url": "thedepthsoftolagal/Y7f8Jw3hshSA",
-        "price": "9.99",
-        "description": "Get The Depths of Tolagal instantly! Cross-platform and DRM-free!",
-        "developer": "Angry Toad Studios",
-        "platform": {
-            "android": false,
-            "linux": true,
-            "windows": true,
-            "mac": true,
-            "audio": false
-        },
-        "drm": {
-            "steam": false,
-            "desura": false,
-            "gog": false,
-            "drm-free": true
-        },
-        "URL": {
-            "developer": "http://www.angrytoad.co.uk/",
-        },
-        "notes": "Store page: http://the-depths-of-tolagal.com/",
         "extras": false
     },
     {
@@ -34489,32 +33886,6 @@ var games = [
             "developer": "http://www.mattmakesgames.com/"
         },
         "notes": "Store page: http://www.towerfall-game.com/",
-        "extras": false
-    },
-    {
-        "name": "Toxikk",
-        "url": "toxikk/RpOEo23hX",
-        "price": "18.99",
-        "description": "Get a Toxikk Steam key for Windows now!",
-        "developer": "Reakktor",
-        "platform": {
-            "android": false,
-            "windows": true,
-            "linux": false,
-            "mac": false,
-            "audio": false
-        },
-        "drm": {
-            "steam": true,
-            "desura": false,
-            "gog": false,
-            "drm-free": false
-        },
-        "URL": {
-            "steam": "http://store.steampowered.com/app/324810/",
-            "developer": "http://reakktor.com/"
-        },
-        "notes": "Early Access game.\nRegional pricing: €18,99.\nStore page: http://www.2-tainment.com/portfolio-view/toxikk/",
         "extras": false
     },
     {
