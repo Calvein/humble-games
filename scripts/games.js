@@ -6267,6 +6267,54 @@ var games = [
         "notes": "Store page: http://www.collateralthegame.com/collateral/",
         "extras": false
     },
+	{
+		"name": "COLOR",
+		"url": "color/Ckdowksl12",
+		"price": "7.99",
+		"description": "Preorder COLOR! COLOR is a unique puzzle game which revolves around the addition, subtraction and manipulation of color through the additive color system.",
+		"developer": "Dual Studios",
+		"platform": {
+			"android": false,
+			"linux": true,
+			"windows": true,
+			"mac": true,
+			"audio": false
+		},
+		"drm": {
+			"steam": false,
+			"desura": false,
+			"gog": false,
+			"drm-free": true
+		},
+		"URL": {
+			"developer": "http://www.dualstudios.co.uk/"
+		},
+		"extras": false
+	},
+	{
+		"name": "COLOR Soundtrack",
+		"url": "color_soundtrack/Ckdowksl12",
+		"price": "2.99",
+		"description": "Preorder the fantastic soundtrack from COLOR, created by Elliott Buckle!",
+		"developer": "Dual Studios",
+		"platform": {
+			"android": false,
+			"linux": false,
+			"windows": false,
+			"mac": false,
+			"audio": true
+		},
+		"drm": {
+			"steam": false,
+			"desura": false,
+			"gog": false,
+			"drm-free": true
+		},
+		"URL": {
+			"developer": "http://www.dualstudios.co.uk/"
+		},
+		"extras": false
+	},
     {
         "name": "Commander Cool 2 - powered by orlygift.com",
         "url": "commandercool2_tier1/HSDLFk23h",
