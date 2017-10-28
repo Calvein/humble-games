@@ -13302,6 +13302,32 @@ var games = [
         "notes": "Store page: http://ghostsonggame.com/#buy",
         "extras": false
     },
+	{
+        "name": "Ghostory",
+        "url": "ghostory_widget/lnd12glefc",
+        "price": "6.99",
+        "description": "Get a Steam key and a downloadable copy of Ghostory now! Available on Windows, Mac and Linux.",
+        "developer": "RigidCore Games",
+        "platform": {
+            "android": false,
+            "linux": true,
+            "windows": true,
+            "mac": true,
+            "audio": false
+        },
+        "drm": {
+            "steam": true,
+            "desura": false,
+            "gog": false,
+            "drm-free": true
+        },
+        "URL": {
+            "steam": "http://store.steampowered.com/app/568460/",
+            "developer": "http://www.rigidcoregames.com/"
+        },
+        "notes": "Store page: http://ghostory.rigidcoregames.com/",
+        "extras": false
+    },
     {
         "name": "GIGANTIC ARMY",
         "url": "giganticarmy/Adkwodk2",
